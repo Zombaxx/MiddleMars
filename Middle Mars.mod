@@ -16,8 +16,8 @@ replace_path = "common/trade_routes"
 #replace_path = "dlc/dlc073.zip"
 #replace_path = "dlc/dlc073"
 
-replace_path = "events"
-replace_path = "decisions"
+#replace_path = "events"
+#replace_path = "decisions"
 
 picture = "MiddleMars.png"
 
