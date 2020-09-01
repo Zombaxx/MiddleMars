@@ -1,0 +1,14 @@
+# 1321 - Kuwe
+
+# County Title
+title = c_kuwe
+
+# Settlements
+max_settlements = 4
+b_kuwe = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

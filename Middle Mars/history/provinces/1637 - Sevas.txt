@@ -1,0 +1,16 @@
+# 1637 - Sevas
+
+# County Title
+title = c_sevas
+
+# Settlements
+max_settlements = 4
+b_sevas = castle
+b_renomir = temple
+b_larilia = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

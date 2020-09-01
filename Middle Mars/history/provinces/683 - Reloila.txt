@@ -1,0 +1,15 @@
+# 683 - Reloila
+
+# County Title
+title = c_reloila
+
+# Settlements
+max_settlements = 5
+b_reloila = tribal
+b_duled = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

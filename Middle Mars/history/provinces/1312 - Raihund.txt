@@ -1,0 +1,14 @@
+# 1312 - Raihund
+
+# County Title
+title = c_raihund
+
+# Settlements
+max_settlements = 3
+b_raihund = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

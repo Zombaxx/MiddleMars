@@ -1,0 +1,14 @@
+# 244 - Koloul
+
+# County Title
+title = c_koloul
+
+# Settlements
+max_settlements = 3
+b_koloul = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

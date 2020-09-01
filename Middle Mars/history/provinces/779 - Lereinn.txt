@@ -1,0 +1,17 @@
+# 779 - Lereinn
+
+# County Title
+title = c_lereinn
+
+# Settlements
+max_settlements = 6
+b_lereinn = castle
+b_tesho = temple
+b_losold = city
+b_sonurga = castle
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

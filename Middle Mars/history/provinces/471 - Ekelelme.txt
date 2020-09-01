@@ -1,0 +1,14 @@
+# 471 - Ekelelme
+
+# County Title
+title = c_ekelelme
+
+# Settlements
+max_settlements = 3
+b_ekelelme = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 315 - Wufara
+
+# County Title
+title = c_wufara
+
+# Settlements
+max_settlements = 2
+b_wufara = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,18 @@
+950.1.1 = {
+	holder = 109690
+}
+1020.1.1 = {
+	holder = 109691
+}
+1021.1.1 = {
+	holder = 109692
+}
+1053.1.1 = {
+	holder = 109695
+}
+1066.1.1 = {
+	set_tribute_suzerain = {
+		who = e_china_west_governor
+		type = offmap
+	}
+}

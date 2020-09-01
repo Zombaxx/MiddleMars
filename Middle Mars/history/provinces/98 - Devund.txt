@@ -1,0 +1,17 @@
+# 98 - Devund
+
+# County Title
+title = c_devund
+
+# Settlements
+max_settlements = 5
+b_devund = castle
+b_anude = temple
+b_kimar = city
+b_kaaz = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

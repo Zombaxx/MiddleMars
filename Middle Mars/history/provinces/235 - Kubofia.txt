@@ -1,0 +1,14 @@
+# 235 - Kubofia
+
+# County Title
+title = c_kubofia
+
+# Settlements
+max_settlements = 2
+b_kubofia = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

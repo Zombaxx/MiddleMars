@@ -1,0 +1,14 @@
+# 348 - Banann
+
+# County Title
+title = c_banann
+
+# Settlements
+max_settlements = 2
+b_banann = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

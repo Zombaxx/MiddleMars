@@ -1,0 +1,16 @@
+# 1050 - Qoreer
+
+# County Title
+title = c_qoreer
+
+# Settlements
+max_settlements = 4
+b_qoreer = castle
+b_kyoukael = temple
+b_weinaul = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

@@ -1,0 +1,15 @@
+# 860 - Rikavy
+
+# County Title
+title = c_rikavy
+
+# Settlements
+max_settlements = 6
+b_rikavy = tribal
+b_kadalda = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

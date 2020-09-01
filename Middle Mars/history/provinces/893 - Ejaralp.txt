@@ -1,0 +1,15 @@
+# 893 - Ejaralp
+
+# County Title
+title = c_ejaralp
+
+# Settlements
+max_settlements = 3
+b_ejaralp = castle
+b_dukoto = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

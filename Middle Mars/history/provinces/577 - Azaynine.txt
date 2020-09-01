@@ -1,0 +1,15 @@
+# 577 - Azaynine
+
+# County Title
+title = c_azaynine
+
+# Settlements
+max_settlements = 3
+b_azaynine = castle
+b_bukar = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

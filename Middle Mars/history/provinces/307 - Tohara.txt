@@ -1,0 +1,14 @@
+# 307 - Tohara
+
+# County Title
+title = c_tohara
+
+# Settlements
+max_settlements = 2
+b_tohara = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

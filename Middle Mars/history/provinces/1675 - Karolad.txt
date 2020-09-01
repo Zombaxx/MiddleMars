@@ -1,0 +1,14 @@
+# 1675 - Karolad
+
+# County Title
+title = c_karolad
+
+# Settlements
+max_settlements = 1
+b_karolad = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

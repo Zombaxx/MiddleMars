@@ -1,0 +1,14 @@
+# 306 - Dierian
+
+# County Title
+title = c_dierian
+
+# Settlements
+max_settlements = 2
+b_dierian = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

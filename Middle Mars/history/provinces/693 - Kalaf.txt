@@ -1,0 +1,15 @@
+# 693 - Kalaf
+
+# County Title
+title = c_kalaf
+
+# Settlements
+max_settlements = 3
+b_kalaf = castle
+b_latan = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

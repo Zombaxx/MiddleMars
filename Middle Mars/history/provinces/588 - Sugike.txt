@@ -1,0 +1,15 @@
+# 588 - Sugike
+
+# County Title
+title = c_sugike
+
+# Settlements
+max_settlements = 4
+b_sugike = tribal
+b_relavka = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

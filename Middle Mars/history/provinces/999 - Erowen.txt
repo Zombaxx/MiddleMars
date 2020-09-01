@@ -1,0 +1,14 @@
+# 999 - Erowen
+
+# County Title
+title = c_erowen
+
+# Settlements
+max_settlements = 4
+b_erowen = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

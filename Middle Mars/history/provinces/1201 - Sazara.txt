@@ -1,0 +1,17 @@
+# 1201 - Sazara
+
+# County Title
+title = c_sazara
+
+# Settlements
+max_settlements = 5
+b_sazara = castle
+b_wemara = temple
+b_soyaala = city
+b_tila = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

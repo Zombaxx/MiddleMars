@@ -1,0 +1,14 @@
+# 249 - Nomas
+
+# County Title
+title = c_nomas
+
+# Settlements
+max_settlements = 3
+b_nomas = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

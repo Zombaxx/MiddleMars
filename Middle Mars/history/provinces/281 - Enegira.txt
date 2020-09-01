@@ -1,0 +1,15 @@
+# 281 - Enegira
+
+# County Title
+title = c_enegira
+
+# Settlements
+max_settlements = 3
+b_enegira = castle
+b_kanahra = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

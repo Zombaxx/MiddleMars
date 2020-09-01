@@ -1,0 +1,14 @@
+# 250 - Soanick
+
+# County Title
+title = c_soanick
+
+# Settlements
+max_settlements = 2
+b_soanick = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

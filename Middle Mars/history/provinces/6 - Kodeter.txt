@@ -1,0 +1,16 @@
+# 6 - Kodeter
+
+# County Title
+title = c_kodeter
+
+# Settlements
+max_settlements = 4
+b_kodeter = castle
+b_daraut = temple
+b_lecund = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 1272 - Telaoge
+
+# County Title
+title = c_telaoge
+
+# Settlements
+max_settlements = 4
+b_telaoge = castle
+b_tumamis = temple
+b_eraloa = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

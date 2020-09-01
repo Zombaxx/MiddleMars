@@ -1,0 +1,14 @@
+# 1623 - Radeter
+
+# County Title
+title = c_radeter
+
+# Settlements
+max_settlements = 3
+b_radeter = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

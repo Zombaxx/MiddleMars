@@ -1,0 +1,14 @@
+# 464 - Keaney
+
+# County Title
+title = c_keaney
+
+# Settlements
+max_settlements = 4
+b_keaney = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

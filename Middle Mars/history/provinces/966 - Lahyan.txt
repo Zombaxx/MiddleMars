@@ -1,0 +1,15 @@
+# 966 - Lahyan
+
+# County Title
+title = c_lahyan
+
+# Settlements
+max_settlements = 3
+b_lahyan = castle
+b_ebepes = temple
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

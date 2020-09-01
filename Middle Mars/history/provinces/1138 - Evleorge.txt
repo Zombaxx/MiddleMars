@@ -1,0 +1,14 @@
+# 1138 - Evleorge
+
+# County Title
+title = c_evleorge
+
+# Settlements
+max_settlements = 2
+b_evleorge = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

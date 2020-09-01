@@ -1,0 +1,16 @@
+# 1582 - Wuzma
+
+# County Title
+title = c_wuzma
+
+# Settlements
+max_settlements = 4
+b_wuzma = castle
+b_kibinus = temple
+b_roelrou = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

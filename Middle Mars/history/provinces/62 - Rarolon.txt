@@ -1,0 +1,16 @@
+# 62 - Rarolon
+
+# County Title
+title = c_rarolon
+
+# Settlements
+max_settlements = 4
+b_rarolon = castle
+b_ebahapal = temple
+b_kevas = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

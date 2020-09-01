@@ -1,0 +1,14 @@
+# 1491 - Tavapur
+
+# County Title
+title = c_tavapur
+
+# Settlements
+max_settlements = 3
+b_tavapur = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

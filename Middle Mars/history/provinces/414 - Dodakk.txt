@@ -1,0 +1,14 @@
+# 414 - Dodakk
+
+# County Title
+title = c_dodakk
+
+# Settlements
+max_settlements = 3
+b_dodakk = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

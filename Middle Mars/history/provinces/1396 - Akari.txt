@@ -1,0 +1,17 @@
+# 1396 - Akari
+
+# County Title
+title = c_akari
+
+# Settlements
+max_settlements = 6
+b_akari = castle
+b_egeirohn = temple
+b_tideir = city
+b_qorim = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

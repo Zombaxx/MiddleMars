@@ -1,0 +1,14 @@
+# 341 - Wobim
+
+# County Title
+title = c_wobim
+
+# Settlements
+max_settlements = 2
+b_wobim = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 905 - Aravayla
+
+# County Title
+title = c_aravayla
+
+# Settlements
+max_settlements = 3
+b_aravayla = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

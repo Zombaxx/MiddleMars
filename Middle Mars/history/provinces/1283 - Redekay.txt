@@ -1,0 +1,14 @@
+# 1283 - Redekay
+
+# County Title
+title = c_redekay
+
+# Settlements
+max_settlements = 2
+b_redekay = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

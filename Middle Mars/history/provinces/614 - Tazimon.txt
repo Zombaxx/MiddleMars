@@ -1,0 +1,15 @@
+# 614 - Tazimon
+
+# County Title
+title = c_tazimon
+
+# Settlements
+max_settlements = 5
+b_tazimon = tribal
+b_esogs = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

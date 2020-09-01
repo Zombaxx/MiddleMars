@@ -1,0 +1,14 @@
+# 468 - Leupur
+
+# County Title
+title = c_leupur
+
+# Settlements
+max_settlements = 3
+b_leupur = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

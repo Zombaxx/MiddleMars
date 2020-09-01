@@ -1,0 +1,15 @@
+# 15 - Larais
+
+# County Title
+title = c_larais
+
+# Settlements
+max_settlements = 3
+b_larais = castle
+b_tyla = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

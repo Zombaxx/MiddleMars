@@ -1,0 +1,16 @@
+# 1419 - Elamatha
+
+# County Title
+title = c_elamatha
+
+# Settlements
+max_settlements = 4
+b_elamatha = castle
+b_redarya = temple
+b_alamand = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

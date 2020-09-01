@@ -1,0 +1,17 @@
+# 847 - Ralarun
+
+# County Title
+title = c_ralarun
+
+# Settlements
+max_settlements = 5
+b_ralarun = castle
+b_boronse = temple
+b_tatohn = city
+b_watarya = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

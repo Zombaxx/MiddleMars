@@ -1,0 +1,17 @@
+# 715 - Talenna
+
+# County Title
+title = c_talenna
+
+# Settlements
+max_settlements = 5
+b_talenna = castle
+b_ajagalo = temple
+b_bimuri = city
+b_deila = castle
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

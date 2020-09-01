@@ -1,0 +1,17 @@
+# 1171 - Anira
+
+# County Title
+title = c_anira
+
+# Settlements
+max_settlements = 5
+b_anira = castle
+b_ladesar = temple
+b_wasous = city
+b_temusi = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

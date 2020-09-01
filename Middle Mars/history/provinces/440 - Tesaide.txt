@@ -1,0 +1,14 @@
+# 440 - Tesaide
+
+# County Title
+title = c_tesaide
+
+# Settlements
+max_settlements = 2
+b_tesaide = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

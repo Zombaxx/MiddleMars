@@ -1,0 +1,15 @@
+# 664 - Rorirve
+
+# County Title
+title = c_rorirve
+
+# Settlements
+max_settlements = 3
+b_rorirve = castle
+b_ragimar = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

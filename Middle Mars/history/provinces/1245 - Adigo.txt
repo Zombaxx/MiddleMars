@@ -1,0 +1,16 @@
+# 1245 - Adigo
+
+# County Title
+title = c_adigo
+
+# Settlements
+max_settlements = 4
+b_adigo = castle
+b_nizumay = temple
+b_kivunhun = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

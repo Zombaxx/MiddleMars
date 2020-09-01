@@ -1,0 +1,14 @@
+# 361 - Wijonne
+
+# County Title
+title = c_wijonne
+
+# Settlements
+max_settlements = 4
+b_wijonne = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

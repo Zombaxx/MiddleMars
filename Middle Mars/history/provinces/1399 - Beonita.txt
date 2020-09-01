@@ -1,0 +1,14 @@
+# 1399 - Beonita
+
+# County Title
+title = c_beonita
+
+# Settlements
+max_settlements = 4
+b_beonita = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

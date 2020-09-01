@@ -1,0 +1,14 @@
+# 1170 - Egreya
+
+# County Title
+title = c_egreya
+
+# Settlements
+max_settlements = 4
+b_egreya = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

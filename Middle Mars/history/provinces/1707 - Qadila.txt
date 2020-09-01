@@ -1,0 +1,14 @@
+# 1707 - Qadila
+
+# County Title
+title = c_qadila
+
+# Settlements
+max_settlements = 2
+b_qadila = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 1370 - Bisan
+
+# County Title
+title = c_bisan
+
+# Settlements
+max_settlements = 4
+b_bisan = castle
+b_tiking = temple
+b_duhaim = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

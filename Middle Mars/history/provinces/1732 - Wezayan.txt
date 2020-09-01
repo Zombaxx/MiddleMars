@@ -1,0 +1,14 @@
+# 1732 - Wezayan
+
+# County Title
+title = c_wezayan
+
+# Settlements
+max_settlements = 4
+b_wezayan = tribal
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

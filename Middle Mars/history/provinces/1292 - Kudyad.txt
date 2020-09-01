@@ -1,0 +1,15 @@
+# 1292 - Kudyad
+
+# County Title
+title = c_kudyad
+
+# Settlements
+max_settlements = 3
+b_kudyad = castle
+b_kadaneh = temple
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

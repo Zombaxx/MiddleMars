@@ -1,0 +1,15 @@
+# 1222 - Tavka
+
+# County Title
+title = c_tavka
+
+# Settlements
+max_settlements = 2
+b_tavka = castle
+b_evelocic = temple
+
+# Misc
+culture = rajput
+religion = jain
+
+# History

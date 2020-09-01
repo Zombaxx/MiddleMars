@@ -1,0 +1,14 @@
+# 650 - Kisusbu
+
+# County Title
+title = c_kisusbu
+
+# Settlements
+max_settlements = 3
+b_kisusbu = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

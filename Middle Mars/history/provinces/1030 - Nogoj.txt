@@ -1,0 +1,14 @@
+# 1030 - Nogoj
+
+# County Title
+title = c_nogoj
+
+# Settlements
+max_settlements = 3
+b_nogoj = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

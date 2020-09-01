@@ -1,0 +1,18 @@
+# 91 - Wuducho
+
+# County Title
+title = c_wuducho
+
+# Settlements
+max_settlements = 7
+b_wuducho = castle
+b_nudirai = temple
+b_kaya = city
+b_numacob = castle
+b_tyula = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

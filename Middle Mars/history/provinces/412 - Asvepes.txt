@@ -1,0 +1,14 @@
+# 412 - Asvepes
+
+# County Title
+title = c_asvepes
+
+# Settlements
+max_settlements = 3
+b_asvepes = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

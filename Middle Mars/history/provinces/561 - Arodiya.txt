@@ -1,0 +1,14 @@
+# 561 - Arodiya
+
+# County Title
+title = c_arodiya
+
+# Settlements
+max_settlements = 2
+b_arodiya = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

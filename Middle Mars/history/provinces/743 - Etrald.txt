@@ -1,0 +1,16 @@
+# 743 - Etrald
+
+# County Title
+title = c_etrald
+
+# Settlements
+max_settlements = 4
+b_etrald = castle
+b_edanald = temple
+b_banoul = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

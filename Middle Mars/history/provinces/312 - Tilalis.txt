@@ -1,0 +1,14 @@
+# 312 - Tilalis
+
+# County Title
+title = c_tilalis
+
+# Settlements
+max_settlements = 1
+b_tilalis = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

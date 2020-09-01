@@ -1,0 +1,15 @@
+# 938 - Tiye
+
+# County Title
+title = c_tiye
+
+# Settlements
+max_settlements = 3
+b_tiye = castle
+b_lorurna = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

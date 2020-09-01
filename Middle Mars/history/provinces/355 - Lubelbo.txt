@@ -1,0 +1,14 @@
+# 355 - Lubelbo
+
+# County Title
+title = c_lubelbo
+
+# Settlements
+max_settlements = 2
+b_lubelbo = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

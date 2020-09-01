@@ -1,0 +1,15 @@
+# 759 - Wying
+
+# County Title
+title = c_wying
+
+# Settlements
+max_settlements = 6
+b_wying = tribal
+b_qota = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

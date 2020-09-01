@@ -1,0 +1,14 @@
+# 400 - Esaideva
+
+# County Title
+title = c_esaideva
+
+# Settlements
+max_settlements = 4
+b_esaideva = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

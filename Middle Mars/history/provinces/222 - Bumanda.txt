@@ -1,0 +1,15 @@
+# 222 - Bumanda
+
+# County Title
+title = c_bumanda
+
+# Settlements
+max_settlements = 6
+b_bumanda = tribal
+b_naret = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

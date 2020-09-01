@@ -1,0 +1,16 @@
+# 1761 - Adudemna
+
+# County Title
+title = c_adudemna
+
+# Settlements
+max_settlements = 4
+b_adudemna = castle
+b_qaazani = temple
+b_salory = city
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

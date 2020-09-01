@@ -1,0 +1,16 @@
+# 1422 - Donapur
+
+# County Title
+title = c_donapur
+
+# Settlements
+max_settlements = 4
+b_donapur = castle
+b_danami = temple
+b_rogad = city
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

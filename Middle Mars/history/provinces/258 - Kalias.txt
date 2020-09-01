@@ -1,0 +1,14 @@
+# 258 - Kalias
+
+# County Title
+title = c_kalias
+
+# Settlements
+max_settlements = 2
+b_kalias = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

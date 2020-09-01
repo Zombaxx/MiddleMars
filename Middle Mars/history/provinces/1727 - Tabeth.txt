@@ -1,0 +1,15 @@
+# 1727 - Tabeth
+
+# County Title
+title = c_tabeth
+
+# Settlements
+max_settlements = 3
+b_tabeth = castle
+b_kawela = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

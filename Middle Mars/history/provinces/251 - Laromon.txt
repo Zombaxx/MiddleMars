@@ -1,0 +1,16 @@
+# 251 - Laromon
+
+# County Title
+title = c_laromon
+
+# Settlements
+max_settlements = 4
+b_laromon = castle
+b_esviam = temple
+b_kiarat = city
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

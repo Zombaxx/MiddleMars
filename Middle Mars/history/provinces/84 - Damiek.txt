@@ -1,0 +1,16 @@
+# 84 - Damiek
+
+# County Title
+title = c_damiek
+
+# Settlements
+max_settlements = 4
+b_damiek = castle
+b_kavanca = temple
+b_anodaria = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

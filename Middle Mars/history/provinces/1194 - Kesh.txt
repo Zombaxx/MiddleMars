@@ -1,0 +1,14 @@
+# 1194 - Kesh
+
+# County Title
+title = c_kesh
+
+# Settlements
+max_settlements = 3
+b_kesh = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

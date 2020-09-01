@@ -1,0 +1,15 @@
+# 1684 - Kodeike
+
+# County Title
+title = c_kodeike
+
+# Settlements
+max_settlements = 3
+b_kodeike = castle
+b_kukila = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

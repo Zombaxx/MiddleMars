@@ -1,0 +1,14 @@
+# 1368 - Nilaga
+
+# County Title
+title = c_nilaga
+
+# Settlements
+max_settlements = 4
+b_nilaga = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

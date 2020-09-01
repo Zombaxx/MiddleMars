@@ -1,0 +1,16 @@
+# 1046 - Kukahtu
+
+# County Title
+title = c_kukahtu
+
+# Settlements
+max_settlements = 4
+b_kukahtu = castle
+b_ryoai = temple
+b_touttun = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

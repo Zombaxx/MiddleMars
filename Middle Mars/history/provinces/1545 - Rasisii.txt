@@ -1,0 +1,14 @@
+# 1545 - Rasisii
+
+# County Title
+title = c_rasisii
+
+# Settlements
+max_settlements = 3
+b_rasisii = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

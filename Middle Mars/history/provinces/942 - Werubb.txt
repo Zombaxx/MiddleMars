@@ -1,0 +1,14 @@
+# 942 - Werubb
+
+# County Title
+title = c_werubb
+
+# Settlements
+max_settlements = 3
+b_werubb = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

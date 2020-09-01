@@ -1,0 +1,15 @@
+# 1513 - Kahefia
+
+# County Title
+title = c_kahefia
+
+# Settlements
+max_settlements = 3
+b_kahefia = castle
+b_enevefr = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

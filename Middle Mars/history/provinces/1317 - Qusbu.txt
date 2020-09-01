@@ -1,0 +1,17 @@
+# 1317 - Qusbu
+
+# County Title
+title = c_qusbu
+
+# Settlements
+max_settlements = 5
+b_qusbu = castle
+b_lerled = temple
+b_qyuesaaz = city
+b_kuhing = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

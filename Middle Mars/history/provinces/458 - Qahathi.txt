@@ -1,0 +1,14 @@
+# 458 - Qahathi
+
+# County Title
+title = c_qahathi
+
+# Settlements
+max_settlements = 2
+b_qahathi = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

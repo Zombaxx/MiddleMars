@@ -1,0 +1,15 @@
+# 899 - Neline
+
+# County Title
+title = c_neline
+
+# Settlements
+max_settlements = 3
+b_neline = castle
+b_walazja = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

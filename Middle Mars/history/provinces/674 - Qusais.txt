@@ -1,0 +1,17 @@
+# 674 - Qusais
+
+# County Title
+title = c_qusais
+
+# Settlements
+max_settlements = 5
+b_qusais = castle
+b_sasasus = temple
+b_dolagha = city
+b_karana = castle
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

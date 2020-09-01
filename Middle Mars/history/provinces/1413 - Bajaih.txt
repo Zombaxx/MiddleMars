@@ -1,0 +1,15 @@
+# 1413 - Bajaih
+
+# County Title
+title = c_bajaih
+
+# Settlements
+max_settlements = 3
+b_bajaih = castle
+b_topaud = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

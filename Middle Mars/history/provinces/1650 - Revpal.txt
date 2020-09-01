@@ -1,0 +1,15 @@
+# 1650 - Revpal
+
+# County Title
+title = c_revpal
+
+# Settlements
+max_settlements = 3
+b_revpal = castle
+b_adoroj = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

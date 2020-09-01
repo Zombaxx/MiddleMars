@@ -1,0 +1,15 @@
+# 946 - Wosalan
+
+# County Title
+title = c_wosalan
+
+# Settlements
+max_settlements = 3
+b_wosalan = castle
+b_tohila = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

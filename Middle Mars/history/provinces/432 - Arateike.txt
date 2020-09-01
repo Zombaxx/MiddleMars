@@ -1,0 +1,14 @@
+# 432 - Arateike
+
+# County Title
+title = c_arateike
+
+# Settlements
+max_settlements = 4
+b_arateike = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 136 - Dunahad
+
+# County Title
+title = c_dunahad
+
+# Settlements
+max_settlements = 4
+b_dunahad = castle
+b_kumine = temple
+b_qamire = city
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

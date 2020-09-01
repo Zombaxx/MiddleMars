@@ -1,0 +1,14 @@
+# 199 - Kata
+
+# County Title
+title = c_kata
+
+# Settlements
+max_settlements = 3
+b_kata = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

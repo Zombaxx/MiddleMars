@@ -1,0 +1,14 @@
+# 642 - Eranura
+
+# County Title
+title = c_eranura
+
+# Settlements
+max_settlements = 2
+b_eranura = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

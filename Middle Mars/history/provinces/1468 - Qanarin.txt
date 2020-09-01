@@ -1,0 +1,16 @@
+# 1468 - Qanarin
+
+# County Title
+title = c_qanarin
+
+# Settlements
+max_settlements = 4
+b_qanarin = castle
+b_kyamutan = temple
+b_bametim = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

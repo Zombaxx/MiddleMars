@@ -1,0 +1,14 @@
+# 1113 - Taxeth
+
+# County Title
+title = c_taxeth
+
+# Settlements
+max_settlements = 3
+b_taxeth = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

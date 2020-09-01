@@ -1,0 +1,14 @@
+# 1276 - Nosunai
+
+# County Title
+title = c_nosunai
+
+# Settlements
+max_settlements = 4
+b_nosunai = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

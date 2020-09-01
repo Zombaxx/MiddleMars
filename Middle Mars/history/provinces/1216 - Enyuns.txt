@@ -1,0 +1,14 @@
+# 1216 - Enyuns
+
+# County Title
+title = c_enyuns
+
+# Settlements
+max_settlements = 3
+b_enyuns = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

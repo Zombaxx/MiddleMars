@@ -1,0 +1,15 @@
+# 533 - Qeneth
+
+# County Title
+title = c_qeneth
+
+# Settlements
+max_settlements = 3
+b_qeneth = castle
+b_waraga = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

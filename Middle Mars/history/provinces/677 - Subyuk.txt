@@ -1,0 +1,14 @@
+# 677 - Subyuk
+
+# County Title
+title = c_subyuk
+
+# Settlements
+max_settlements = 3
+b_subyuk = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

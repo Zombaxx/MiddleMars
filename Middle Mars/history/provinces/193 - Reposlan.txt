@@ -1,0 +1,14 @@
+# 193 - Reposlan
+
+# County Title
+title = c_reposlan
+
+# Settlements
+max_settlements = 3
+b_reposlan = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

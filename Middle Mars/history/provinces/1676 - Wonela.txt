@@ -1,0 +1,14 @@
+# 1676 - Wonela
+
+# County Title
+title = c_wonela
+
+# Settlements
+max_settlements = 2
+b_wonela = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

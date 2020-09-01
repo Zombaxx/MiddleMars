@@ -1,0 +1,15 @@
+# 597 - Sayliz
+
+# County Title
+title = c_sayliz
+
+# Settlements
+max_settlements = 5
+b_sayliz = tribal
+b_qokond = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 366 - Reinaud
+
+# County Title
+title = c_reinaud
+
+# Settlements
+max_settlements = 2
+b_reinaud = tribal
+
+# Misc
+culture = ethiopian
+religion = west_african_pagan
+
+# History

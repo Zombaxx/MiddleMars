@@ -1,0 +1,15 @@
+# 721 - Basevi
+
+# County Title
+title = c_basevi
+
+# Settlements
+max_settlements = 5
+b_basevi = tribal
+b_tille = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

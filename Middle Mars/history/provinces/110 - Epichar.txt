@@ -1,0 +1,16 @@
+# 110 - Epichar
+
+# County Title
+title = c_epichar
+
+# Settlements
+max_settlements = 4
+b_epichar = castle
+b_kepangar = temple
+b_tanozar = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

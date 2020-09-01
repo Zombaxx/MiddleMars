@@ -1,0 +1,17 @@
+# 1160 - Nenozar
+
+# County Title
+title = c_nenozar
+
+# Settlements
+max_settlements = 6
+b_nenozar = castle
+b_rajaria = temple
+b_kiuvje = city
+b_duvje = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 921 - Amoqawma
+
+# County Title
+title = c_amoqawma
+
+# Settlements
+max_settlements = 2
+b_amoqawma = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

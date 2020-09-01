@@ -1,0 +1,14 @@
+# 1654 - Namabib
+
+# County Title
+title = c_namabib
+
+# Settlements
+max_settlements = 2
+b_namabib = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

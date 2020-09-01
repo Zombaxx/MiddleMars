@@ -1,0 +1,14 @@
+# 293 - Wayteye
+
+# County Title
+title = c_wayteye
+
+# Settlements
+max_settlements = 1
+b_wayteye = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

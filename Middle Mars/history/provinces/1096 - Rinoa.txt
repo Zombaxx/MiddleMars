@@ -1,0 +1,14 @@
+# 1096 - Rinoa
+
+# County Title
+title = c_rinoa
+
+# Settlements
+max_settlements = 3
+b_rinoa = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

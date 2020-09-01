@@ -1,0 +1,15 @@
+# 612 - Kotyka
+
+# County Title
+title = c_kotyka
+
+# Settlements
+max_settlements = 5
+b_kotyka = tribal
+b_anund = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

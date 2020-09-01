@@ -1,0 +1,15 @@
+# 982 - Wyaseria
+
+# County Title
+title = c_wyaseria
+
+# Settlements
+max_settlements = 3
+b_wyaseria = castle
+b_aliudre = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

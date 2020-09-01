@@ -1,0 +1,17 @@
+# 855 - Bemoste
+
+# County Title
+title = c_bemoste
+
+# Settlements
+max_settlements = 5
+b_bemoste = castle
+b_wamey = temple
+b_wokanie = city
+b_toline = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

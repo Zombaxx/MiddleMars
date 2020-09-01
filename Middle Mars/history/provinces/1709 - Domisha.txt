@@ -1,0 +1,16 @@
+# 1709 - Domisha
+
+# County Title
+title = c_domisha
+
+# Settlements
+max_settlements = 4
+b_domisha = castle
+b_sadara = temple
+b_deubisa = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

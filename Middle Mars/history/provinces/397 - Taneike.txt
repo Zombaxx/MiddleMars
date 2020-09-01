@@ -1,0 +1,14 @@
+# 397 - Taneike
+
+# County Title
+title = c_taneike
+
+# Settlements
+max_settlements = 3
+b_taneike = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

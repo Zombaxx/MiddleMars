@@ -1,0 +1,15 @@
+# 1243 - Qijenda
+
+# County Title
+title = c_qijenda
+
+# Settlements
+max_settlements = 5
+b_qijenda = tribal
+b_bevenda = temple
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

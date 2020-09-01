@@ -1,0 +1,14 @@
+# 504 - Rinaimi
+
+# County Title
+title = c_rinaimi
+
+# Settlements
+max_settlements = 4
+b_rinaimi = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

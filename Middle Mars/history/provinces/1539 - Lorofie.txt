@@ -1,0 +1,16 @@
+# 1539 - Lorofie
+
+# County Title
+title = c_lorofie
+
+# Settlements
+max_settlements = 4
+b_lorofie = castle
+b_tach = temple
+b_lakh = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,14 @@
+# 198 - Takomez
+
+# County Title
+title = c_takomez
+
+# Settlements
+max_settlements = 4
+b_takomez = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

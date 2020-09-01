@@ -1,0 +1,14 @@
+# 1006 - Diseda
+
+# County Title
+title = c_diseda
+
+# Settlements
+max_settlements = 2
+b_diseda = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

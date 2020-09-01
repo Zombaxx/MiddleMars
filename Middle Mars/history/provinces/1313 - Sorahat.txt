@@ -1,0 +1,15 @@
+# 1313 - Sorahat
+
+# County Title
+title = c_sorahat
+
+# Settlements
+max_settlements = 6
+b_sorahat = tribal
+b_kinira = temple
+
+# Misc
+culture = andalusian_arabic
+religion = pagan
+
+# History

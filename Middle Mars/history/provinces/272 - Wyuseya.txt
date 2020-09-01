@@ -1,0 +1,14 @@
+# 272 - Wyuseya
+
+# County Title
+title = c_wyuseya
+
+# Settlements
+max_settlements = 1
+b_wyuseya = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

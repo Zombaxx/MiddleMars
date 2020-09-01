@@ -1,0 +1,14 @@
+# 124 - Ninanka
+
+# County Title
+title = c_ninanka
+
+# Settlements
+max_settlements = 2
+b_ninanka = castle
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

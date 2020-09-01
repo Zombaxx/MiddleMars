@@ -1,0 +1,14 @@
+# 1034 - Qahusi
+
+# County Title
+title = c_qahusi
+
+# Settlements
+max_settlements = 2
+b_qahusi = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

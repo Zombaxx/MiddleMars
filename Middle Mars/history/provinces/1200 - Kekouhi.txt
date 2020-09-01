@@ -1,0 +1,16 @@
+# 1200 - Kekouhi
+
+# County Title
+title = c_kekouhi
+
+# Settlements
+max_settlements = 4
+b_kekouhi = castle
+b_kemrus = temple
+b_rabemir = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

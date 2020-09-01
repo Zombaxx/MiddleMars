@@ -1,0 +1,15 @@
+# 439 - Ruroul
+
+# County Title
+title = c_ruroul
+
+# Settlements
+max_settlements = 2
+b_ruroul = castle
+b_kugoise = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1752 - Elucaham
+
+# County Title
+title = c_elucaham
+
+# Settlements
+max_settlements = 5
+b_elucaham = tribal
+b_nerala = temple
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

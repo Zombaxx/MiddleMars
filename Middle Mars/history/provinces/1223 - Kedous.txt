@@ -1,0 +1,15 @@
+# 1223 - Kedous
+
+# County Title
+title = c_kedous
+
+# Settlements
+max_settlements = 5
+b_kedous = tribal
+b_berminai = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

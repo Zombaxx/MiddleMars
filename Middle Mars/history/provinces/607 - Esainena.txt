@@ -1,0 +1,15 @@
+# 607 - Esainena
+
+# County Title
+title = c_esainena
+
+# Settlements
+max_settlements = 5
+b_esainena = tribal
+b_rotyho = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

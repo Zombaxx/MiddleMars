@@ -1,0 +1,18 @@
+# 995 - Keunda
+
+# County Title
+title = c_keunda
+
+# Settlements
+max_settlements = 7
+b_keunda = castle
+b_ratyamo = temple
+b_amekalka = city
+b_kamas = castle
+b_taidun = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

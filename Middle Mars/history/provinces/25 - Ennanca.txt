@@ -1,0 +1,16 @@
+# 25 - Ennanca
+
+# County Title
+title = c_ennanca
+
+# Settlements
+max_settlements = 4
+b_ennanca = castle
+b_qarata = temple
+b_wamain = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

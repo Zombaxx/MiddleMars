@@ -1,0 +1,15 @@
+# 185 - Lenitya
+
+# County Title
+title = c_lenitya
+
+# Settlements
+max_settlements = 3
+b_lenitya = castle
+b_lenaria = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

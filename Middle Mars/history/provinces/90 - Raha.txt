@@ -1,0 +1,16 @@
+# 90 - Raha
+
+# County Title
+title = c_raha
+
+# Settlements
+max_settlements = 4
+b_raha = castle
+b_amerama = temple
+b_dunache = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

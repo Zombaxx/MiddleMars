@@ -1,0 +1,15 @@
+# 1402 - Sirutic
+
+# County Title
+title = c_sirutic
+
+# Settlements
+max_settlements = 3
+b_sirutic = castle
+b_walofan = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

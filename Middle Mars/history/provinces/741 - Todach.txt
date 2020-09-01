@@ -1,0 +1,14 @@
+# 741 - Todach
+
+# County Title
+title = c_todach
+
+# Settlements
+max_settlements = 3
+b_todach = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

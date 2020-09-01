@@ -1,0 +1,14 @@
+# 433 - Keocurd
+
+# County Title
+title = c_keocurd
+
+# Settlements
+max_settlements = 3
+b_keocurd = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

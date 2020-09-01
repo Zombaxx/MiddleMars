@@ -1,0 +1,14 @@
+# 332 - Terge
+
+# County Title
+title = c_terge
+
+# Settlements
+max_settlements = 4
+b_terge = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

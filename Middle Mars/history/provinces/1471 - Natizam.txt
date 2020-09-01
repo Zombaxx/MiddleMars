@@ -1,0 +1,18 @@
+# 1471 - Natizam
+
+# County Title
+title = c_natizam
+
+# Settlements
+max_settlements = 7
+b_natizam = castle
+b_rezani = temple
+b_wicenku = city
+b_eludabir = castle
+b_tinenku = temple
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

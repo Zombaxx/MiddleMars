@@ -1,0 +1,14 @@
+# 1246 - Takh
+
+# County Title
+title = c_takh
+
+# Settlements
+max_settlements = 3
+b_takh = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

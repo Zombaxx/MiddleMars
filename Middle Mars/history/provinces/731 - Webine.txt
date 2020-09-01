@@ -1,0 +1,16 @@
+# 731 - Webine
+
+# County Title
+title = c_webine
+
+# Settlements
+max_settlements = 4
+b_webine = castle
+b_bebinn = temple
+b_teonita = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

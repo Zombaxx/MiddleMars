@@ -1,0 +1,15 @@
+# 939 - Rulohn
+
+# County Title
+title = c_rulohn
+
+# Settlements
+max_settlements = 3
+b_rulohn = castle
+b_noise = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

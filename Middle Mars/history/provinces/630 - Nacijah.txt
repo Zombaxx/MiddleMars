@@ -1,0 +1,15 @@
+# 630 - Nacijah
+
+# County Title
+title = c_nacijah
+
+# Settlements
+max_settlements = 3
+b_nacijah = castle
+b_wolons = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 591 - Byasapa
+
+# County Title
+title = c_byasapa
+
+# Settlements
+max_settlements = 2
+b_byasapa = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

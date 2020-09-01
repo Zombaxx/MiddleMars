@@ -1,0 +1,17 @@
+# 985 - Satas
+
+# County Title
+title = c_satas
+
+# Settlements
+max_settlements = 5
+b_satas = castle
+b_nadueri = temple
+b_dahajit = city
+b_qohyamo = castle
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 1616 - Qonofia
+
+# County Title
+title = c_qonofia
+
+# Settlements
+max_settlements = 2
+b_qonofia = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

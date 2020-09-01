@@ -1,0 +1,14 @@
+# 399 - Qeka
+
+# County Title
+title = c_qeka
+
+# Settlements
+max_settlements = 1
+b_qeka = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

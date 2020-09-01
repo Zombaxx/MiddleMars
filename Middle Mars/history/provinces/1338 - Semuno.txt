@@ -1,0 +1,16 @@
+# 1338 - Semuno
+
+# County Title
+title = c_semuno
+
+# Settlements
+max_settlements = 4
+b_semuno = castle
+b_enulay = temple
+b_saisessa = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

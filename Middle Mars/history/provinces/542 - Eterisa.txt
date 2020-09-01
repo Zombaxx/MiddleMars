@@ -1,0 +1,16 @@
+# 542 - Eterisa
+
+# County Title
+title = c_eterisa
+
+# Settlements
+max_settlements = 4
+b_eterisa = castle
+b_kanunno = temple
+b_saytonno = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

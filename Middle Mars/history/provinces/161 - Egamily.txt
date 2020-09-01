@@ -1,0 +1,16 @@
+# 161 - Egamily
+
+# County Title
+title = c_egamily
+
+# Settlements
+max_settlements = 4
+b_egamily = castle
+b_qonenes = temple
+b_teinura = city
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 109 - Dina
+
+# County Title
+title = c_dina
+
+# Settlements
+max_settlements = 4
+b_dina = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1527 - Wutavo
+
+# County Title
+title = c_wutavo
+
+# Settlements
+max_settlements = 3
+b_wutavo = castle
+b_reyeol = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

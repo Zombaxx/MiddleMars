@@ -1,0 +1,17 @@
+# 1127 - Torika
+
+# County Title
+title = c_torika
+
+# Settlements
+max_settlements = 5
+b_torika = castle
+b_ababinie = temple
+b_kiliyen = city
+b_kiubons = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

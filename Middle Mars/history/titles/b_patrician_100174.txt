@@ -1,0 +1,5 @@
+1064.1.1 = {
+	holding_dynasty = 100174 # de Relarma - makes this a FAMILY_PALACE type Holding
+	liege="d_kyayuo"
+	holder = 200355
+}

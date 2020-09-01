@@ -1,0 +1,15 @@
+# 228 - Activia
+
+# County Title
+title = c_activia
+
+# Settlements
+max_settlements = 3
+b_activia = castle
+b_epanibor = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

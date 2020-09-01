@@ -1,0 +1,15 @@
+# 1375 - Somayka
+
+# County Title
+title = c_somayka
+
+# Settlements
+max_settlements = 5
+b_somayka = tribal
+b_wuwe = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

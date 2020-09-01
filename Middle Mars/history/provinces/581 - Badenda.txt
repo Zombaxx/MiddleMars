@@ -1,0 +1,15 @@
+# 581 - Badenda
+
+# County Title
+title = c_badenda
+
+# Settlements
+max_settlements = 3
+b_badenda = castle
+b_resaide = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 466 - Kisaac
+
+# County Title
+title = c_kisaac
+
+# Settlements
+max_settlements = 5
+b_kisaac = tribal
+b_elissie = temple
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

@@ -1,0 +1,17 @@
+# 1349 - Qiolng
+
+# County Title
+title = c_qiolng
+
+# Settlements
+max_settlements = 6
+b_qiolng = castle
+b_aroding = temple
+b_lavilu = city
+b_nobakk = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

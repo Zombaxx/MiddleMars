@@ -1,0 +1,14 @@
+# 345 - Notato
+
+# County Title
+title = c_notato
+
+# Settlements
+max_settlements = 1
+b_notato = tribal
+
+# Misc
+culture = ethiopian
+religion = west_african_pagan
+
+# History

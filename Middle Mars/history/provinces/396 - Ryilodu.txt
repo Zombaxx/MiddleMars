@@ -1,0 +1,15 @@
+# 396 - Ryilodu
+
+# County Title
+title = c_ryilodu
+
+# Settlements
+max_settlements = 3
+b_ryilodu = tribal
+b_repe = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

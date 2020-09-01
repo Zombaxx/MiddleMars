@@ -1,0 +1,16 @@
+# 122 - Amekim
+
+# County Title
+title = c_amekim
+
+# Settlements
+max_settlements = 4
+b_amekim = castle
+b_koraria = temple
+b_nisim = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

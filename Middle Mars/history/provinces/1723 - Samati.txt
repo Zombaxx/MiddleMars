@@ -1,0 +1,14 @@
+# 1723 - Samati
+
+# County Title
+title = c_samati
+
+# Settlements
+max_settlements = 2
+b_samati = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

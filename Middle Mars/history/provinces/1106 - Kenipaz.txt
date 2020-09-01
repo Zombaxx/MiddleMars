@@ -1,0 +1,14 @@
+# 1106 - Kenipaz
+
+# County Title
+title = c_kenipaz
+
+# Settlements
+max_settlements = 3
+b_kenipaz = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

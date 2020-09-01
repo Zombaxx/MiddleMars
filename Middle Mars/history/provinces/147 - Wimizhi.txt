@@ -1,0 +1,16 @@
+# 147 - Wimizhi
+
+# County Title
+title = c_wimizhi
+
+# Settlements
+max_settlements = 4
+b_wimizhi = castle
+b_aligugei = temple
+b_negius = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

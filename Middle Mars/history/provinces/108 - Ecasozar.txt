@@ -1,0 +1,16 @@
+# 108 - Ecasozar
+
+# County Title
+title = c_ecasozar
+
+# Settlements
+max_settlements = 4
+b_ecasozar = castle
+b_kineth = temple
+b_tilarat = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 117 - Wosai
+
+# County Title
+title = c_wosai
+
+# Settlements
+max_settlements = 4
+b_wosai = castle
+b_kanajan = temple
+b_lajoda = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

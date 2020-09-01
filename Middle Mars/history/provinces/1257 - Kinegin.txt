@@ -1,0 +1,16 @@
+# 1257 - Kinegin
+
+# County Title
+title = c_kinegin
+
+# Settlements
+max_settlements = 4
+b_kinegin = castle
+b_labathi = temple
+b_tusanna = city
+
+# Misc
+culture = levantine_arabic
+religion = shiite
+
+# History

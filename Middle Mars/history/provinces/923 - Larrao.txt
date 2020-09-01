@@ -1,0 +1,14 @@
+# 923 - Larrao
+
+# County Title
+title = c_larrao
+
+# Settlements
+max_settlements = 3
+b_larrao = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

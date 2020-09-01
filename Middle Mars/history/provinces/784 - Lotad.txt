@@ -1,0 +1,14 @@
+# 784 - Lotad
+
+# County Title
+title = c_lotad
+
+# Settlements
+max_settlements = 4
+b_lotad = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

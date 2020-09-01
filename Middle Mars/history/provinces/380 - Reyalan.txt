@@ -1,0 +1,14 @@
+# 380 - Reyalan
+
+# County Title
+title = c_reyalan
+
+# Settlements
+max_settlements = 2
+b_reyalan = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

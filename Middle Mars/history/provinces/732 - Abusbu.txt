@@ -1,0 +1,17 @@
+# 732 - Abusbu
+
+# County Title
+title = c_abusbu
+
+# Settlements
+max_settlements = 5
+b_abusbu = castle
+b_dyarara = temple
+b_wanjay = city
+b_nahyho = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

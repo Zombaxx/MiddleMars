@@ -1,0 +1,15 @@
+# 285 - Sidurna
+
+# County Title
+title = c_sidurna
+
+# Settlements
+max_settlements = 3
+b_sidurna = tribal
+b_babrala = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

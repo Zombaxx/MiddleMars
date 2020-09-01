@@ -1,0 +1,14 @@
+# 1076 - Togimha
+
+# County Title
+title = c_togimha
+
+# Settlements
+max_settlements = 3
+b_togimha = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 357 - Wimund
+
+# County Title
+title = c_wimund
+
+# Settlements
+max_settlements = 1
+b_wimund = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

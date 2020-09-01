@@ -1,0 +1,15 @@
+# 1639 - Tenatta
+
+# County Title
+title = c_tenatta
+
+# Settlements
+max_settlements = 3
+b_tenatta = castle
+b_qiesija = temple
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

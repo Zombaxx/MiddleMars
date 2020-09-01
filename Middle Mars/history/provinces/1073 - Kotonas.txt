@@ -1,0 +1,15 @@
+# 1073 - Kotonas
+
+# County Title
+title = c_kotonas
+
+# Settlements
+max_settlements = 3
+b_kotonas = castle
+b_sasilay = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 406 - Ehakk
+
+# County Title
+title = c_ehakk
+
+# Settlements
+max_settlements = 3
+b_ehakk = tribal
+b_rarivi = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

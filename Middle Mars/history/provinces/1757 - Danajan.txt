@@ -1,0 +1,14 @@
+# 1757 - Danajan
+
+# County Title
+title = c_danajan
+
+# Settlements
+max_settlements = 4
+b_danajan = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

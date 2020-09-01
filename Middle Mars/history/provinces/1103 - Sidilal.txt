@@ -1,0 +1,15 @@
+# 1103 - Sidilal
+
+# County Title
+title = c_sidilal
+
+# Settlements
+max_settlements = 3
+b_sidilal = castle
+b_tizumay = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

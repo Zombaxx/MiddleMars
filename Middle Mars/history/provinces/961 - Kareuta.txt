@@ -1,0 +1,17 @@
+# 961 - Kareuta
+
+# County Title
+title = c_kareuta
+
+# Settlements
+max_settlements = 5
+b_kareuta = castle
+b_ding = temple
+b_kokan = city
+b_koyaki = castle
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

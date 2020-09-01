@@ -1,0 +1,14 @@
+# 354 - Wainha
+
+# County Title
+title = c_wainha
+
+# Settlements
+max_settlements = 1
+b_wainha = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

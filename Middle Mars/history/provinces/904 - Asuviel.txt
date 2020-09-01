@@ -1,0 +1,14 @@
+# 904 - Asuviel
+
+# County Title
+title = c_asuviel
+
+# Settlements
+max_settlements = 3
+b_asuviel = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

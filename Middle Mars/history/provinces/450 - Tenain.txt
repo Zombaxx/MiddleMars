@@ -1,0 +1,14 @@
+# 450 - Tenain
+
+# County Title
+title = c_tenain
+
+# Settlements
+max_settlements = 2
+b_tenain = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

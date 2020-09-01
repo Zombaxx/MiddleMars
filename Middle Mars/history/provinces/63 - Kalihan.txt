@@ -1,0 +1,16 @@
+# 63 - Kalihan
+
+# County Title
+title = c_kalihan
+
+# Settlements
+max_settlements = 4
+b_kalihan = castle
+b_kinidis = temple
+b_rivela = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

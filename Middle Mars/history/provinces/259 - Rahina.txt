@@ -1,0 +1,16 @@
+# 259 - Rahina
+
+# County Title
+title = c_rahina
+
+# Settlements
+max_settlements = 4
+b_rahina = castle
+b_kuzaim = temple
+b_remian = city
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

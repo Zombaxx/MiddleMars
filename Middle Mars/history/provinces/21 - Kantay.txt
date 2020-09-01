@@ -1,0 +1,17 @@
+# 21 - Kantay
+
+# County Title
+title = c_kantay
+
+# Settlements
+max_settlements = 5
+b_kantay = castle
+b_kega = temple
+b_sonisa = city
+b_ekega = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

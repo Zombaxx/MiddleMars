@@ -1,0 +1,16 @@
+# 598 - Neyfine
+
+# County Title
+title = c_neyfine
+
+# Settlements
+max_settlements = 4
+b_neyfine = castle
+b_rohajit = temple
+b_radepes = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

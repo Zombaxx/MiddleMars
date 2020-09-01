@@ -1,0 +1,14 @@
+# 804 - Erefeni
+
+# County Title
+title = c_erefeni
+
+# Settlements
+max_settlements = 4
+b_erefeni = tribal
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 376 - Asususa
+
+# County Title
+title = c_asususa
+
+# Settlements
+max_settlements = 5
+b_asususa = tribal
+b_rehre = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

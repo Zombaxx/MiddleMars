@@ -1,0 +1,15 @@
+# 1633 - Estahal
+
+# County Title
+title = c_estahal
+
+# Settlements
+max_settlements = 3
+b_estahal = castle
+b_dadisii = temple
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

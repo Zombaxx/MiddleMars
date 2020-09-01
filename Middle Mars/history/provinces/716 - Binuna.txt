@@ -1,0 +1,15 @@
+# 716 - Binuna
+
+# County Title
+title = c_binuna
+
+# Settlements
+max_settlements = 5
+b_binuna = tribal
+b_sareka = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

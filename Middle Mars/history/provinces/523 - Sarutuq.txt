@@ -1,0 +1,15 @@
+# 523 - Sarutuq
+
+# County Title
+title = c_sarutuq
+
+# Settlements
+max_settlements = 3
+b_sarutuq = castle
+b_wojim = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

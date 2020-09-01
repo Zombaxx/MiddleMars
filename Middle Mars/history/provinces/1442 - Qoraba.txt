@@ -1,0 +1,16 @@
+# 1442 - Qoraba
+
+# County Title
+title = c_qoraba
+
+# Settlements
+max_settlements = 4
+b_qoraba = castle
+b_tolatan = temple
+b_rudapur = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

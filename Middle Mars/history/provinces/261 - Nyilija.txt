@@ -1,0 +1,15 @@
+# 261 - Nyilija
+
+# County Title
+title = c_nyilija
+
+# Settlements
+max_settlements = 2
+b_nyilija = tribal
+b_tazazi = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

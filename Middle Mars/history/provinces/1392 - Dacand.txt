@@ -1,0 +1,16 @@
+# 1392 - Dacand
+
+# County Title
+title = c_dacand
+
+# Settlements
+max_settlements = 4
+b_dacand = castle
+b_qiteva = temple
+b_kamatha = city
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

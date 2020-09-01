@@ -1,0 +1,17 @@
+# 101 - Wimaus
+
+# County Title
+title = c_wimaus
+
+# Settlements
+max_settlements = 5
+b_wimaus = castle
+b_taraya = temple
+b_barory = city
+b_sopluk = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

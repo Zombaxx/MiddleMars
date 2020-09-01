@@ -1,0 +1,14 @@
+# 370 - Esanard
+
+# County Title
+title = c_esanard
+
+# Settlements
+max_settlements = 1
+b_esanard = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

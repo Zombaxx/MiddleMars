@@ -1,0 +1,16 @@
+# 82 - Binast
+
+# County Title
+title = c_binast
+
+# Settlements
+max_settlements = 4
+b_binast = castle
+b_kahila = temple
+b_tohunda = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

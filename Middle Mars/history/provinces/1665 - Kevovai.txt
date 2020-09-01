@@ -1,0 +1,14 @@
+# 1665 - Kevovai
+
+# County Title
+title = c_kevovai
+
+# Settlements
+max_settlements = 2
+b_kevovai = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

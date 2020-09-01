@@ -1,0 +1,14 @@
+# 901 - Luhailo
+
+# County Title
+title = c_luhailo
+
+# Settlements
+max_settlements = 2
+b_luhailo = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

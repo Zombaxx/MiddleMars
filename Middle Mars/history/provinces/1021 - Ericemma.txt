@@ -1,0 +1,14 @@
+# 1021 - Ericemma
+
+# County Title
+title = c_ericemma
+
+# Settlements
+max_settlements = 3
+b_ericemma = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

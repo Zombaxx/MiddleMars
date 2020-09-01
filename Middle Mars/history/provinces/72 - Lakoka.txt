@@ -1,0 +1,18 @@
+# 72 - Lakoka
+
+# County Title
+title = c_lakoka
+
+# Settlements
+max_settlements = 7
+b_lakoka = castle
+b_tyudilai = temple
+b_ryudaim = city
+b_etolinda = castle
+b_deacob = temple
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

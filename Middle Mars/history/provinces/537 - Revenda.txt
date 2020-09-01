@@ -1,0 +1,15 @@
+# 537 - Revenda
+
+# County Title
+title = c_revenda
+
+# Settlements
+max_settlements = 5
+b_revenda = tribal
+b_bozenzu = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1131 - Beman
+
+# County Title
+title = c_beman
+
+# Settlements
+max_settlements = 3
+b_beman = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

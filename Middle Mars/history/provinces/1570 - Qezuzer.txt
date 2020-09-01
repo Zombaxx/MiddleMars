@@ -1,0 +1,16 @@
+# 1570 - Qezuzer
+
+# County Title
+title = c_qezuzer
+
+# Settlements
+max_settlements = 4
+b_qezuzer = castle
+b_adobardu = temple
+b_kalune = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

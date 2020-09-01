@@ -1,0 +1,16 @@
+# 902 - Kayyubt
+
+# County Title
+title = c_kayyubt
+
+# Settlements
+max_settlements = 4
+b_kayyubt = castle
+b_etiss = temple
+b_atuetl = city
+
+# Misc
+culture = castillan
+religion = pagan
+
+# History

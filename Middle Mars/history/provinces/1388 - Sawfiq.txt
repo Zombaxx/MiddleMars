@@ -1,0 +1,15 @@
+# 1388 - Sawfiq
+
+# County Title
+title = c_sawfiq
+
+# Settlements
+max_settlements = 3
+b_sawfiq = castle
+b_kugunya = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

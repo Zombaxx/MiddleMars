@@ -1,0 +1,16 @@
+# 95 - Terefan
+
+# County Title
+title = c_terefan
+
+# Settlements
+max_settlements = 4
+b_terefan = castle
+b_berepe = temple
+b_reralotl = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

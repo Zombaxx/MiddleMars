@@ -1,0 +1,14 @@
+# 1258 - Lacoan
+
+# County Title
+title = c_lacoan
+
+# Settlements
+max_settlements = 4
+b_lacoan = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

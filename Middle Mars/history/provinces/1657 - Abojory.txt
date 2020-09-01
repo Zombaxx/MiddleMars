@@ -1,0 +1,14 @@
+# 1657 - Abojory
+
+# County Title
+title = c_abojory
+
+# Settlements
+max_settlements = 2
+b_abojory = tribal
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

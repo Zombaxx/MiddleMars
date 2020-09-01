@@ -1,0 +1,14 @@
+# 1146 - Taususha
+
+# County Title
+title = c_taususha
+
+# Settlements
+max_settlements = 4
+b_taususha = tribal
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

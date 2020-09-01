@@ -1,0 +1,15 @@
+# 567 - Agalonse
+
+# County Title
+title = c_agalonse
+
+# Settlements
+max_settlements = 5
+b_agalonse = tribal
+b_tadalih = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

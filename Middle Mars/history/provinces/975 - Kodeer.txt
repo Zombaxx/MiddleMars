@@ -1,0 +1,15 @@
+# 975 - Kodeer
+
+# County Title
+title = c_kodeer
+
+# Settlements
+max_settlements = 3
+b_kodeer = castle
+b_nuru = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

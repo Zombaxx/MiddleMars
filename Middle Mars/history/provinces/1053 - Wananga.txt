@@ -1,0 +1,15 @@
+# 1053 - Wananga
+
+# County Title
+title = c_wananga
+
+# Settlements
+max_settlements = 3
+b_wananga = castle
+b_retugno = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

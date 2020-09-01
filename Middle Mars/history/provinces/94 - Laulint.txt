@@ -1,0 +1,17 @@
+# 94 - Laulint
+
+# County Title
+title = c_laulint
+
+# Settlements
+max_settlements = 5
+b_laulint = castle
+b_lalaad = temple
+b_kermanie = city
+b_kiperzad = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

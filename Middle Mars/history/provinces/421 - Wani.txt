@@ -1,0 +1,16 @@
+# 421 - Wani
+
+# County Title
+title = c_wani
+
+# Settlements
+max_settlements = 4
+b_wani = castle
+b_wilelm = temple
+b_rodiwen = city
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

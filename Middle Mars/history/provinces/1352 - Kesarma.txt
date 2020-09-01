@@ -1,0 +1,17 @@
+# 1352 - Kesarma
+
+# County Title
+title = c_kesarma
+
+# Settlements
+max_settlements = 5
+b_kesarma = castle
+b_wudad = temple
+b_ranona = city
+b_desand = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

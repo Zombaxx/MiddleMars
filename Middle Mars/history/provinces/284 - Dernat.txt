@@ -1,0 +1,15 @@
+# 284 - Dernat
+
+# County Title
+title = c_dernat
+
+# Settlements
+max_settlements = 5
+b_dernat = tribal
+b_dorulad = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

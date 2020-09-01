@@ -1,0 +1,14 @@
+# 1195 - Qanou
+
+# County Title
+title = c_qanou
+
+# Settlements
+max_settlements = 4
+b_qanou = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 922 - Wurafiy
+
+# County Title
+title = c_wurafiy
+
+# Settlements
+max_settlements = 2
+b_wurafiy = castle
+b_butlu = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

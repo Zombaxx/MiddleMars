@@ -1,0 +1,14 @@
+# 1169 - Kudak
+
+# County Title
+title = c_kudak
+
+# Settlements
+max_settlements = 4
+b_kudak = tribal
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

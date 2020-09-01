@@ -1,0 +1,14 @@
+# 507 - Robiyah
+
+# County Title
+title = c_robiyah
+
+# Settlements
+max_settlements = 2
+b_robiyah = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

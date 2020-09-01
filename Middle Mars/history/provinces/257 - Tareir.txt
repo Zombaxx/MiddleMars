@@ -1,0 +1,14 @@
+# 257 - Tareir
+
+# County Title
+title = c_tareir
+
+# Settlements
+max_settlements = 2
+b_tareir = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

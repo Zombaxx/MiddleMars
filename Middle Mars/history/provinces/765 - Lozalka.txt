@@ -1,0 +1,15 @@
+# 765 - Lozalka
+
+# County Title
+title = c_lozalka
+
+# Settlements
+max_settlements = 3
+b_lozalka = castle
+b_reemir = temple
+
+# Misc
+culture = catalan
+religion = pagan
+
+# History

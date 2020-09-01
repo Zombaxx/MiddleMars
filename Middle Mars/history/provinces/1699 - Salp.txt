@@ -1,0 +1,14 @@
+# 1699 - Salp
+
+# County Title
+title = c_salp
+
+# Settlements
+max_settlements = 2
+b_salp = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

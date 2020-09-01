@@ -1,0 +1,15 @@
+# 822 - Amadeusz
+
+# County Title
+title = c_amadeusz
+
+# Settlements
+max_settlements = 6
+b_amadeusz = tribal
+b_ruloses = temple
+
+# Misc
+culture = bodpa
+religion = zoroastrian
+
+# History

@@ -1,0 +1,16 @@
+# 1741 - Kabam
+
+# County Title
+title = c_kabam
+
+# Settlements
+max_settlements = 4
+b_kabam = castle
+b_waria = temple
+b_raralku = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

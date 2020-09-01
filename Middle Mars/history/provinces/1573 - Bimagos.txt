@@ -1,0 +1,16 @@
+# 1573 - Bimagos
+
+# County Title
+title = c_bimagos
+
+# Settlements
+max_settlements = 4
+b_bimagos = castle
+b_ebelali = temple
+b_tetani = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

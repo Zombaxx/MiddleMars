@@ -1,0 +1,15 @@
+# 1604 - Ehawatta
+
+# County Title
+title = c_ehawatta
+
+# Settlements
+max_settlements = 3
+b_ehawatta = castle
+b_kimha = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 626 - Deirim
+
+# County Title
+title = c_deirim
+
+# Settlements
+max_settlements = 4
+b_deirim = tribal
+b_seph = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 903 - Kohajit
+
+# County Title
+title = c_kohajit
+
+# Settlements
+max_settlements = 4
+b_kohajit = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1608 - Ejayast
+
+# County Title
+title = c_ejayast
+
+# Settlements
+max_settlements = 3
+b_ejayast = castle
+b_dumulia = temple
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 1188 - Kitiisa
+
+# County Title
+title = c_kitiisa
+
+# Settlements
+max_settlements = 3
+b_kitiisa = castle
+b_emeling = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

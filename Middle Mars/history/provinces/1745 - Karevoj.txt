@@ -1,0 +1,14 @@
+# 1745 - Karevoj
+
+# County Title
+title = c_karevoj
+
+# Settlements
+max_settlements = 3
+b_karevoj = tribal
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

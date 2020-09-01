@@ -1,0 +1,15 @@
+# 321 - Wariisa
+
+# County Title
+title = c_wariisa
+
+# Settlements
+max_settlements = 3
+b_wariisa = tribal
+b_ritukar = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

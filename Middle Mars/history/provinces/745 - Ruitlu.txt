@@ -1,0 +1,14 @@
+# 745 - Ruitlu
+
+# County Title
+title = c_ruitlu
+
+# Settlements
+max_settlements = 4
+b_ruitlu = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

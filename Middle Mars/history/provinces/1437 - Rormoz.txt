@@ -1,0 +1,16 @@
+# 1437 - Rormoz
+
+# County Title
+title = c_rormoz
+
+# Settlements
+max_settlements = 4
+b_rormoz = castle
+b_qander = temple
+b_lunirma = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

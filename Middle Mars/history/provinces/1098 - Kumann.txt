@@ -1,0 +1,14 @@
+# 1098 - Kumann
+
+# County Title
+title = c_kumann
+
+# Settlements
+max_settlements = 3
+b_kumann = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

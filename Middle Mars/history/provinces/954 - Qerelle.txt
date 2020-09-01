@@ -1,0 +1,17 @@
+# 954 - Qerelle
+
+# County Title
+title = c_qerelle
+
+# Settlements
+max_settlements = 6
+b_qerelle = castle
+b_taweca = temple
+b_kolaaz = city
+b_sunena = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

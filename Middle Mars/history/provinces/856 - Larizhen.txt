@@ -1,0 +1,14 @@
+# 856 - Larizhen
+
+# County Title
+title = c_larizhen
+
+# Settlements
+max_settlements = 3
+b_larizhen = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

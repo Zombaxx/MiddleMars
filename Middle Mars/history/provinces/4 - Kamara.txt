@@ -1,0 +1,15 @@
+# 4 - Kamara
+
+# County Title
+title = c_kamara
+
+# Settlements
+max_settlements = 3
+b_kamara = castle
+b_rojayor = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

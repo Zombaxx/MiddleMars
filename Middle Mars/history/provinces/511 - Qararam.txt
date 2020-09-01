@@ -1,0 +1,14 @@
+# 511 - Qararam
+
+# County Title
+title = c_qararam
+
+# Settlements
+max_settlements = 4
+b_qararam = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

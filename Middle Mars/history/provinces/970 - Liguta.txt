@@ -1,0 +1,14 @@
+# 970 - Liguta
+
+# County Title
+title = c_liguta
+
+# Settlements
+max_settlements = 4
+b_liguta = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

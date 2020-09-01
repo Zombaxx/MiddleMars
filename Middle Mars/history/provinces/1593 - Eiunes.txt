@@ -1,0 +1,15 @@
+# 1593 - Eiunes
+
+# County Title
+title = c_eiunes
+
+# Settlements
+max_settlements = 3
+b_eiunes = castle
+b_saetunai = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

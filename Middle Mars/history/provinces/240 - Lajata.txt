@@ -1,0 +1,15 @@
+# 240 - Lajata
+
+# County Title
+title = c_lajata
+
+# Settlements
+max_settlements = 3
+b_lajata = castle
+b_kawasil = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

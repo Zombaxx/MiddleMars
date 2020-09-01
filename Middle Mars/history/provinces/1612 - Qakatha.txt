@@ -1,0 +1,14 @@
+# 1612 - Qakatha
+
+# County Title
+title = c_qakatha
+
+# Settlements
+max_settlements = 3
+b_qakatha = tribal
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

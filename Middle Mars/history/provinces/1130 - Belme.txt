@@ -1,0 +1,17 @@
+# 1130 - Belme
+
+# County Title
+title = c_belme
+
+# Settlements
+max_settlements = 5
+b_belme = castle
+b_lana = temple
+b_nolevan = city
+b_rebeen = castle
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

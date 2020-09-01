@@ -1,0 +1,15 @@
+# 600 - Deman
+
+# County Title
+title = c_deman
+
+# Settlements
+max_settlements = 3
+b_deman = castle
+b_tanayya = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

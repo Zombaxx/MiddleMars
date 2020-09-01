@@ -1,0 +1,15 @@
+# 586 - Terakrim
+
+# County Title
+title = c_terakrim
+
+# Settlements
+max_settlements = 5
+b_terakrim = tribal
+b_tyadure = temple
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

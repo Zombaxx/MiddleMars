@@ -1,0 +1,15 @@
+# 126 - Beynard
+
+# County Title
+title = c_beynard
+
+# Settlements
+max_settlements = 3
+b_beynard = castle
+b_kigenna = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

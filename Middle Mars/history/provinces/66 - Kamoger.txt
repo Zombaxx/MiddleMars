@@ -1,0 +1,16 @@
+# 66 - Kamoger
+
+# County Title
+title = c_kamoger
+
+# Settlements
+max_settlements = 4
+b_kamoger = castle
+b_navaim = temple
+b_ralanka = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

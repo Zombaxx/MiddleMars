@@ -1,0 +1,14 @@
+# 1754 - Sayamey
+
+# County Title
+title = c_sayamey
+
+# Settlements
+max_settlements = 4
+b_sayamey = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

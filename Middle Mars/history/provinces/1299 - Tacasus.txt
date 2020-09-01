@@ -1,0 +1,14 @@
+# 1299 - Tacasus
+
+# County Title
+title = c_tacasus
+
+# Settlements
+max_settlements = 3
+b_tacasus = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

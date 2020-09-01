@@ -1,0 +1,17 @@
+# 1253 - Kaboshi
+
+# County Title
+title = c_kaboshi
+
+# Settlements
+max_settlements = 5
+b_kaboshi = castle
+b_raboshi = temple
+b_reine = city
+b_telegh = castle
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

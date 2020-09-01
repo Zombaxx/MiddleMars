@@ -1,0 +1,16 @@
+# 138 - Abelim
+
+# County Title
+title = c_abelim
+
+# Settlements
+max_settlements = 4
+b_abelim = castle
+b_raseinn = temple
+b_saried = city
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

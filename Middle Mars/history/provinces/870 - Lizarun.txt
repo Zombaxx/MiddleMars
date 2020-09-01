@@ -1,0 +1,16 @@
+# 870 - Lizarun
+
+# County Title
+title = c_lizarun
+
+# Settlements
+max_settlements = 4
+b_lizarun = castle
+b_epirinu = temple
+b_nisite = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

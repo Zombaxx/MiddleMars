@@ -1,0 +1,15 @@
+# 1285 - Wupuna
+
+# County Title
+title = c_wupuna
+
+# Settlements
+max_settlements = 5
+b_wupuna = tribal
+b_lelahil = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

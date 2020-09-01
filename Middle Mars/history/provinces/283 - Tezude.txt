@@ -1,0 +1,15 @@
+# 283 - Tezude
+
+# County Title
+title = c_tezude
+
+# Settlements
+max_settlements = 1
+b_tezude = tribal
+b_qida = temple
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

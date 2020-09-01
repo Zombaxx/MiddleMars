@@ -1,0 +1,14 @@
+# 747 - Ledila
+
+# County Title
+title = c_ledila
+
+# Settlements
+max_settlements = 2
+b_ledila = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

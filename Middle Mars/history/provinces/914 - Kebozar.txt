@@ -1,0 +1,14 @@
+# 914 - Kebozar
+
+# County Title
+title = c_kebozar
+
+# Settlements
+max_settlements = 2
+b_kebozar = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

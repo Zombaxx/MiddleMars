@@ -1,0 +1,15 @@
+# 953 - Keupeta
+
+# County Title
+title = c_keupeta
+
+# Settlements
+max_settlements = 3
+b_keupeta = castle
+b_luleis = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

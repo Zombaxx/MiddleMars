@@ -1,0 +1,15 @@
+# 1434 - Dating
+
+# County Title
+title = c_dating
+
+# Settlements
+max_settlements = 3
+b_dating = castle
+b_ragolun = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

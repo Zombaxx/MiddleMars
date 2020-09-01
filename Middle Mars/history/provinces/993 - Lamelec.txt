@@ -1,0 +1,17 @@
+# 993 - Lamelec
+
+# County Title
+title = c_lamelec
+
+# Settlements
+max_settlements = 6
+b_lamelec = castle
+b_rasuda = temple
+b_bemyang = city
+b_daruda = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

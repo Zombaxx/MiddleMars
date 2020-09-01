@@ -1,0 +1,16 @@
+# 61 - Neneram
+
+# County Title
+title = c_neneram
+
+# Settlements
+max_settlements = 4
+b_neneram = castle
+b_reek = temple
+b_qakapal = city
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

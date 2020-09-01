@@ -1,0 +1,16 @@
+# 113 - Keis
+
+# County Title
+title = c_keis
+
+# Settlements
+max_settlements = 4
+b_keis = castle
+b_qenda = temple
+b_konyula = city
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

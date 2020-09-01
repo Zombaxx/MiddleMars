@@ -1,0 +1,14 @@
+# 1733 - Sepi
+
+# County Title
+title = c_sepi
+
+# Settlements
+max_settlements = 3
+b_sepi = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

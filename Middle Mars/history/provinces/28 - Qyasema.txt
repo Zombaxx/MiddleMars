@@ -1,0 +1,15 @@
+# 28 - Qyasema
+
+# County Title
+title = c_qyasema
+
+# Settlements
+max_settlements = 3
+b_qyasema = castle
+b_ronisa = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 127 - Ner-Ona
+
+# County Title
+title = c_ner-ona
+
+# Settlements
+max_settlements = 4
+b_ner-ona = castle
+b_bobolad = temple
+b_eboreth = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

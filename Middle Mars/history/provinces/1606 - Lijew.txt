@@ -1,0 +1,14 @@
+# 1606 - Lijew
+
+# County Title
+title = c_lijew
+
+# Settlements
+max_settlements = 2
+b_lijew = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

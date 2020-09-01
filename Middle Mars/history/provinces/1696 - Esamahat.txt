@@ -1,0 +1,14 @@
+# 1696 - Esamahat
+
+# County Title
+title = c_esamahat
+
+# Settlements
+max_settlements = 1
+b_esamahat = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

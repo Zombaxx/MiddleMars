@@ -1,0 +1,14 @@
+# 1636 - Wenava
+
+# County Title
+title = c_wenava
+
+# Settlements
+max_settlements = 2
+b_wenava = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

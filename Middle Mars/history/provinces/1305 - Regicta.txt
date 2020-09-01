@@ -1,0 +1,17 @@
+# 1305 - Regicta
+
+# County Title
+title = c_regicta
+
+# Settlements
+max_settlements = 6
+b_regicta = castle
+b_binalka = temple
+b_karins = city
+b_kesatha = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

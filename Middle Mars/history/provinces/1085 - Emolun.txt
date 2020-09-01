@@ -1,0 +1,18 @@
+# 1085 - Emolun
+
+# County Title
+title = c_emolun
+
+# Settlements
+max_settlements = 7
+b_emolun = castle
+b_lizuoxun = temple
+b_nal = city
+b_wadiisa = castle
+b_dyolozar = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

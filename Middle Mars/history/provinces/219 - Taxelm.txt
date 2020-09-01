@@ -1,0 +1,14 @@
+# 219 - Taxelm
+
+# County Title
+title = c_taxelm
+
+# Settlements
+max_settlements = 3
+b_taxelm = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

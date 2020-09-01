@@ -1,0 +1,17 @@
+# 1493 - Dyia
+
+# County Title
+title = c_dyia
+
+# Settlements
+max_settlements = 5
+b_dyia = castle
+b_riruna = temple
+b_sumeth = city
+b_kutela = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

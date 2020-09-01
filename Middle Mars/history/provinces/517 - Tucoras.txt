@@ -1,0 +1,15 @@
+# 517 - Tucoras
+
+# County Title
+title = c_tucoras
+
+# Settlements
+max_settlements = 3
+b_tucoras = castle
+b_kekoras = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

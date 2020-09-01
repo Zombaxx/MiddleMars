@@ -1,0 +1,16 @@
+# 26 - Teonie
+
+# County Title
+title = c_teonie
+
+# Settlements
+max_settlements = 4
+b_teonie = castle
+b_woninge = temple
+b_doratok = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

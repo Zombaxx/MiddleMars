@@ -1,0 +1,16 @@
+# 1092 - Tagita
+
+# County Title
+title = c_tagita
+
+# Settlements
+max_settlements = 4
+b_tagita = castle
+b_kibulk = temple
+b_ribelme = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

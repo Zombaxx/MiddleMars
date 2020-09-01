@@ -1,0 +1,17 @@
+# 1337 - Dadall
+
+# County Title
+title = c_dadall
+
+# Settlements
+max_settlements = 5
+b_dadall = castle
+b_taith = temple
+b_asonn = city
+b_kotashi = castle
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 54 - Ekloger
+
+# County Title
+title = c_ekloger
+
+# Settlements
+max_settlements = 4
+b_ekloger = castle
+b_eludeter = temple
+b_acoteek = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1729 - Kehaul
+
+# County Title
+title = c_kehaul
+
+# Settlements
+max_settlements = 3
+b_kehaul = tribal
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

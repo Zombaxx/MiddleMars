@@ -1,0 +1,14 @@
+# 1202 - Tuirn
+
+# County Title
+title = c_tuirn
+
+# Settlements
+max_settlements = 3
+b_tuirn = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

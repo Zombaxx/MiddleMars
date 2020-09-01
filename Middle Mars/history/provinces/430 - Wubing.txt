@@ -1,0 +1,14 @@
+# 430 - Wubing
+
+# County Title
+title = c_wubing
+
+# Settlements
+max_settlements = 2
+b_wubing = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

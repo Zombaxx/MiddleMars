@@ -1,0 +1,14 @@
+# 1753 - Rarulay
+
+# County Title
+title = c_rarulay
+
+# Settlements
+max_settlements = 4
+b_rarulay = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

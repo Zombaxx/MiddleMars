@@ -1,0 +1,15 @@
+# 1311 - Ryusian
+
+# County Title
+title = c_ryusian
+
+# Settlements
+max_settlements = 7
+b_ryusian = tribal
+b_kisitya = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

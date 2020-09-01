@@ -1,0 +1,15 @@
+# 1101 - Nilani
+
+# County Title
+title = c_nilani
+
+# Settlements
+max_settlements = 3
+b_nilani = castle
+b_dilarya = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

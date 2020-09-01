@@ -1,0 +1,14 @@
+# 470 - Balca
+
+# County Title
+title = c_balca
+
+# Settlements
+max_settlements = 2
+b_balca = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 885 - Damalda
+
+# County Title
+title = c_damalda
+
+# Settlements
+max_settlements = 4
+b_damalda = castle
+b_tosijah = temple
+b_wyasons = city
+
+# Misc
+culture = alan
+religion = shiite
+
+# History

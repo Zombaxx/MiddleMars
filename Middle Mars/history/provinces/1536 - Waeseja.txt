@@ -1,0 +1,16 @@
+# 1536 - Waeseja
+
+# County Title
+title = c_waeseja
+
+# Settlements
+max_settlements = 4
+b_waeseja = castle
+b_nisilay = temple
+b_atatinik = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

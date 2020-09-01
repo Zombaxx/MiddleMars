@@ -1,0 +1,16 @@
+# 1093 - Belgil
+
+# County Title
+title = c_belgil
+
+# Settlements
+max_settlements = 4
+b_belgil = castle
+b_apudo = temple
+b_libitta = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

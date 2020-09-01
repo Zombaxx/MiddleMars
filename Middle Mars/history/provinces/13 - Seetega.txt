@@ -1,0 +1,15 @@
+# 13 - Seetega
+
+# County Title
+title = c_seetega
+
+# Settlements
+max_settlements = 3
+b_seetega = castle
+b_lavuti = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

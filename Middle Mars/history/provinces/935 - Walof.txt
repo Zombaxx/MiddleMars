@@ -1,0 +1,15 @@
+# 935 - Walof
+
+# County Title
+title = c_walof
+
+# Settlements
+max_settlements = 6
+b_walof = tribal
+b_walato = temple
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

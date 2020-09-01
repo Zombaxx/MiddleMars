@@ -1,0 +1,15 @@
+# 606 - Weiraret
+
+# County Title
+title = c_weiraret
+
+# Settlements
+max_settlements = 3
+b_weiraret = castle
+b_doslan = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

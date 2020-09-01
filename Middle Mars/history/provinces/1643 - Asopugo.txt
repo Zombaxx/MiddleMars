@@ -1,0 +1,15 @@
+# 1643 - Asopugo
+
+# County Title
+title = c_asopugo
+
+# Settlements
+max_settlements = 3
+b_asopugo = castle
+b_kadine = temple
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

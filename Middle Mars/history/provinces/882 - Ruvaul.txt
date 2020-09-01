@@ -1,0 +1,14 @@
+# 882 - Ruvaul
+
+# County Title
+title = c_ruvaul
+
+# Settlements
+max_settlements = 3
+b_ruvaul = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

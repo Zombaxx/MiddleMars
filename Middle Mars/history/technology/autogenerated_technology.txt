@@ -1,0 +1,1155 @@
+# Alba Mons
+technology = {
+	titles = {
+		d_cymru
+		d_sussex
+		d_nalbin
+		d_acheron_fossae
+		d_brath
+		d_kyayuo
+		d_albion
+		d_alba_patera
+		d_south_alba
+		d_tantalus_fossae
+		d_alba_catena
+		d_cyane_fossae
+		d_avalon
+		d_alba_fossae
+		d_dis
+		d_ravius_valles
+		d_camelot
+		d_tristis
+		d_tanaica
+		d_wessex
+		d_west_alba
+		d_proserpina
+		d_north_alba
+		d_ascuris
+		d_labeatis_catena
+		d_skos
+		d_artyna_catena
+		d_anapos
+		d_rubicon_valles
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tempe Terra
+technology = {
+	titles = {
+		d_acheron
+		d_baphyras_islands
+		d_phlegethon
+		d_tartarus
+		d_styx
+		d_tractus_catena
+		d_uranius_tholus
+		d_lethe
+		d_uranius
+		d_nilokeras_scopulus
+		d_ceraunius_tholus
+		d_alfheim
+		d_charon
+		d_viking
+		d_helios
+		d_ceraunia
+		d_sharonov
+		d_antoninus
+		d_necromanteion
+		d_sampsiceramia
+		d_tempe_terra
+		d_zosimus
+		d_jotunheim
+		d_kassei_valles
+		d_tempe_fossae
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Olyumpus Mons
+technology = {
+	titles = {
+		d_olympica_fossae
+		d_sulci_gordii
+		d_gordii_fossae
+		d_caldeira
+		d_lofos
+		d_olympus_rupes
+		d_elassona
+		d_akropolis
+		d_pythio
+		d_olympus_mons
+		d_agios
+		d_lycus
+		d_cratere_pangboche
+		d_eurymedonia
+		d_gigas_sulci
+		d_gaia
+		d_titan
+		d_hoplite
+		d_hesiia
+		d_gigia
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Datta
+technology = {
+	titles = {
+		d_kinnunes
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Neomna
+technology = {
+	titles = {
+		d_karuti
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Dijasia
+technology = {
+	titles = {
+		d_tamafa
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Kijus
+technology = {
+	titles = {
+		d_raripac
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Noctis Fossae
+technology = {
+	titles = {
+		d_silica
+		d_claritas
+		d_hummock
+		d_nilus_dorsa
+		d_hesperia
+		d_fesenkov
+		d_tharsis_planum
+		d_noachia
+		d_echus_palus
+		d_fortuna_ridge
+		d_tharisis_tholus
+		d_claritas_fossae
+		d_echus_chasma
+		d_echus_planum
+		d_thulia
+		d_claritas_rise
+		d_noctis_fossae
+		d_fortuna_fossae
+		d_noctis_labyrinthus
+		d_tithonium_fossae
+		d_plume
+		d_ius_chasma
+		d_perrotin
+		d_tithonium_chasma
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tharsis Montes
+technology = {
+	titles = {
+		d_vitia
+		d_claud
+		d_laud
+		d_ceraunius_fossae
+		d_gemma
+		d_onyx
+		d_saxom
+		d_saltus
+		d_epirus
+		d_kaham
+		d_kubasin
+		d_illyria
+		d_rubra
+		d_kukath
+		d_teramus
+		d_poynting
+		d_ascraeus_mons
+		d_ceraunia
+		d_damur
+		d_pavonis_mons
+		d_wena
+		d_lomint
+		d_arsia_mons
+		d_bamolad
+		d_aganippe_fossa
+		d_sotogna
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Daedalia Planum
+technology = {
+	titles = {
+		d_caunos
+		d_tuzniq
+		d_biblis_tholes
+		d_ruena
+		d_kanyula
+		d_waba
+		d_rubyuan
+		d_rasavak
+		d_qimyuan
+		d_rarofie
+		d_wosirai
+		d_lefofie
+		d_notosz
+		d_rabdasin
+		d_kemyuan
+		d_bitoja
+		d_todena
+		d_aponint
+		d_kiegosz
+		d_lekeek
+		d_eponara
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Valles Marineris
+technology = {
+	titles = {
+		d_sosala
+		d_ranasad
+		d_qamavak
+		d_wohasad
+		d_bemala
+		d_bahala
+		d_rosucha
+		d_nilirai
+		d_roleter
+		d_ebozar
+		d_qanann
+		d_ebawyuan
+		d_nagutar
+		d_winuna
+		d_deineer
+		d_kathekko
+		d_nathilvi
+		d_toreth
+		d_ebayine
+		d_qyon
+		d_lumoyan
+		d_rarasad
+		d_amubasin
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Wamucha
+technology = {
+	titles = {
+		d_rohurna
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Lamurna
+technology = {
+	titles = {
+		d_dugua
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Solis Planum
+technology = {
+	titles = {
+		d_kumach
+		d_ejosirai
+		d_wolach
+		d_tomuke
+		d_demogna
+		d_abasava
+		d_solas
+		d_qefaya
+		d_qavava
+		d_eguolas
+		d_titint
+		d_south_marineris
+		d_solis_planum
+		d_tasathi
+		d_navunda
+		d_tuit
+		d_byaqana
+		d_deremha
+		d_edosz
+		d_dadew
+		d_tyaquke
+		d_kingdom0589
+		d_nuoja
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Avalena
+technology = {
+	titles = {
+		d_luke
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Aonia Terra
+technology = {
+	titles = {
+		d_tagenxiu
+		d_taluke
+		d_lilin
+		d_ratin
+		d_wuzana
+		d_behahar
+		d_todinde
+		d_satabha
+		d_sava
+		d_ajanedu
+		d_ejosari
+		d_tamaus
+		d_lasidia
+		d_tudach
+		d_dudari
+		d_laiida
+		d_qibuigi
+		d_keneram
+		d_kanisam
+		d_tudoriy
+		d_sibeek
+		d_kimaus
+		d_rarid
+		d_raveir
+		d_qavari
+		d_kilaya
+		d_seek
+		d_dilory
+		d_niceter
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Qanisam
+technology = {
+	titles = {
+		d_kibanna
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Logah
+technology = {
+	titles = {
+		d_noraimur
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Rabolon
+technology = {
+	titles = {
+		d_danyuan
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Terra Sirenum
+technology = {
+	titles = {
+		d_lathutar
+		d_damalta
+		d_reupend
+		d_bohasin
+		d_elaxying
+		d_duneir
+		d_walina
+		d_wemamini
+		d_nosucha
+		d_laryuan
+		d_daxopluk
+		d_bounava
+		d_eskeram
+		d_wodabha
+		d_remaya
+		d_nant
+		d_seretin
+		d_ananyuan
+		d_kobawa
+		d_kerefie
+		d_lefach
+		d_refaya
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Qarimha
+technology = {
+	titles = {
+		d_rani
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tyaqani
+technology = {
+	titles = {
+		d_renes
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# West Argyre
+technology = {
+	titles = {
+		d_reneth
+		d_biudvi
+		d_laliel
+		d_lubella
+		d_nukani
+		d_agosz
+		d_ladeloan
+		d_qaxualis
+		d_wenda
+		d_rardus
+		d_sanint
+		d_wifoan
+		d_argyre_island
+		d_elella
+		d_kavaha
+		d_enomamm
+		d_qenes
+		d_riklah
+		d_qosz
+		d_koruna
+		d_charitum
+		d_bonirek
+		d_roj
+		d_denes
+		d_katha
+		d_galle
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Terra Cimmeria
+technology = {
+	titles = {
+		d_waraja
+		d_qeitek
+		d_teripaz
+		d_agawani
+		d_tint
+		d_bodari
+		d_rilolas
+		d_rayya
+		d_kani
+		d_seodor
+		d_niruin
+		d_sicach
+		d_deodat
+		d_beruin
+		d_leupeir
+		d_eranann
+		d_weneuta
+		d_koja
+		d_asumoja
+		d_kedenda
+		d_doreuta
+		d_bodosz
+		d_ehjualis
+		d_qoruin
+		d_seir
+		d_atodonne
+		d_eketul
+		d_sunasa
+		d_edavana
+		d_tukeir
+		d_evaleek
+		d_wailm
+		d_lenarma
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tavaus
+technology = {
+	titles = {
+		d_qoza
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Wopali
+technology = {
+	titles = {
+		d_sopael
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Planum Australe
+technology = {
+	titles = {
+		d_dyunilda
+		d_tanael
+		d_kotanjor
+		d_ebayar
+		d_tadajan
+		d_waratan
+		d_tikine
+		d_binnam
+		d_sararma
+		d_liboska
+		d_alibine
+		d_qalofan
+		d_tasyana
+		d_raceda
+		d_eradoj
+		d_ultimum_chasma
+		d_lekirek
+		d_kotara
+		d_karasia
+		d_kifint
+		d_roja
+		d_reka
+		d_atena
+		d_ruke
+		d_kaba
+		d_daxint
+		d_sedoja
+		d_rena
+		d_nalew
+		d_qint
+		d_ruzoja
+		d_dodew
+		d_kibew
+		d_naxiska
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Kaday
+technology = {
+	titles = {
+		d_aradilii
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Ravamm
+technology = {
+	titles = {
+		d_kenalih
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Barahim
+technology = {
+	titles = {
+		d_emarund
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Ronuwe
+technology = {
+	titles = {
+		d_tekinio
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Noachis Terra
+technology = {
+	titles = {
+		d_dogah
+		d_tasahim
+		d_eder-ija
+		d_kodona
+		d_kucipac
+		d_rarandi
+		d_damyula
+		d_bakandi
+		d_lanna
+		d_lasaran
+		d_sara
+		d_dibisam
+		d_kazyula
+		d_lohille
+		d_kadeas
+		d_kaimaac
+		d_belobos
+		d_lahipa
+		d_segudan
+		d_narandi
+		d_waisida
+		d_ekehah
+		d_rotobos
+		d_kumaod
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Raod
+technology = {
+	titles = {
+		d_lyaud
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Elysian Island
+technology = {
+	titles = {
+		d_tuo
+		d_nanana
+		d_kalius
+		d_wyasovke
+		d_ragega
+		d_bega
+		d_kunanka
+		d_ralipa
+		d_rinork
+		d_qahovit
+		d_qunahad
+		d_naidipa
+		d_qekozar
+		d_toheka
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Kinipa
+technology = {
+	titles = {
+		d_nadecca
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Ariami
+technology = {
+	titles = {
+		d_sakayada
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Araa
+technology = {
+	titles = {
+		d_wonik
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tagazi
+technology = {
+	titles = {
+		d_nagiami
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Qadaret
+technology = {
+	titles = {
+		d_ekayada
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Nie
+technology = {
+	titles = {
+		d_takaret
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Hellas
+technology = {
+	titles = {
+		d_keer
+		d_asara
+		d_qazara
+		d_ekunatok
+		d_tiel
+		d_quleru
+		d_nauluke
+		d_kama
+		d_tamara
+		d_korazi
+		d_begille
+		d_rudan
+		d_riteka
+		d_asyana
+		d_wajaicu
+		d_waxohn
+		d_lieltun
+		d_qiraud
+		d_tojan
+		d_qieleka
+		d_qorava
+		d_laufwar
+		d_taatun
+		d_bielan
+		d_eneetana
+		d_lakisa
+		d_dezayor
+		d_lijoman
+		d_ekepi
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Hesperia Planum
+technology = {
+	titles = {
+		d_lema
+		d_noreye
+		d_kakstu
+		d_andutar
+		d_kehosai
+		d_badudan
+		d_kanoda
+		d_enahar
+		d_qosai
+		d_qahuda
+		d_tamosai
+		d_wain
+		d_deluda
+		d_kingdom1547
+		d_wurork
+		d_ehyer
+		d_womalo
+		d_lamacob
+		d_bulain
+		d_rakudan
+		d_norarde
+		d_qyaseka
+		d_tojita
+		d_kucho
+		d_koto
+		d_bayasia
+		d_kararia
+		d_kudan
+		d_byasudan
+		d_domyi
+		d_kehelo
+		d_qanuo
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tawina
+technology = {
+	titles = {
+		d_qadobos
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Kareba
+technology = {
+	titles = {
+		d_kelura
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Dakourou
+technology = {
+	titles = {
+		d_tabduida
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Ekarandi
+technology = {
+	titles = {
+		d_ekumasia
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Liris Valles
+technology = {
+	titles = {
+		d_namijah
+		d_tecanna
+		d_kabipa
+		d_teganca
+		d_revoor
+		d_taydam
+		d_dinita
+		d_tayduti
+		d_nelarma
+		d_regaham
+		d_nibona
+		d_rinnaim
+		d_baranca
+		d_enenla
+		d_kaluo
+		d_etsarde
+		d_karega
+		d_torita
+		d_tevakk
+		d_ryerassa
+		d_beoek
+		d_kecumna
+		d_ramatas
+		d_lyuvodis
+		d_kisodis
+		d_latema
+		d_qegork
+		d_wawfiq
+		d_aroda
+		d_kanavid
+		d_ruju
+		d_birania
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Tyrrhena Terra
+technology = {
+	titles = {
+		d_laarilii
+		d_enasata
+		d_kabar
+		d_banobos
+		d_kajan
+		d_kasyeju
+		d_lodobos
+		d_tadandi
+		d_belina
+		d_kuberim
+		d_kikandi
+		d_rasasia
+		d_sakobos
+		d_bamijah
+		d_wiraja
+		d_qelar
+		d_wararam
+		d_kanarie
+		d_tabafa
+		d_bimavak
+		d_kijipac
+		d_abdoljo
+		d_kemath
+		d_nuboras
+		d_esohunno
+		d_amucacob
+		d_robabib
+		d_ecrerfn
+		d_nebierr
+		d_akojandi
+		d_digund
+		d_ducaht
+		d_tusita
+		d_ebing
+		d_baraht
+		d_erogoljo
+		d_ejawasia
+		d_qarar
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Sanana
+technology = {
+	titles = {
+		d_bulana
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Banoda
+technology = {
+	titles = {
+		d_kyaytok
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Kyyana
+technology = {
+	titles = {
+		d_etoda
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Terra Sabaea
+technology = {
+	titles = {
+		d_saracob
+		d_lekovke
+		d_tepi
+		d_qajork
+		d_numenda
+		d_ejayaman
+		d_tajinat
+		d_doholjo
+		d_qanorg
+		d_tajacob
+		d_layaret
+		d_tagit
+		d_emumaret
+		d_bajiuva
+		d_navaicu
+		d_nanetar
+		d_kamijah
+		d_kaxaret
+		d_rubacob
+		d_toseka
+		d_banele
+		d_relory
+		d_bosathi
+		d_windudan
+		d_enduo
+		d_avasory
+		d_lanucho
+		d_aksemn
+		d_tasong
+		d_rinudan
+		d_wunim
+		d_nadund
+		d_beloda
+		d_dehund
+		d_belarde
+		d_abodaret
+		d_keetdat
+		d_tapo
+		d_tedine
+		d_wotoan
+		d_nahita
+		d_kumuko
+		d_rarayla
+		d_eita
+		d_wyunoljo
+		d_taracob
+		d_sarerdeg
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+

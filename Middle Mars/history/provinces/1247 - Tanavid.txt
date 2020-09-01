@@ -1,0 +1,14 @@
+# 1247 - Tanavid
+
+# County Title
+title = c_tanavid
+
+# Settlements
+max_settlements = 3
+b_tanavid = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

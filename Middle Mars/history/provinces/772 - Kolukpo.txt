@@ -1,0 +1,16 @@
+# 772 - Kolukpo
+
+# County Title
+title = c_kolukpo
+
+# Settlements
+max_settlements = 4
+b_kolukpo = castle
+b_woucner = temple
+b_nion = city
+
+# Misc
+culture = castillan
+religion = shiite
+
+# History

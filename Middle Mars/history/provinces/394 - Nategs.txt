@@ -1,0 +1,14 @@
+# 394 - Nategs
+
+# County Title
+title = c_nategs
+
+# Settlements
+max_settlements = 2
+b_nategs = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

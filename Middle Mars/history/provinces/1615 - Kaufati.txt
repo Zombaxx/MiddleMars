@@ -1,0 +1,15 @@
+# 1615 - Kaufati
+
+# County Title
+title = c_kaufati
+
+# Settlements
+max_settlements = 3
+b_kaufati = castle
+b_eglevpal = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

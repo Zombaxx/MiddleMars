@@ -1,0 +1,16 @@
+# 1488 - Neineth
+
+# County Title
+title = c_neineth
+
+# Settlements
+max_settlements = 4
+b_neineth = castle
+b_ebareva = temple
+b_lenatha = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

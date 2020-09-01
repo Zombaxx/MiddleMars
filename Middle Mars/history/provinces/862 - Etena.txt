@@ -1,0 +1,15 @@
+# 862 - Etena
+
+# County Title
+title = c_etena
+
+# Settlements
+max_settlements = 3
+b_etena = castle
+b_ralong = temple
+
+# Misc
+culture = alan
+religion = shiite
+
+# History

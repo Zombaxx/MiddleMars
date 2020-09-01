@@ -1,0 +1,17 @@
+# 800 - Tautaac
+
+# County Title
+title = c_tautaac
+
+# Settlements
+max_settlements = 5
+b_tautaac = castle
+b_emohakin = temple
+b_laremba = city
+b_keenomo = castle
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

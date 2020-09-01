@@ -1,0 +1,14 @@
+# 442 - Kavion
+
+# County Title
+title = c_kavion
+
+# Settlements
+max_settlements = 4
+b_kavion = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

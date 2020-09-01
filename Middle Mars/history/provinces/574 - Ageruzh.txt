@@ -1,0 +1,14 @@
+# 574 - Ageruzh
+
+# County Title
+title = c_ageruzh
+
+# Settlements
+max_settlements = 2
+b_ageruzh = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

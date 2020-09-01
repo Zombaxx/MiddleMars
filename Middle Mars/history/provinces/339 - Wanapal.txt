@@ -1,0 +1,14 @@
+# 339 - Wanapal
+
+# County Title
+title = c_wanapal
+
+# Settlements
+max_settlements = 1
+b_wanapal = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

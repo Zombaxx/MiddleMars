@@ -1,0 +1,16 @@
+# 629 - Qyevons
+
+# County Title
+title = c_qyevons
+
+# Settlements
+max_settlements = 4
+b_qyevons = castle
+b_teraria = temple
+b_sanara = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

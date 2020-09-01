@@ -1,0 +1,14 @@
+# 368 - Renain
+
+# County Title
+title = c_renain
+
+# Settlements
+max_settlements = 2
+b_renain = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

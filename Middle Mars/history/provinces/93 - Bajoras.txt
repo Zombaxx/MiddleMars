@@ -1,0 +1,17 @@
+# 93 - Bajoras
+
+# County Title
+title = c_bajoras
+
+# Settlements
+max_settlements = 5
+b_bajoras = castle
+b_najiuva = temple
+b_anaryla = city
+b_tajiuva = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

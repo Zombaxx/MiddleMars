@@ -1,0 +1,14 @@
+# 1565 - Sibuis
+
+# County Title
+title = c_sibuis
+
+# Settlements
+max_settlements = 3
+b_sibuis = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

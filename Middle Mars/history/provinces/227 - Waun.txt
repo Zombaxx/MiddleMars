@@ -1,0 +1,15 @@
+# 227 - Waun
+
+# County Title
+title = c_waun
+
+# Settlements
+max_settlements = 3
+b_waun = castle
+b_kelila = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

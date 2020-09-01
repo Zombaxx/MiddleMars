@@ -1,0 +1,15 @@
+# 894 - Roanory
+
+# County Title
+title = c_roanory
+
+# Settlements
+max_settlements = 6
+b_roanory = tribal
+b_qaremba = temple
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

@@ -1,0 +1,17 @@
+# 1319 - Bumann
+
+# County Title
+title = c_bumann
+
+# Settlements
+max_settlements = 6
+b_bumann = castle
+b_tehana = temple
+b_wusbu = city
+b_sonennu = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

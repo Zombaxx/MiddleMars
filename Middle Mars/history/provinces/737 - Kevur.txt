@@ -1,0 +1,15 @@
+# 737 - Kevur
+
+# County Title
+title = c_kevur
+
+# Settlements
+max_settlements = 3
+b_kevur = castle
+b_negs = temple
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 329 - Tautigun
+
+# County Title
+title = c_tautigun
+
+# Settlements
+max_settlements = 2
+b_tautigun = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

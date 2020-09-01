@@ -1,0 +1,17 @@
+# 1369 - Wilomas
+
+# County Title
+title = c_wilomas
+
+# Settlements
+max_settlements = 5
+b_wilomas = castle
+b_egajomez = temple
+b_najomez = city
+b_asimar = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

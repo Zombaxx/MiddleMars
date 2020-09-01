@@ -1,0 +1,16 @@
+# 81 - Katasa
+
+# County Title
+title = c_katasa
+
+# Settlements
+max_settlements = 4
+b_katasa = castle
+b_sekasa = temple
+b_karaya = city
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

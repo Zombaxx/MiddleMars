@@ -1,0 +1,16 @@
+# 75 - Latheek
+
+# County Title
+title = c_latheek
+
+# Settlements
+max_settlements = 4
+b_latheek = castle
+b_tielbat = temple
+b_tikobos = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

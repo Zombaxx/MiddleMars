@@ -1,0 +1,15 @@
+# 165 - Apyad
+
+# County Title
+title = c_apyad
+
+# Settlements
+max_settlements = 3
+b_apyad = castle
+b_taesigo = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1409 - Telite
+
+# County Title
+title = c_telite
+
+# Settlements
+max_settlements = 3
+b_telite = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

@@ -1,0 +1,16 @@
+# 103 - Bizarya
+
+# County Title
+title = c_bizarya
+
+# Settlements
+max_settlements = 4
+b_bizarya = castle
+b_sata = temple
+b_bodahar = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

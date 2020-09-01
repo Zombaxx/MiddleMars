@@ -1,0 +1,14 @@
+# 748 - Risuall
+
+# County Title
+title = c_risuall
+
+# Settlements
+max_settlements = 4
+b_risuall = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

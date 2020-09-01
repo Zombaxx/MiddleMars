@@ -1,0 +1,16 @@
+# 603 - Kagina
+
+# County Title
+title = c_kagina
+
+# Settlements
+max_settlements = 4
+b_kagina = castle
+b_wimahat = temple
+b_wosigo = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

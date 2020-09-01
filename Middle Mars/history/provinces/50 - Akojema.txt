@@ -1,0 +1,16 @@
+# 50 - Akojema
+
+# County Title
+title = c_akojema
+
+# Settlements
+max_settlements = 4
+b_akojema = castle
+b_tantoor = temple
+b_anyo = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

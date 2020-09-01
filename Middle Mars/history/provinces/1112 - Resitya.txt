@@ -1,0 +1,15 @@
+# 1112 - Resitya
+
+# County Title
+title = c_resitya
+
+# Settlements
+max_settlements = 5
+b_resitya = tribal
+b_ajolyana = temple
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

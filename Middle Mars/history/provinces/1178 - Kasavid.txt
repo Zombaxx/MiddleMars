@@ -1,0 +1,14 @@
+# 1178 - Kasavid
+
+# County Title
+title = c_kasavid
+
+# Settlements
+max_settlements = 3
+b_kasavid = tribal
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

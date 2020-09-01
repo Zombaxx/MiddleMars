@@ -1,0 +1,14 @@
+# 1363 - Biutl
+
+# County Title
+title = c_biutl
+
+# Settlements
+max_settlements = 2
+b_biutl = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

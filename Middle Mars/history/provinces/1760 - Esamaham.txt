@@ -1,0 +1,15 @@
+# 1760 - Esamaham
+
+# County Title
+title = c_esamaham
+
+# Settlements
+max_settlements = 5
+b_esamaham = tribal
+b_elellet = temple
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 675 - Riin
+
+# County Title
+title = c_riin
+
+# Settlements
+max_settlements = 4
+b_riin = castle
+b_sanardin = temple
+b_tagathi = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

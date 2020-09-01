@@ -1,0 +1,14 @@
+# 1328 - Kerule
+
+# County Title
+title = c_kerule
+
+# Settlements
+max_settlements = 3
+b_kerule = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

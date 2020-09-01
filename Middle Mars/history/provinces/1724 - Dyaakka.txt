@@ -1,0 +1,14 @@
+# 1724 - Dyaakka
+
+# County Title
+title = c_dyaakka
+
+# Settlements
+max_settlements = 1
+b_dyaakka = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

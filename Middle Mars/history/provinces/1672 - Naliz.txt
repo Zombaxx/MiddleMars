@@ -1,0 +1,14 @@
+# 1672 - Naliz
+
+# County Title
+title = c_naliz
+
+# Settlements
+max_settlements = 2
+b_naliz = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 1702 - Tideva
+
+# County Title
+title = c_tideva
+
+# Settlements
+max_settlements = 4
+b_tideva = castle
+b_aluuliga = temple
+b_recond = city
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

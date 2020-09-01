@@ -1,0 +1,17 @@
+# 1439 - Ecotirma
+
+# County Title
+title = c_ecotirma
+
+# Settlements
+max_settlements = 5
+b_ecotirma = castle
+b_bekidia = temple
+b_waair = city
+b_qarukmo = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

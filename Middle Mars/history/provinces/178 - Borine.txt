@@ -1,0 +1,16 @@
+# 178 - Borine
+
+# County Title
+title = c_borine
+
+# Settlements
+max_settlements = 4
+b_borine = castle
+b_roban = temple
+b_qudedek = city
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

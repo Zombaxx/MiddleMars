@@ -1,0 +1,14 @@
+# 987 - Temukpo
+
+# County Title
+title = c_temukpo
+
+# Settlements
+max_settlements = 3
+b_temukpo = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

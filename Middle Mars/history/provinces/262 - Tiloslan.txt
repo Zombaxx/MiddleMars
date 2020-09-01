@@ -1,0 +1,15 @@
+# 262 - Tiloslan
+
+# County Title
+title = c_tiloslan
+
+# Settlements
+max_settlements = 3
+b_tiloslan = castle
+b_keuin = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

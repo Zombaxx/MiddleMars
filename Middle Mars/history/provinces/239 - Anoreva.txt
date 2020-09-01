@@ -1,0 +1,16 @@
+# 239 - Anoreva
+
+# County Title
+title = c_anoreva
+
+# Settlements
+max_settlements = 4
+b_anoreva = castle
+b_bemian = temple
+b_sarava = city
+
+# Misc
+culture = ethiopian
+religion = norse_pagan
+
+# History

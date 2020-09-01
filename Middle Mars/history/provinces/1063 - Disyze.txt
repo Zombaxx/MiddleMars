@@ -1,0 +1,14 @@
+# 1063 - Disyze
+
+# County Title
+title = c_disyze
+
+# Settlements
+max_settlements = 3
+b_disyze = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

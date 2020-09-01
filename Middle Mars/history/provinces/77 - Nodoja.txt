@@ -1,0 +1,16 @@
+# 77 - Nodoja
+
+# County Title
+title = c_nodoja
+
+# Settlements
+max_settlements = 4
+b_nodoja = castle
+b_ranana = temple
+b_kuarani = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

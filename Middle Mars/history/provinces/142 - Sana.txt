@@ -1,0 +1,17 @@
+# 142 - Sana
+
+# County Title
+title = c_sana
+
+# Settlements
+max_settlements = 5
+b_sana = castle
+b_asuducho = temple
+b_nanodis = city
+b_nagija = castle
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

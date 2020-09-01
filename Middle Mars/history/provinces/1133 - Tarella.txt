@@ -1,0 +1,17 @@
+# 1133 - Tarella
+
+# County Title
+title = c_tarella
+
+# Settlements
+max_settlements = 5
+b_tarella = castle
+b_taojn = temple
+b_raulone = city
+b_kebautas = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

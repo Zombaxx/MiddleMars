@@ -1,0 +1,16 @@
+# 896 - Samiam
+
+# County Title
+title = c_samiam
+
+# Settlements
+max_settlements = 4
+b_samiam = castle
+b_ewaleyn = temple
+b_atyanya = city
+
+# Misc
+culture = castillan
+religion = pagan
+
+# History

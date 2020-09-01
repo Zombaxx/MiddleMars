@@ -1,0 +1,17 @@
+# 106 - Wella
+
+# County Title
+title = c_wella
+
+# Settlements
+max_settlements = 5
+b_wella = castle
+b_tiorefan = temple
+b_takagnus = city
+b_babha = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

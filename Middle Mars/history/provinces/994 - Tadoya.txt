@@ -1,0 +1,14 @@
+# 994 - Tadoya
+
+# County Title
+title = c_tadoya
+
+# Settlements
+max_settlements = 3
+b_tadoya = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

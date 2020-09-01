@@ -1,0 +1,16 @@
+# 1656 - Byouska
+
+# County Title
+title = c_byouska
+
+# Settlements
+max_settlements = 4
+b_byouska = castle
+b_qusela = temple
+b_reubela = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

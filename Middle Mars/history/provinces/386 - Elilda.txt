@@ -1,0 +1,14 @@
+# 386 - Elilda
+
+# County Title
+title = c_elilda
+
+# Settlements
+max_settlements = 2
+b_elilda = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

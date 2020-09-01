@@ -1,0 +1,17 @@
+# 1406 - Asaulaha
+
+# County Title
+title = c_asaulaha
+
+# Settlements
+max_settlements = 6
+b_asaulaha = castle
+b_kaulaha = temple
+b_dugaha = city
+b_nacay = castle
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

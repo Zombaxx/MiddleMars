@@ -1,0 +1,14 @@
+# 1494 - Loputlu
+
+# County Title
+title = c_loputlu
+
+# Settlements
+max_settlements = 4
+b_loputlu = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

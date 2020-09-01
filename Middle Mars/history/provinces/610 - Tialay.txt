@@ -1,0 +1,15 @@
+# 610 - Tialay
+
+# County Title
+title = c_tialay
+
+# Settlements
+max_settlements = 3
+b_tialay = castle
+b_ebulesse = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

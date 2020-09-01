@@ -1,0 +1,15 @@
+# 1144 - Naruin
+
+# County Title
+title = c_naruin
+
+# Settlements
+max_settlements = 3
+b_naruin = castle
+b_lina = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

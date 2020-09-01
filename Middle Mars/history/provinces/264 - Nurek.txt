@@ -1,0 +1,14 @@
+# 264 - Nurek
+
+# County Title
+title = c_nurek
+
+# Settlements
+max_settlements = 2
+b_nurek = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

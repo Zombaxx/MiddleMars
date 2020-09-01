@@ -1,0 +1,17 @@
+# 1332 - Telobos
+
+# County Title
+title = c_telobos
+
+# Settlements
+max_settlements = 5
+b_telobos = castle
+b_lyoz = temple
+b_bomirun = city
+b_karakh = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

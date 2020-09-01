@@ -1,0 +1,14 @@
+# 711 - Tanelen
+
+# County Title
+title = c_tanelen
+
+# Settlements
+max_settlements = 2
+b_tanelen = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

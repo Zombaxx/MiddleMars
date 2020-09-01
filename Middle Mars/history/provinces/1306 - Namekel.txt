@@ -1,0 +1,17 @@
+# 1306 - Namekel
+
+# County Title
+title = c_namekel
+
+# Settlements
+max_settlements = 5
+b_namekel = castle
+b_ribajid = temple
+b_dorunda = city
+b_wilohn = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

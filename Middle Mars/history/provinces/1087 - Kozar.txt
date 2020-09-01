@@ -1,0 +1,14 @@
+# 1087 - Kozar
+
+# County Title
+title = c_kozar
+
+# Settlements
+max_settlements = 3
+b_kozar = tribal
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

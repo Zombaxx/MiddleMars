@@ -1,0 +1,14 @@
+# 1560 - Adunite
+
+# County Title
+title = c_adunite
+
+# Settlements
+max_settlements = 3
+b_adunite = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

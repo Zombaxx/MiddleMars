@@ -1,0 +1,14 @@
+# 687 - Ducune
+
+# County Title
+title = c_ducune
+
+# Settlements
+max_settlements = 4
+b_ducune = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

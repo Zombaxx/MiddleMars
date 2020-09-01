@@ -1,0 +1,14 @@
+# 1239 - Navid
+
+# County Title
+title = c_navid
+
+# Settlements
+max_settlements = 4
+b_navid = tribal
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

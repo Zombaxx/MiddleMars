@@ -1,0 +1,14 @@
+# 691 - Lagita
+
+# County Title
+title = c_lagita
+
+# Settlements
+max_settlements = 4
+b_lagita = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

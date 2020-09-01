@@ -1,0 +1,15 @@
+# 945 - Tevuta
+
+# County Title
+title = c_tevuta
+
+# Settlements
+max_settlements = 6
+b_tevuta = tribal
+b_kumamis = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

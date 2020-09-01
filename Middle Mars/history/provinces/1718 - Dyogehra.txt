@@ -1,0 +1,16 @@
+# 1718 - Dyogehra
+
+# County Title
+title = c_dyogehra
+
+# Settlements
+max_settlements = 4
+b_dyogehra = castle
+b_nolyla = temple
+b_tetian = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

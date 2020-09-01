@@ -1,0 +1,14 @@
+# 1703 - Tunil
+
+# County Title
+title = c_tunil
+
+# Settlements
+max_settlements = 1
+b_tunil = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 1269 - Dupou
+
+# County Title
+title = c_dupou
+
+# Settlements
+max_settlements = 3
+b_dupou = tribal
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

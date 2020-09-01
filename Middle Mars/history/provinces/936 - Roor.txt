@@ -1,0 +1,16 @@
+# 936 - Roor
+
+# County Title
+title = c_roor
+
+# Settlements
+max_settlements = 4
+b_roor = castle
+b_kemelmo = temple
+b_belmo = city
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

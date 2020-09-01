@@ -1,0 +1,14 @@
+# 1691 - Tasafa
+
+# County Title
+title = c_tasafa
+
+# Settlements
+max_settlements = 2
+b_tasafa = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

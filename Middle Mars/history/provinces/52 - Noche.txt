@@ -1,0 +1,16 @@
+# 52 - Noche
+
+# County Title
+title = c_noche
+
+# Settlements
+max_settlements = 4
+b_noche = castle
+b_echomeus = temple
+b_balayla = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

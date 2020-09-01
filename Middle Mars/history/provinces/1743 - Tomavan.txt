@@ -1,0 +1,14 @@
+# 1743 - Tomavan
+
+# County Title
+title = c_tomavan
+
+# Settlements
+max_settlements = 3
+b_tomavan = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

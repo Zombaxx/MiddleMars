@@ -1,0 +1,15 @@
+# 1274 - Rilalil
+
+# County Title
+title = c_rilalil
+
+# Settlements
+max_settlements = 3
+b_rilalil = castle
+b_tegeri = temple
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

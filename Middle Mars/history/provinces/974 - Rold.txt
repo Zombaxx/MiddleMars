@@ -1,0 +1,17 @@
+# 974 - Rold
+
+# County Title
+title = c_rold
+
+# Settlements
+max_settlements = 6
+b_rold = castle
+b_duara = temple
+b_bivilan = city
+b_nilami = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

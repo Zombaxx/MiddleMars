@@ -1,0 +1,14 @@
+# 1384 - Akad
+
+# County Title
+title = c_akad
+
+# Settlements
+max_settlements = 4
+b_akad = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

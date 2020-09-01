@@ -1,0 +1,15 @@
+# 73 - Doyan
+
+# County Title
+title = c_doyan
+
+# Settlements
+max_settlements = 5
+b_doyan = tribal
+b_rajory = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 852 - Ajobuida
+
+# County Title
+title = c_ajobuida
+
+# Settlements
+max_settlements = 7
+b_ajobuida = tribal
+b_ralaneh = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

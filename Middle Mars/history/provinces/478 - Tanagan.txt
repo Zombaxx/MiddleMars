@@ -1,0 +1,14 @@
+# 478 - Tanagan
+
+# County Title
+title = c_tanagan
+
+# Settlements
+max_settlements = 3
+b_tanagan = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

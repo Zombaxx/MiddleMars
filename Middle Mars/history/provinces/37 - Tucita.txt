@@ -1,0 +1,15 @@
+# 37 - Tucita
+
+# County Title
+title = c_tucita
+
+# Settlements
+max_settlements = 3
+b_tucita = castle
+b_nogijah = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

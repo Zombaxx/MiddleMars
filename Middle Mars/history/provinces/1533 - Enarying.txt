@@ -1,0 +1,15 @@
+# 1533 - Enarying
+
+# County Title
+title = c_enarying
+
+# Settlements
+max_settlements = 3
+b_enarying = castle
+b_rehalku = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

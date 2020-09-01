@@ -1,0 +1,17 @@
+# 799 - Benegs
+
+# County Title
+title = c_benegs
+
+# Settlements
+max_settlements = 5
+b_benegs = castle
+b_tuinoan = temple
+b_arenaide = city
+b_saconas = castle
+
+# Misc
+culture = castillan
+religion = shiite
+
+# History

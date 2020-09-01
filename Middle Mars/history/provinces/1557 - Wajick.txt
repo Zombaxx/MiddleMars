@@ -1,0 +1,16 @@
+# 1557 - Wajick
+
+# County Title
+title = c_wajick
+
+# Settlements
+max_settlements = 4
+b_wajick = castle
+b_atusbu = temple
+b_kyeh = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

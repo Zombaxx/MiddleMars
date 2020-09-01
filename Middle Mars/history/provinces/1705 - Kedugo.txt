@@ -1,0 +1,16 @@
+# 1705 - Kedugo
+
+# County Title
+title = c_kedugo
+
+# Settlements
+max_settlements = 4
+b_kedugo = castle
+b_saydoda = temple
+b_raodina = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

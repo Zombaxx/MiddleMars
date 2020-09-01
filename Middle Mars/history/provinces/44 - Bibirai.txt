@@ -1,0 +1,15 @@
+# 44 - Bibirai
+
+# County Title
+title = c_bibirai
+
+# Settlements
+max_settlements = 3
+b_bibirai = castle
+b_necijah = temple
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 267 - Qamaut
+
+# County Title
+title = c_qamaut
+
+# Settlements
+max_settlements = 2
+b_qamaut = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

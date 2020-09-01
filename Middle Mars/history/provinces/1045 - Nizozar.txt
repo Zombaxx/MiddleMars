@@ -1,0 +1,14 @@
+# 1045 - Nizozar
+
+# County Title
+title = c_nizozar
+
+# Settlements
+max_settlements = 2
+b_nizozar = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

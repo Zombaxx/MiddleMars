@@ -1,0 +1,14 @@
+# 1057 - Bolimon
+
+# County Title
+title = c_bolimon
+
+# Settlements
+max_settlements = 3
+b_bolimon = tribal
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

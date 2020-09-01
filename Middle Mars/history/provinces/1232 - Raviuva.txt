@@ -1,0 +1,14 @@
+# 1232 - Raviuva
+
+# County Title
+title = c_raviuva
+
+# Settlements
+max_settlements = 3
+b_raviuva = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1397 - Bitene
+
+# County Title
+title = c_bitene
+
+# Settlements
+max_settlements = 5
+b_bitene = castle
+b_kistof = temple
+b_dodund = city
+b_kelatan = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

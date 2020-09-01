@@ -1,0 +1,15 @@
+# 865 - Linon
+
+# County Title
+title = c_linon
+
+# Settlements
+max_settlements = 5
+b_linon = tribal
+b_dotislav = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

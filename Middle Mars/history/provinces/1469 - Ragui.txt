@@ -1,0 +1,15 @@
+# 1469 - Ragui
+
+# County Title
+title = c_ragui
+
+# Settlements
+max_settlements = 2
+b_ragui = castle
+b_revasus = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

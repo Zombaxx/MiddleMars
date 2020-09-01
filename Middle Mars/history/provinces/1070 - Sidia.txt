@@ -1,0 +1,15 @@
+# 1070 - Sidia
+
+# County Title
+title = c_sidia
+
+# Settlements
+max_settlements = 3
+b_sidia = castle
+b_tofidia = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 415 - Raleth
+
+# County Title
+title = c_raleth
+
+# Settlements
+max_settlements = 3
+b_raleth = castle
+b_bajurna = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 924 - Epamalka
+
+# County Title
+title = c_epamalka
+
+# Settlements
+max_settlements = 2
+b_epamalka = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

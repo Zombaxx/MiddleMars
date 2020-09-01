@@ -1,0 +1,16 @@
+# 132 - Dalimon
+
+# County Title
+title = c_dalimon
+
+# Settlements
+max_settlements = 4
+b_dalimon = castle
+b_lamaim = temple
+b_bamella = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

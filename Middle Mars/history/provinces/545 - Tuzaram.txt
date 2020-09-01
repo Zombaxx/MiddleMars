@@ -1,0 +1,15 @@
+# 545 - Tuzaram
+
+# County Title
+title = c_tuzaram
+
+# Settlements
+max_settlements = 3
+b_tuzaram = castle
+b_eseyahat = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,15 @@
+# 1585 - Numencia
+
+# County Title
+title = c_numencia
+
+# Settlements
+max_settlements = 3
+b_numencia = castle
+b_alilisii = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

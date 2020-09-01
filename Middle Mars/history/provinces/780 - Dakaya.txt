@@ -1,0 +1,14 @@
+# 780 - Dakaya
+
+# County Title
+title = c_dakaya
+
+# Settlements
+max_settlements = 3
+b_dakaya = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

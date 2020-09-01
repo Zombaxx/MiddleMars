@@ -1,0 +1,441 @@
+# Geographical regions
+world_alba_mons = {
+	duchies = {
+		# k_cyane_fossae
+		d_kyayuo d_dis d_proserpina d_anapos d_cyane_fossae 
+		# k_west_alba
+		d_acheron_fossae d_alba_catena d_wessex d_skos d_west_alba 
+		# k_north_alba
+		d_ravius_valles d_camelot d_tristis d_artyna_catena d_rubicon_valles d_north_alba 
+		# k_ascuris
+		d_tantalus_fossae d_avalon d_alba_fossae d_tanaica d_labeatis_catena d_ascuris 
+		# k_south_alba
+		d_cymru d_sussex d_nalbin d_brath d_albion d_alba_patera d_south_alba 
+	}
+}
+world_tempe_terra = {
+	duchies = {
+		# k_acheron
+		d_phlegethon d_tartarus d_styx d_lethe d_charon d_helios d_necromanteion d_acheron 
+		# k_baphyras_islands
+		d_baphyras_islands 
+		# k_uranius
+		d_tractus_catena d_uranius_tholus d_ceraunius_tholus d_alfheim d_ceraunia d_antoninus d_sampsiceramia d_zosimus d_uranius 
+		# k_tempe_terra
+		d_nilokeras_scopulus d_viking d_sharonov d_jotunheim d_kassei_valles d_tempe_fossae d_tempe_terra 
+	}
+}
+world_olyumpus_mons = {
+	duchies = {
+		# k_olympica_fossae
+		d_sulci_gordii d_gordii_fossae d_lofos d_elassona d_olympica_fossae 
+		# k_gigas_sulci
+		d_eurymedonia d_gaia d_titan d_hoplite d_hesiia d_gigia d_gigas_sulci 
+		# k_olyumpus_mons
+		d_caldeira d_olympus_rupes d_akropolis d_pythio d_agios d_lycus d_cratere_pangboche d_olympus_mons 
+	}
+}
+world_datta = {
+	duchies = {
+		# k_levuti
+		d_kinnunes 
+	}
+}
+world_neomna = {
+	duchies = {
+		# k_kayduna
+		d_karuti 
+	}
+}
+world_dijasia = {
+	duchies = {
+		# k_wukath
+		d_tamafa 
+	}
+}
+world_kijus = {
+	duchies = {
+		# k_ripac
+		d_raripac 
+	}
+}
+world_noctis_fossae = {
+	duchies = {
+		# k_tharsis_tholus
+		d_hummock d_nilus_dorsa d_fesenkov d_echus_palus d_fortuna_ridge d_tharisis_tholus d_echus_chasma d_echus_planum d_fortuna_fossae d_tharsis_planum 
+		# k_tithonium
+		d_tithonium_fossae d_ius_chasma d_perrotin d_tithonium_chasma 
+		# k_noctis_fossae
+		d_silica d_claritas d_hesperia d_noachia d_claritas_fossae d_thulia d_claritas_rise d_noctis_labyrinthus d_plume d_noctis_fossae 
+	}
+}
+world_tharsis_montes = {
+	duchies = {
+		# k_ceraunius_fossae
+		d_vitia d_claud d_laud d_gemma d_onyx d_saxom d_saltus d_epirus d_ceraunius_fossae 
+		# k_tharsis_montes
+		d_kaham d_kubasin d_illyria d_rubra d_kukath d_teramus d_poynting d_ascraeus_mons d_ceraunia d_damur d_pavonis_mons d_wena d_lomint d_bamolad d_aganippe_fossa d_sotogna d_arsia_mons 
+	}
+}
+world_daedalia_planum = {
+	duchies = {
+		# k_biblis_tholus
+		d_caunos d_biblis_tholes 
+		# k_aguoja
+		d_rabdasin d_kemyuan d_bitoja d_notosz 
+		# k_bakh
+		d_todena d_kiegosz d_lekeek d_eponara d_aponint 
+		# k_rirek
+		d_tuzniq d_ruena d_kanyula d_waba d_rubyuan d_rasavak d_qimyuan d_wosirai d_lefofie d_rarofie 
+	}
+}
+world_valles_marineris = {
+	duchies = {
+		# k_xanthe_terra
+		d_nilirai d_roleter d_ebozar d_ebawyuan d_nagutar d_winuna d_deineer d_qanann 
+		# k_aurorae_planum
+		d_kathekko d_nathilvi d_toreth d_qyon d_ebayine 
+		# k_eos
+		d_lumoyan d_amubasin d_rarasad 
+		# k_valles_marineris
+		d_sosala d_ranasad d_qamavak d_wohasad d_bahala d_rosucha d_bemala 
+	}
+}
+world_wamucha = {
+	duchies = {
+		# k_abduan
+		d_rohurna 
+	}
+}
+world_lamurna = {
+	duchies = {
+		# k_rumyuan
+		d_dugua 
+	}
+}
+world_solis_planum = {
+	duchies = {
+		# k_oudemans
+		d_ejosirai d_wolach d_tomuke d_demogna d_kumach 
+		# k_solis_planum
+		d_solas d_qefaya d_eguolas d_titint d_tasathi d_tuit d_deremha d_solis_planum 
+		# k_south_marineris
+		d_abasava d_qavava d_navunda d_byaqana d_edosz d_dadew d_tyaquke d_kingdom0589 d_nuoja d_south_marineris 
+	}
+}
+world_avalena = {
+	duchies = {
+		# k_diegawa
+		d_luke 
+	}
+}
+world_aonia_terra = {
+	duchies = {
+		# k_icaria_planum
+		d_tagenxiu d_lilin d_ratin d_behahar 
+		# k_claritas_rupes
+		d_taluke d_wuzana d_sava d_ejosari d_todinde 
+		# k_argentea_planum
+		d_keneram d_sibeek d_kimaus d_rarid d_raveir d_qavari d_kilaya d_seek d_dilory d_niceter d_tudoriy 
+		# k_aonia_terra
+		d_satabha d_ajanedu d_tamaus d_tudach d_dudari d_laiida d_qibuigi d_kanisam d_lasidia 
+	}
+}
+world_qanisam = {
+	duchies = {
+		# k_datisam
+		d_kibanna 
+	}
+}
+world_logah = {
+	duchies = {
+		# k_torah
+		d_noraimur 
+	}
+}
+world_rabolon = {
+	duchies = {
+		# k_sabozin
+		d_danyuan 
+	}
+}
+world_terra_sirenum = {
+	duchies = {
+		# k_seted
+		d_lathutar d_damalta d_reupend d_elaxying d_duneir d_walina d_wemamini d_nosucha d_laryuan d_bohasin 
+		# k_rahala
+		d_daxopluk d_bounava d_eskeram d_wodabha 
+		# k_terra_sirenum
+		d_remaya d_nant d_seretin d_ananyuan d_kerefie d_lefach d_refaya d_kobawa 
+	}
+}
+world_qarimha = {
+	duchies = {
+		# k_duzul
+		d_rani 
+	}
+}
+world_tyaqani = {
+	duchies = {
+		# k_ryaquke
+		d_renes 
+	}
+}
+world_west_argyre = {
+	duchies = {
+		# k_nereidum_montes
+		d_reneth d_biudvi d_laliel d_lubella d_nukani d_agosz d_ladeloan d_qaxualis d_wenda d_rardus d_wifoan d_elella d_qenes d_sanint 
+		# k_argyre_islands
+		d_argyre_island d_qosz d_bonirek d_denes d_katha d_galle d_charitum 
+		# k_bosporos_planum
+		d_kavaha d_enomamm d_riklah d_roj d_koruna 
+	}
+}
+world_terra_cimmeria = {
+	duchies = {
+		# k_terra_cimmeria
+		d_niruin d_beruin 
+		# k_scopuli
+		d_eranann d_weneuta d_doreuta d_asumoja 
+		# k_rumew
+		d_koja d_kedenda d_bodosz d_ehjualis 
+		# k_ebieguke
+		d_qoruin d_atodonne d_eketul d_sunasa d_seir 
+		# k_wadiga
+		d_waraja d_qeitek d_teripaz d_tint d_kani d_edavana d_tukeir d_evaleek d_lenarma d_wailm 
+		# k_todan
+		d_agawani d_bodari d_rilolas d_seodor d_sicach d_deodat d_leupeir d_rayya 
+	}
+}
+world_tavaus = {
+	duchies = {
+		# k_qeodor
+		d_qoza 
+	}
+}
+world_wopali = {
+	duchies = {
+		# k_tael
+		d_sopael 
+	}
+}
+world_planum_australe = {
+	duchies = {
+		# k_ropilda
+		d_dyunilda d_tanael d_kotanjor d_tadajan d_ebayar 
+		# k_sizoj
+		d_qalofan d_tikine 
+		# k_daloses
+		d_eradoj d_lekirek d_kifint d_reka d_kotara 
+		# k_qeoan
+		d_roja d_ruke d_rena d_daxint 
+		# k_promethei_terra
+		d_atena d_kaba d_sedoja d_nalew d_qint d_dodew d_kibew d_naxiska d_ruzoja 
+		# k_planum_australe
+		d_waratan d_binnam d_sararma d_liboska d_alibine d_tasyana d_raceda d_karasia d_ultimum_chasma 
+	}
+}
+world_kaday = {
+	duchies = {
+		# k_wahed
+		d_aradilii 
+	}
+}
+world_ravamm = {
+	duchies = {
+		# k_kaudlan
+		d_kenalih 
+	}
+}
+world_barahim = {
+	duchies = {
+		# k_renulk
+		d_emarund 
+	}
+}
+world_ronuwe = {
+	duchies = {
+		# k_nalosye
+		d_tekinio 
+	}
+}
+world_noachis_terra = {
+	duchies = {
+		# k_laryan
+		d_tasahim 
+		# k_ranida
+		d_dogah d_eder-ija d_kodona d_damyula d_lanna d_dibisam d_kaimaac d_kucipac 
+		# k_tirita
+		d_rarandi d_lasaran d_kadeas d_bakandi 
+		# k_wanona
+		d_sara 
+		# k_taregin
+		d_waisida d_ekehah d_rotobos d_kumaod 
+		# k_qudrd
+		d_kazyula d_lohille d_lahipa d_segudan d_narandi d_belobos 
+	}
+}
+world_raod = {
+	duchies = {
+		# k_wahina
+		d_lyaud 
+	}
+}
+world_elysian_island = {
+	duchies = {
+		# k_nohuone
+		d_tuo d_nanana d_ragega d_bega d_wyasovke 
+		# k_ekarille
+		d_qunahad d_qekozar d_toheka d_qahovit 
+		# k_rihan
+		d_kalius d_kunanka d_ralipa d_rinork d_naidipa 
+	}
+}
+world_kinipa = {
+	duchies = {
+		# k_linipa
+		d_nadecca 
+	}
+}
+world_ariami = {
+	duchies = {
+		# k_akorgil
+		d_sakayada 
+	}
+}
+world_araa = {
+	duchies = {
+		# k_rigsi
+		d_wonik 
+	}
+}
+world_tagazi = {
+	duchies = {
+		# k_tohipa
+		d_nagiami 
+	}
+}
+world_qadaret = {
+	duchies = {
+		# k_edudrd
+		d_ekayada 
+	}
+}
+world_nie = {
+	duchies = {
+		# k_kakaret
+		d_takaret 
+	}
+}
+world_hellas = {
+	duchies = {
+		# k_tahaa
+		d_keer d_asara d_qazara d_tiel d_nauluke d_kama d_tamara d_korazi d_ekunatok 
+		# k_runapo
+		d_quleru d_begille d_rudan d_asyana d_riteka 
+		# k_karork
+		d_eneetana d_lakisa 
+		# k_tisa
+		d_dezayor d_ekepi d_lijoman 
+		# k_rumaicu
+		d_wajaicu d_waxohn d_qiraud d_tojan d_qieleka d_qorava d_laufwar d_taatun d_bielan d_lieltun 
+	}
+}
+world_hesperia_planum = {
+	duchies = {
+		# k_seinavi
+		d_lema d_kakstu d_andutar d_noreye 
+		# k_aruju
+		d_kehosai d_badudan d_qosai d_tamosai d_kanoda 
+		# k_sududan
+		d_enahar d_qahuda d_wain d_deluda d_kingdom1547 d_wurork d_ehyer d_lamacob d_bulain d_rakudan d_qyaseka d_womalo 
+		# k_najisa
+		d_tojita d_koto d_kararia d_byasudan d_domyi d_kehelo d_qanuo d_kudan 
+		# k_korosai
+		d_norarde d_kucho d_bayasia 
+	}
+}
+world_tawina = {
+	duchies = {
+		# k_lasajan
+		d_qadobos 
+	}
+}
+world_kareba = {
+	duchies = {
+		# k_ekiraja
+		d_kelura 
+	}
+}
+world_dakourou = {
+	duchies = {
+		# k_rodandi
+		d_tabduida 
+	}
+}
+world_ekarandi = {
+	duchies = {
+		# k_sumuone
+		d_ekumasia 
+	}
+}
+world_liris_valles = {
+	duchies = {
+		# k_lyasozar
+		d_namijah d_tecanna d_revoor 
+		# k_dala
+		d_kabipa d_teganca d_taydam d_tayduti d_nelarma d_regaham d_rinnaim d_baranca d_dinita 
+		# k_acaad
+		d_beoek d_kecumna d_ramatas d_latema d_qegork d_aroda d_ruju d_wawfiq 
+		# k_lodahim
+		d_nibona d_enenla d_kaluo d_etsarde d_karega d_torita d_tevakk d_ryerassa d_lyuvodis d_kanavid d_birania d_kisodis 
+	}
+}
+world_tyrrhena_terra = {
+	duchies = {
+		# k_qahera
+		d_laarilii d_enasata d_kabar d_banobos d_kikandi d_kajan 
+		# k_abenina
+		d_tadandi d_rasasia 
+		# k_qay-ius
+		d_bamijah d_wararam d_tabafa d_bimavak d_abdoljo d_kemath d_nuboras d_esohunno d_amucacob d_ecrerfn d_kijipac 
+		# k_sucuko
+		d_robabib d_nebierr d_digund d_ducaht d_tusita d_ebing d_baraht d_erogoljo d_ejawasia d_qarar d_akojandi 
+		# k_rahelii
+		d_kasyeju d_lodobos d_belina d_sakobos d_wiraja d_qelar d_kanarie d_kuberim 
+	}
+}
+world_sanana = {
+	duchies = {
+		# k_kurema
+		d_bulana 
+	}
+}
+world_banoda = {
+	duchies = {
+		# k_sulapo
+		d_kyaytok 
+	}
+}
+world_kyyana = {
+	duchies = {
+		# k_egajaria
+		d_etoda 
+	}
+}
+world_terra_sabaea = {
+	duchies = {
+		# k_dezork
+		d_saracob d_tajacob d_qajork 
+		# k_kajille
+		d_lekovke d_tepi d_ejayaman d_qanorg d_layaret d_tagit d_emumaret d_navaicu d_nanetar d_kaxaret d_tajinat 
+		# k_daador
+		d_toseka d_bosathi d_windudan d_enduo d_wunim d_avasory 
+		# k_katong
+		d_relory d_aksemn d_tasong d_beloda d_belarde d_keetdat d_tapo d_rinudan 
+		# k_ludan
+		d_lanucho d_nadund d_dehund d_abodaret d_tedine d_wotoan d_nahita d_kumuko d_eita d_wyunoljo d_taracob d_sarerdeg d_rarayla 
+		# k_leodis
+		d_numenda d_doholjo d_bajiuva d_rubacob d_banele d_kamijah 
+	}
+}

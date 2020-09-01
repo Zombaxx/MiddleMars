@@ -1,0 +1,14 @@
+# 1069 - Wetari
+
+# County Title
+title = c_wetari
+
+# Settlements
+max_settlements = 3
+b_wetari = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

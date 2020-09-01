@@ -1,0 +1,15 @@
+# 1145 - Lamert
+
+# County Title
+title = c_lamert
+
+# Settlements
+max_settlements = 5
+b_lamert = tribal
+b_wahakin = temple
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

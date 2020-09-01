@@ -1,0 +1,16 @@
+# 1040 - Kileusz
+
+# County Title
+title = c_kileusz
+
+# Settlements
+max_settlements = 4
+b_kileusz = castle
+b_noreph = temple
+b_tabine = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

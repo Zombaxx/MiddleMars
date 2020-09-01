@@ -1,0 +1,14 @@
+# 1134 - Tadoila
+
+# County Title
+title = c_tadoila
+
+# Settlements
+max_settlements = 3
+b_tadoila = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 309 - Wiseka
+
+# County Title
+title = c_wiseka
+
+# Settlements
+max_settlements = 5
+b_wiseka = tribal
+b_tubafiz = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

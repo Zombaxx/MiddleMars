@@ -1,0 +1,14 @@
+# 490 - Ramata
+
+# County Title
+title = c_ramata
+
+# Settlements
+max_settlements = 4
+b_ramata = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

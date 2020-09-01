@@ -1,0 +1,14 @@
+# 1508 - Latiek
+
+# County Title
+title = c_latiek
+
+# Settlements
+max_settlements = 3
+b_latiek = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

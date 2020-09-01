@@ -1,0 +1,17 @@
+# 1261 - Watilal
+
+# County Title
+title = c_watilal
+
+# Settlements
+max_settlements = 5
+b_watilal = castle
+b_bebeda = temple
+b_renemey = city
+b_lunhun = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 682 - Akaluraq
+
+# County Title
+title = c_akaluraq
+
+# Settlements
+max_settlements = 2
+b_akaluraq = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

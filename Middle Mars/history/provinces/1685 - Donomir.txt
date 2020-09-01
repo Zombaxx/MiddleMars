@@ -1,0 +1,14 @@
+# 1685 - Donomir
+
+# County Title
+title = c_donomir
+
+# Settlements
+max_settlements = 1
+b_donomir = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

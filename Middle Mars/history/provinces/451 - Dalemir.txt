@@ -1,0 +1,15 @@
+# 451 - Dalemir
+
+# County Title
+title = c_dalemir
+
+# Settlements
+max_settlements = 3
+b_dalemir = tribal
+b_woroya = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

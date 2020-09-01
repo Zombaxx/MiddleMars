@@ -1,0 +1,15 @@
+# 696 - Leyeos
+
+# County Title
+title = c_leyeos
+
+# Settlements
+max_settlements = 3
+b_leyeos = castle
+b_nodyt = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

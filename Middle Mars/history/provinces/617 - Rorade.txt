@@ -1,0 +1,15 @@
+# 617 - Rorade
+
+# County Title
+title = c_rorade
+
+# Settlements
+max_settlements = 5
+b_rorade = tribal
+b_tadera = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1564 - Donailo
+
+# County Title
+title = c_donailo
+
+# Settlements
+max_settlements = 3
+b_donailo = castle
+b_ribeyao = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

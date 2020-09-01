@@ -1,0 +1,15 @@
+# 278 - Nelle
+
+# County Title
+title = c_nelle
+
+# Settlements
+max_settlements = 3
+b_nelle = castle
+b_qorualis = temple
+
+# Misc
+culture = ethiopian
+religion = norse_pagan
+
+# History

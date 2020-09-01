@@ -1,0 +1,14 @@
+# 863 - Dyeju
+
+# County Title
+title = c_dyeju
+
+# Settlements
+max_settlements = 2
+b_dyeju = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

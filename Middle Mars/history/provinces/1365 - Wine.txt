@@ -1,0 +1,17 @@
+# 1365 - Wine
+
+# County Title
+title = c_wine
+
+# Settlements
+max_settlements = 5
+b_wine = castle
+b_rading = temple
+b_ketei = city
+b_buleph = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

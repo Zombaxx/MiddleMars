@@ -1,0 +1,14 @@
+# 276 - Qachadu
+
+# County Title
+title = c_qachadu
+
+# Settlements
+max_settlements = 1
+b_qachadu = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 246 - Amahegin
+
+# County Title
+title = c_amahegin
+
+# Settlements
+max_settlements = 4
+b_amahegin = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 159 - Boloul
+
+# County Title
+title = c_boloul
+
+# Settlements
+max_settlements = 4
+b_boloul = castle
+b_nasegin = temple
+b_amaranga = city
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

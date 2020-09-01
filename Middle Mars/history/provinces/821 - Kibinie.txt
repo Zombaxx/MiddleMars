@@ -1,0 +1,16 @@
+# 821 - Kibinie
+
+# County Title
+title = c_kibinie
+
+# Settlements
+max_settlements = 4
+b_kibinie = castle
+b_dyasying = temple
+b_qolinie = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

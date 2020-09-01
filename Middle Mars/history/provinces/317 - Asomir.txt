@@ -1,0 +1,14 @@
+# 317 - Asomir
+
+# County Title
+title = c_asomir
+
+# Settlements
+max_settlements = 1
+b_asomir = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

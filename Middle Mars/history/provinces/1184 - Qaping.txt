@@ -1,0 +1,16 @@
+# 1184 - Qaping
+
+# County Title
+title = c_qaping
+
+# Settlements
+max_settlements = 4
+b_qaping = castle
+b_bizyuns = temple
+b_dalolun = city
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

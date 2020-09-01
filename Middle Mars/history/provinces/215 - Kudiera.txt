@@ -1,0 +1,14 @@
+# 215 - Kudiera
+
+# County Title
+title = c_kudiera
+
+# Settlements
+max_settlements = 3
+b_kudiera = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1742 - Laline
+
+# County Title
+title = c_laline
+
+# Settlements
+max_settlements = 3
+b_laline = castle
+b_duti = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

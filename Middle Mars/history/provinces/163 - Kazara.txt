@@ -1,0 +1,16 @@
+# 163 - Kazara
+
+# County Title
+title = c_kazara
+
+# Settlements
+max_settlements = 4
+b_kazara = castle
+b_dagajid = temple
+b_rahapal = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

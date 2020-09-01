@@ -1,0 +1,14 @@
+# 641 - Negin
+
+# County Title
+title = c_negin
+
+# Settlements
+max_settlements = 2
+b_negin = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

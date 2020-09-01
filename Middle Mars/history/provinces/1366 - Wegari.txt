@@ -1,0 +1,18 @@
+# 1366 - Wegari
+
+# County Title
+title = c_wegari
+
+# Settlements
+max_settlements = 7
+b_wegari = castle
+b_kadijah = temple
+b_telijah = city
+b_tohidar = castle
+b_koralter = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

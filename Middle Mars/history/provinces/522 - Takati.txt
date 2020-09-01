@@ -1,0 +1,15 @@
+# 522 - Takati
+
+# County Title
+title = c_takati
+
+# Settlements
+max_settlements = 5
+b_takati = tribal
+b_kucamun = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 649 - Lemayn
+
+# County Title
+title = c_lemayn
+
+# Settlements
+max_settlements = 4
+b_lemayn = castle
+b_karand = temple
+b_kedit = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

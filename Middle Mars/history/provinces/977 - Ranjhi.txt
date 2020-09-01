@@ -1,0 +1,15 @@
+# 977 - Ranjhi
+
+# County Title
+title = c_ranjhi
+
+# Settlements
+max_settlements = 3
+b_ranjhi = castle
+b_tanena = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

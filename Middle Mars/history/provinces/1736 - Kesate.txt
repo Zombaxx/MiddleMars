@@ -1,0 +1,15 @@
+# 1736 - Kesate
+
+# County Title
+title = c_kesate
+
+# Settlements
+max_settlements = 3
+b_kesate = castle
+b_neroatl = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

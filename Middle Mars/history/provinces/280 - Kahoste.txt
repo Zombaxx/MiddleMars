@@ -1,0 +1,15 @@
+# 280 - Kahoste
+
+# County Title
+title = c_kahoste
+
+# Settlements
+max_settlements = 3
+b_kahoste = castle
+b_nagagnus = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 659 - Rilkas
+
+# County Title
+title = c_rilkas
+
+# Settlements
+max_settlements = 3
+b_rilkas = castle
+b_kelarak = temple
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

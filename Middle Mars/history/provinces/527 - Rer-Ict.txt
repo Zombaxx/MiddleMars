@@ -1,0 +1,15 @@
+# 527 - Rer-Ict
+
+# County Title
+title = c_rer-ict
+
+# Settlements
+max_settlements = 3
+b_rer-ict = castle
+b_kulavo = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

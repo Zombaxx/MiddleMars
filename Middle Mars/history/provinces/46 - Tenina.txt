@@ -1,0 +1,16 @@
+# 46 - Tenina
+
+# County Title
+title = c_tenina
+
+# Settlements
+max_settlements = 4
+b_tenina = castle
+b_relumna = temple
+b_qeanala = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

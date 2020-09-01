@@ -1,0 +1,15 @@
+# 1242 - Nudoj
+
+# County Title
+title = c_nudoj
+
+# Settlements
+max_settlements = 3
+b_nudoj = tribal
+b_lyo = temple
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

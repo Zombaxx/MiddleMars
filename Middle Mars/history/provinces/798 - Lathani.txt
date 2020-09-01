@@ -1,0 +1,16 @@
+# 798 - Lathani
+
+# County Title
+title = c_lathani
+
+# Settlements
+max_settlements = 4
+b_lathani = castle
+b_nenile = temple
+b_rarons = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

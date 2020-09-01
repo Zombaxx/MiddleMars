@@ -1,0 +1,15 @@
+# 1544 - Qiline
+
+# County Title
+title = c_qiline
+
+# Settlements
+max_settlements = 4
+b_qiline = tribal
+b_rieguis = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

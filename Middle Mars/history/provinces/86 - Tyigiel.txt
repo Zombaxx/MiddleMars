@@ -1,0 +1,17 @@
+# 86 - Tyigiel
+
+# County Title
+title = c_tyigiel
+
+# Settlements
+max_settlements = 5
+b_tyigiel = castle
+b_nuke = temple
+b_bamoan = city
+b_boses = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

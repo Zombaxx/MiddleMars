@@ -1,0 +1,15 @@
+# 967 - Kurtai
+
+# County Title
+title = c_kurtai
+
+# Settlements
+max_settlements = 2
+b_kurtai = castle
+b_tataly = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

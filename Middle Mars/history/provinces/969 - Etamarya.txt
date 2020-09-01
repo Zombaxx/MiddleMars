@@ -1,0 +1,16 @@
+# 969 - Etamarya
+
+# County Title
+title = c_etamarya
+
+# Settlements
+max_settlements = 4
+b_etamarya = castle
+b_rayain = temple
+b_kalana = city
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

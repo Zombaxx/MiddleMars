@@ -1,0 +1,14 @@
+# 378 - Keparcia
+
+# County Title
+title = c_keparcia
+
+# Settlements
+max_settlements = 2
+b_keparcia = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

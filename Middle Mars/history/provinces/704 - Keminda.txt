@@ -1,0 +1,14 @@
+# 704 - Keminda
+
+# County Title
+title = c_keminda
+
+# Settlements
+max_settlements = 3
+b_keminda = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

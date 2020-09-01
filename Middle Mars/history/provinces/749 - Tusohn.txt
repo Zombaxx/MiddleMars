@@ -1,0 +1,14 @@
+# 749 - Tusohn
+
+# County Title
+title = c_tusohn
+
+# Settlements
+max_settlements = 4
+b_tusohn = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

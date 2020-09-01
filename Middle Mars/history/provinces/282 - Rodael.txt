@@ -1,0 +1,14 @@
+# 282 - Rodael
+
+# County Title
+title = c_rodael
+
+# Settlements
+max_settlements = 2
+b_rodael = tribal
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1424 - Karabai
+
+# County Title
+title = c_karabai
+
+# Settlements
+max_settlements = 4
+b_karabai = castle
+b_neliguta = temple
+b_kayaman = city
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

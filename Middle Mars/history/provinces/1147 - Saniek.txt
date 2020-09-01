@@ -1,0 +1,14 @@
+# 1147 - Saniek
+
+# County Title
+title = c_saniek
+
+# Settlements
+max_settlements = 3
+b_saniek = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

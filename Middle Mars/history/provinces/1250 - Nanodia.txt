@@ -1,0 +1,15 @@
+# 1250 - Nanodia
+
+# County Title
+title = c_nanodia
+
+# Settlements
+max_settlements = 3
+b_nanodia = castle
+b_berahtu = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

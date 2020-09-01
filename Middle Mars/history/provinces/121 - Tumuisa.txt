@@ -1,0 +1,16 @@
+# 121 - Tumuisa
+
+# County Title
+title = c_tumuisa
+
+# Settlements
+max_settlements = 4
+b_tumuisa = castle
+b_amicing = temple
+b_eharuslo = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

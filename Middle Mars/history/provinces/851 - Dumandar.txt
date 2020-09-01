@@ -1,0 +1,14 @@
+# 851 - Dumandar
+
+# County Title
+title = c_dumandar
+
+# Settlements
+max_settlements = 3
+b_dumandar = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1747 - Tausara
+
+# County Title
+title = c_tausara
+
+# Settlements
+max_settlements = 3
+b_tausara = castle
+b_roth = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

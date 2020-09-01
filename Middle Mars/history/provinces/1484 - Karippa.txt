@@ -1,0 +1,14 @@
+# 1484 - Karippa
+
+# County Title
+title = c_karippa
+
+# Settlements
+max_settlements = 4
+b_karippa = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

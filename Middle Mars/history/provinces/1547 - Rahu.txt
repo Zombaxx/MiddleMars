@@ -1,0 +1,15 @@
+# 1547 - Rahu
+
+# County Title
+title = c_rahu
+
+# Settlements
+max_settlements = 2
+b_rahu = tribal
+b_qoda = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

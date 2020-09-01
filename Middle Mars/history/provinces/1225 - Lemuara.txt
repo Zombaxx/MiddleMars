@@ -1,0 +1,14 @@
+# 1225 - Lemuara
+
+# County Title
+title = c_lemuara
+
+# Settlements
+max_settlements = 3
+b_lemuara = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

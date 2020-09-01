@@ -1,0 +1,14 @@
+# 365 - Qolichel
+
+# County Title
+title = c_qolichel
+
+# Settlements
+max_settlements = 1
+b_qolichel = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

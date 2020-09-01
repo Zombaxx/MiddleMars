@@ -1,0 +1,15 @@
+# 1273 - Esamin
+
+# County Title
+title = c_esamin
+
+# Settlements
+max_settlements = 4
+b_esamin = tribal
+b_saors = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

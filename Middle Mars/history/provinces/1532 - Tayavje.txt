@@ -1,0 +1,14 @@
+# 1532 - Tayavje
+
+# County Title
+title = c_tayavje
+
+# Settlements
+max_settlements = 2
+b_tayavje = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

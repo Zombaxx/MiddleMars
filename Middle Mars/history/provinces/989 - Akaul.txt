@@ -1,0 +1,15 @@
+# 989 - Akaul
+
+# County Title
+title = c_akaul
+
+# Settlements
+max_settlements = 3
+b_akaul = castle
+b_qasiutl = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

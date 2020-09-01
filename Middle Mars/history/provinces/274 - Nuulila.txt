@@ -1,0 +1,14 @@
+# 274 - Nuulila
+
+# County Title
+title = c_nuulila
+
+# Settlements
+max_settlements = 1
+b_nuulila = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

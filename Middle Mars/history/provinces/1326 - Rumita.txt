@@ -1,0 +1,17 @@
+# 1326 - Rumita
+
+# County Title
+title = c_rumita
+
+# Settlements
+max_settlements = 6
+b_rumita = castle
+b_elune = temple
+b_tolidia = city
+b_lanald = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

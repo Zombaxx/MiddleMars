@@ -1,0 +1,15 @@
+# 1426 - Qagira
+
+# County Title
+title = c_qagira
+
+# Settlements
+max_settlements = 5
+b_qagira = tribal
+b_kinid = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

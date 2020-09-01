@@ -1,0 +1,14 @@
+# 1666 - Kayang
+
+# County Title
+title = c_kayang
+
+# Settlements
+max_settlements = 1
+b_kayang = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

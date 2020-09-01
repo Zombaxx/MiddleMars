@@ -1,0 +1,17 @@
+# 554 - Risui
+
+# County Title
+title = c_risui
+
+# Settlements
+max_settlements = 6
+b_risui = castle
+b_qugacob = temple
+b_sorunda = city
+b_selilal = castle
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

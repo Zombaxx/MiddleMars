@@ -1,0 +1,16 @@
+# 829 - Radili
+
+# County Title
+title = c_radili
+
+# Settlements
+max_settlements = 4
+b_radili = castle
+b_daponse = temple
+b_erullah = city
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

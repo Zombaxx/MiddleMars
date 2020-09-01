@@ -1,0 +1,14 @@
+# 1746 - Waland
+
+# County Title
+title = c_waland
+
+# Settlements
+max_settlements = 2
+b_waland = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

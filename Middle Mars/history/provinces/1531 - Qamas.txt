@@ -1,0 +1,14 @@
+# 1531 - Qamas
+
+# County Title
+title = c_qamas
+
+# Settlements
+max_settlements = 3
+b_qamas = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1295 - Egojanja
+
+# County Title
+title = c_egojanja
+
+# Settlements
+max_settlements = 4
+b_egojanja = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

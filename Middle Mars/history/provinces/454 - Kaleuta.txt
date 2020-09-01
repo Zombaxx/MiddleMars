@@ -1,0 +1,15 @@
+# 454 - Kaleuta
+
+# County Title
+title = c_kaleuta
+
+# Settlements
+max_settlements = 3
+b_kaleuta = castle
+b_ayuin = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

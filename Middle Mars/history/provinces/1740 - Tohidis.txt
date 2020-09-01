@@ -1,0 +1,14 @@
+# 1740 - Tohidis
+
+# County Title
+title = c_tohidis
+
+# Settlements
+max_settlements = 4
+b_tohidis = tribal
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

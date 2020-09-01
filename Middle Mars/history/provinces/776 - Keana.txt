@@ -1,0 +1,16 @@
+# 776 - Keana
+
+# County Title
+title = c_keana
+
+# Settlements
+max_settlements = 4
+b_keana = castle
+b_danal = temple
+b_budutas = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

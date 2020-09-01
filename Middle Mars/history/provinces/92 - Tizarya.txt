@@ -1,0 +1,14 @@
+# 92 - Tizarya
+
+# County Title
+title = c_tizarya
+
+# Settlements
+max_settlements = 4
+b_tizarya = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

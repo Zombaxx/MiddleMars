@@ -1,0 +1,14 @@
+# 1009 - Kerair
+
+# County Title
+title = c_kerair
+
+# Settlements
+max_settlements = 2
+b_kerair = castle
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

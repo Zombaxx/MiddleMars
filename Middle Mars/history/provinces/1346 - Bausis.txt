@@ -1,0 +1,14 @@
+# 1346 - Bausis
+
+# County Title
+title = c_bausis
+
+# Settlements
+max_settlements = 3
+b_bausis = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 1181 - Teonale
+
+# County Title
+title = c_teonale
+
+# Settlements
+max_settlements = 4
+b_teonale = castle
+b_lille = temple
+b_ramagos = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

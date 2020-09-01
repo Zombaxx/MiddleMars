@@ -1,0 +1,17 @@
+# 957 - Bacita
+
+# County Title
+title = c_bacita
+
+# Settlements
+max_settlements = 6
+b_bacita = castle
+b_tilida = temple
+b_enomonse = city
+b_nosam = castle
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

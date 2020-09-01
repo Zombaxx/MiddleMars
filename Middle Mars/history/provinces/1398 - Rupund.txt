@@ -1,0 +1,16 @@
+# 1398 - Rupund
+
+# County Title
+title = c_rupund
+
+# Settlements
+max_settlements = 4
+b_rupund = castle
+b_baserin = temple
+b_lolew = city
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

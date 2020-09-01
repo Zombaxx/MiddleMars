@@ -1,0 +1,14 @@
+# 996 - Kiludo
+
+# County Title
+title = c_kiludo
+
+# Settlements
+max_settlements = 2
+b_kiludo = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

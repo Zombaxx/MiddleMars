@@ -1,0 +1,14 @@
+# 1716 - Nayabai
+
+# County Title
+title = c_nayabai
+
+# Settlements
+max_settlements = 2
+b_nayabai = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

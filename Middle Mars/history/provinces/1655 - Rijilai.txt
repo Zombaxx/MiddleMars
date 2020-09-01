@@ -1,0 +1,15 @@
+# 1655 - Rijilai
+
+# County Title
+title = c_rijilai
+
+# Settlements
+max_settlements = 3
+b_rijilai = castle
+b_runidis = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

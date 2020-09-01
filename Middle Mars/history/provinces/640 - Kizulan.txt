@@ -1,0 +1,14 @@
+# 640 - Kizulan
+
+# County Title
+title = c_kizulan
+
+# Settlements
+max_settlements = 4
+b_kizulan = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 565 - Kemying
+
+# County Title
+title = c_kemying
+
+# Settlements
+max_settlements = 4
+b_kemying = castle
+b_kadoras = temple
+b_busory = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

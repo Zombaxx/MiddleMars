@@ -1,0 +1,17 @@
+# 1166 - Tolalih
+
+# County Title
+title = c_tolalih
+
+# Settlements
+max_settlements = 5
+b_tolalih = castle
+b_kioneda = temple
+b_bolulk = city
+b_seralih = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,20 @@
+# 1466 - Wadali
+
+# County Title
+title = c_wadali
+
+# Settlements
+max_settlements = 6
+b_wadali = city
+b_wahons = temple
+b_byanegin = castle
+b_agolkun = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_114660
+}

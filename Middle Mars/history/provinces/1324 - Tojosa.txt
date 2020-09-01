@@ -1,0 +1,16 @@
+# 1324 - Tojosa
+
+# County Title
+title = c_tojosa
+
+# Settlements
+max_settlements = 4
+b_tojosa = castle
+b_adrica = temple
+b_delomas = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

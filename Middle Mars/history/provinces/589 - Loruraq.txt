@@ -1,0 +1,15 @@
+# 589 - Loruraq
+
+# County Title
+title = c_loruraq
+
+# Settlements
+max_settlements = 2
+b_loruraq = tribal
+b_katoth = temple
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

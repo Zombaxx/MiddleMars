@@ -1,0 +1,14 @@
+# 1563 - Senoka
+
+# County Title
+title = c_senoka
+
+# Settlements
+max_settlements = 3
+b_senoka = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

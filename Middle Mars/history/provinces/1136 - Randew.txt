@@ -1,0 +1,14 @@
+# 1136 - Randew
+
+# County Title
+title = c_randew
+
+# Settlements
+max_settlements = 2
+b_randew = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

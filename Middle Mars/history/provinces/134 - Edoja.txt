@@ -1,0 +1,17 @@
+# 134 - Edoja
+
+# County Title
+title = c_edoja
+
+# Settlements
+max_settlements = 5
+b_edoja = castle
+b_betatha = temple
+b_nasa = city
+b_akiroa = castle
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

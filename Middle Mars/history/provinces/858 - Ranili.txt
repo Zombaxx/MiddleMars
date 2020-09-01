@@ -1,0 +1,17 @@
+# 858 - Ranili
+
+# County Title
+title = c_ranili
+
+# Settlements
+max_settlements = 6
+b_ranili = castle
+b_sarohn = temple
+b_rokole = city
+b_sohaimi = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

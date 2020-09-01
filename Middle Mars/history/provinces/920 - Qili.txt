@@ -1,0 +1,15 @@
+# 920 - Qili
+
+# County Title
+title = c_qili
+
+# Settlements
+max_settlements = 3
+b_qili = city
+b_kicohn = temple
+
+# Misc
+culture = alan
+religion = orthodox
+
+# History

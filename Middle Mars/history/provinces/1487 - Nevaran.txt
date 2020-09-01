@@ -1,0 +1,15 @@
+# 1487 - Nevaran
+
+# County Title
+title = c_nevaran
+
+# Settlements
+max_settlements = 3
+b_nevaran = castle
+b_akugas = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

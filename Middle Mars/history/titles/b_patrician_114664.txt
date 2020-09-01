@@ -1,0 +1,5 @@
+1047.1.1 = {
+	holding_dynasty = 114664 # Asarid - makes this a FAMILY_PALACE type Holding
+	liege="d_eneetana"
+	holder = 229335
+}

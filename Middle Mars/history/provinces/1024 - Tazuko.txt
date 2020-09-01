@@ -1,0 +1,14 @@
+# 1024 - Tazuko
+
+# County Title
+title = c_tazuko
+
+# Settlements
+max_settlements = 4
+b_tazuko = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

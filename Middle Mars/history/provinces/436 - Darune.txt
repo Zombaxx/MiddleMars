@@ -1,0 +1,14 @@
+# 436 - Darune
+
+# County Title
+title = c_darune
+
+# Settlements
+max_settlements = 2
+b_darune = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

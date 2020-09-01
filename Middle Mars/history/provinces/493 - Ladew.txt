@@ -1,0 +1,15 @@
+# 493 - Ladew
+
+# County Title
+title = c_ladew
+
+# Settlements
+max_settlements = 3
+b_ladew = castle
+b_rodunli = temple
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

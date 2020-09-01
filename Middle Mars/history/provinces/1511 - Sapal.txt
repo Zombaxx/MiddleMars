@@ -1,0 +1,16 @@
+# 1511 - Sapal
+
+# County Title
+title = c_sapal
+
+# Settlements
+max_settlements = 4
+b_sapal = castle
+b_ezairn = temple
+b_rohars = city
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

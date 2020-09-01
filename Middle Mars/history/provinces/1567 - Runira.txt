@@ -1,0 +1,15 @@
+# 1567 - Runira
+
+# County Title
+title = c_runira
+
+# Settlements
+max_settlements = 3
+b_runira = castle
+b_qyugovit = temple
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

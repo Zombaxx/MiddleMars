@@ -1,0 +1,14 @@
+# 1432 - Edine
+
+# County Title
+title = c_edine
+
+# Settlements
+max_settlements = 3
+b_edine = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

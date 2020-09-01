@@ -1,0 +1,14 @@
+954.1.1 = {
+	holding_dynasty = 117590 # Anavotid - makes this a FAMILY_PALACE type Holding
+	liege="d_taracob"
+	holder = 117590
+}
+1042.1.1 = {
+	holder = 117591
+}
+1063.1.1 = {
+	holder = 117592
+}
+1065.1.1 = {
+	holder = 117595
+}

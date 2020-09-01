@@ -1,0 +1,15 @@
+# 701 - Segeras
+
+# County Title
+title = c_segeras
+
+# Settlements
+max_settlements = 3
+b_segeras = castle
+b_tegur = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

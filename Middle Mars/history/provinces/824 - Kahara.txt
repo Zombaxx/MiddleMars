@@ -1,0 +1,14 @@
+# 824 - Kahara
+
+# County Title
+title = c_kahara
+
+# Settlements
+max_settlements = 3
+b_kahara = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

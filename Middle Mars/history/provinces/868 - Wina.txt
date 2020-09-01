@@ -1,0 +1,16 @@
+# 868 - Wina
+
+# County Title
+title = c_wina
+
+# Settlements
+max_settlements = 4
+b_wina = castle
+b_esebilda = temple
+b_lohaig = city
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

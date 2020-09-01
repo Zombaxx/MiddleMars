@@ -1,0 +1,16 @@
+# 133 - Sineer
+
+# County Title
+title = c_sineer
+
+# Settlements
+max_settlements = 4
+b_sineer = castle
+b_dorula = temple
+b_rohoul = city
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

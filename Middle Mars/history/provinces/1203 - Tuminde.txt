@@ -1,0 +1,14 @@
+# 1203 - Tuminde
+
+# County Title
+title = c_tuminde
+
+# Settlements
+max_settlements = 4
+b_tuminde = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

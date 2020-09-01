@@ -1,0 +1,14 @@
+# 1289 - Kebourou
+
+# County Title
+title = c_kebourou
+
+# Settlements
+max_settlements = 2
+b_kebourou = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

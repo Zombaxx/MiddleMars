@@ -1,0 +1,17 @@
+# 1356 - Solall
+
+# County Title
+title = c_solall
+
+# Settlements
+max_settlements = 6
+b_solall = castle
+b_takictor = temple
+b_dahmud = city
+b_bamoquz = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

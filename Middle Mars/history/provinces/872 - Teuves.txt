@@ -1,0 +1,17 @@
+# 872 - Teuves
+
+# County Title
+title = c_teuves
+
+# Settlements
+max_settlements = 5
+b_teuves = castle
+b_belaram = temple
+b_kau = city
+b_wuis = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

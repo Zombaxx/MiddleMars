@@ -1,0 +1,17 @@
+# 1155 - Riloman
+
+# County Title
+title = c_riloman
+
+# Settlements
+max_settlements = 5
+b_riloman = castle
+b_kamusha = temple
+b_lobeca = city
+b_larile = castle
+
+# Misc
+culture = rajput
+religion = jain
+
+# History

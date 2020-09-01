@@ -1,0 +1,15 @@
+# 627 - Baqarma
+
+# County Title
+title = c_baqarma
+
+# Settlements
+max_settlements = 5
+b_baqarma = tribal
+b_lenam = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 512 - Tareya
+
+# County Title
+title = c_tareya
+
+# Settlements
+max_settlements = 2
+b_tareya = castle
+b_buwadevi = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

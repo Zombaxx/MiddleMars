@@ -1,0 +1,15 @@
+# 707 - Qaneer
+
+# County Title
+title = c_qaneer
+
+# Settlements
+max_settlements = 3
+b_qaneer = castle
+b_aleka = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

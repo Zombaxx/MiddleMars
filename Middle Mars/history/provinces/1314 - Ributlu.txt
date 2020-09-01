@@ -1,0 +1,14 @@
+# 1314 - Ributlu
+
+# County Title
+title = c_ributlu
+
+# Settlements
+max_settlements = 3
+b_ributlu = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

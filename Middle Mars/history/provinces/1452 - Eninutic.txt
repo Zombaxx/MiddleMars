@@ -1,0 +1,15 @@
+# 1452 - Eninutic
+
+# County Title
+title = c_eninutic
+
+# Settlements
+max_settlements = 3
+b_eninutic = castle
+b_efelakk = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

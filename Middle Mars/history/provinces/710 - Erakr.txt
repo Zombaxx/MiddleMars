@@ -1,0 +1,14 @@
+# 710 - Erakr
+
+# County Title
+title = c_erakr
+
+# Settlements
+max_settlements = 3
+b_erakr = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

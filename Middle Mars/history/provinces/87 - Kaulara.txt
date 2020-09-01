@@ -1,0 +1,16 @@
+# 87 - Kaulara
+
+# County Title
+title = c_kaulara
+
+# Settlements
+max_settlements = 4
+b_kaulara = castle
+b_nazi = temple
+b_qovya = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

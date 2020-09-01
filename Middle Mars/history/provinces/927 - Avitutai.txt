@@ -1,0 +1,14 @@
+# 927 - Avitutai
+
+# County Title
+title = c_avitutai
+
+# Settlements
+max_settlements = 3
+b_avitutai = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

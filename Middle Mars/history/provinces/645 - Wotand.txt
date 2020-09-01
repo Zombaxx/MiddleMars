@@ -1,0 +1,16 @@
+# 645 - Wotand
+
+# County Title
+title = c_wotand
+
+# Settlements
+max_settlements = 4
+b_wotand = castle
+b_laesohn = temple
+b_kadalek = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

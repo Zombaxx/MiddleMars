@@ -1,0 +1,17 @@
+# 1233 - Rawuara
+
+# County Title
+title = c_rawuara
+
+# Settlements
+max_settlements = 6
+b_rawuara = castle
+b_tigecol = temple
+b_dosilda = city
+b_silal = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

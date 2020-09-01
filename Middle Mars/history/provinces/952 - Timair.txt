@@ -1,0 +1,15 @@
+# 952 - Timair
+
+# County Title
+title = c_timair
+
+# Settlements
+max_settlements = 6
+b_timair = tribal
+b_abagani = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

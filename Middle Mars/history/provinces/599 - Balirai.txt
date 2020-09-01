@@ -1,0 +1,16 @@
+# 599 - Balirai
+
+# County Title
+title = c_balirai
+
+# Settlements
+max_settlements = 4
+b_balirai = castle
+b_qard = temple
+b_egeroush = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

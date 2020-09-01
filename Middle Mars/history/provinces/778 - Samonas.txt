@@ -1,0 +1,14 @@
+# 778 - Samonas
+
+# County Title
+title = c_samonas
+
+# Settlements
+max_settlements = 3
+b_samonas = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

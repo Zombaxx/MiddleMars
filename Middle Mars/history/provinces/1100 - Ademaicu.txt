@@ -1,0 +1,15 @@
+# 1100 - Ademaicu
+
+# County Title
+title = c_ademaicu
+
+# Settlements
+max_settlements = 3
+b_ademaicu = castle
+b_bapilof = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

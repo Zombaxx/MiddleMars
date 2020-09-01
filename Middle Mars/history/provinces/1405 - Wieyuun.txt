@@ -1,0 +1,16 @@
+# 1405 - Wieyuun
+
+# County Title
+title = c_wieyuun
+
+# Settlements
+max_settlements = 4
+b_wieyuun = castle
+b_qureta = temple
+b_dedatha = city
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

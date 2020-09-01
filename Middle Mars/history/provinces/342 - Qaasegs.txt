@@ -1,0 +1,14 @@
+# 342 - Qaasegs
+
+# County Title
+title = c_qaasegs
+
+# Settlements
+max_settlements = 1
+b_qaasegs = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 137 - Ezakille
+
+# County Title
+title = c_ezakille
+
+# Settlements
+max_settlements = 4
+b_ezakille = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

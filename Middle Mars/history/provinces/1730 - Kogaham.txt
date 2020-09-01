@@ -1,0 +1,14 @@
+# 1730 - Kogaham
+
+# County Title
+title = c_kogaham
+
+# Settlements
+max_settlements = 2
+b_kogaham = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

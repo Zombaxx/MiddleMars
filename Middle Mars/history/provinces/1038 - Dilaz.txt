@@ -1,0 +1,16 @@
+# 1038 - Dilaz
+
+# County Title
+title = c_dilaz
+
+# Settlements
+max_settlements = 4
+b_dilaz = castle
+b_suberan = temple
+b_dorad = city
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

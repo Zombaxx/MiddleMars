@@ -1,0 +1,15 @@
+# 416 - Biram
+
+# County Title
+title = c_biram
+
+# Settlements
+max_settlements = 3
+b_biram = castle
+b_racila = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 129 - Ryoo
+
+# County Title
+title = c_ryoo
+
+# Settlements
+max_settlements = 4
+b_ryoo = castle
+b_sanoban = temple
+b_bakaug = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

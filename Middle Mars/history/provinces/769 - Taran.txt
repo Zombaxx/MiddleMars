@@ -1,0 +1,17 @@
+# 769 - Taran
+
+# County Title
+title = c_taran
+
+# Settlements
+max_settlements = 5
+b_taran = castle
+b_siseter = temple
+b_woboise = city
+b_remory = castle
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

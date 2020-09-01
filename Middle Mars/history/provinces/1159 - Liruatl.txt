@@ -1,0 +1,16 @@
+# 1159 - Liruatl
+
+# County Title
+title = c_liruatl
+
+# Settlements
+max_settlements = 4
+b_liruatl = castle
+b_qokathi = temple
+b_qetudo = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

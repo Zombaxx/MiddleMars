@@ -1,0 +1,16 @@
+# 69 - Qedideva
+
+# County Title
+title = c_qedideva
+
+# Settlements
+max_settlements = 4
+b_qedideva = castle
+b_ralint = temple
+b_daulaqar = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

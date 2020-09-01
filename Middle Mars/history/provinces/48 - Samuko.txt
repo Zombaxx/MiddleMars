@@ -1,0 +1,16 @@
+# 48 - Samuko
+
+# County Title
+title = c_samuko
+
+# Settlements
+max_settlements = 4
+b_samuko = castle
+b_kahory = temple
+b_tanele = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

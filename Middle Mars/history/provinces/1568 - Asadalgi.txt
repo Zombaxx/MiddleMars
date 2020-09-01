@@ -1,0 +1,14 @@
+# 1568 - Asadalgi
+
+# County Title
+title = c_asadalgi
+
+# Settlements
+max_settlements = 2
+b_asadalgi = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

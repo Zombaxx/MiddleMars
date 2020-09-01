@@ -1,0 +1,15 @@
+# 1206 - Egorobos
+
+# County Title
+title = c_egorobos
+
+# Settlements
+max_settlements = 5
+b_egorobos = tribal
+b_nudanall = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

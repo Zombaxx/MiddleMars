@@ -1,0 +1,16 @@
+# 764 - Nacoka
+
+# County Title
+title = c_nacoka
+
+# Settlements
+max_settlements = 4
+b_nacoka = castle
+b_keiepe = temple
+b_wera = city
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

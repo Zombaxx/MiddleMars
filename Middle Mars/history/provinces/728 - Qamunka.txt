@@ -1,0 +1,15 @@
+# 728 - Qamunka
+
+# County Title
+title = c_qamunka
+
+# Settlements
+max_settlements = 5
+b_qamunka = tribal
+b_dinasna = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

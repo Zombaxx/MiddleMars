@@ -1,0 +1,16 @@
+# 1486 - Kahiek
+
+# County Title
+title = c_kahiek
+
+# Settlements
+max_settlements = 4
+b_kahiek = castle
+b_nachana = temple
+b_nit = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

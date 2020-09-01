@@ -1,0 +1,14 @@
+# 1175 - Wolalotl
+
+# County Title
+title = c_wolalotl
+
+# Settlements
+max_settlements = 3
+b_wolalotl = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

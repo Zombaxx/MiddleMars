@@ -1,0 +1,16 @@
+# 1121 - Nauruti
+
+# County Title
+title = c_nauruti
+
+# Settlements
+max_settlements = 4
+b_nauruti = castle
+b_exechai = temple
+b_reenuti = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 594 - Sakerge
+
+# County Title
+title = c_sakerge
+
+# Settlements
+max_settlements = 4
+b_sakerge = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1394 - Divuna
+
+# County Title
+title = c_divuna
+
+# Settlements
+max_settlements = 4
+b_divuna = castle
+b_tarins = temple
+b_ageirapa = city
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

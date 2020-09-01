@@ -1,0 +1,15 @@
+# 1015 - Reupail
+
+# County Title
+title = c_reupail
+
+# Settlements
+max_settlements = 3
+b_reupail = castle
+b_durd = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

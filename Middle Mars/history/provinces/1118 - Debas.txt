@@ -1,0 +1,14 @@
+# 1118 - Debas
+
+# County Title
+title = c_debas
+
+# Settlements
+max_settlements = 4
+b_debas = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

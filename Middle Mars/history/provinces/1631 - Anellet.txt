@@ -1,0 +1,14 @@
+# 1631 - Anellet
+
+# County Title
+title = c_anellet
+
+# Settlements
+max_settlements = 3
+b_anellet = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

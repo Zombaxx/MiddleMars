@@ -1,0 +1,15 @@
+# 1226 - Turavy
+
+# County Title
+title = c_turavy
+
+# Settlements
+max_settlements = 5
+b_turavy = tribal
+b_seanold = temple
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

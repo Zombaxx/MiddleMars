@@ -1,0 +1,15 @@
+# 912 - Lohisa
+
+# County Title
+title = c_lohisa
+
+# Settlements
+max_settlements = 6
+b_lohisa = tribal
+b_wagipaz = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

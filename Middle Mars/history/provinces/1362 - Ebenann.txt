@@ -1,0 +1,14 @@
+# 1362 - Ebenann
+
+# County Title
+title = c_ebenann
+
+# Settlements
+max_settlements = 3
+b_ebenann = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

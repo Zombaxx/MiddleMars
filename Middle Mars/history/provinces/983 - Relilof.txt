@@ -1,0 +1,17 @@
+# 983 - Relilof
+
+# County Title
+title = c_relilof
+
+# Settlements
+max_settlements = 5
+b_relilof = castle
+b_qeslav = temple
+b_risonne = city
+b_duario = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

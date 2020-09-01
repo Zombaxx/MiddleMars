@@ -1,0 +1,15 @@
+# 1692 - Taduna
+
+# County Title
+title = c_taduna
+
+# Settlements
+max_settlements = 3
+b_taduna = castle
+b_dasatta = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

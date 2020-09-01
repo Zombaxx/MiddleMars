@@ -1,0 +1,14 @@
+# 795 - Losana
+
+# County Title
+title = c_losana
+
+# Settlements
+max_settlements = 3
+b_losana = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 112 - Raniel
+
+# County Title
+title = c_raniel
+
+# Settlements
+max_settlements = 4
+b_raniel = castle
+b_qerge = temple
+b_renuna = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

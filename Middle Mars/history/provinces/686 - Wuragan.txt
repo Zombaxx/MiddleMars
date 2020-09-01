@@ -1,0 +1,14 @@
+# 686 - Wuragan
+
+# County Title
+title = c_wuragan
+
+# Settlements
+max_settlements = 3
+b_wuragan = tribal
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

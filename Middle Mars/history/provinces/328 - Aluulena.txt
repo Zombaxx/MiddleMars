@@ -1,0 +1,14 @@
+# 328 - Aluulena
+
+# County Title
+title = c_aluulena
+
+# Settlements
+max_settlements = 2
+b_aluulena = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

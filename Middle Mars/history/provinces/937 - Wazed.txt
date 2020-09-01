@@ -1,0 +1,14 @@
+# 937 - Wazed
+
+# County Title
+title = c_wazed
+
+# Settlements
+max_settlements = 2
+b_wazed = castle
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

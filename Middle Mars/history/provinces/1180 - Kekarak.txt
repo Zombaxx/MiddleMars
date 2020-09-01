@@ -1,0 +1,14 @@
+# 1180 - Kekarak
+
+# County Title
+title = c_kekarak
+
+# Settlements
+max_settlements = 3
+b_kekarak = tribal
+
+# Misc
+culture = visigothic
+religion = zoroastrian
+
+# History

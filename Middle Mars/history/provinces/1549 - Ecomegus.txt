@@ -1,0 +1,14 @@
+# 1549 - Ecomegus
+
+# County Title
+title = c_ecomegus
+
+# Settlements
+max_settlements = 2
+b_ecomegus = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

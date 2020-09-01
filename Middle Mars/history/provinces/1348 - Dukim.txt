@@ -1,0 +1,17 @@
+# 1348 - Dukim
+
+# County Title
+title = c_dukim
+
+# Settlements
+max_settlements = 5
+b_dukim = castle
+b_racatis = temple
+b_tijerin = city
+b_togakh = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

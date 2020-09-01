@@ -1,0 +1,15 @@
+# 549 - Qyaraqar
+
+# County Title
+title = c_qyaraqar
+
+# Settlements
+max_settlements = 5
+b_qyaraqar = tribal
+b_reahaig = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

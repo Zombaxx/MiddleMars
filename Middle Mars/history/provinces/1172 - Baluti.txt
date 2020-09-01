@@ -1,0 +1,14 @@
+# 1172 - Baluti
+
+# County Title
+title = c_baluti
+
+# Settlements
+max_settlements = 3
+b_baluti = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

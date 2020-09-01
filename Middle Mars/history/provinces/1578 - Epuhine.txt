@@ -1,0 +1,15 @@
+# 1578 - Epuhine
+
+# County Title
+title = c_epuhine
+
+# Settlements
+max_settlements = 3
+b_epuhine = castle
+b_kadiraz = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

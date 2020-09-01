@@ -1,0 +1,15 @@
+# 265 - Dohiban
+
+# County Title
+title = c_dohiban
+
+# Settlements
+max_settlements = 1
+b_dohiban = tribal
+b_lyusira = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,5 @@
+1048.1.1 = {
+	holding_dynasty = 117594 # Mahadevid - makes this a FAMILY_PALACE type Holding
+	liege="d_taracob"
+	holder = 235195
+}

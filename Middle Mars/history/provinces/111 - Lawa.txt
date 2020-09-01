@@ -1,0 +1,16 @@
+# 111 - Lawa
+
+# County Title
+title = c_lawa
+
+# Settlements
+max_settlements = 4
+b_lawa = castle
+b_renuin = temple
+b_nima = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

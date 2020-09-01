@@ -1,0 +1,14 @@
+# 525 - Ryunifa
+
+# County Title
+title = c_ryunifa
+
+# Settlements
+max_settlements = 3
+b_ryunifa = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

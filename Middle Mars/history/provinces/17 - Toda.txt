@@ -1,0 +1,19 @@
+# 17 - Toda
+
+# County Title
+title = c_toda
+
+# Settlements
+max_settlements = 4
+b_toda = city
+b_nuju = temple
+b_kamudan = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_100170
+}

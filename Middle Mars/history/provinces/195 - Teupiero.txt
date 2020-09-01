@@ -1,0 +1,14 @@
+# 195 - Teupiero
+
+# County Title
+title = c_teupiero
+
+# Settlements
+max_settlements = 4
+b_teupiero = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 247 - Rolorri
+
+# County Title
+title = c_rolorri
+
+# Settlements
+max_settlements = 1
+b_rolorri = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

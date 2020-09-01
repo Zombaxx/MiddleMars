@@ -1,0 +1,15 @@
+# 179 - Tupaghu
+
+# County Title
+title = c_tupaghu
+
+# Settlements
+max_settlements = 3
+b_tupaghu = castle
+b_qato = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

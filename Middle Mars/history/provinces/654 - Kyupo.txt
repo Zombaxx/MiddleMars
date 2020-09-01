@@ -1,0 +1,14 @@
+# 654 - Kyupo
+
+# County Title
+title = c_kyupo
+
+# Settlements
+max_settlements = 4
+b_kyupo = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

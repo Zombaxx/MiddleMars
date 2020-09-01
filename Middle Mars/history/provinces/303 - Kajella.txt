@@ -1,0 +1,14 @@
+# 303 - Kajella
+
+# County Title
+title = c_kajella
+
+# Settlements
+max_settlements = 1
+b_kajella = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 89 - Tyatuko
+
+# County Title
+title = c_tyatuko
+
+# Settlements
+max_settlements = 4
+b_tyatuko = castle
+b_takius = temple
+b_qeinavi = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1209 - Acasiga
+
+# County Title
+title = c_acasiga
+
+# Settlements
+max_settlements = 6
+b_acasiga = tribal
+b_kopidia = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

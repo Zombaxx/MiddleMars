@@ -1,0 +1,14 @@
+# 266 - Wolurli
+
+# County Title
+title = c_wolurli
+
+# Settlements
+max_settlements = 2
+b_wolurli = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

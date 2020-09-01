@@ -1,0 +1,16 @@
+# 534 - Terna
+
+# County Title
+title = c_terna
+
+# Settlements
+max_settlements = 4
+b_terna = castle
+b_tilar = temple
+b_raluin = city
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

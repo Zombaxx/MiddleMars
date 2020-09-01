@@ -1,0 +1,14 @@
+# 973 - Kelieter
+
+# County Title
+title = c_kelieter
+
+# Settlements
+max_settlements = 4
+b_kelieter = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

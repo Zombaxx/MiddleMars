@@ -1,0 +1,14 @@
+# 897 - Byho
+
+# County Title
+title = c_byho
+
+# Settlements
+max_settlements = 3
+b_byho = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

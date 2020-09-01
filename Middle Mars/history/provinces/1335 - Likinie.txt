@@ -1,0 +1,17 @@
+# 1335 - Likinie
+
+# County Title
+title = c_likinie
+
+# Settlements
+max_settlements = 5
+b_likinie = castle
+b_adarian = temple
+b_keraga = city
+b_kilonas = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

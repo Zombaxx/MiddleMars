@@ -1,0 +1,15 @@
+# 940 - Renying
+
+# County Title
+title = c_renying
+
+# Settlements
+max_settlements = 5
+b_renying = tribal
+b_qoa = temple
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

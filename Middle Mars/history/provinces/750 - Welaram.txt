@@ -1,0 +1,17 @@
+# 750 - Welaram
+
+# County Title
+title = c_welaram
+
+# Settlements
+max_settlements = 5
+b_welaram = castle
+b_kaclav = temple
+b_daliyay = city
+b_ralaul = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 107 - Tisanca
+
+# County Title
+title = c_tisanca
+
+# Settlements
+max_settlements = 4
+b_tisanca = castle
+b_qumegin = temple
+b_barirma = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

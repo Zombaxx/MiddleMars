@@ -1,0 +1,14 @@
+# 1303 - Keriyah
+
+# County Title
+title = c_keriyah
+
+# Settlements
+max_settlements = 2
+b_keriyah = tribal
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

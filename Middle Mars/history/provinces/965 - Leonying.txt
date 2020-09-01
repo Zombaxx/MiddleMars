@@ -1,0 +1,17 @@
+# 965 - Leonying
+
+# County Title
+title = c_leonying
+
+# Settlements
+max_settlements = 5
+b_leonying = castle
+b_saadaht = temple
+b_eladavo = city
+b_kaderic = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

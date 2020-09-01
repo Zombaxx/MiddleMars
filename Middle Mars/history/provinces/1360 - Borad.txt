@@ -1,0 +1,14 @@
+# 1360 - Borad
+
+# County Title
+title = c_borad
+
+# Settlements
+max_settlements = 3
+b_borad = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

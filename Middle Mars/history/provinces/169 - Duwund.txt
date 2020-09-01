@@ -1,0 +1,15 @@
+# 169 - Duwund
+
+# County Title
+title = c_duwund
+
+# Settlements
+max_settlements = 3
+b_duwund = castle
+b_ryaramm = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

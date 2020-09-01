@@ -1,0 +1,16 @@
+# 130 - Qurilip
+
+# County Title
+title = c_qurilip
+
+# Settlements
+max_settlements = 4
+b_qurilip = castle
+b_telude = temple
+b_nivahah = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

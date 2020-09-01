@@ -1,0 +1,15 @@
+# 883 - Tedisa
+
+# County Title
+title = c_tedisa
+
+# Settlements
+max_settlements = 3
+b_tedisa = castle
+b_naram = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1423 - Bibeelo
+
+# County Title
+title = c_bibeelo
+
+# Settlements
+max_settlements = 4
+b_bibeelo = tribal
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

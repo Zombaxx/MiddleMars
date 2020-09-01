@@ -1,0 +1,16 @@
+# 1576 - Losoku
+
+# County Title
+title = c_losoku
+
+# Settlements
+max_settlements = 4
+b_losoku = castle
+b_togaun = temple
+b_qalaid = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

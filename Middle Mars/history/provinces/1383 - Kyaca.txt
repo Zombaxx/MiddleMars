@@ -1,0 +1,15 @@
+# 1383 - Kyaca
+
+# County Title
+title = c_kyaca
+
+# Settlements
+max_settlements = 3
+b_kyaca = castle
+b_taneer = temple
+
+# Misc
+culture = levantine_arabic
+religion = jain
+
+# History

@@ -1,0 +1,16 @@
+# 76 - Taa
+
+# County Title
+title = c_taa
+
+# Settlements
+max_settlements = 4
+b_taa = castle
+b_dyasork = temple
+b_lanail = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

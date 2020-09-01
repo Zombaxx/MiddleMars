@@ -1,0 +1,16 @@
+# 1207 - Dagalgi
+
+# County Title
+title = c_dagalgi
+
+# Settlements
+max_settlements = 4
+b_dagalgi = castle
+b_kajayim = temple
+b_rasha = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

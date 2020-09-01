@@ -1,0 +1,16 @@
+# 1644 - Adimily
+
+# County Title
+title = c_adimily
+
+# Settlements
+max_settlements = 4
+b_adimily = castle
+b_luwifa = temple
+b_kifa = city
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

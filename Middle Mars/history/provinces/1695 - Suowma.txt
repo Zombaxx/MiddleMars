@@ -1,0 +1,14 @@
+# 1695 - Suowma
+
+# County Title
+title = c_suowma
+
+# Settlements
+max_settlements = 1
+b_suowma = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

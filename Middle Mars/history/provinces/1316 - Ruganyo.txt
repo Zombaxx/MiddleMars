@@ -1,0 +1,16 @@
+# 1316 - Ruganyo
+
+# County Title
+title = c_ruganyo
+
+# Settlements
+max_settlements = 4
+b_ruganyo = castle
+b_teenava = temple
+b_dageis = city
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

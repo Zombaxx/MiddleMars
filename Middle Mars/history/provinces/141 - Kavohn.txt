@@ -1,0 +1,17 @@
+# 141 - Kavohn
+
+# County Title
+title = c_kavohn
+
+# Settlements
+max_settlements = 5
+b_kavohn = castle
+b_kogeda = temple
+b_tajyer = city
+b_kumaret = castle
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

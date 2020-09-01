@@ -1,0 +1,14 @@
+# 206 - Neoka
+
+# County Title
+title = c_neoka
+
+# Settlements
+max_settlements = 2
+b_neoka = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1744 - Averura
+
+# County Title
+title = c_averura
+
+# Settlements
+max_settlements = 3
+b_averura = castle
+b_wit = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

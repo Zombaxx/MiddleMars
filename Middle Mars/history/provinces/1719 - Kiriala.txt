@@ -1,0 +1,14 @@
+# 1719 - Kiriala
+
+# County Title
+title = c_kiriala
+
+# Settlements
+max_settlements = 2
+b_kiriala = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

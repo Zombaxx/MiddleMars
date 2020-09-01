@@ -1,0 +1,15 @@
+# 1603 - Nalann
+
+# County Title
+title = c_nalann
+
+# Settlements
+max_settlements = 3
+b_nalann = castle
+b_beiroa = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,14 @@
+# 233 - Teoda
+
+# County Title
+title = c_teoda
+
+# Settlements
+max_settlements = 3
+b_teoda = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

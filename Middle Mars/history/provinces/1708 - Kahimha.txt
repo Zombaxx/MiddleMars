@@ -1,0 +1,14 @@
+# 1708 - Kahimha
+
+# County Title
+title = c_kahimha
+
+# Settlements
+max_settlements = 1
+b_kahimha = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

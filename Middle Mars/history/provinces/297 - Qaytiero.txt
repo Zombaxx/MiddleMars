@@ -1,0 +1,15 @@
+# 297 - Qaytiero
+
+# County Title
+title = c_qaytiero
+
+# Settlements
+max_settlements = 5
+b_qaytiero = tribal
+b_wima = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1109 - Sagoka
+
+# County Title
+title = c_sagoka
+
+# Settlements
+max_settlements = 5
+b_sagoka = castle
+b_lasozar = temple
+b_raurena = city
+b_nideva = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

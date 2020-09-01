@@ -1,0 +1,16 @@
+# 1755 - Tyasa
+
+# County Title
+title = c_tyasa
+
+# Settlements
+max_settlements = 4
+b_tyasa = castle
+b_nalilia = temple
+b_kikajan = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

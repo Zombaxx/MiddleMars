@@ -1,0 +1,14 @@
+# 955 - Kokong
+
+# County Title
+title = c_kokong
+
+# Settlements
+max_settlements = 2
+b_kokong = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

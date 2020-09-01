@@ -1,0 +1,14 @@
+# 1390 - Wusha
+
+# County Title
+title = c_wusha
+
+# Settlements
+max_settlements = 4
+b_wusha = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

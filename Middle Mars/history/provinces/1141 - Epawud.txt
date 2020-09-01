@@ -1,0 +1,17 @@
+# 1141 - Epawud
+
+# County Title
+title = c_epawud
+
+# Settlements
+max_settlements = 5
+b_epawud = castle
+b_radana = temple
+b_bulonia = city
+b_tahila = castle
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

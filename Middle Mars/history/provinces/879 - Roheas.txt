@@ -1,0 +1,15 @@
+# 879 - Roheas
+
+# County Title
+title = c_roheas
+
+# Settlements
+max_settlements = 3
+b_roheas = castle
+b_lohajda = temple
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

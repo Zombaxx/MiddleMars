@@ -1,0 +1,14 @@
+# 740 - Kodew
+
+# County Title
+title = c_kodew
+
+# Settlements
+max_settlements = 4
+b_kodew = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

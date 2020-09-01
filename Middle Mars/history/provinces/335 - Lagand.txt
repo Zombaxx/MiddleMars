@@ -1,0 +1,14 @@
+# 335 - Lagand
+
+# County Title
+title = c_lagand
+
+# Settlements
+max_settlements = 1
+b_lagand = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

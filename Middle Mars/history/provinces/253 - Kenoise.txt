@@ -1,0 +1,14 @@
+# 253 - Kenoise
+
+# County Title
+title = c_kenoise
+
+# Settlements
+max_settlements = 3
+b_kenoise = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

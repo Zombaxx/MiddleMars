@@ -1,0 +1,15 @@
+# 1454 - Anella
+
+# County Title
+title = c_anella
+
+# Settlements
+max_settlements = 3
+b_anella = castle
+b_eperabai = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

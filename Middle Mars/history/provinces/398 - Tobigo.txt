@@ -1,0 +1,14 @@
+# 398 - Tobigo
+
+# County Title
+title = c_tobigo
+
+# Settlements
+max_settlements = 2
+b_tobigo = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

@@ -1,0 +1,17 @@
+# 794 - Nyonu
+
+# County Title
+title = c_nyonu
+
+# Settlements
+max_settlements = 5
+b_nyonu = castle
+b_nauluida = temple
+b_nawili = city
+b_daweca = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

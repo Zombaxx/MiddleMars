@@ -1,0 +1,15 @@
+# 1359 - Echeas
+
+# County Title
+title = c_echeas
+
+# Settlements
+max_settlements = 5
+b_echeas = tribal
+b_kenomea = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

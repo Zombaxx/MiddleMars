@@ -1,0 +1,15 @@
+# 183 - Emanomon
+
+# County Title
+title = c_emanomon
+
+# Settlements
+max_settlements = 3
+b_emanomon = castle
+b_erupulia = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

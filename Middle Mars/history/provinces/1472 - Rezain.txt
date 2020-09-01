@@ -1,0 +1,16 @@
+# 1472 - Rezain
+
+# County Title
+title = c_rezain
+
+# Settlements
+max_settlements = 4
+b_rezain = castle
+b_rehanie = temple
+b_agude = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

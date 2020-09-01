@@ -1,0 +1,16 @@
+# 742 - Wamavo
+
+# County Title
+title = c_wamavo
+
+# Settlements
+max_settlements = 4
+b_wamavo = castle
+b_eresed = temple
+b_esamed = city
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

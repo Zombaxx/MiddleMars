@@ -1,0 +1,14 @@
+# 223 - Daraila
+
+# County Title
+title = c_daraila
+
+# Settlements
+max_settlements = 3
+b_daraila = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

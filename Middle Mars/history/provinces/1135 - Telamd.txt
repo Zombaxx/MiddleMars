@@ -1,0 +1,14 @@
+# 1135 - Telamd
+
+# County Title
+title = c_telamd
+
+# Settlements
+max_settlements = 3
+b_telamd = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

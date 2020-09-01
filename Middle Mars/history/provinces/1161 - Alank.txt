@@ -1,0 +1,14 @@
+# 1161 - Alank
+
+# County Title
+title = c_alank
+
+# Settlements
+max_settlements = 3
+b_alank = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

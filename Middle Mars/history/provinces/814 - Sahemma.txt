@@ -1,0 +1,17 @@
+# 814 - Sahemma
+
+# County Title
+title = c_sahemma
+
+# Settlements
+max_settlements = 5
+b_sahemma = castle
+b_woluda = temple
+b_ahextus = city
+b_lahusbu = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

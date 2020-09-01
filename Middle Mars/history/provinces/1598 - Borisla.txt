@@ -1,0 +1,14 @@
+# 1598 - Borisla
+
+# County Title
+title = c_borisla
+
+# Settlements
+max_settlements = 3
+b_borisla = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

@@ -1,0 +1,15 @@
+# 217 - Renawma
+
+# County Title
+title = c_renawma
+
+# Settlements
+max_settlements = 3
+b_renawma = castle
+b_anihisam = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

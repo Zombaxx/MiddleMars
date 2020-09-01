@@ -1,0 +1,15 @@
+# 714 - Taneyao
+
+# County Title
+title = c_taneyao
+
+# Settlements
+max_settlements = 3
+b_taneyao = castle
+b_wanyze = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

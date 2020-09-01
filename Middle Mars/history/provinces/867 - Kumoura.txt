@@ -1,0 +1,15 @@
+# 867 - Kumoura
+
+# County Title
+title = c_kumoura
+
+# Settlements
+max_settlements = 6
+b_kumoura = tribal
+b_tazuru = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

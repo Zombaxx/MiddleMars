@@ -1,0 +1,15 @@
+# 1586 - Letebia
+
+# County Title
+title = c_letebia
+
+# Settlements
+max_settlements = 3
+b_letebia = castle
+b_dayabia = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

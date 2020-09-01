@@ -1,0 +1,14 @@
+# 1277 - Tujiwen
+
+# County Title
+title = c_tujiwen
+
+# Settlements
+max_settlements = 4
+b_tujiwen = tribal
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

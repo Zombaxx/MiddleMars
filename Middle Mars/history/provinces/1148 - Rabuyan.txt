@@ -1,0 +1,15 @@
+# 1148 - Rabuyan
+
+# County Title
+title = c_rabuyan
+
+# Settlements
+max_settlements = 5
+b_rabuyan = tribal
+b_tuina = temple
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

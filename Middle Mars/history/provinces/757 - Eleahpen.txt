@@ -1,0 +1,15 @@
+# 757 - Eleahpen
+
+# County Title
+title = c_eleahpen
+
+# Settlements
+max_settlements = 3
+b_eleahpen = castle
+b_nulnaz = temple
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

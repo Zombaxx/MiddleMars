@@ -1,0 +1,14 @@
+# 1182 - Kilyana
+
+# County Title
+title = c_kilyana
+
+# Settlements
+max_settlements = 3
+b_kilyana = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

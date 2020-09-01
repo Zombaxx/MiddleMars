@@ -1,0 +1,14 @@
+# 438 - Welagha
+
+# County Title
+title = c_welagha
+
+# Settlements
+max_settlements = 1
+b_welagha = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

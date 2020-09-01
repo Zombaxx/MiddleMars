@@ -1,0 +1,15 @@
+# 456 - Lenad
+
+# County Title
+title = c_lenad
+
+# Settlements
+max_settlements = 3
+b_lenad = castle
+b_rilad = temple
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

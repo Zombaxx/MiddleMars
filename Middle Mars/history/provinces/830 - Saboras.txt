@@ -1,0 +1,16 @@
+# 830 - Saboras
+
+# County Title
+title = c_saboras
+
+# Settlements
+max_settlements = 4
+b_saboras = castle
+b_namyan = temple
+b_datni = city
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

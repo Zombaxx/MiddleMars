@@ -1,0 +1,14 @@
+# 1329 - Delaz
+
+# County Title
+title = c_delaz
+
+# Settlements
+max_settlements = 3
+b_delaz = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

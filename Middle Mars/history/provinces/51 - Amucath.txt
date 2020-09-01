@@ -1,0 +1,17 @@
+# 51 - Amucath
+
+# County Title
+title = c_amucath
+
+# Settlements
+max_settlements = 5
+b_amucath = castle
+b_dana = temple
+b_suranu = city
+b_raraya = castle
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

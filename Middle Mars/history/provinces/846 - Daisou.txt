@@ -1,0 +1,15 @@
+# 846 - Daisou
+
+# County Title
+title = c_daisou
+
+# Settlements
+max_settlements = 3
+b_daisou = castle
+b_taisami = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

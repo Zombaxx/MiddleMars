@@ -1,0 +1,14 @@
+# 209 - Ezeleva
+
+# County Title
+title = c_ezeleva
+
+# Settlements
+max_settlements = 2
+b_ezeleva = castle
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1007 - Tettin
+
+# County Title
+title = c_tettin
+
+# Settlements
+max_settlements = 3
+b_tettin = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

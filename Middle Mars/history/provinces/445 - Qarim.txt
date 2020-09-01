@@ -1,0 +1,14 @@
+# 445 - Qarim
+
+# County Title
+title = c_qarim
+
+# Settlements
+max_settlements = 4
+b_qarim = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

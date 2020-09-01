@@ -1,0 +1,16 @@
+# 1542 - Souana
+
+# County Title
+title = c_souana
+
+# Settlements
+max_settlements = 4
+b_souana = castle
+b_wukine = temple
+b_rahre = city
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

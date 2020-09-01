@@ -1,0 +1,15 @@
+# 1164 - Tivudo
+
+# County Title
+title = c_tivudo
+
+# Settlements
+max_settlements = 6
+b_tivudo = tribal
+b_ejetoka = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

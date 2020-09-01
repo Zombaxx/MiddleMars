@@ -1,0 +1,16 @@
+# 699 - Tosavo
+
+# County Title
+title = c_tosavo
+
+# Settlements
+max_settlements = 4
+b_tosavo = castle
+b_ekamavo = temple
+b_laloete = city
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

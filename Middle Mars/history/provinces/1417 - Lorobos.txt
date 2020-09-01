@@ -1,0 +1,17 @@
+# 1417 - Lorobos
+
+# County Title
+title = c_lorobos
+
+# Settlements
+max_settlements = 5
+b_lorobos = castle
+b_kacan = temple
+b_relilu = city
+b_nonella = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

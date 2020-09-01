@@ -1,0 +1,14 @@
+# 725 - Titanka
+
+# County Title
+title = c_titanka
+
+# Settlements
+max_settlements = 2
+b_titanka = castle
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

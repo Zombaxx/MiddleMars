@@ -1,0 +1,15 @@
+# 1535 - Libatta
+
+# County Title
+title = c_libatta
+
+# Settlements
+max_settlements = 3
+b_libatta = tribal
+b_erarna = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

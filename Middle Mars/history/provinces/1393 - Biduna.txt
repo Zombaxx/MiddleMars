@@ -1,0 +1,15 @@
+# 1393 - Biduna
+
+# County Title
+title = c_biduna
+
+# Settlements
+max_settlements = 4
+b_biduna = tribal
+b_kumuna = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

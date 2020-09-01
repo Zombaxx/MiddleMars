@@ -1,0 +1,16 @@
+# 1489 - Lumoman
+
+# County Title
+title = c_lumoman
+
+# Settlements
+max_settlements = 4
+b_lumoman = castle
+b_lahara = temple
+b_lenail = city
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

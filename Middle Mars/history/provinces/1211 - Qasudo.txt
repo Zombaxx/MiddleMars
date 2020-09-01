@@ -1,0 +1,14 @@
+# 1211 - Qasudo
+
+# County Title
+title = c_qasudo
+
+# Settlements
+max_settlements = 2
+b_qasudo = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

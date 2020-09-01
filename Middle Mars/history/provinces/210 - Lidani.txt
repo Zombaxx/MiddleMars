@@ -1,0 +1,14 @@
+# 210 - Lidani
+
+# County Title
+title = c_lidani
+
+# Settlements
+max_settlements = 2
+b_lidani = castle
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

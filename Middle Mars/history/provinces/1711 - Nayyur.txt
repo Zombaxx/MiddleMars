@@ -1,0 +1,14 @@
+# 1711 - Nayyur
+
+# County Title
+title = c_nayyur
+
+# Settlements
+max_settlements = 2
+b_nayyur = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

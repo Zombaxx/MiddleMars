@@ -1,0 +1,17 @@
+# 1427 - Badank
+
+# County Title
+title = c_badank
+
+# Settlements
+max_settlements = 5
+b_badank = castle
+b_qurund = temple
+b_bohasia = city
+b_evacijah = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

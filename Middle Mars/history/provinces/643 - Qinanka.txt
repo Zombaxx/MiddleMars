@@ -1,0 +1,17 @@
+# 643 - Qinanka
+
+# County Title
+title = c_qinanka
+
+# Settlements
+max_settlements = 5
+b_qinanka = castle
+b_seroise = temple
+b_niniur = city
+b_todaimi = castle
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

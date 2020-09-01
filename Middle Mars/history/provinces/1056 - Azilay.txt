@@ -1,0 +1,15 @@
+# 1056 - Azilay
+
+# County Title
+title = c_azilay
+
+# Settlements
+max_settlements = 3
+b_azilay = castle
+b_teorge = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

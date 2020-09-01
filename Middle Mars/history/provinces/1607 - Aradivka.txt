@@ -1,0 +1,15 @@
+# 1607 - Aradivka
+
+# County Title
+title = c_aradivka
+
+# Settlements
+max_settlements = 3
+b_aradivka = castle
+b_wazavac = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

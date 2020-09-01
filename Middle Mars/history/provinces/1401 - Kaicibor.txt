@@ -1,0 +1,16 @@
+# 1401 - Kaicibor
+
+# County Title
+title = c_kaicibor
+
+# Settlements
+max_settlements = 4
+b_kaicibor = castle
+b_qiryula = temple
+b_ejacibor = city
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

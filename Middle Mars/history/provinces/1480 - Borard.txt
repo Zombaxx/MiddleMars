@@ -1,0 +1,14 @@
+# 1480 - Borard
+
+# County Title
+title = c_borard
+
+# Settlements
+max_settlements = 3
+b_borard = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

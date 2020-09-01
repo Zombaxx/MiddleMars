@@ -1,0 +1,15 @@
+# 1464 - Ranorz
+
+# County Title
+title = c_ranorz
+
+# Settlements
+max_settlements = 3
+b_ranorz = tribal
+b_lanoto = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

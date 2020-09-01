@@ -1,0 +1,15 @@
+# 555 - Kohing
+
+# County Title
+title = c_kohing
+
+# Settlements
+max_settlements = 3
+b_kohing = castle
+b_efughur = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

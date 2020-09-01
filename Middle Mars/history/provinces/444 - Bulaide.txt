@@ -1,0 +1,14 @@
+# 444 - Bulaide
+
+# County Title
+title = c_bulaide
+
+# Settlements
+max_settlements = 3
+b_bulaide = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

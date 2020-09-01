@@ -1,0 +1,15 @@
+# 1029 - Dadost
+
+# County Title
+title = c_dadost
+
+# Settlements
+max_settlements = 5
+b_dadost = tribal
+b_qabous = temple
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

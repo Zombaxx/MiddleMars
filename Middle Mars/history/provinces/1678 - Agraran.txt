@@ -1,0 +1,15 @@
+# 1678 - Agraran
+
+# County Title
+title = c_agraran
+
+# Settlements
+max_settlements = 3
+b_agraran = castle
+b_wyousara = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 644 - Totyamo
+
+# County Title
+title = c_totyamo
+
+# Settlements
+max_settlements = 5
+b_totyamo = tribal
+b_qubayor = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

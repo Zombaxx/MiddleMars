@@ -1,0 +1,14 @@
+# 1492 - Keleth
+
+# County Title
+title = c_keleth
+
+# Settlements
+max_settlements = 3
+b_keleth = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 156 - Qilayya
+
+# County Title
+title = c_qilayya
+
+# Settlements
+max_settlements = 4
+b_qilayya = castle
+b_qeiruna = temple
+b_biruna = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

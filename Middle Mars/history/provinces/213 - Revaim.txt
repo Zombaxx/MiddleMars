@@ -1,0 +1,15 @@
+# 213 - Revaim
+
+# County Title
+title = c_revaim
+
+# Settlements
+max_settlements = 3
+b_revaim = castle
+b_akegaham = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 550 - Wenzu
+
+# County Title
+title = c_wenzu
+
+# Settlements
+max_settlements = 4
+b_wenzu = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

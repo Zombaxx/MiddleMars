@@ -1,0 +1,15 @@
+# 1249 - Ekirit
+
+# County Title
+title = c_ekirit
+
+# Settlements
+max_settlements = 3
+b_ekirit = castle
+b_elaksai = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

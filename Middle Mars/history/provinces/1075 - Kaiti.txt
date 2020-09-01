@@ -1,0 +1,16 @@
+# 1075 - Kaiti
+
+# County Title
+title = c_kaiti
+
+# Settlements
+max_settlements = 4
+b_kaiti = castle
+b_racateh = temple
+b_totaba = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

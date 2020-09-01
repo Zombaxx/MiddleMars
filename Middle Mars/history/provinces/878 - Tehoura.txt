@@ -1,0 +1,16 @@
+# 878 - Tehoura
+
+# County Title
+title = c_tehoura
+
+# Settlements
+max_settlements = 4
+b_tehoura = castle
+b_saliam = temple
+b_kanadha = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

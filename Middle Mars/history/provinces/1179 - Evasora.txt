@@ -1,0 +1,16 @@
+# 1179 - Evasora
+
+# County Title
+title = c_evasora
+
+# Settlements
+max_settlements = 4
+b_evasora = castle
+b_beria = temple
+b_wudomo = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

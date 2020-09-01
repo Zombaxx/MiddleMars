@@ -1,0 +1,14 @@
+# 292 - Nacouhi
+
+# County Title
+title = c_nacouhi
+
+# Settlements
+max_settlements = 1
+b_nacouhi = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

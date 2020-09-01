@@ -1,0 +1,16 @@
+# 1505 - Edilal
+
+# County Title
+title = c_edilal
+
+# Settlements
+max_settlements = 4
+b_edilal = castle
+b_nameek = temple
+b_lodanga = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

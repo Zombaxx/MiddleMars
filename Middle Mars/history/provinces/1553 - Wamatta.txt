@@ -1,0 +1,14 @@
+# 1553 - Wamatta
+
+# County Title
+title = c_wamatta
+
+# Settlements
+max_settlements = 2
+b_wamatta = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

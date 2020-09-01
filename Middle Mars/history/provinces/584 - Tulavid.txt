@@ -1,0 +1,14 @@
+# 584 - Tulavid
+
+# County Title
+title = c_tulavid
+
+# Settlements
+max_settlements = 2
+b_tulavid = castle
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

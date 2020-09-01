@@ -1,0 +1,14 @@
+# 420 - Toigar
+
+# County Title
+title = c_toigar
+
+# Settlements
+max_settlements = 4
+b_toigar = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

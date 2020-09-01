@@ -1,0 +1,16 @@
+# 188 - Kautiat
+
+# County Title
+title = c_kautiat
+
+# Settlements
+max_settlements = 4
+b_kautiat = castle
+b_damaye = temple
+b_tilew = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

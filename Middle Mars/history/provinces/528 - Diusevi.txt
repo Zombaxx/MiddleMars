@@ -1,0 +1,15 @@
+# 528 - Diusevi
+
+# County Title
+title = c_diusevi
+
+# Settlements
+max_settlements = 5
+b_diusevi = tribal
+b_dibupo = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

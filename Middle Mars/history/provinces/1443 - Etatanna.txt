@@ -1,0 +1,14 @@
+# 1443 - Etatanna
+
+# County Title
+title = c_etatanna
+
+# Settlements
+max_settlements = 4
+b_etatanna = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

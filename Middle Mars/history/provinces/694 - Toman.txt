@@ -1,0 +1,15 @@
+# 694 - Toman
+
+# County Title
+title = c_toman
+
+# Settlements
+max_settlements = 3
+b_toman = castle
+b_rotulun = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

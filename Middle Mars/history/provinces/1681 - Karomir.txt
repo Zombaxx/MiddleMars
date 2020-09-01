@@ -1,0 +1,14 @@
+# 1681 - Karomir
+
+# County Title
+title = c_karomir
+
+# Settlements
+max_settlements = 1
+b_karomir = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

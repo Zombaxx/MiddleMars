@@ -1,0 +1,15 @@
+# 1367 - Raroska
+
+# County Title
+title = c_raroska
+
+# Settlements
+max_settlements = 5
+b_raroska = tribal
+b_qudim = temple
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

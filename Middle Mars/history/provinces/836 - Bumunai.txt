@@ -1,0 +1,16 @@
+# 836 - Bumunai
+
+# County Title
+title = c_bumunai
+
+# Settlements
+max_settlements = 4
+b_bumunai = castle
+b_ratnara = temple
+b_wevelme = city
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

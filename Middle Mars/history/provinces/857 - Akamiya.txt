@@ -1,0 +1,17 @@
+# 857 - Akamiya
+
+# County Title
+title = c_akamiya
+
+# Settlements
+max_settlements = 5
+b_akamiya = castle
+b_naronse = temple
+b_lebaac = city
+b_tyeuta = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

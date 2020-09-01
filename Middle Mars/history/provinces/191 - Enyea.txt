@@ -1,0 +1,15 @@
+# 191 - Enyea
+
+# County Title
+title = c_enyea
+
+# Settlements
+max_settlements = 3
+b_enyea = castle
+b_ehakita = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

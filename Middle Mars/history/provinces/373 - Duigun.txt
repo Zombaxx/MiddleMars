@@ -1,0 +1,14 @@
+# 373 - Duigun
+
+# County Title
+title = c_duigun
+
+# Settlements
+max_settlements = 3
+b_duigun = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

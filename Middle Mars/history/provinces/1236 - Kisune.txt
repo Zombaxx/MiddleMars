@@ -1,0 +1,16 @@
+# 1236 - Kisune
+
+# County Title
+title = c_kisune
+
+# Settlements
+max_settlements = 4
+b_kisune = castle
+b_wusan = temple
+b_tazemir = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

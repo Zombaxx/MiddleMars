@@ -1,0 +1,16 @@
+# 99 - Dacaya
+
+# County Title
+title = c_dacaya
+
+# Settlements
+max_settlements = 4
+b_dacaya = castle
+b_enim = temple
+b_tanuraq = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

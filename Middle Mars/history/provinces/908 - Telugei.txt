@@ -1,0 +1,15 @@
+# 908 - Telugei
+
+# County Title
+title = c_telugei
+
+# Settlements
+max_settlements = 7
+b_telugei = tribal
+b_teyfion = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

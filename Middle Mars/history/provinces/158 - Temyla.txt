@@ -1,0 +1,14 @@
+# 158 - Temyla
+
+# County Title
+title = c_temyla
+
+# Settlements
+max_settlements = 3
+b_temyla = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

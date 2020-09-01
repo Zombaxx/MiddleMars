@@ -1,0 +1,15 @@
+# 441 - Tupiwal
+
+# County Title
+title = c_tupiwal
+
+# Settlements
+max_settlements = 3
+b_tupiwal = castle
+b_teved = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

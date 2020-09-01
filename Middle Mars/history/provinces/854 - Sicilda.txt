@@ -1,0 +1,14 @@
+# 854 - Sicilda
+
+# County Title
+title = c_sicilda
+
+# Settlements
+max_settlements = 4
+b_sicilda = tribal
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

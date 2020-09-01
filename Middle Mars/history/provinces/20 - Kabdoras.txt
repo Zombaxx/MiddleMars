@@ -1,0 +1,14 @@
+# 20 - Kabdoras
+
+# County Title
+title = c_kabdoras
+
+# Settlements
+max_settlements = 2
+b_kabdoras = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 768 - Kodinaj
+
+# County Title
+title = c_kodinaj
+
+# Settlements
+max_settlements = 3
+b_kodinaj = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

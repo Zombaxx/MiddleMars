@@ -1,0 +1,14 @@
+# 300 - Sodade
+
+# County Title
+title = c_sodade
+
+# Settlements
+max_settlements = 2
+b_sodade = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

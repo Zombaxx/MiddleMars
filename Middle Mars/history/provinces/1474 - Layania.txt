@@ -1,0 +1,15 @@
+# 1474 - Layania
+
+# County Title
+title = c_layania
+
+# Settlements
+max_settlements = 3
+b_layania = castle
+b_tehulay = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

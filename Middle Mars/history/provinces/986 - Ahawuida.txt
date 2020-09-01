@@ -1,0 +1,17 @@
+# 986 - Ahawuida
+
+# County Title
+title = c_ahawuida
+
+# Settlements
+max_settlements = 6
+b_ahawuida = castle
+b_ahjaram = temple
+b_agivau = city
+b_emahenda = castle
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

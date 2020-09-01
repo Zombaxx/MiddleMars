@@ -1,0 +1,14 @@
+# 1449 - Tavicta
+
+# County Title
+title = c_tavicta
+
+# Settlements
+max_settlements = 3
+b_tavicta = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

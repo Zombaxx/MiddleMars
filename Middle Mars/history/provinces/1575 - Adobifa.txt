@@ -1,0 +1,15 @@
+# 1575 - Adobifa
+
+# County Title
+title = c_adobifa
+
+# Settlements
+max_settlements = 3
+b_adobifa = tribal
+b_duo = temple
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

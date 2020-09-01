@@ -1,0 +1,17 @@
+# 1254 - Sarezo
+
+# County Title
+title = c_sarezo
+
+# Settlements
+max_settlements = 5
+b_sarezo = castle
+b_daradra = temple
+b_qamaiti = city
+b_sinezo = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

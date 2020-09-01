@@ -1,0 +1,14 @@
+# 461 - Karuci
+
+# County Title
+title = c_karuci
+
+# Settlements
+max_settlements = 4
+b_karuci = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

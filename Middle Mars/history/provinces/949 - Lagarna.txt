@@ -1,0 +1,15 @@
+# 949 - Lagarna
+
+# County Title
+title = c_lagarna
+
+# Settlements
+max_settlements = 3
+b_lagarna = castle
+b_taliutl = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

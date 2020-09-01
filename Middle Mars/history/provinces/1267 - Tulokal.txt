@@ -1,0 +1,14 @@
+# 1267 - Tulokal
+
+# County Title
+title = c_tulokal
+
+# Settlements
+max_settlements = 4
+b_tulokal = tribal
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1344 - Evyet
+
+# County Title
+title = c_evyet
+
+# Settlements
+max_settlements = 3
+b_evyet = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

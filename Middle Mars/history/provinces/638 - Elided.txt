@@ -1,0 +1,15 @@
+# 638 - Elided
+
+# County Title
+title = c_elided
+
+# Settlements
+max_settlements = 3
+b_elided = castle
+b_walons = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

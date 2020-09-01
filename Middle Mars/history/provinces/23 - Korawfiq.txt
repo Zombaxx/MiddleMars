@@ -1,0 +1,15 @@
+# 23 - Korawfiq
+
+# County Title
+title = c_korawfiq
+
+# Settlements
+max_settlements = 3
+b_korawfiq = castle
+b_wehija = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

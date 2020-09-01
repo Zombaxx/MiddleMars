@@ -1,0 +1,14 @@
+# 1509 - Tangar
+
+# County Title
+title = c_tangar
+
+# Settlements
+max_settlements = 3
+b_tangar = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

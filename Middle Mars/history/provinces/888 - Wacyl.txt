@@ -1,0 +1,14 @@
+# 888 - Wacyl
+
+# County Title
+title = c_wacyl
+
+# Settlements
+max_settlements = 2
+b_wacyl = castle
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

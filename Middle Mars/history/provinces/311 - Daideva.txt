@@ -1,0 +1,14 @@
+# 311 - Daideva
+
+# County Title
+title = c_daideva
+
+# Settlements
+max_settlements = 1
+b_daideva = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

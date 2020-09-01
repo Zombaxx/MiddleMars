@@ -1,0 +1,14 @@
+# 1052 - Naruko
+
+# County Title
+title = c_naruko
+
+# Settlements
+max_settlements = 4
+b_naruko = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,16 @@
+# 1574 - Nosardu
+
+# County Title
+title = c_nosardu
+
+# Settlements
+max_settlements = 4
+b_nosardu = castle
+b_ralilay = temple
+b_talulcak = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

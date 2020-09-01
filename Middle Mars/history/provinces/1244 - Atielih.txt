@@ -1,0 +1,14 @@
+# 1244 - Atielih
+
+# County Title
+title = c_atielih
+
+# Settlements
+max_settlements = 2
+b_atielih = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

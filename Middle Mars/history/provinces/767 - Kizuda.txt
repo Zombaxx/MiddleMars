@@ -1,0 +1,14 @@
+# 767 - Kizuda
+
+# County Title
+title = c_kizuda
+
+# Settlements
+max_settlements = 3
+b_kizuda = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 919 - Kizudo
+
+# County Title
+title = c_kizudo
+
+# Settlements
+max_settlements = 3
+b_kizudo = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

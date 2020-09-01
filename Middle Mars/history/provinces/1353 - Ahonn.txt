@@ -1,0 +1,16 @@
+# 1353 - Ahonn
+
+# County Title
+title = c_ahonn
+
+# Settlements
+max_settlements = 4
+b_ahonn = castle
+b_devonas = temple
+b_toneir = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

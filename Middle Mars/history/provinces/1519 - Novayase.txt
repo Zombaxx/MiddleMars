@@ -1,0 +1,15 @@
+# 1519 - Novayase
+
+# County Title
+title = c_novayase
+
+# Settlements
+max_settlements = 3
+b_novayase = castle
+b_kozend = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

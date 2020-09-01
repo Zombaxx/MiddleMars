@@ -1,0 +1,14 @@
+# 1251 - Tamita
+
+# County Title
+title = c_tamita
+
+# Settlements
+max_settlements = 4
+b_tamita = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 1706 - Nechem
+
+# County Title
+title = c_nechem
+
+# Settlements
+max_settlements = 3
+b_nechem = castle
+b_tunaim = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

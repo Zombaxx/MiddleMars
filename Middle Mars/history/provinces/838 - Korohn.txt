@@ -1,0 +1,14 @@
+# 838 - Korohn
+
+# County Title
+title = c_korohn
+
+# Settlements
+max_settlements = 4
+b_korohn = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

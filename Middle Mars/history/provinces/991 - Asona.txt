@@ -1,0 +1,14 @@
+# 991 - Asona
+
+# County Title
+title = c_asona
+
+# Settlements
+max_settlements = 3
+b_asona = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

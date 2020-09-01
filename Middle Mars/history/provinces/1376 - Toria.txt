@@ -1,0 +1,16 @@
+# 1376 - Toria
+
+# County Title
+title = c_toria
+
+# Settlements
+max_settlements = 4
+b_toria = castle
+b_lyita = temple
+b_resimon = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

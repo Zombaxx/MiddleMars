@@ -1,0 +1,14 @@
+# 1619 - Tizias
+
+# County Title
+title = c_tizias
+
+# Settlements
+max_settlements = 3
+b_tizias = tribal
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

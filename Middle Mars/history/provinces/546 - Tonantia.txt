@@ -1,0 +1,16 @@
+# 546 - Tonantia
+
+# County Title
+title = c_tonantia
+
+# Settlements
+max_settlements = 4
+b_tonantia = castle
+b_eponeis = temple
+b_daulavo = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,17 @@
+# 1117 - Wert
+
+# County Title
+title = c_wert
+
+# Settlements
+max_settlements = 5
+b_wert = castle
+b_telyana = temple
+b_rision = city
+b_liriami = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

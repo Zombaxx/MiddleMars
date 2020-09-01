@@ -1,0 +1,16 @@
+# 1380 - Dahoald
+
+# County Title
+title = c_dahoald
+
+# Settlements
+max_settlements = 4
+b_dahoald = castle
+b_ejohozar = temple
+b_ebalaimi = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

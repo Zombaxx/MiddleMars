@@ -1,0 +1,16 @@
+# 1132 - Radayla
+
+# County Title
+title = c_radayla
+
+# Settlements
+max_settlements = 4
+b_radayla = castle
+b_edahat = temple
+b_tyoleth = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

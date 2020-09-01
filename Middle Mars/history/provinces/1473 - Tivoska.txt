@@ -1,0 +1,16 @@
+# 1473 - Tivoska
+
+# County Title
+title = c_tivoska
+
+# Settlements
+max_settlements = 4
+b_tivoska = castle
+b_lonoya = temple
+b_bikoras = city
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

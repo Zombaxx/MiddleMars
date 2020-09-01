@@ -1,0 +1,17 @@
+# 623 - Labdisii
+
+# County Title
+title = c_labdisii
+
+# Settlements
+max_settlements = 5
+b_labdisii = castle
+b_qedalis = temple
+b_dodena = city
+b_teyao = castle
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

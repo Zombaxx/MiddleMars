@@ -1,0 +1,15 @@
+# 1517 - Arars
+
+# County Title
+title = c_arars
+
+# Settlements
+max_settlements = 4
+b_arars = tribal
+b_karalotl = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

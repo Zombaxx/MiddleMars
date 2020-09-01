@@ -1,0 +1,14 @@
+# 304 - Egisokol
+
+# County Title
+title = c_egisokol
+
+# Settlements
+max_settlements = 1
+b_egisokol = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

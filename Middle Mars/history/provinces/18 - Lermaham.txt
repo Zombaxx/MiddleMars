@@ -1,0 +1,16 @@
+# 18 - Lermaham
+
+# County Title
+title = c_lermaham
+
+# Settlements
+max_settlements = 4
+b_lermaham = castle
+b_rayduti = temple
+b_lahine = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

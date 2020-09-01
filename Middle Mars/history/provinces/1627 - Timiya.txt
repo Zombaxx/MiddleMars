@@ -1,0 +1,14 @@
+# 1627 - Timiya
+
+# County Title
+title = c_timiya
+
+# Settlements
+max_settlements = 2
+b_timiya = tribal
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 1090 - Bororgia
+
+# County Title
+title = c_bororgia
+
+# Settlements
+max_settlements = 5
+b_bororgia = castle
+b_necagop = temple
+b_eroloan = city
+b_tamew = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 197 - Kutawtus
+
+# County Title
+title = c_kutawtus
+
+# Settlements
+max_settlements = 3
+b_kutawtus = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

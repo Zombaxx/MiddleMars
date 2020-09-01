@@ -1,0 +1,14 @@
+# 316 - Kaka
+
+# County Title
+title = c_kaka
+
+# Settlements
+max_settlements = 1
+b_kaka = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

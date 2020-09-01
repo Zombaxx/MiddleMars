@@ -1,0 +1,16 @@
+# 761 - Dakenda
+
+# County Title
+title = c_dakenda
+
+# Settlements
+max_settlements = 4
+b_dakenda = castle
+b_kudonse = temple
+b_sazad = city
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

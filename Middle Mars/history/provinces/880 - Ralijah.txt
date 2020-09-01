@@ -1,0 +1,15 @@
+# 880 - Ralijah
+
+# County Title
+title = c_ralijah
+
+# Settlements
+max_settlements = 2
+b_ralijah = castle
+b_waremma = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

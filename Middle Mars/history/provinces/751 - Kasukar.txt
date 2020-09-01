@@ -1,0 +1,16 @@
+# 751 - Kasukar
+
+# County Title
+title = c_kasukar
+
+# Settlements
+max_settlements = 4
+b_kasukar = castle
+b_wiorore = temple
+b_kamasil = city
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

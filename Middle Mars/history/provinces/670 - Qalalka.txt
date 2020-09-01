@@ -1,0 +1,14 @@
+# 670 - Qalalka
+
+# County Title
+title = c_qalalka
+
+# Settlements
+max_settlements = 3
+b_qalalka = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 700 - Arela
+
+# County Title
+title = c_arela
+
+# Settlements
+max_settlements = 3
+b_arela = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

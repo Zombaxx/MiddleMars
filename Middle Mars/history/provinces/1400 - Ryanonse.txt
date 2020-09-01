@@ -1,0 +1,17 @@
+# 1400 - Ryanonse
+
+# County Title
+title = c_ryanonse
+
+# Settlements
+max_settlements = 5
+b_ryanonse = castle
+b_luperin = temple
+b_avyaiah = city
+b_busyay = castle
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

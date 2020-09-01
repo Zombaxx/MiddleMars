@@ -1,0 +1,16 @@
+# 143 - Toisi
+
+# County Title
+title = c_toisi
+
+# Settlements
+max_settlements = 4
+b_toisi = castle
+b_welovai = temple
+b_etubyula = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

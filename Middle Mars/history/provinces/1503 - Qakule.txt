@@ -1,0 +1,14 @@
+# 1503 - Qakule
+
+# County Title
+title = c_qakule
+
+# Settlements
+max_settlements = 3
+b_qakule = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

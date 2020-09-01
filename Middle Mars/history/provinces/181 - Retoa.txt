@@ -1,0 +1,15 @@
+# 181 - Retoa
+
+# County Title
+title = c_retoa
+
+# Settlements
+max_settlements = 3
+b_retoa = castle
+b_larit = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,18 @@
+# 1271 - Daleki
+
+# County Title
+title = c_daleki
+
+# Settlements
+max_settlements = 7
+b_daleki = castle
+b_amoanna = temple
+b_tawira = city
+b_tawiruz = castle
+b_borevon = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

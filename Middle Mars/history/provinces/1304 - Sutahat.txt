@@ -1,0 +1,14 @@
+# 1304 - Sutahat
+
+# County Title
+title = c_sutahat
+
+# Settlements
+max_settlements = 4
+b_sutahat = tribal
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

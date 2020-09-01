@@ -1,0 +1,14 @@
+# 1540 - Nunofan
+
+# County Title
+title = c_nunofan
+
+# Settlements
+max_settlements = 4
+b_nunofan = tribal
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

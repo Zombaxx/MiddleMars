@@ -1,0 +1,17 @@
+# 80 - Ameludan
+
+# County Title
+title = c_ameludan
+
+# Settlements
+max_settlements = 6
+b_ameludan = castle
+b_kasew = temple
+b_qeiruin = city
+b_luragos = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1611 - Wimasha
+
+# County Title
+title = c_wimasha
+
+# Settlements
+max_settlements = 3
+b_wimasha = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 766 - Kodulun
+
+# County Title
+title = c_kodulun
+
+# Settlements
+max_settlements = 3
+b_kodulun = castle
+b_tuirm = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

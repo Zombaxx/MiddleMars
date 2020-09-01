@@ -1,0 +1,17 @@
+# 1072 - Kamawud
+
+# County Title
+title = c_kamawud
+
+# Settlements
+max_settlements = 5
+b_kamawud = castle
+b_rezong = temple
+b_talajda = city
+b_ticon = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

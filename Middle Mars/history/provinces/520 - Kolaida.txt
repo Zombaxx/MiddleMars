@@ -1,0 +1,14 @@
+# 520 - Kolaida
+
+# County Title
+title = c_kolaida
+
+# Settlements
+max_settlements = 2
+b_kolaida = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

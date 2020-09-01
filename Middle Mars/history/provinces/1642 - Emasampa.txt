@@ -1,0 +1,17 @@
+# 1642 - Emasampa
+
+# County Title
+title = c_emasampa
+
+# Settlements
+max_settlements = 5
+b_emasampa = castle
+b_wunuko = temple
+b_susohn = city
+b_rugh = castle
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 319 - Asahund
+
+# County Title
+title = c_asahund
+
+# Settlements
+max_settlements = 1
+b_asahund = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

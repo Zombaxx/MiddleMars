@@ -1,0 +1,14 @@
+# 379 - Tatelbo
+
+# County Title
+title = c_tatelbo
+
+# Settlements
+max_settlements = 2
+b_tatelbo = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

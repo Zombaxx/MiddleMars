@@ -1,0 +1,14 @@
+# 1601 - Tuowma
+
+# County Title
+title = c_tuowma
+
+# Settlements
+max_settlements = 4
+b_tuowma = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

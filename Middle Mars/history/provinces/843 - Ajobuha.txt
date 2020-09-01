@@ -1,0 +1,14 @@
+# 843 - Ajobuha
+
+# County Title
+title = c_ajobuha
+
+# Settlements
+max_settlements = 2
+b_ajobuha = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1668 - Qadilai
+
+# County Title
+title = c_qadilai
+
+# Settlements
+max_settlements = 2
+b_qadilai = tribal
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

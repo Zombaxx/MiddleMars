@@ -1,0 +1,14 @@
+# 424 - Wurga
+
+# County Title
+title = c_wurga
+
+# Settlements
+max_settlements = 2
+b_wurga = castle
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

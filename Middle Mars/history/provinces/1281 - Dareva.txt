@@ -1,0 +1,15 @@
+# 1281 - Dareva
+
+# County Title
+title = c_dareva
+
+# Settlements
+max_settlements = 3
+b_dareva = castle
+b_nubey = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

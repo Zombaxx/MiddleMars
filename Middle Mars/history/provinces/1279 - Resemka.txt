@@ -1,0 +1,14 @@
+# 1279 - Resemka
+
+# County Title
+title = c_resemka
+
+# Settlements
+max_settlements = 3
+b_resemka = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

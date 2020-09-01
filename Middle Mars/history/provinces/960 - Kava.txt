@@ -1,0 +1,14 @@
+# 960 - Kava
+
+# County Title
+title = c_kava
+
+# Settlements
+max_settlements = 2
+b_kava = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

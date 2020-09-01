@@ -1,0 +1,16 @@
+# 153 - Kyer
+
+# County Title
+title = c_kyer
+
+# Settlements
+max_settlements = 4
+b_kyer = castle
+b_lanius = temple
+b_rivega = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

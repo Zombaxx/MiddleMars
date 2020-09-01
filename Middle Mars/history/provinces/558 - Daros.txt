@@ -1,0 +1,15 @@
+# 558 - Daros
+
+# County Title
+title = c_daros
+
+# Settlements
+max_settlements = 5
+b_daros = tribal
+b_luruz = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

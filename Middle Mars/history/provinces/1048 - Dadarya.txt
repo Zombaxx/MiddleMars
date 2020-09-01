@@ -1,0 +1,17 @@
+# 1048 - Dadarya
+
+# County Title
+title = c_dadarya
+
+# Settlements
+max_settlements = 5
+b_dadarya = castle
+b_taneusz = temple
+b_somil = city
+b_ruzoman = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

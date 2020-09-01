@@ -1,0 +1,16 @@
+# 115 - Nyon
+
+# County Title
+title = c_nyon
+
+# Settlements
+max_settlements = 4
+b_nyon = castle
+b_karit = temple
+b_davali = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

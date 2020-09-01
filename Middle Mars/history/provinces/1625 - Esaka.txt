@@ -1,0 +1,15 @@
+# 1625 - Esaka
+
+# County Title
+title = c_esaka
+
+# Settlements
+max_settlements = 3
+b_esaka = castle
+b_kibuis = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

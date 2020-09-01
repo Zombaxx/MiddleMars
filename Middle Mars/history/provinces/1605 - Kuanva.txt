@@ -1,0 +1,15 @@
+# 1605 - Kuanva
+
+# County Title
+title = c_kuanva
+
+# Settlements
+max_settlements = 3
+b_kuanva = castle
+b_dimao = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

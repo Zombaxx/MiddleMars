@@ -1,0 +1,16 @@
+# 850 - Atuberic
+
+# County Title
+title = c_atuberic
+
+# Settlements
+max_settlements = 4
+b_atuberic = castle
+b_tilodos = temple
+b_kanaye = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 831 - Tiubuna
+
+# County Title
+title = c_tiubuna
+
+# Settlements
+max_settlements = 3
+b_tiubuna = castle
+b_baroson = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

@@ -1,0 +1,17 @@
+# 1613 - Wolyavka
+
+# County Title
+title = c_wolyavka
+
+# Settlements
+max_settlements = 6
+b_wolyavka = castle
+b_lunyad = temple
+b_wisyho = city
+b_lasaham = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

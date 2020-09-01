@@ -1,0 +1,14 @@
+# 816 - Kying
+
+# County Title
+title = c_kying
+
+# Settlements
+max_settlements = 2
+b_kying = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

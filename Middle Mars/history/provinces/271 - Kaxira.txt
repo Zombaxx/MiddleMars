@@ -1,0 +1,14 @@
+# 271 - Kaxira
+
+# County Title
+title = c_kaxira
+
+# Settlements
+max_settlements = 2
+b_kaxira = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

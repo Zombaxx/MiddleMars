@@ -1,0 +1,17 @@
+# 1436 - Dunin
+
+# County Title
+title = c_dunin
+
+# Settlements
+max_settlements = 6
+b_dunin = castle
+b_ajamasus = temple
+b_eghin = city
+b_raming = castle
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

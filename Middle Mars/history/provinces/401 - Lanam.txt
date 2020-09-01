@@ -1,0 +1,14 @@
+# 401 - Lanam
+
+# County Title
+title = c_lanam
+
+# Settlements
+max_settlements = 3
+b_lanam = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

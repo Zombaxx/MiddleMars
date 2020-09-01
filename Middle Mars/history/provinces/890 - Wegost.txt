@@ -1,0 +1,16 @@
+# 890 - Wegost
+
+# County Title
+title = c_wegost
+
+# Settlements
+max_settlements = 4
+b_wegost = castle
+b_segaig = temple
+b_labdus = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

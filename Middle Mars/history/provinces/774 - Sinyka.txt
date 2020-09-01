@@ -1,0 +1,16 @@
+# 774 - Sinyka
+
+# County Title
+title = c_sinyka
+
+# Settlements
+max_settlements = 4
+b_sinyka = castle
+b_risya = temple
+b_ranyze = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

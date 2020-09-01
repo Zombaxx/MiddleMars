@@ -1,0 +1,17 @@
+# 1504 - Agerati
+
+# County Title
+title = c_agerati
+
+# Settlements
+max_settlements = 5
+b_agerati = castle
+b_rorila = temple
+b_tanind = city
+b_basejda = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

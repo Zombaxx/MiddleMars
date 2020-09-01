@@ -1,0 +1,14 @@
+# 1301 - Raicuslo
+
+# County Title
+title = c_raicuslo
+
+# Settlements
+max_settlements = 3
+b_raicuslo = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

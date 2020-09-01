@@ -1,0 +1,14 @@
+# 367 - Temira
+
+# County Title
+title = c_temira
+
+# Settlements
+max_settlements = 1
+b_temira = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

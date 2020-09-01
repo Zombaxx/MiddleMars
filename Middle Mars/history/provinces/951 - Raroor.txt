@@ -1,0 +1,14 @@
+# 951 - Raroor
+
+# County Title
+title = c_raroor
+
+# Settlements
+max_settlements = 2
+b_raroor = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 286 - Elijah
+
+# County Title
+title = c_elijah
+
+# Settlements
+max_settlements = 2
+b_elijah = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

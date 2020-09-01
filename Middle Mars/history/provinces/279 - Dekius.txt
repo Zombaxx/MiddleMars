@@ -1,0 +1,14 @@
+# 279 - Dekius
+
+# County Title
+title = c_dekius
+
+# Settlements
+max_settlements = 4
+b_dekius = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

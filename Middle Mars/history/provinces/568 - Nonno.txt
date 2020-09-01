@@ -1,0 +1,14 @@
+# 568 - Nonno
+
+# County Title
+title = c_nonno
+
+# Settlements
+max_settlements = 4
+b_nonno = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 958 - Doduis
+
+# County Title
+title = c_doduis
+
+# Settlements
+max_settlements = 3
+b_doduis = castle
+b_nagoise = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

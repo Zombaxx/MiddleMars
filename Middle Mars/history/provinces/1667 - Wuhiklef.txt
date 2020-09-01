@@ -1,0 +1,15 @@
+# 1667 - Wuhiklef
+
+# County Title
+title = c_wuhiklef
+
+# Settlements
+max_settlements = 3
+b_wuhiklef = castle
+b_nevandi = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 218 - Kagoa
+
+# County Title
+title = c_kagoa
+
+# Settlements
+max_settlements = 4
+b_kagoa = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

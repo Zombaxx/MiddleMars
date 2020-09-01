@@ -1,0 +1,15 @@
+# 268 - Dalan
+
+# County Title
+title = c_dalan
+
+# Settlements
+max_settlements = 6
+b_dalan = tribal
+b_dagalan = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

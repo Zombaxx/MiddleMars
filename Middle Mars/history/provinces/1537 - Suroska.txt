@@ -1,0 +1,16 @@
+# 1537 - Suroska
+
+# County Title
+title = c_suroska
+
+# Settlements
+max_settlements = 4
+b_suroska = castle
+b_kuedali = temple
+b_sumasena = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

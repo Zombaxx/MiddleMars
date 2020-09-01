@@ -1,0 +1,15 @@
+# 1588 - Seka
+
+# County Title
+title = c_seka
+
+# Settlements
+max_settlements = 3
+b_seka = castle
+b_rawimha = temple
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

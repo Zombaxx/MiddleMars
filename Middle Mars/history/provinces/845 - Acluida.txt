@@ -1,0 +1,17 @@
+# 845 - Acluida
+
+# County Title
+title = c_acluida
+
+# Settlements
+max_settlements = 6
+b_acluida = castle
+b_dahoquz = temple
+b_raulemir = city
+b_lyigair = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

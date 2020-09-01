@@ -1,0 +1,16 @@
+# 1088 - Tawevon
+
+# County Title
+title = c_tawevon
+
+# Settlements
+max_settlements = 4
+b_tawevon = castle
+b_busaraz = temple
+b_ladtai = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

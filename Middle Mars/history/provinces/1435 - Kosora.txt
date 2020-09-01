@@ -1,0 +1,16 @@
+# 1435 - Kosora
+
+# County Title
+title = c_kosora
+
+# Settlements
+max_settlements = 4
+b_kosora = castle
+b_relijah = temple
+b_dosora = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

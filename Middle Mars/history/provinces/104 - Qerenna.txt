@@ -1,0 +1,16 @@
+# 104 - Qerenna
+
+# County Title
+title = c_qerenna
+
+# Settlements
+max_settlements = 4
+b_qerenna = castle
+b_bulaula = temple
+b_ecamijse = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

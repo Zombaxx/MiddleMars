@@ -1,0 +1,15 @@
+# 988 - Kobathi
+
+# County Title
+title = c_kobathi
+
+# Settlements
+max_settlements = 2
+b_kobathi = castle
+b_tiosl = temple
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

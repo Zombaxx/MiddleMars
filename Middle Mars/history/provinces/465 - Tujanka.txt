@@ -1,0 +1,15 @@
+# 465 - Tujanka
+
+# County Title
+title = c_tujanka
+
+# Settlements
+max_settlements = 3
+b_tujanka = castle
+b_narion = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

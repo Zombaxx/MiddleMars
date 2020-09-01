@@ -1,0 +1,14 @@
+# 1379 - Koqomez
+
+# County Title
+title = c_koqomez
+
+# Settlements
+max_settlements = 3
+b_koqomez = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

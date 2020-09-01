@@ -1,0 +1,17 @@
+# 74 - Bajunno
+
+# County Title
+title = c_bajunno
+
+# Settlements
+max_settlements = 5
+b_bajunno = castle
+b_kuili = temple
+b_nohuwe = city
+b_kasia = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

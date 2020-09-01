@@ -1,0 +1,14 @@
+# 1032 - Deiroro
+
+# County Title
+title = c_deiroro
+
+# Settlements
+max_settlements = 3
+b_deiroro = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

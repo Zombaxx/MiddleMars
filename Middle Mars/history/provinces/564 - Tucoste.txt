@@ -1,0 +1,14 @@
+# 564 - Tucoste
+
+# County Title
+title = c_tucoste
+
+# Settlements
+max_settlements = 4
+b_tucoste = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

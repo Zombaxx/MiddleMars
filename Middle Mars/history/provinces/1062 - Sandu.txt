@@ -1,0 +1,18 @@
+# 1062 - Sandu
+
+# County Title
+title = c_sandu
+
+# Settlements
+max_settlements = 7
+b_sandu = castle
+b_damenda = temple
+b_barinie = city
+b_susiyay = castle
+b_tamalka = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

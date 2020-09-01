@@ -1,0 +1,17 @@
+# 827 - Tusash
+
+# County Title
+title = c_tusash
+
+# Settlements
+max_settlements = 6
+b_tusash = castle
+b_leajit = temple
+b_kagyuchi = city
+b_qotyka = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

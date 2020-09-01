@@ -1,0 +1,14 @@
+# 1725 - Axibisii
+
+# County Title
+title = c_axibisii
+
+# Settlements
+max_settlements = 3
+b_axibisii = tribal
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 997 - Bimais
+
+# County Title
+title = c_bimais
+
+# Settlements
+max_settlements = 3
+b_bimais = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

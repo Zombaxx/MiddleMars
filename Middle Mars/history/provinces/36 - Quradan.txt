@@ -1,0 +1,15 @@
+# 36 - Quradan
+
+# County Title
+title = c_quradan
+
+# Settlements
+max_settlements = 3
+b_quradan = castle
+b_epokatok = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

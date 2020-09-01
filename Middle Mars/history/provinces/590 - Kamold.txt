@@ -1,0 +1,14 @@
+# 590 - Kamold
+
+# County Title
+title = c_kamold
+
+# Settlements
+max_settlements = 3
+b_kamold = tribal
+
+# Misc
+culture = hausa
+religion = pagan
+
+# History

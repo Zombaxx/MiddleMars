@@ -1,0 +1,16 @@
+# 909 - Kulian
+
+# County Title
+title = c_kulian
+
+# Settlements
+max_settlements = 4
+b_kulian = castle
+b_bamaaq = temple
+b_banala = city
+
+# Misc
+culture = alan
+religion = shiite
+
+# History

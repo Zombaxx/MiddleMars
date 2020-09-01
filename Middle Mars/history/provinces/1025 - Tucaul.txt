@@ -1,0 +1,15 @@
+# 1025 - Tucaul
+
+# County Title
+title = c_tucaul
+
+# Settlements
+max_settlements = 3
+b_tucaul = castle
+b_kanilay = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

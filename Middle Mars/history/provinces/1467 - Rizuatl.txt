@@ -1,0 +1,16 @@
+# 1467 - Rizuatl
+
+# County Title
+title = c_rizuatl
+
+# Settlements
+max_settlements = 4
+b_rizuatl = castle
+b_kapene = temple
+b_qyaoskim = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

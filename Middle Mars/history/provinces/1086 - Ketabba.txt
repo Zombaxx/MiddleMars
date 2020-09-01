@@ -1,0 +1,17 @@
+# 1086 - Ketabba
+
+# County Title
+title = c_ketabba
+
+# Settlements
+max_settlements = 5
+b_ketabba = castle
+b_etudo = temple
+b_sozira = city
+b_sirudo = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

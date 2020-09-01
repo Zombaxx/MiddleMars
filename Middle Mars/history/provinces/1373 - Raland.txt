@@ -1,0 +1,16 @@
+# 1373 - Raland
+
+# County Title
+title = c_raland
+
+# Settlements
+max_settlements = 4
+b_raland = castle
+b_derim = temple
+b_byogaka = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 45 - Rucius
+
+# County Title
+title = c_rucius
+
+# Settlements
+max_settlements = 3
+b_rucius = castle
+b_dizayla = temple
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

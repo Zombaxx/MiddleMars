@@ -1,0 +1,15 @@
+# 524 - Kobenia
+
+# County Title
+title = c_kobenia
+
+# Settlements
+max_settlements = 5
+b_kobenia = tribal
+b_sogire = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

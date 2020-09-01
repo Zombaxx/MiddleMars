@@ -1,0 +1,15 @@
+# 722 - Tacaula
+
+# County Title
+title = c_tacaula
+
+# Settlements
+max_settlements = 3
+b_tacaula = castle
+b_wivurd = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

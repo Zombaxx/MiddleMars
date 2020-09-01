@@ -1,0 +1,16 @@
+# 808 - Rehampa
+
+# County Title
+title = c_rehampa
+
+# Settlements
+max_settlements = 4
+b_rehampa = castle
+b_qaraura = temple
+b_nozampa = city
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

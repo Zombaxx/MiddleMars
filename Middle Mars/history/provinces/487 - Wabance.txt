@@ -1,0 +1,16 @@
+# 487 - Wabance
+
+# County Title
+title = c_wabance
+
+# Settlements
+max_settlements = 4
+b_wabance = castle
+b_ebilirad = temple
+b_kacyuns = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

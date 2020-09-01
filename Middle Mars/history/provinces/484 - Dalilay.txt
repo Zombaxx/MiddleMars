@@ -1,0 +1,14 @@
+# 484 - Dalilay
+
+# County Title
+title = c_dalilay
+
+# Settlements
+max_settlements = 4
+b_dalilay = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

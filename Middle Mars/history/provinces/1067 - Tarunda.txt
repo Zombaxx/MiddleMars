@@ -1,0 +1,17 @@
+# 1067 - Tarunda
+
+# County Title
+title = c_tarunda
+
+# Settlements
+max_settlements = 5
+b_tarunda = castle
+b_ramyan = temple
+b_samalka = city
+b_nonenda = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 310 - Lulinn
+
+# County Title
+title = c_lulinn
+
+# Settlements
+max_settlements = 1
+b_lulinn = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 601 - Rorepi
+
+# County Title
+title = c_rorepi
+
+# Settlements
+max_settlements = 3
+b_rorepi = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 489 - Nedui
+
+# County Title
+title = c_nedui
+
+# Settlements
+max_settlements = 4
+b_nedui = castle
+b_tutorgen = temple
+b_remagha = city
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

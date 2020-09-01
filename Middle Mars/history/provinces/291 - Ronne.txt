@@ -1,0 +1,14 @@
+# 291 - Ronne
+
+# County Title
+title = c_ronne
+
+# Settlements
+max_settlements = 1
+b_ronne = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

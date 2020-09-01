@@ -1,0 +1,14 @@
+# 500 - Awasuvje
+
+# County Title
+title = c_awasuvje
+
+# Settlements
+max_settlements = 3
+b_awasuvje = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

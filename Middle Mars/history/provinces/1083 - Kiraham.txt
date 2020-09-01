@@ -1,0 +1,17 @@
+# 1083 - Kiraham
+
+# County Title
+title = c_kiraham
+
+# Settlements
+max_settlements = 5
+b_kiraham = castle
+b_nadal = temple
+b_lilda = city
+b_lavo = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 333 - Kufozar
+
+# County Title
+title = c_kufozar
+
+# Settlements
+max_settlements = 1
+b_kufozar = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

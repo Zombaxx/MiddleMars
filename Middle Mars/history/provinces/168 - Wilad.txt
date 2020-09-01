@@ -1,0 +1,15 @@
+# 168 - Wilad
+
+# County Title
+title = c_wilad
+
+# Settlements
+max_settlements = 3
+b_wilad = castle
+b_rasaca = temple
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 792 - Dalair
+
+# County Title
+title = c_dalair
+
+# Settlements
+max_settlements = 3
+b_dalair = castle
+b_bioreek = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

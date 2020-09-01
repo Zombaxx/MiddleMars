@@ -1,0 +1,15 @@
+# 657 - Egaledey
+
+# County Title
+title = c_egaledey
+
+# Settlements
+max_settlements = 5
+b_egaledey = tribal
+b_wiladay = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

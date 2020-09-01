@@ -1,0 +1,16 @@
+# 1196 - Naheer
+
+# County Title
+title = c_naheer
+
+# Settlements
+max_settlements = 4
+b_naheer = castle
+b_nyeuba = temple
+b_nitaraz = city
+
+# Misc
+culture = han
+religion = jain
+
+# History

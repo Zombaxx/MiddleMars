@@ -1,0 +1,14 @@
+# 1714 - Delann
+
+# County Title
+title = c_delann
+
+# Settlements
+max_settlements = 1
+b_delann = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 1577 - Saridis
+
+# County Title
+title = c_saridis
+
+# Settlements
+max_settlements = 4
+b_saridis = castle
+b_nurarde = temple
+b_waseva = city
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

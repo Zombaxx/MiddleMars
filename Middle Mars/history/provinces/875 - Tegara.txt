@@ -1,0 +1,14 @@
+# 875 - Tegara
+
+# County Title
+title = c_tegara
+
+# Settlements
+max_settlements = 2
+b_tegara = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

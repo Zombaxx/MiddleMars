@@ -1,0 +1,18 @@
+# 703 - Koumike
+
+# County Title
+title = c_koumike
+
+# Settlements
+max_settlements = 7
+b_koumike = castle
+b_bemilia = temple
+b_nakegs = city
+b_nanagha = castle
+b_qaurri = temple
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

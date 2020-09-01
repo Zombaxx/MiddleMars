@@ -1,0 +1,14 @@
+# 296 - Qecorri
+
+# County Title
+title = c_qecorri
+
+# Settlements
+max_settlements = 1
+b_qecorri = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

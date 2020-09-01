@@ -1,0 +1,14 @@
+# 417 - Kemantia
+
+# County Title
+title = c_kemantia
+
+# Settlements
+max_settlements = 2
+b_kemantia = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

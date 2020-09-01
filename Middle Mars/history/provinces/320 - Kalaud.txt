@@ -1,0 +1,14 @@
+# 320 - Kalaud
+
+# County Title
+title = c_kalaud
+
+# Settlements
+max_settlements = 1
+b_kalaud = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

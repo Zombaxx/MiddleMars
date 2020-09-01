@@ -1,0 +1,15 @@
+# 573 - Tasazd
+
+# County Title
+title = c_tasazd
+
+# Settlements
+max_settlements = 3
+b_tasazd = castle
+b_wesarda = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,16 @@
+# 1572 - Nasiyen
+
+# County Title
+title = c_nasiyen
+
+# Settlements
+max_settlements = 4
+b_nasiyen = castle
+b_tarane = temple
+b_kudit = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

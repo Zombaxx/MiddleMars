@@ -1,0 +1,17 @@
+# 1410 - Qabitya
+
+# County Title
+title = c_qabitya
+
+# Settlements
+max_settlements = 5
+b_qabitya = castle
+b_atsava = temple
+b_biosv = city
+b_tivui = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

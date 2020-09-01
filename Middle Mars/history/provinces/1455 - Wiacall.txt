@@ -1,0 +1,14 @@
+# 1455 - Wiacall
+
+# County Title
+title = c_wiacall
+
+# Settlements
+max_settlements = 4
+b_wiacall = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

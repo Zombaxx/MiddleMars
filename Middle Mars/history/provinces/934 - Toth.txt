@@ -1,0 +1,16 @@
+# 934 - Toth
+
+# County Title
+title = c_toth
+
+# Settlements
+max_settlements = 4
+b_toth = castle
+b_kadyas = temple
+b_ahamila = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

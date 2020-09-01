@@ -1,0 +1,15 @@
+# 1430 - Qanine
+
+# County Title
+title = c_qanine
+
+# Settlements
+max_settlements = 3
+b_qanine = castle
+b_beenava = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 1300 - Dajund
+
+# County Title
+title = c_dajund
+
+# Settlements
+max_settlements = 4
+b_dajund = castle
+b_berutic = temple
+b_tabava = city
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

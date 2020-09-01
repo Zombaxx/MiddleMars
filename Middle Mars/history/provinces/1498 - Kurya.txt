@@ -1,0 +1,15 @@
+# 1498 - Kurya
+
+# County Title
+title = c_kurya
+
+# Settlements
+max_settlements = 3
+b_kurya = castle
+b_dagopluk = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

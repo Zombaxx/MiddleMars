@@ -1,0 +1,14 @@
+# 1738 - Solevan
+
+# County Title
+title = c_solevan
+
+# Settlements
+max_settlements = 4
+b_solevan = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

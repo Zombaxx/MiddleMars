@@ -1,0 +1,16 @@
+# 226 - Belilai
+
+# County Title
+title = c_belilai
+
+# Settlements
+max_settlements = 4
+b_belilai = castle
+b_syecila = temple
+b_koke = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

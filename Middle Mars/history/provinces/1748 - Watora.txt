@@ -1,0 +1,14 @@
+# 1748 - Watora
+
+# County Title
+title = c_watora
+
+# Settlements
+max_settlements = 4
+b_watora = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

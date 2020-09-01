@@ -1,0 +1,15 @@
+# 616 - Eilohan
+
+# County Title
+title = c_eilohan
+
+# Settlements
+max_settlements = 5
+b_eilohan = tribal
+b_tacakk = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

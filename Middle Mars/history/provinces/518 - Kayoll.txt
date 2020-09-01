@@ -1,0 +1,15 @@
+# 518 - Kayoll
+
+# County Title
+title = c_kayoll
+
+# Settlements
+max_settlements = 5
+b_kayoll = tribal
+b_wimaria = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 508 - Nuwima
+
+# County Title
+title = c_nuwima
+
+# Settlements
+max_settlements = 4
+b_nuwima = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 873 - Byiga
+
+# County Title
+title = c_byiga
+
+# Settlements
+max_settlements = 4
+b_byiga = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

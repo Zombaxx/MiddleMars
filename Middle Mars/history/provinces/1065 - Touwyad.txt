@@ -1,0 +1,17 @@
+# 1065 - Touwyad
+
+# County Title
+title = c_touwyad
+
+# Settlements
+max_settlements = 5
+b_touwyad = castle
+b_duheda = temple
+b_lalaria = city
+b_rarena = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

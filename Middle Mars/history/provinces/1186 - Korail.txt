@@ -1,0 +1,17 @@
+# 1186 - Korail
+
+# County Title
+title = c_korail
+
+# Settlements
+max_settlements = 5
+b_korail = castle
+b_dorava = temple
+b_ranajit = city
+b_tarina = castle
+
+# Misc
+culture = bodpa
+religion = jain
+
+# History

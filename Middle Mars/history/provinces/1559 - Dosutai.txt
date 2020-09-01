@@ -1,0 +1,16 @@
+# 1559 - Dosutai
+
+# County Title
+title = c_dosutai
+
+# Settlements
+max_settlements = 4
+b_dosutai = castle
+b_ranegin = temple
+b_esalegin = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

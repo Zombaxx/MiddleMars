@@ -1,0 +1,16 @@
+# 690 - Bohn
+
+# County Title
+title = c_bohn
+
+# Settlements
+max_settlements = 4
+b_bohn = castle
+b_lohn = temple
+b_nodim = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 186 - Baiy
+
+# County Title
+title = c_baiy
+
+# Settlements
+max_settlements = 2
+b_baiy = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 100 - Lolaya
+
+# County Title
+title = c_lolaya
+
+# Settlements
+max_settlements = 4
+b_lolaya = castle
+b_relaham = temple
+b_qacoriy = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

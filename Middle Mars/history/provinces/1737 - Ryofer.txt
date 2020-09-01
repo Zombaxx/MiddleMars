@@ -1,0 +1,14 @@
+# 1737 - Ryofer
+
+# County Title
+title = c_ryofer
+
+# Settlements
+max_settlements = 2
+b_ryofer = tribal
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

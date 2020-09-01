@@ -1,0 +1,14 @@
+# 1589 - Tecama
+
+# County Title
+title = c_tecama
+
+# Settlements
+max_settlements = 3
+b_tecama = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

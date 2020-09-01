@@ -1,0 +1,15 @@
+# 27 - Tonaham
+
+# County Title
+title = c_tonaham
+
+# Settlements
+max_settlements = 3
+b_tonaham = castle
+b_daraja = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

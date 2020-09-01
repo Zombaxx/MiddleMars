@@ -1,0 +1,17 @@
+# 1125 - Kiara
+
+# County Title
+title = c_kiara
+
+# Settlements
+max_settlements = 5
+b_kiara = castle
+b_talke = temple
+b_dibibi = city
+b_bibi = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

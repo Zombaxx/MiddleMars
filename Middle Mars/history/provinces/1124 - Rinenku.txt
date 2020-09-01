@@ -1,0 +1,16 @@
+# 1124 - Rinenku
+
+# County Title
+title = c_rinenku
+
+# Settlements
+max_settlements = 4
+b_rinenku = castle
+b_kubira = temple
+b_bukutan = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

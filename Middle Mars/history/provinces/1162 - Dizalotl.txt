@@ -1,0 +1,14 @@
+# 1162 - Dizalotl
+
+# County Title
+title = c_dizalotl
+
+# Settlements
+max_settlements = 3
+b_dizalotl = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

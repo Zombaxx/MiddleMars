@@ -1,0 +1,14 @@
+# 887 - Babdajid
+
+# County Title
+title = c_babdajid
+
+# Settlements
+max_settlements = 2
+b_babdajid = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1750 - Amosarse
+
+# County Title
+title = c_amosarse
+
+# Settlements
+max_settlements = 4
+b_amosarse = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

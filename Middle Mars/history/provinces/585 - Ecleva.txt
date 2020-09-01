@@ -1,0 +1,14 @@
+# 585 - Ecleva
+
+# County Title
+title = c_ecleva
+
+# Settlements
+max_settlements = 3
+b_ecleva = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

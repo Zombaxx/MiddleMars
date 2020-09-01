@@ -1,0 +1,15 @@
+# 1010 - Rabarin
+
+# County Title
+title = c_rabarin
+
+# Settlements
+max_settlements = 4
+b_rabarin = tribal
+b_wigefr = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

@@ -1,0 +1,14 @@
+# 382 - Apoyaude
+
+# County Title
+title = c_apoyaude
+
+# Settlements
+max_settlements = 1
+b_apoyaude = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

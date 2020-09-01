@@ -1,0 +1,14 @@
+# 1478 - Qeisred
+
+# County Title
+title = c_qeisred
+
+# Settlements
+max_settlements = 3
+b_qeisred = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

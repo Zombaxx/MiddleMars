@@ -1,0 +1,16 @@
+# 404 - Regand
+
+# County Title
+title = c_regand
+
+# Settlements
+max_settlements = 4
+b_regand = castle
+b_selura = temple
+b_selita = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

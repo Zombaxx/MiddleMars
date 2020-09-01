@@ -1,0 +1,14 @@
+# 788 - Kisipaz
+
+# County Title
+title = c_kisipaz
+
+# Settlements
+max_settlements = 4
+b_kisipaz = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

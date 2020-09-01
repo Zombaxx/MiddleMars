@@ -1,0 +1,14 @@
+# 663 - Werenda
+
+# County Title
+title = c_werenda
+
+# Settlements
+max_settlements = 4
+b_werenda = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

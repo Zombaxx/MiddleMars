@@ -1,0 +1,14 @@
+# 1609 - Kasuluk
+
+# County Title
+title = c_kasuluk
+
+# Settlements
+max_settlements = 2
+b_kasuluk = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

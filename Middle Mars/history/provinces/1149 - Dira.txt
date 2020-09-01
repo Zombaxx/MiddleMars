@@ -1,0 +1,17 @@
+# 1149 - Dira
+
+# County Title
+title = c_dira
+
+# Settlements
+max_settlements = 5
+b_dira = castle
+b_relmo = temple
+b_evlichi = city
+b_sumichi = castle
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

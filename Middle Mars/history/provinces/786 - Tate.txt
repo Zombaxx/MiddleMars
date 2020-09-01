@@ -1,0 +1,15 @@
+# 786 - Tate
+
+# County Title
+title = c_tate
+
+# Settlements
+max_settlements = 3
+b_tate = castle
+b_karik = temple
+
+# Misc
+culture = catalan
+religion = pagan
+
+# History

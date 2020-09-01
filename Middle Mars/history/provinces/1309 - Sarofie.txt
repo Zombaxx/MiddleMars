@@ -1,0 +1,15 @@
+# 1309 - Sarofie
+
+# County Title
+title = c_sarofie
+
+# Settlements
+max_settlements = 5
+b_sarofie = tribal
+b_suranyo = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

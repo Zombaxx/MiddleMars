@@ -1,0 +1,14 @@
+# 1645 - Sadoatl
+
+# County Title
+title = c_sadoatl
+
+# Settlements
+max_settlements = 2
+b_sadoatl = tribal
+
+# Misc
+culture = afghan
+religion = hindu
+
+# History

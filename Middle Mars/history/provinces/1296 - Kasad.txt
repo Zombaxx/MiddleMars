@@ -1,0 +1,17 @@
+# 1296 - Kasad
+
+# County Title
+title = c_kasad
+
+# Settlements
+max_settlements = 5
+b_kasad = castle
+b_telard = temple
+b_ryasuna = city
+b_laumew = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

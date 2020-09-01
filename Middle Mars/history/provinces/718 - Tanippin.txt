@@ -1,0 +1,15 @@
+# 718 - Tanippin
+
+# County Title
+title = c_tanippin
+
+# Settlements
+max_settlements = 3
+b_tanippin = castle
+b_kavir = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

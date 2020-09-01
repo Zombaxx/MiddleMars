@@ -1,0 +1,14 @@
+# 1595 - Saralda
+
+# County Title
+title = c_saralda
+
+# Settlements
+max_settlements = 3
+b_saralda = tribal
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

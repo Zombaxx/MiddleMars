@@ -1,0 +1,14 @@
+# 389 - Wacahra
+
+# County Title
+title = c_wacahra
+
+# Settlements
+max_settlements = 3
+b_wacahra = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

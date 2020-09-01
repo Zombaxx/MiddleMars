@@ -1,0 +1,14 @@
+# 427 - Syi
+
+# County Title
+title = c_syi
+
+# Settlements
+max_settlements = 4
+b_syi = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

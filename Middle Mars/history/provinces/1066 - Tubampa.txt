@@ -1,0 +1,15 @@
+# 1066 - Tubampa
+
+# County Title
+title = c_tubampa
+
+# Settlements
+max_settlements = 2
+b_tubampa = castle
+b_simika = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

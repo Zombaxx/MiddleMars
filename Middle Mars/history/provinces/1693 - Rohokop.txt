@@ -1,0 +1,14 @@
+# 1693 - Rohokop
+
+# County Title
+title = c_rohokop
+
+# Settlements
+max_settlements = 2
+b_rohokop = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

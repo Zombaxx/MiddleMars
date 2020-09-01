@@ -1,0 +1,15 @@
+# 1371 - Simugno
+
+# County Title
+title = c_simugno
+
+# Settlements
+max_settlements = 3
+b_simugno = castle
+b_tidora = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

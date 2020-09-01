@@ -1,0 +1,15 @@
+# 602 - Ruoranos
+
+# County Title
+title = c_ruoranos
+
+# Settlements
+max_settlements = 5
+b_ruoranos = tribal
+b_wael = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

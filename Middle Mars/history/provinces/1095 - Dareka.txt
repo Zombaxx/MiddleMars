@@ -1,0 +1,14 @@
+# 1095 - Dareka
+
+# County Title
+title = c_dareka
+
+# Settlements
+max_settlements = 4
+b_dareka = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

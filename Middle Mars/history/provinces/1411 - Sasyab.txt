@@ -1,0 +1,14 @@
+# 1411 - Sasyab
+
+# County Title
+title = c_sasyab
+
+# Settlements
+max_settlements = 4
+b_sasyab = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 783 - Qaseek
+
+# County Title
+title = c_qaseek
+
+# Settlements
+max_settlements = 4
+b_qaseek = tribal
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 308 - Qariat
+
+# County Title
+title = c_qariat
+
+# Settlements
+max_settlements = 1
+b_qariat = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

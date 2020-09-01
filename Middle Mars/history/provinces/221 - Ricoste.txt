@@ -1,0 +1,14 @@
+# 221 - Ricoste
+
+# County Title
+title = c_ricoste
+
+# Settlements
+max_settlements = 2
+b_ricoste = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

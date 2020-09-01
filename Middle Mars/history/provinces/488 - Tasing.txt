@@ -1,0 +1,14 @@
+# 488 - Tasing
+
+# County Title
+title = c_tasing
+
+# Settlements
+max_settlements = 3
+b_tasing = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

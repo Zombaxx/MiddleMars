@@ -1,0 +1,14 @@
+# 712 - Daroise
+
+# County Title
+title = c_daroise
+
+# Settlements
+max_settlements = 4
+b_daroise = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

@@ -1,0 +1,17 @@
+# 1308 - Tukahu
+
+# County Title
+title = c_tukahu
+
+# Settlements
+max_settlements = 5
+b_tukahu = castle
+b_katerlo = temple
+b_dudulia = city
+b_ruraise = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

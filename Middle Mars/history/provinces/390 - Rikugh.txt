@@ -1,0 +1,14 @@
+# 390 - Rikugh
+
+# County Title
+title = c_rikugh
+
+# Settlements
+max_settlements = 3
+b_rikugh = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 358 - Lian
+
+# County Title
+title = c_lian
+
+# Settlements
+max_settlements = 2
+b_lian = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

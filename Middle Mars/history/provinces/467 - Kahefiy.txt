@@ -1,0 +1,14 @@
+# 467 - Kahefiy
+
+# County Title
+title = c_kahefiy
+
+# Settlements
+max_settlements = 3
+b_kahefiy = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 56 - Karuin
+
+# County Title
+title = c_karuin
+
+# Settlements
+max_settlements = 4
+b_karuin = castle
+b_taluna = temple
+b_lanoor = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,17 @@
+# 972 - Ryho
+
+# County Title
+title = c_ryho
+
+# Settlements
+max_settlements = 5
+b_ryho = castle
+b_like = temple
+b_dyevatsi = city
+b_aburana = castle
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

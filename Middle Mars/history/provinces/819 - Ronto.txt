@@ -1,0 +1,16 @@
+# 819 - Ronto
+
+# County Title
+title = c_ronto
+
+# Settlements
+max_settlements = 4
+b_ronto = castle
+b_dicohn = temple
+b_kinarya = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

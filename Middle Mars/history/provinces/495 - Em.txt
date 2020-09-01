@@ -1,0 +1,14 @@
+# 495 - Em
+
+# County Title
+title = c_em
+
+# Settlements
+max_settlements = 3
+b_em = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

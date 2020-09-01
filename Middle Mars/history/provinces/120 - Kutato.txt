@@ -1,0 +1,15 @@
+# 120 - Kutato
+
+# County Title
+title = c_kutato
+
+# Settlements
+max_settlements = 3
+b_kutato = castle
+b_tyoatl = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

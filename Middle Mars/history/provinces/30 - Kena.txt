@@ -1,0 +1,17 @@
+# 30 - Kena
+
+# County Title
+title = c_kena
+
+# Settlements
+max_settlements = 5
+b_kena = castle
+b_eskeir = temple
+b_konne = city
+b_suzodan = castle
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

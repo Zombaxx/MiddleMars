@@ -1,0 +1,16 @@
+# 79 - Tonyula
+
+# County Title
+title = c_tonyula
+
+# Settlements
+max_settlements = 4
+b_tonyula = castle
+b_samenes = temple
+b_rotella = city
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

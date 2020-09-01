@@ -1,0 +1,16 @@
+# 1387 - Liciwan
+
+# County Title
+title = c_liciwan
+
+# Settlements
+max_settlements = 4
+b_liciwan = castle
+b_rinyay = temple
+b_datyab = city
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

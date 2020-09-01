@@ -1,0 +1,14 @@
+# 230 - Rarala
+
+# County Title
+title = c_rarala
+
+# Settlements
+max_settlements = 3
+b_rarala = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

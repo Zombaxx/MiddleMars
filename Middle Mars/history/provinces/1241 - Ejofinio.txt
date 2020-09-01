@@ -1,0 +1,14 @@
+# 1241 - Ejofinio
+
+# County Title
+title = c_ejofinio
+
+# Settlements
+max_settlements = 4
+b_ejofinio = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

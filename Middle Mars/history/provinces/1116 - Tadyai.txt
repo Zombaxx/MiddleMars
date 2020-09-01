@@ -1,0 +1,16 @@
+# 1116 - Tadyai
+
+# County Title
+title = c_tadyai
+
+# Settlements
+max_settlements = 4
+b_tadyai = castle
+b_rattan = temple
+b_logeria = city
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

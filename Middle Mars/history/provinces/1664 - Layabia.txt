@@ -1,0 +1,14 @@
+# 1664 - Layabia
+
+# County Title
+title = c_layabia
+
+# Settlements
+max_settlements = 2
+b_layabia = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

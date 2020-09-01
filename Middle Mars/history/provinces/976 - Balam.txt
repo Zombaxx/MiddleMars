@@ -1,0 +1,18 @@
+# 976 - Balam
+
+# County Title
+title = c_balam
+
+# Settlements
+max_settlements = 7
+b_balam = castle
+b_aparuru = temple
+b_rinotho = city
+b_rerisa = castle
+b_depune = temple
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

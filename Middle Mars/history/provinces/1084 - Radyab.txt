@@ -1,0 +1,14 @@
+# 1084 - Radyab
+
+# County Title
+title = c_radyab
+
+# Settlements
+max_settlements = 4
+b_radyab = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

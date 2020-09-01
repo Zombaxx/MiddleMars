@@ -1,0 +1,17 @@
+# 1497 - Naboun
+
+# County Title
+title = c_naboun
+
+# Settlements
+max_settlements = 5
+b_naboun = castle
+b_esuria = temple
+b_qoseike = city
+b_kosend = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

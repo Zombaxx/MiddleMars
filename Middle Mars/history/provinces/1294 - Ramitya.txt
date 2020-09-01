@@ -1,0 +1,14 @@
+# 1294 - Ramitya
+
+# County Title
+title = c_ramitya
+
+# Settlements
+max_settlements = 4
+b_ramitya = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

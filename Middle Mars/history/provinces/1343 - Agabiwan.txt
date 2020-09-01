@@ -1,0 +1,17 @@
+# 1343 - Agabiwan
+
+# County Title
+title = c_agabiwan
+
+# Settlements
+max_settlements = 5
+b_agabiwan = castle
+b_qesilda = temple
+b_katius = city
+b_lietapa = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,18 @@
+# 1037 - Nucash
+
+# County Title
+title = c_nucash
+
+# Settlements
+max_settlements = 7
+b_nucash = castle
+b_nanald = temple
+b_kehala = city
+b_nolua = castle
+b_bathutlu = temple
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

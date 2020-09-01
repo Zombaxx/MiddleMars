@@ -1,0 +1,14 @@
+# 1255 - Qeineth
+
+# County Title
+title = c_qeineth
+
+# Settlements
+max_settlements = 3
+b_qeineth = tribal
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

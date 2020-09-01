@@ -1,0 +1,14 @@
+# 661 - Raqar
+
+# County Title
+title = c_raqar
+
+# Settlements
+max_settlements = 4
+b_raqar = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

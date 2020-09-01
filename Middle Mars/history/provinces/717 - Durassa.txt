@@ -1,0 +1,15 @@
+# 717 - Durassa
+
+# County Title
+title = c_durassa
+
+# Settlements
+max_settlements = 4
+b_durassa = tribal
+b_bain = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

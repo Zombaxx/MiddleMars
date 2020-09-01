@@ -1,0 +1,17 @@
+# 713 - Tucigun
+
+# County Title
+title = c_tucigun
+
+# Settlements
+max_settlements = 5
+b_tucigun = castle
+b_babilal = temple
+b_akrilal = city
+b_kifun = castle
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

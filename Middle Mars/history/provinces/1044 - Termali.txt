@@ -1,0 +1,17 @@
+# 1044 - Termali
+
+# County Title
+title = c_termali
+
+# Settlements
+max_settlements = 5
+b_termali = castle
+b_ralohn = temple
+b_kupuyan = city
+b_kyadiisa = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

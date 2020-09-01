@@ -1,0 +1,14 @@
+# 462 - Alucooma
+
+# County Title
+title = c_alucooma
+
+# Settlements
+max_settlements = 4
+b_alucooma = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

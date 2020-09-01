@@ -1,0 +1,14 @@
+# 948 - Egopohan
+
+# County Title
+title = c_egopohan
+
+# Settlements
+max_settlements = 2
+b_egopohan = castle
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

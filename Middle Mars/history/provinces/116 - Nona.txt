@@ -1,0 +1,17 @@
+# 116 - Nona
+
+# County Title
+title = c_nona
+
+# Settlements
+max_settlements = 5
+b_nona = castle
+b_datavid = temple
+b_adeludan = city
+b_neleuta = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

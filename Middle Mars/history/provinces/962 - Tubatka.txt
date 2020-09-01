@@ -1,0 +1,17 @@
+# 962 - Tubatka
+
+# County Title
+title = c_tubatka
+
+# Settlements
+max_settlements = 6
+b_tubatka = castle
+b_tarani = temple
+b_lishu = city
+b_ramafiy = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

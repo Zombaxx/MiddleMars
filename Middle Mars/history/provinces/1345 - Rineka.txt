@@ -1,0 +1,14 @@
+# 1345 - Rineka
+
+# County Title
+title = c_rineka
+
+# Settlements
+max_settlements = 3
+b_rineka = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

@@ -1,0 +1,15 @@
+# 723 - Warena
+
+# County Title
+title = c_warena
+
+# Settlements
+max_settlements = 3
+b_warena = castle
+b_weceyao = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

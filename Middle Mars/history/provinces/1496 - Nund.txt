@@ -1,0 +1,14 @@
+# 1496 - Nund
+
+# County Title
+title = c_nund
+
+# Settlements
+max_settlements = 3
+b_nund = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 837 - Aniceis
+
+# County Title
+title = c_aniceis
+
+# Settlements
+max_settlements = 3
+b_aniceis = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

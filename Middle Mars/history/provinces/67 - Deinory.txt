@@ -1,0 +1,16 @@
+# 67 - Deinory
+
+# County Title
+title = c_deinory
+
+# Settlements
+max_settlements = 4
+b_deinory = castle
+b_rakaim = temple
+b_tuayya = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

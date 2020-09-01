@@ -1,0 +1,14 @@
+# 1541 - Torideva
+
+# County Title
+title = c_torideva
+
+# Settlements
+max_settlements = 4
+b_torideva = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

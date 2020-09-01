@@ -1,0 +1,16 @@
+# 1031 - Raisalio
+
+# County Title
+title = c_raisalio
+
+# Settlements
+max_settlements = 4
+b_raisalio = castle
+b_tinalio = temple
+b_amubiva = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

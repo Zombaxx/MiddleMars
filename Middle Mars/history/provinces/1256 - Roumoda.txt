@@ -1,0 +1,14 @@
+# 1256 - Roumoda
+
+# County Title
+title = c_roumoda
+
+# Settlements
+max_settlements = 2
+b_roumoda = castle
+
+# Misc
+culture = levantine_arabic
+religion = jain
+
+# History

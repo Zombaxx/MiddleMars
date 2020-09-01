@@ -1,0 +1,15 @@
+# 655 - Enarim
+
+# County Title
+title = c_enarim
+
+# Settlements
+max_settlements = 5
+b_enarim = tribal
+b_asibagos = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

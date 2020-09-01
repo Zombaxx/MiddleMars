@@ -1,0 +1,15 @@
+# 929 - Nahoete
+
+# County Title
+title = c_nahoete
+
+# Settlements
+max_settlements = 5
+b_nahoete = tribal
+b_nikse = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

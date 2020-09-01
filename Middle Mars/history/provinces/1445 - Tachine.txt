@@ -1,0 +1,14 @@
+# 1445 - Tachine
+
+# County Title
+title = c_tachine
+
+# Settlements
+max_settlements = 4
+b_tachine = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

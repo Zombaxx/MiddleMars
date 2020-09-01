@@ -1,0 +1,16 @@
+# 1485 - Lomayka
+
+# County Title
+title = c_lomayka
+
+# Settlements
+max_settlements = 4
+b_lomayka = castle
+b_raregn = temple
+b_demand = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 1515 - Lumita
+
+# County Title
+title = c_lumita
+
+# Settlements
+max_settlements = 4
+b_lumita = castle
+b_emahejda = temple
+b_kacheuta = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

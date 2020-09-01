@@ -1,0 +1,15 @@
+# 950 - Kuditula
+
+# County Title
+title = c_kuditula
+
+# Settlements
+max_settlements = 6
+b_kuditula = tribal
+b_karad = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

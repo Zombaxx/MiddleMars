@@ -1,0 +1,15 @@
+# 932 - Ninatia
+
+# County Title
+title = c_ninatia
+
+# Settlements
+max_settlements = 6
+b_ninatia = tribal
+b_sadanca = temple
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

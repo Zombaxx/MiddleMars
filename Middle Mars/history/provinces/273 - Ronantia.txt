@@ -1,0 +1,15 @@
+# 273 - Ronantia
+
+# County Title
+title = c_ronantia
+
+# Settlements
+max_settlements = 3
+b_ronantia = castle
+b_qerofia = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 196 - Kivana
+
+# County Title
+title = c_kivana
+
+# Settlements
+max_settlements = 4
+b_kivana = castle
+b_qiesanca = temple
+b_kivalotl = city
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

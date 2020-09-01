@@ -1,0 +1,15 @@
+# 174 - Duelle
+
+# County Title
+title = c_duelle
+
+# Settlements
+max_settlements = 3
+b_duelle = castle
+b_keulami = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 916 - Tamuda
+
+# County Title
+title = c_tamuda
+
+# Settlements
+max_settlements = 4
+b_tamuda = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

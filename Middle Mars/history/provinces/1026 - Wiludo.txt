@@ -1,0 +1,17 @@
+# 1026 - Wiludo
+
+# County Title
+title = c_wiludo
+
+# Settlements
+max_settlements = 5
+b_wiludo = castle
+b_ageofana = temple
+b_rira = city
+b_tunios = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

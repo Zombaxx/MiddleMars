@@ -1,0 +1,14 @@
+# 1385 - Bilund
+
+# County Title
+title = c_bilund
+
+# Settlements
+max_settlements = 2
+b_bilund = castle
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

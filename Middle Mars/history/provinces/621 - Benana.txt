@@ -1,0 +1,14 @@
+# 621 - Benana
+
+# County Title
+title = c_benana
+
+# Settlements
+max_settlements = 3
+b_benana = tribal
+
+# Misc
+culture = hausa
+religion = pagan
+
+# History

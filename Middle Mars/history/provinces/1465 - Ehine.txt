@@ -1,0 +1,14 @@
+# 1465 - Ehine
+
+# County Title
+title = c_ehine
+
+# Settlements
+max_settlements = 4
+b_ehine = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

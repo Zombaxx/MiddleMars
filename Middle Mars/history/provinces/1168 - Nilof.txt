@@ -1,0 +1,17 @@
+# 1168 - Nilof
+
+# County Title
+title = c_nilof
+
+# Settlements
+max_settlements = 5
+b_nilof = castle
+b_kamanna = temple
+b_tobukpo = city
+b_wilof = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

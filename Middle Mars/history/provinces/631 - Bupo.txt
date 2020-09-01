@@ -1,0 +1,16 @@
+# 631 - Bupo
+
+# County Title
+title = c_bupo
+
+# Settlements
+max_settlements = 4
+b_bupo = castle
+b_kebeek = temple
+b_roreel = city
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

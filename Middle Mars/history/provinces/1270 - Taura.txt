@@ -1,0 +1,17 @@
+# 1270 - Taura
+
+# County Title
+title = c_taura
+
+# Settlements
+max_settlements = 5
+b_taura = castle
+b_akinoa = temple
+b_lyuo = city
+b_kecipal = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

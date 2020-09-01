@@ -1,0 +1,14 @@
+# 1099 - Wurakin
+
+# County Title
+title = c_wurakin
+
+# Settlements
+max_settlements = 4
+b_wurakin = tribal
+
+# Misc
+culture = visigothic
+religion = zoroastrian
+
+# History

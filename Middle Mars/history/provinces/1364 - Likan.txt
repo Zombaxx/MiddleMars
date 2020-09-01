@@ -1,0 +1,15 @@
+# 1364 - Likan
+
+# County Title
+title = c_likan
+
+# Settlements
+max_settlements = 4
+b_likan = tribal
+b_sulam = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

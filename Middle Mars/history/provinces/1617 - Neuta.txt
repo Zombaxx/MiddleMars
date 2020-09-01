@@ -1,0 +1,16 @@
+# 1617 - Neuta
+
+# County Title
+title = c_neuta
+
+# Settlements
+max_settlements = 4
+b_neuta = castle
+b_qasatha = temple
+b_qareva = city
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

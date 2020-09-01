@@ -1,0 +1,15 @@
+# 7 - Tamuti
+
+# County Title
+title = c_tamuti
+
+# Settlements
+max_settlements = 3
+b_tamuti = castle
+b_ebeas = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

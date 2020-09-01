@@ -1,0 +1,14 @@
+# 295 - Tanidis
+
+# County Title
+title = c_tanidis
+
+# Settlements
+max_settlements = 2
+b_tanidis = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

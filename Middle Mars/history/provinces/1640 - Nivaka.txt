@@ -1,0 +1,14 @@
+# 1640 - Nivaka
+
+# County Title
+title = c_nivaka
+
+# Settlements
+max_settlements = 3
+b_nivaka = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

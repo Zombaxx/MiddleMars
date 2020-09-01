@@ -1,0 +1,14 @@
+# 356 - Tacoste
+
+# County Title
+title = c_tacoste
+
+# Settlements
+max_settlements = 3
+b_tacoste = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

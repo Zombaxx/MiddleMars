@@ -1,0 +1,17 @@
+# 1097 - Qiudaac
+
+# County Title
+title = c_qiudaac
+
+# Settlements
+max_settlements = 6
+b_qiudaac = castle
+b_larena = temple
+b_rigo = city
+b_qeth = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 203 - Rerawuj
+
+# County Title
+title = c_rerawuj
+
+# Settlements
+max_settlements = 3
+b_rerawuj = castle
+b_qutefan = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1381 - Lamilge
+
+# County Title
+title = c_lamilge
+
+# Settlements
+max_settlements = 6
+b_lamilge = castle
+b_qyal = temple
+b_deirira = city
+b_recilal = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

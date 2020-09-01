@@ -1,0 +1,16 @@
+# 656 - Barasa
+
+# County Title
+title = c_barasa
+
+# Settlements
+max_settlements = 4
+b_barasa = castle
+b_akamawud = temple
+b_byamory = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

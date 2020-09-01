@@ -1,0 +1,15 @@
+# 43 - Qyaa
+
+# County Title
+title = c_qyaa
+
+# Settlements
+max_settlements = 3
+b_qyaa = castle
+b_remach = temple
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

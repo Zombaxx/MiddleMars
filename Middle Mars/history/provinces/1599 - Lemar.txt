@@ -1,0 +1,15 @@
+# 1599 - Lemar
+
+# County Title
+title = c_lemar
+
+# Settlements
+max_settlements = 3
+b_lemar = castle
+b_ryayba = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

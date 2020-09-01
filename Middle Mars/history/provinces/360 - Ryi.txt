@@ -1,0 +1,14 @@
+# 360 - Ryi
+
+# County Title
+title = c_ryi
+
+# Settlements
+max_settlements = 3
+b_ryi = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

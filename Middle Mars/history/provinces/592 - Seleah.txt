@@ -1,0 +1,14 @@
+# 592 - Seleah
+
+# County Title
+title = c_seleah
+
+# Settlements
+max_settlements = 4
+b_seleah = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

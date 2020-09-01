@@ -1,0 +1,15 @@
+# 744 - Qajayim
+
+# County Title
+title = c_qajayim
+
+# Settlements
+max_settlements = 5
+b_qajayim = tribal
+b_sonooma = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

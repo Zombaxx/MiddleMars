@@ -1,0 +1,14 @@
+# 563 - Apagaac
+
+# County Title
+title = c_apagaac
+
+# Settlements
+max_settlements = 3
+b_apagaac = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

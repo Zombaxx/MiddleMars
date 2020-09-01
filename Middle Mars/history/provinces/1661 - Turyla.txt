@@ -1,0 +1,14 @@
+# 1661 - Turyla
+
+# County Title
+title = c_turyla
+
+# Settlements
+max_settlements = 1
+b_turyla = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

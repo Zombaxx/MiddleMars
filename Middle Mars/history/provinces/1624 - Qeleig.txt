@@ -1,0 +1,14 @@
+# 1624 - Qeleig
+
+# County Title
+title = c_qeleig
+
+# Settlements
+max_settlements = 3
+b_qeleig = tribal
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

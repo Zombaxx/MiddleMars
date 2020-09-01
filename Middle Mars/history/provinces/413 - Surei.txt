@@ -1,0 +1,14 @@
+# 413 - Surei
+
+# County Title
+title = c_surei
+
+# Settlements
+max_settlements = 4
+b_surei = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

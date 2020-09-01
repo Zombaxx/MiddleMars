@@ -1,0 +1,14 @@
+# 900 - Niubald
+
+# County Title
+title = c_niubald
+
+# Settlements
+max_settlements = 3
+b_niubald = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

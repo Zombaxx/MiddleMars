@@ -1,0 +1,14 @@
+929.1.1 = {
+	holding_dynasty = 109640 # ve Lalole - makes this a FAMILY_PALACE type Holding
+	liege="d_katha"
+	holder = 109640
+}
+1009.1.1 = {
+	holder = 109641
+}
+1052.1.1 = {
+	holder = 109642
+}
+1059.1.1 = {
+	holder = 109645
+}

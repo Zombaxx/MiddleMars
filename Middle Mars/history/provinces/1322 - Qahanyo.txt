@@ -1,0 +1,17 @@
+# 1322 - Qahanyo
+
+# County Title
+title = c_qahanyo
+
+# Settlements
+max_settlements = 5
+b_qahanyo = castle
+b_kurilal = temple
+b_turilal = city
+b_nahahsa = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

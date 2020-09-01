@@ -1,0 +1,14 @@
+# 256 - Abogoatl
+
+# County Title
+title = c_abogoatl
+
+# Settlements
+max_settlements = 2
+b_abogoatl = castle
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

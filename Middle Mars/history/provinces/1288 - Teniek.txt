@@ -1,0 +1,16 @@
+# 1288 - Teniek
+
+# County Title
+title = c_teniek
+
+# Settlements
+max_settlements = 4
+b_teniek = castle
+b_qananu = temple
+b_dualn = city
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

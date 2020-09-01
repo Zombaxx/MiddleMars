@@ -1,0 +1,15 @@
+# 913 - Releth
+
+# County Title
+title = c_releth
+
+# Settlements
+max_settlements = 5
+b_releth = tribal
+b_bivuist = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

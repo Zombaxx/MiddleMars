@@ -1,0 +1,14 @@
+# 553 - Apetakk
+
+# County Title
+title = c_apetakk
+
+# Settlements
+max_settlements = 2
+b_apetakk = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

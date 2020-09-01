@@ -1,0 +1,17 @@
+# 1234 - Reinohn
+
+# County Title
+title = c_reinohn
+
+# Settlements
+max_settlements = 6
+b_reinohn = castle
+b_keirim = temple
+b_qeer = city
+b_telagnus = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

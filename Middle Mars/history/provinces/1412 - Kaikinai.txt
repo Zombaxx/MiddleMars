@@ -1,0 +1,17 @@
+# 1412 - Kaikinai
+
+# County Title
+title = c_kaikinai
+
+# Settlements
+max_settlements = 5
+b_kaikinai = castle
+b_rugun = temple
+b_tacabib = city
+b_riatila = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

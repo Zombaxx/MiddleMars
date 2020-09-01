@@ -1,0 +1,16 @@
+# 746 - Kusory
+
+# County Title
+title = c_kusory
+
+# Settlements
+max_settlements = 4
+b_kusory = castle
+b_qanory = temple
+b_enizhen = city
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1561 - Saksa
+
+# County Title
+title = c_saksa
+
+# Settlements
+max_settlements = 4
+b_saksa = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

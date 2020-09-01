@@ -1,0 +1,14 @@
+# 189 - Susidis
+
+# County Title
+title = c_susidis
+
+# Settlements
+max_settlements = 3
+b_susidis = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

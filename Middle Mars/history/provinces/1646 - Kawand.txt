@@ -1,0 +1,14 @@
+# 1646 - Kawand
+
+# County Title
+title = c_kawand
+
+# Settlements
+max_settlements = 2
+b_kawand = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

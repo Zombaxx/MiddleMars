@@ -1,0 +1,14 @@
+# 429 - Sanar
+
+# County Title
+title = c_sanar
+
+# Settlements
+max_settlements = 2
+b_sanar = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

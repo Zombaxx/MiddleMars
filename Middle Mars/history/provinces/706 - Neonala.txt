@@ -1,0 +1,16 @@
+# 706 - Neonala
+
+# County Title
+title = c_neonala
+
+# Settlements
+max_settlements = 4
+b_neonala = castle
+b_siunelbo = temple
+b_selooma = city
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

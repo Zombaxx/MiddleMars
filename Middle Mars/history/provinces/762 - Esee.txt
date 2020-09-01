@@ -1,0 +1,14 @@
+# 762 - Esee
+
+# County Title
+title = c_esee
+
+# Settlements
+max_settlements = 4
+b_esee = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

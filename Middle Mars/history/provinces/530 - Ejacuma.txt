@@ -1,0 +1,15 @@
+# 530 - Ejacuma
+
+# County Title
+title = c_ejacuma
+
+# Settlements
+max_settlements = 3
+b_ejacuma = castle
+b_nonima = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

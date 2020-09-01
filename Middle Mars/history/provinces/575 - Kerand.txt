@@ -1,0 +1,15 @@
+# 575 - Kerand
+
+# County Title
+title = c_kerand
+
+# Settlements
+max_settlements = 3
+b_kerand = castle
+b_qararia = temple
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

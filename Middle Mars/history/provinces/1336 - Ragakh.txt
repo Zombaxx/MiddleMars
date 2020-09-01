@@ -1,0 +1,17 @@
+# 1336 - Ragakh
+
+# County Title
+title = c_ragakh
+
+# Settlements
+max_settlements = 5
+b_ragakh = castle
+b_delara = temple
+b_deatuna = city
+b_eprerled = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

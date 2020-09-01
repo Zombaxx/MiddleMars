@@ -1,0 +1,14 @@
+# 1278 - Azozulk
+
+# County Title
+title = c_azozulk
+
+# Settlements
+max_settlements = 2
+b_azozulk = castle
+
+# Misc
+culture = levantine_arabic
+religion = jain
+
+# History

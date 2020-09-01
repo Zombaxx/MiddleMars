@@ -1,0 +1,15 @@
+# 562 - Agodubb
+
+# County Title
+title = c_agodubb
+
+# Settlements
+max_settlements = 4
+b_agodubb = tribal
+b_doreram = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

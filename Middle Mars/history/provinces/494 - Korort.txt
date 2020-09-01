@@ -1,0 +1,14 @@
+# 494 - Korort
+
+# County Title
+title = c_korort
+
+# Settlements
+max_settlements = 3
+b_korort = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

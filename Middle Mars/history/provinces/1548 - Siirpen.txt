@@ -1,0 +1,16 @@
+# 1548 - Siirpen
+
+# County Title
+title = c_siirpen
+
+# Settlements
+max_settlements = 4
+b_siirpen = castle
+b_enegin = temple
+b_akardu = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

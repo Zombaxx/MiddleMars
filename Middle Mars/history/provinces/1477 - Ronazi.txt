@@ -1,0 +1,16 @@
+# 1477 - Ronazi
+
+# County Title
+title = c_ronazi
+
+# Settlements
+max_settlements = 4
+b_ronazi = castle
+b_salnan = temple
+b_ahalujri = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

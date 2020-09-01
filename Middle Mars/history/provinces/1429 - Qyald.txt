@@ -1,0 +1,16 @@
+# 1429 - Qyald
+
+# County Title
+title = c_qyald
+
+# Settlements
+max_settlements = 4
+b_qyald = castle
+b_qavarin = temple
+b_bucakh = city
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

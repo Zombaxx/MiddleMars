@@ -1,0 +1,14 @@
+# 410 - Edavimar
+
+# County Title
+title = c_edavimar
+
+# Settlements
+max_settlements = 3
+b_edavimar = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

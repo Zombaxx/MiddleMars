@@ -1,0 +1,14 @@
+# 287 - Wudaneon
+
+# County Title
+title = c_wudaneon
+
+# Settlements
+max_settlements = 2
+b_wudaneon = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

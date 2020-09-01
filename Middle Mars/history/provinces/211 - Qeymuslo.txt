@@ -1,0 +1,16 @@
+# 211 - Qeymuslo
+
+# County Title
+title = c_qeymuslo
+
+# Settlements
+max_settlements = 4
+b_qeymuslo = castle
+b_rinoses = temple
+b_lamudo = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

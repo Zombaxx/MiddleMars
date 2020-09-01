@@ -1,0 +1,14 @@
+# 1165 - Dakevon
+
+# County Title
+title = c_dakevon
+
+# Settlements
+max_settlements = 2
+b_dakevon = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

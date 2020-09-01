@@ -1,0 +1,14 @@
+# 242 - Wimedek
+
+# County Title
+title = c_wimedek
+
+# Settlements
+max_settlements = 2
+b_wimedek = castle
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

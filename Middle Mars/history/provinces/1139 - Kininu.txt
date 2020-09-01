@@ -1,0 +1,17 @@
+# 1139 - Kininu
+
+# County Title
+title = c_kininu
+
+# Settlements
+max_settlements = 5
+b_kininu = castle
+b_dara = temple
+b_rodais = city
+b_kemaraja = castle
+
+# Misc
+culture = bodpa
+religion = jain
+
+# History

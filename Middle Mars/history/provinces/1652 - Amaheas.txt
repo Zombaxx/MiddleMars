@@ -1,0 +1,14 @@
+# 1652 - Amaheas
+
+# County Title
+title = c_amaheas
+
+# Settlements
+max_settlements = 2
+b_amaheas = tribal
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

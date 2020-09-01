@@ -1,0 +1,14 @@
+# 1525 - Tomilda
+
+# County Title
+title = c_tomilda
+
+# Settlements
+max_settlements = 2
+b_tomilda = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1110 - Taloanna
+
+# County Title
+title = c_taloanna
+
+# Settlements
+max_settlements = 4
+b_taloanna = castle
+b_arobuo = temple
+b_raliur = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

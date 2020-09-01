@@ -1,0 +1,15 @@
+# 16 - Kuin
+
+# County Title
+title = c_kuin
+
+# Settlements
+max_settlements = 3
+b_kuin = castle
+b_agahim = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

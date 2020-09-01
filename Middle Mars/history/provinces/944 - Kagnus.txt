@@ -1,0 +1,15 @@
+# 944 - Kagnus
+
+# County Title
+title = c_kagnus
+
+# Settlements
+max_settlements = 3
+b_kagnus = castle
+b_kinislav = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

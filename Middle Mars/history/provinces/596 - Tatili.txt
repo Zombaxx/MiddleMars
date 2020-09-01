@@ -1,0 +1,14 @@
+# 596 - Tatili
+
+# County Title
+title = c_tatili
+
+# Settlements
+max_settlements = 4
+b_tatili = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

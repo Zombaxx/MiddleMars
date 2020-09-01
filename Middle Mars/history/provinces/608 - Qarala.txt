@@ -1,0 +1,15 @@
+# 608 - Qarala
+
+# County Title
+title = c_qarala
+
+# Settlements
+max_settlements = 5
+b_qarala = tribal
+b_ryaquraq = temple
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

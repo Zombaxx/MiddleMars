@@ -1,0 +1,15 @@
+# 898 - Sezou
+
+# County Title
+title = c_sezou
+
+# Settlements
+max_settlements = 3
+b_sezou = castle
+b_limaac = temple
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

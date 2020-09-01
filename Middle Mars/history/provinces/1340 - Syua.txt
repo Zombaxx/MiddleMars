@@ -1,0 +1,14 @@
+# 1340 - Syua
+
+# County Title
+title = c_syua
+
+# Settlements
+max_settlements = 2
+b_syua = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

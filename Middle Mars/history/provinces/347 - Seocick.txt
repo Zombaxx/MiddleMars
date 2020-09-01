@@ -1,0 +1,14 @@
+# 347 - Seocick
+
+# County Title
+title = c_seocick
+
+# Settlements
+max_settlements = 2
+b_seocick = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

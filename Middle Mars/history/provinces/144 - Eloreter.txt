@@ -1,0 +1,16 @@
+# 144 - Eloreter
+
+# County Title
+title = c_eloreter
+
+# Settlements
+max_settlements = 4
+b_eloreter = castle
+b_rinuda = temple
+b_kitodia = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

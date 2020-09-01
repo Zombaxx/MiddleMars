@@ -1,0 +1,17 @@
+# 1418 - Tibegin
+
+# County Title
+title = c_tibegin
+
+# Settlements
+max_settlements = 5
+b_tibegin = castle
+b_avalka = temple
+b_ragecco = city
+b_sasagh = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

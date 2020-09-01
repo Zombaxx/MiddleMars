@@ -1,0 +1,16 @@
+# 145 - Eferagan
+
+# County Title
+title = c_eferagan
+
+# Settlements
+max_settlements = 4
+b_eferagan = castle
+b_qina = temple
+b_qisano = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

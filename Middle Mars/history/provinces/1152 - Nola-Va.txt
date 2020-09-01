@@ -1,0 +1,17 @@
+# 1152 - Nola-Va
+
+# County Title
+title = c_nola-va
+
+# Settlements
+max_settlements = 5
+b_nola-va = castle
+b_nodumay = temple
+b_kasumay = city
+b_nekeda = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

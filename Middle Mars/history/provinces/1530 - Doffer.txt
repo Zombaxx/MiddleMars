@@ -1,0 +1,15 @@
+# 1530 - Doffer
+
+# County Title
+title = c_doffer
+
+# Settlements
+max_settlements = 3
+b_doffer = castle
+b_kyecohn = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

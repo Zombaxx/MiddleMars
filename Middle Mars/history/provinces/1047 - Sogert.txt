@@ -1,0 +1,15 @@
+# 1047 - Sogert
+
+# County Title
+title = c_sogert
+
+# Settlements
+max_settlements = 3
+b_sogert = castle
+b_koumola = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

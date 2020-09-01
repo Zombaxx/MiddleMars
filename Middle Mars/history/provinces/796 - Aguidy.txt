@@ -1,0 +1,15 @@
+# 796 - Aguidy
+
+# County Title
+title = c_aguidy
+
+# Settlements
+max_settlements = 5
+b_aguidy = tribal
+b_reninde = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

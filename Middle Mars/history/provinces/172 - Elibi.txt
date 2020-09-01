@@ -1,0 +1,16 @@
+# 172 - Elibi
+
+# County Title
+title = c_elibi
+
+# Settlements
+max_settlements = 4
+b_elibi = castle
+b_qukenna = temple
+b_kidarti = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

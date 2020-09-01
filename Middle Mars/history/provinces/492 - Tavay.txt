@@ -1,0 +1,14 @@
+# 492 - Tavay
+
+# County Title
+title = c_tavay
+
+# Settlements
+max_settlements = 2
+b_tavay = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

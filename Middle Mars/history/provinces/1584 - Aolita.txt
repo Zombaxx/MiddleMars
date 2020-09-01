@@ -1,0 +1,14 @@
+# 1584 - Aolita
+
+# County Title
+title = c_aolita
+
+# Settlements
+max_settlements = 2
+b_aolita = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

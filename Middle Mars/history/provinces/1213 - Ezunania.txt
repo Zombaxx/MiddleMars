@@ -1,0 +1,14 @@
+# 1213 - Ezunania
+
+# County Title
+title = c_ezunania
+
+# Settlements
+max_settlements = 2
+b_ezunania = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

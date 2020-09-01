@@ -1,0 +1,14 @@
+# 428 - Dalit
+
+# County Title
+title = c_dalit
+
+# Settlements
+max_settlements = 3
+b_dalit = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

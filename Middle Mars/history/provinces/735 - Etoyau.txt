@@ -1,0 +1,16 @@
+# 735 - Etoyau
+
+# County Title
+title = c_etoyau
+
+# Settlements
+max_settlements = 4
+b_etoyau = castle
+b_qaluna = temple
+b_wyie = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

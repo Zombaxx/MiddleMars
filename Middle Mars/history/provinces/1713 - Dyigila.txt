@@ -1,0 +1,14 @@
+# 1713 - Dyigila
+
+# County Title
+title = c_dyigila
+
+# Settlements
+max_settlements = 1
+b_dyigila = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

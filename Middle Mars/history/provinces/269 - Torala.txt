@@ -1,0 +1,14 @@
+# 269 - Torala
+
+# County Title
+title = c_torala
+
+# Settlements
+max_settlements = 4
+b_torala = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

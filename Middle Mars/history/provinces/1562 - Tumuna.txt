@@ -1,0 +1,16 @@
+# 1562 - Tumuna
+
+# County Title
+title = c_tumuna
+
+# Settlements
+max_settlements = 4
+b_tumuna = castle
+b_aradavac = temple
+b_qiegine = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

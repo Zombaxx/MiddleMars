@@ -1,0 +1,15 @@
+# 1199 - Qolesh
+
+# County Title
+title = c_qolesh
+
+# Settlements
+max_settlements = 4
+b_qolesh = tribal
+b_qilomo = temple
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

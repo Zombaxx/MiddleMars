@@ -1,0 +1,14 @@
+# 1342 - Korert
+
+# County Title
+title = c_korert
+
+# Settlements
+max_settlements = 4
+b_korert = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

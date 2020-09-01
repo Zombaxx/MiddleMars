@@ -1,0 +1,14 @@
+# 526 - Tauleca
+
+# County Title
+title = c_tauleca
+
+# Settlements
+max_settlements = 4
+b_tauleca = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

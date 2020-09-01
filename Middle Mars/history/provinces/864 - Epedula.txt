@@ -1,0 +1,15 @@
+# 864 - Epedula
+
+# County Title
+title = c_epedula
+
+# Settlements
+max_settlements = 3
+b_epedula = tribal
+b_kafaca = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 754 - Lava
+
+# County Title
+title = c_lava
+
+# Settlements
+max_settlements = 4
+b_lava = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

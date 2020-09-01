@@ -1,0 +1,14 @@
+# 118 - Namint
+
+# County Title
+title = c_namint
+
+# Settlements
+max_settlements = 4
+b_namint = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

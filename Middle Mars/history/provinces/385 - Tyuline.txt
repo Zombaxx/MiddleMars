@@ -1,0 +1,14 @@
+# 385 - Tyuline
+
+# County Title
+title = c_tyuline
+
+# Settlements
+max_settlements = 2
+b_tyuline = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

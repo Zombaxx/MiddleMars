@@ -1,0 +1,5 @@
+1064.1.1 = {
+	holding_dynasty = 109643 # ve Avaluti - makes this a FAMILY_PALACE type Holding
+	liege="d_katha"
+	holder = 219290
+}

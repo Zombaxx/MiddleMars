@@ -1,0 +1,15 @@
+# 180 - Basyana
+
+# County Title
+title = c_basyana
+
+# Settlements
+max_settlements = 3
+b_basyana = castle
+b_azucayya = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 688 - Kory
+
+# County Title
+title = c_kory
+
+# Settlements
+max_settlements = 5
+b_kory = tribal
+b_kepaham = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

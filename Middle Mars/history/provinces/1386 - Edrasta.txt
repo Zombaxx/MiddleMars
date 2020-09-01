@@ -1,0 +1,14 @@
+# 1386 - Edrasta
+
+# County Title
+title = c_edrasta
+
+# Settlements
+max_settlements = 4
+b_edrasta = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

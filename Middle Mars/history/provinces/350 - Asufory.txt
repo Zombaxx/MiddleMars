@@ -1,0 +1,14 @@
+# 350 - Asufory
+
+# County Title
+title = c_asufory
+
+# Settlements
+max_settlements = 1
+b_asufory = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

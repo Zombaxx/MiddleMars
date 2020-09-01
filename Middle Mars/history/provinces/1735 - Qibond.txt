@@ -1,0 +1,14 @@
+# 1735 - Qibond
+
+# County Title
+title = c_qibond
+
+# Settlements
+max_settlements = 3
+b_qibond = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

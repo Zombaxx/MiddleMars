@@ -1,0 +1,16 @@
+# 1330 - Rekain
+
+# County Title
+title = c_rekain
+
+# Settlements
+max_settlements = 4
+b_rekain = castle
+b_rolya = temple
+b_sea = city
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

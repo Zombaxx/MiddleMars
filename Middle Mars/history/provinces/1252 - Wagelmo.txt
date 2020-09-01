@@ -1,0 +1,14 @@
+# 1252 - Wagelmo
+
+# County Title
+title = c_wagelmo
+
+# Settlements
+max_settlements = 4
+b_wagelmo = tribal
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

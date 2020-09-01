@@ -1,0 +1,14 @@
+# 225 - Ryuvelm
+
+# County Title
+title = c_ryuvelm
+
+# Settlements
+max_settlements = 2
+b_ryuvelm = castle
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 763 - Ryeju
+
+# County Title
+title = c_ryeju
+
+# Settlements
+max_settlements = 5
+b_ryeju = tribal
+b_sulahil = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 1077 - Denzo
+
+# County Title
+title = c_denzo
+
+# Settlements
+max_settlements = 4
+b_denzo = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

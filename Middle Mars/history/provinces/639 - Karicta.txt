@@ -1,0 +1,14 @@
+# 639 - Karicta
+
+# County Title
+title = c_karicta
+
+# Settlements
+max_settlements = 4
+b_karicta = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

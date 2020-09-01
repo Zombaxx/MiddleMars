@@ -1,0 +1,16 @@
+# 1514 - Kenusi
+
+# County Title
+title = c_kenusi
+
+# Settlements
+max_settlements = 4
+b_kenusi = castle
+b_buruko = temple
+b_emaseike = city
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

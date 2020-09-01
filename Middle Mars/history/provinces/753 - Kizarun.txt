@@ -1,0 +1,16 @@
+# 753 - Kizarun
+
+# County Title
+title = c_kizarun
+
+# Settlements
+max_settlements = 4
+b_kizarun = castle
+b_naronne = temple
+b_safeka = city
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

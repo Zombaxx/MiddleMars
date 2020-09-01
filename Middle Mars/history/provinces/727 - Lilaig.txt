@@ -1,0 +1,14 @@
+# 727 - Lilaig
+
+# County Title
+title = c_lilaig
+
+# Settlements
+max_settlements = 3
+b_lilaig = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 431 - Nerashir
+
+# County Title
+title = c_nerashir
+
+# Settlements
+max_settlements = 2
+b_nerashir = castle
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

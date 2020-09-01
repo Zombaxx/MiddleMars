@@ -1,0 +1,14 @@
+# 1712 - Wonailo
+
+# County Title
+title = c_wonailo
+
+# Settlements
+max_settlements = 1
+b_wonailo = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

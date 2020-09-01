@@ -1,0 +1,17 @@
+# 40 - Ryoa
+
+# County Title
+title = c_ryoa
+
+# Settlements
+max_settlements = 5
+b_ryoa = castle
+b_naranna = temple
+b_tida = city
+b_bibura = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

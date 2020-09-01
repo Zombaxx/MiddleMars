@@ -1,0 +1,14 @@
+# 959 - Qautine
+
+# County Title
+title = c_qautine
+
+# Settlements
+max_settlements = 2
+b_qautine = castle
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

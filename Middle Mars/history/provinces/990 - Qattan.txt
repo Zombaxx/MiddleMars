@@ -1,0 +1,16 @@
+# 990 - Qattan
+
+# County Title
+title = c_qattan
+
+# Settlements
+max_settlements = 4
+b_qattan = castle
+b_belarin = temple
+b_qigily = city
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

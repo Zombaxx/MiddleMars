@@ -1,0 +1,15 @@
+# 1476 - Qeubka
+
+# County Title
+title = c_qeubka
+
+# Settlements
+max_settlements = 5
+b_qeubka = tribal
+b_tugessa = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 236 - Butibi
+
+# County Title
+title = c_butibi
+
+# Settlements
+max_settlements = 3
+b_butibi = castle
+b_sogulad = temple
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

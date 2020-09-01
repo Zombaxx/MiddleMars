@@ -1,0 +1,14 @@
+# 344 - Ruulard
+
+# County Title
+title = c_ruulard
+
+# Settlements
+max_settlements = 1
+b_ruulard = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

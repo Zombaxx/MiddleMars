@@ -1,0 +1,14 @@
+# 1431 - Kapakk
+
+# County Title
+title = c_kapakk
+
+# Settlements
+max_settlements = 4
+b_kapakk = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

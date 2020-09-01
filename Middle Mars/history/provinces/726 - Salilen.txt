@@ -1,0 +1,14 @@
+# 726 - Salilen
+
+# County Title
+title = c_salilen
+
+# Settlements
+max_settlements = 2
+b_salilen = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

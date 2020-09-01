@@ -1,0 +1,14 @@
+# 1632 - Qoet
+
+# County Title
+title = c_qoet
+
+# Settlements
+max_settlements = 2
+b_qoet = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

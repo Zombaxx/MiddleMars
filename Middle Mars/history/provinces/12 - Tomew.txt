@@ -1,0 +1,16 @@
+# 12 - Tomew
+
+# County Title
+title = c_tomew
+
+# Settlements
+max_settlements = 4
+b_tomew = castle
+b_loma-va = temple
+b_davana = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

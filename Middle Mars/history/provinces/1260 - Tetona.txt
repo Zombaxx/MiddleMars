@@ -1,0 +1,14 @@
+# 1260 - Tetona
+
+# County Title
+title = c_tetona
+
+# Settlements
+max_settlements = 3
+b_tetona = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

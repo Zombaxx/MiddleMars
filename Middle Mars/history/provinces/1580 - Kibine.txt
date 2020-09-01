@@ -1,0 +1,15 @@
+# 1580 - Kibine
+
+# County Title
+title = c_kibine
+
+# Settlements
+max_settlements = 3
+b_kibine = castle
+b_dadeter = temple
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

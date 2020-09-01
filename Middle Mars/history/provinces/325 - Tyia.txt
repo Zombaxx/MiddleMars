@@ -1,0 +1,14 @@
+# 325 - Tyia
+
+# County Title
+title = c_tyia
+
+# Settlements
+max_settlements = 1
+b_tyia = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

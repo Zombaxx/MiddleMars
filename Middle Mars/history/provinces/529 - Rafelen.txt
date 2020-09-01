@@ -1,0 +1,14 @@
+# 529 - Rafelen
+
+# County Title
+title = c_rafelen
+
+# Settlements
+max_settlements = 3
+b_rafelen = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

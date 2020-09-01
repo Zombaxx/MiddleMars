@@ -1,0 +1,16 @@
+# 65 - Sasirai
+
+# County Title
+title = c_sasirai
+
+# Settlements
+max_settlements = 4
+b_sasirai = castle
+b_rabduan = temple
+b_qumirai = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

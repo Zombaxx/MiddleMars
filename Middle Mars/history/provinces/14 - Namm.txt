@@ -1,0 +1,16 @@
+# 14 - Namm
+
+# County Title
+title = c_namm
+
+# Settlements
+max_settlements = 4
+b_namm = castle
+b_kunaha = temple
+b_wawuke = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

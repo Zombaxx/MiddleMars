@@ -1,0 +1,15 @@
+# 149 - Nareth
+
+# County Title
+title = c_nareth
+
+# Settlements
+max_settlements = 3
+b_nareth = castle
+b_darit = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

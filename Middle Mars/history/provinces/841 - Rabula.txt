@@ -1,0 +1,14 @@
+# 841 - Rabula
+
+# County Title
+title = c_rabula
+
+# Settlements
+max_settlements = 4
+b_rabula = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

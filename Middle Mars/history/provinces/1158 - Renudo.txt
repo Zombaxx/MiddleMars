@@ -1,0 +1,15 @@
+# 1158 - Renudo
+
+# County Title
+title = c_renudo
+
+# Settlements
+max_settlements = 6
+b_renudo = tribal
+b_rashze = temple
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

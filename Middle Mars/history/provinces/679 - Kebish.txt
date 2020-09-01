@@ -1,0 +1,15 @@
+# 679 - Kebish
+
+# County Title
+title = c_kebish
+
+# Settlements
+max_settlements = 5
+b_kebish = tribal
+b_rumuraq = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

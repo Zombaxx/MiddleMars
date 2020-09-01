@@ -1,0 +1,15 @@
+# 560 - Alela
+
+# County Title
+title = c_alela
+
+# Settlements
+max_settlements = 3
+b_alela = castle
+b_tehava = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

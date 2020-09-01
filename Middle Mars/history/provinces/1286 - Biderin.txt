@@ -1,0 +1,15 @@
+# 1286 - Biderin
+
+# County Title
+title = c_biderin
+
+# Settlements
+max_settlements = 6
+b_biderin = tribal
+b_qamathi = temple
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

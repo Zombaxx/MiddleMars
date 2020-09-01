@@ -1,0 +1,14 @@
+# 1687 - Kyeju
+
+# County Title
+title = c_kyeju
+
+# Settlements
+max_settlements = 1
+b_kyeju = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

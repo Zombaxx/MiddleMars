@@ -1,0 +1,16 @@
+# 1456 - Kobard
+
+# County Title
+title = c_kobard
+
+# Settlements
+max_settlements = 4
+b_kobard = castle
+b_radergun = temple
+b_tawirc = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

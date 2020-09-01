@@ -1,0 +1,14 @@
+# 1290 - Waig
+
+# County Title
+title = c_waig
+
+# Settlements
+max_settlements = 4
+b_waig = tribal
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

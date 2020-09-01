@@ -1,0 +1,17 @@
+# 1318 - Nelusha
+
+# County Title
+title = c_nelusha
+
+# Settlements
+max_settlements = 5
+b_nelusha = castle
+b_kamolam = temple
+b_dander = city
+b_teroan = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

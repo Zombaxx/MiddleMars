@@ -1,0 +1,14 @@
+# 245 - Kojara
+
+# County Title
+title = c_kojara
+
+# Settlements
+max_settlements = 2
+b_kojara = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

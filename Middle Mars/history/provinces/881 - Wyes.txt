@@ -1,0 +1,15 @@
+# 881 - Wyes
+
+# County Title
+title = c_wyes
+
+# Settlements
+max_settlements = 3
+b_wyes = castle
+b_agukpo = temple
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

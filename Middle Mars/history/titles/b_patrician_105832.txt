@@ -1,0 +1,5 @@
+1056.1.1 = {
+	holding_dynasty = 105832 # de Komard - makes this a FAMILY_PALACE type Holding
+	liege="d_ebozar"
+	holder = 211665
+}

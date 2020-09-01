@@ -1,0 +1,17 @@
+# 981 - Lietire
+
+# County Title
+title = c_lietire
+
+# Settlements
+max_settlements = 5
+b_lietire = castle
+b_turevat = temple
+b_sasili = city
+b_ninyka = castle
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

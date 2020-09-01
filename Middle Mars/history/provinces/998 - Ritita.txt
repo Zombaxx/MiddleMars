@@ -1,0 +1,17 @@
+# 998 - Ritita
+
+# County Title
+title = c_ritita
+
+# Settlements
+max_settlements = 5
+b_ritita = castle
+b_kawava = temple
+b_tibelen = city
+b_qegomil = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

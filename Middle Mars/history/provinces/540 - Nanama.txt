@@ -1,0 +1,14 @@
+# 540 - Nanama
+
+# County Title
+title = c_nanama
+
+# Settlements
+max_settlements = 3
+b_nanama = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

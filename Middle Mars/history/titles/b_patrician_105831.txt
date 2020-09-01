@@ -1,0 +1,5 @@
+1064.1.1 = {
+	holding_dynasty = 105831 # de Bizafu - makes this a FAMILY_PALACE type Holding
+	liege="d_ebozar"
+	holder = 211660
+}

@@ -1,0 +1,15 @@
+# 1453 - Tavish
+
+# County Title
+title = c_tavish
+
+# Settlements
+max_settlements = 3
+b_tavish = castle
+b_tojui = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

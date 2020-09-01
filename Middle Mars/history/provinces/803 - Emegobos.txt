@@ -1,0 +1,16 @@
+# 803 - Emegobos
+
+# County Title
+title = c_emegobos
+
+# Settlements
+max_settlements = 4
+b_emegobos = castle
+b_asamou = temple
+b_baralis = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

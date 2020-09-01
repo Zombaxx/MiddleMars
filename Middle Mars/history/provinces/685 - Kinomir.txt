@@ -1,0 +1,14 @@
+# 685 - Kinomir
+
+# County Title
+title = c_kinomir
+
+# Settlements
+max_settlements = 2
+b_kinomir = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

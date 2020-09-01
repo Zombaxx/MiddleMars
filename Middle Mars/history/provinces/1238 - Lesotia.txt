@@ -1,0 +1,15 @@
+# 1238 - Lesotia
+
+# County Title
+title = c_lesotia
+
+# Settlements
+max_settlements = 5
+b_lesotia = tribal
+b_rohutic = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

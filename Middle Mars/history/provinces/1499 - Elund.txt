@@ -1,0 +1,15 @@
+# 1499 - Elund
+
+# County Title
+title = c_elund
+
+# Settlements
+max_settlements = 5
+b_elund = tribal
+b_edruaret = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

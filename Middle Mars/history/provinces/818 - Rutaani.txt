@@ -1,0 +1,14 @@
+# 818 - Rutaani
+
+# County Title
+title = c_rutaani
+
+# Settlements
+max_settlements = 2
+b_rutaani = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

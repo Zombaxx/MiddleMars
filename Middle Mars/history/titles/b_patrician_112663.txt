@@ -1,0 +1,5 @@
+1060.1.1 = {
+	holding_dynasty = 112663 # Boutrid - makes this a FAMILY_PALACE type Holding
+	liege="d_korazi"
+	holder = 225330
+}

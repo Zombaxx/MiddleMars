@@ -1,0 +1,14 @@
+# 666 - Wonse
+
+# County Title
+title = c_wonse
+
+# Settlements
+max_settlements = 3
+b_wonse = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

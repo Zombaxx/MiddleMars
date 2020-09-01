@@ -1,0 +1,16 @@
+# 482 - Ryasutuq
+
+# County Title
+title = c_ryasutuq
+
+# Settlements
+max_settlements = 4
+b_ryasutuq = castle
+b_suwaka = temple
+b_kohinn = city
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

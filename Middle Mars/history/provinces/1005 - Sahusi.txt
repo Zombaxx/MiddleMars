@@ -1,0 +1,16 @@
+# 1005 - Sahusi
+
+# County Title
+title = c_sahusi
+
+# Settlements
+max_settlements = 4
+b_sahusi = castle
+b_arefitta = temple
+b_narika = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

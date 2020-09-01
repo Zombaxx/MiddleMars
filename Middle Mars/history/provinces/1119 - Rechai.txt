@@ -1,0 +1,17 @@
+# 1119 - Rechai
+
+# County Title
+title = c_rechai
+
+# Settlements
+max_settlements = 6
+b_rechai = castle
+b_deradra = temple
+b_laow = city
+b_dasus = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

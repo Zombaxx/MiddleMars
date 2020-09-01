@@ -1,0 +1,14 @@
+# 1569 - Kitarak
+
+# County Title
+title = c_kitarak
+
+# Settlements
+max_settlements = 4
+b_kitarak = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

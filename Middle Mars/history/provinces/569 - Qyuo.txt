@@ -1,0 +1,16 @@
+# 569 - Qyuo
+
+# County Title
+title = c_qyuo
+
+# Settlements
+max_settlements = 4
+b_qyuo = castle
+b_ekusawud = temple
+b_esonia = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

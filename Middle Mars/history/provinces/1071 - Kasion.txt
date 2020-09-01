@@ -1,0 +1,17 @@
+# 1071 - Kasion
+
+# County Title
+title = c_kasion
+
+# Settlements
+max_settlements = 5
+b_kasion = castle
+b_konamis = temple
+b_etomasna = city
+b_qenaad = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

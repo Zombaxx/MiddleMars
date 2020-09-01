@@ -1,0 +1,14 @@
+# 1115 - Athosz
+
+# County Title
+title = c_athosz
+
+# Settlements
+max_settlements = 4
+b_athosz = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

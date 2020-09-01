@@ -1,0 +1,14 @@
+# 1414 - Kogund
+
+# County Title
+title = c_kogund
+
+# Settlements
+max_settlements = 3
+b_kogund = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

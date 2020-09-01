@@ -1,0 +1,17 @@
+# 1377 - Daetulk
+
+# County Title
+title = c_daetulk
+
+# Settlements
+max_settlements = 5
+b_daetulk = castle
+b_sanogay = temple
+b_agwulk = city
+b_wojaig = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

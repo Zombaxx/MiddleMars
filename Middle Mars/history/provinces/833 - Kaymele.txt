@@ -1,0 +1,16 @@
+# 833 - Kaymele
+
+# County Title
+title = c_kaymele
+
+# Settlements
+max_settlements = 4
+b_kaymele = castle
+b_nitotho = temple
+b_reslav = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

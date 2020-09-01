@@ -1,0 +1,14 @@
+# 1176 - Esadeir
+
+# County Title
+title = c_esadeir
+
+# Settlements
+max_settlements = 3
+b_esadeir = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

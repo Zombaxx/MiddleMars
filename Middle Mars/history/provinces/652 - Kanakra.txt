@@ -1,0 +1,15 @@
+# 652 - Kanakra
+
+# County Title
+title = c_kanakra
+
+# Settlements
+max_settlements = 5
+b_kanakra = tribal
+b_sepotan = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

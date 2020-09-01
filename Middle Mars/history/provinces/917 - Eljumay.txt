@@ -1,0 +1,14 @@
+# 917 - Eljumay
+
+# County Title
+title = c_eljumay
+
+# Settlements
+max_settlements = 2
+b_eljumay = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

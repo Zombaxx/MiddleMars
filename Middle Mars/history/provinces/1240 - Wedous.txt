@@ -1,0 +1,15 @@
+# 1240 - Wedous
+
+# County Title
+title = c_wedous
+
+# Settlements
+max_settlements = 5
+b_wedous = tribal
+b_totall = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

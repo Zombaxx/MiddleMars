@@ -1,0 +1,14 @@
+# 362 - Necya
+
+# County Title
+title = c_necya
+
+# Settlements
+max_settlements = 3
+b_necya = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1475 - Dutennu
+
+# County Title
+title = c_dutennu
+
+# Settlements
+max_settlements = 5
+b_dutennu = tribal
+b_rapudo = temple
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

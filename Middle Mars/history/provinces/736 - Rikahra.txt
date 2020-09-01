@@ -1,0 +1,16 @@
+# 736 - Rikahra
+
+# County Title
+title = c_rikahra
+
+# Settlements
+max_settlements = 4
+b_rikahra = castle
+b_kacohn = temple
+b_emevamud = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

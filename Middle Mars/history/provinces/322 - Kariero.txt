@@ -1,0 +1,15 @@
+# 322 - Kariero
+
+# County Title
+title = c_kariero
+
+# Settlements
+max_settlements = 5
+b_kariero = tribal
+b_raheay = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

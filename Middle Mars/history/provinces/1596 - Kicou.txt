@@ -1,0 +1,16 @@
+# 1596 - Kicou
+
+# County Title
+title = c_kicou
+
+# Settlements
+max_settlements = 4
+b_kicou = castle
+b_edhasa = temple
+b_kimaide = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

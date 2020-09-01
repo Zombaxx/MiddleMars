@@ -1,0 +1,14 @@
+# 480 - Syehepes
+
+# County Title
+title = c_syehepes
+
+# Settlements
+max_settlements = 4
+b_syehepes = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

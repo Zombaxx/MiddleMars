@@ -1,0 +1,16 @@
+# 738 - Akujai
+
+# County Title
+title = c_akujai
+
+# Settlements
+max_settlements = 4
+b_akujai = castle
+b_sudurli = temple
+b_ricorri = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

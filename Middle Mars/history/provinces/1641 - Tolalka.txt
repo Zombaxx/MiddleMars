@@ -1,0 +1,14 @@
+# 1641 - Tolalka
+
+# County Title
+title = c_tolalka
+
+# Settlements
+max_settlements = 2
+b_tolalka = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 70 - Togyuk
+
+# County Title
+title = c_togyuk
+
+# Settlements
+max_settlements = 5
+b_togyuk = castle
+b_rolutar = temple
+b_sahejan = city
+b_ryamong = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1679 - Kadailo
+
+# County Title
+title = c_kadailo
+
+# Settlements
+max_settlements = 2
+b_kadailo = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 1555 - Nonada
+
+# County Title
+title = c_nonada
+
+# Settlements
+max_settlements = 3
+b_nonada = castle
+b_tourada = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

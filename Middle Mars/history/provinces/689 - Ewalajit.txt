@@ -1,0 +1,15 @@
+# 689 - Ewalajit
+
+# County Title
+title = c_ewalajit
+
+# Settlements
+max_settlements = 5
+b_ewalajit = tribal
+b_qayeth = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

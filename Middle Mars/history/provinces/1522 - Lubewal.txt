@@ -1,0 +1,17 @@
+# 1522 - Lubewal
+
+# County Title
+title = c_lubewal
+
+# Settlements
+max_settlements = 5
+b_lubewal = castle
+b_siya = temple
+b_tufemir = city
+b_razinaj = castle
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 1751 - Ecotiel
+
+# County Title
+title = c_ecotiel
+
+# Settlements
+max_settlements = 4
+b_ecotiel = castle
+b_keotic = temple
+b_qalli = city
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

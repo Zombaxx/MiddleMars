@@ -1,0 +1,15 @@
+# 810 - Labdina
+
+# County Title
+title = c_labdina
+
+# Settlements
+max_settlements = 4
+b_labdina = tribal
+b_lohanja = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

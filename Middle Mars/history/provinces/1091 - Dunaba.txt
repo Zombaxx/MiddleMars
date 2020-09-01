@@ -1,0 +1,14 @@
+# 1091 - Dunaba
+
+# County Title
+title = c_dunaba
+
+# Settlements
+max_settlements = 3
+b_dunaba = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1163 - Nola
+
+# County Title
+title = c_nola
+
+# Settlements
+max_settlements = 2
+b_nola = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

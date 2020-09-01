@@ -1,0 +1,15 @@
+# 1689 - Bageuta
+
+# County Title
+title = c_bageuta
+
+# Settlements
+max_settlements = 1
+b_bageuta = tribal
+b_dabalih = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

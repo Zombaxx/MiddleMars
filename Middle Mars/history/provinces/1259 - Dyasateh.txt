@@ -1,0 +1,14 @@
+# 1259 - Dyasateh
+
+# County Title
+title = c_dyasateh
+
+# Settlements
+max_settlements = 4
+b_dyasateh = tribal
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

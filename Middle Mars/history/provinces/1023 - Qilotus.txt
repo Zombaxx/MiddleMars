@@ -1,0 +1,17 @@
+# 1023 - Qilotus
+
+# County Title
+title = c_qilotus
+
+# Settlements
+max_settlements = 5
+b_qilotus = castle
+b_reneer = temple
+b_kojucha = city
+b_ediata = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

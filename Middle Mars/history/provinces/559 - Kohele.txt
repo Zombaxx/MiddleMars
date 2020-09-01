@@ -1,0 +1,14 @@
+# 559 - Kohele
+
+# County Title
+title = c_kohele
+
+# Settlements
+max_settlements = 4
+b_kohele = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

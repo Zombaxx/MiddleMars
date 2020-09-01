@@ -1,0 +1,14 @@
+# 151 - Lahucha
+
+# County Title
+title = c_lahucha
+
+# Settlements
+max_settlements = 3
+b_lahucha = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

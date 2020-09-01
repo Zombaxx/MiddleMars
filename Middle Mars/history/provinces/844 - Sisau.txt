@@ -1,0 +1,17 @@
+# 844 - Sisau
+
+# County Title
+title = c_sisau
+
+# Settlements
+max_settlements = 5
+b_sisau = castle
+b_koreuta = temple
+b_noaneph = city
+b_teruin = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

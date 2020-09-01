@@ -1,0 +1,17 @@
+# 859 - Sawemir
+
+# County Title
+title = c_sawemir
+
+# Settlements
+max_settlements = 6
+b_sawemir = castle
+b_diosa = temple
+b_tobou = city
+b_nobeca = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 1263 - Tadetar
+
+# County Title
+title = c_tadetar
+
+# Settlements
+max_settlements = 4
+b_tadetar = castle
+b_ejitya = temple
+b_budaneh = city
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

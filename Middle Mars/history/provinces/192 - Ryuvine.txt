@@ -1,0 +1,15 @@
+# 192 - Ryuvine
+
+# County Title
+title = c_ryuvine
+
+# Settlements
+max_settlements = 3
+b_ryuvine = castle
+b_bucaide = temple
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

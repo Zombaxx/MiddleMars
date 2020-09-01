@@ -1,0 +1,17 @@
+# 42 - Savam
+
+# County Title
+title = c_savam
+
+# Settlements
+max_settlements = 6
+b_savam = castle
+b_waam = temple
+b_sahain = city
+b_quduju = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

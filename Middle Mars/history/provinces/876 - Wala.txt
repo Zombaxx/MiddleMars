@@ -1,0 +1,15 @@
+# 876 - Wala
+
+# County Title
+title = c_wala
+
+# Settlements
+max_settlements = 3
+b_wala = castle
+b_watifa = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

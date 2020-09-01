@@ -1,0 +1,15 @@
+# 1054 - Esuvund
+
+# County Title
+title = c_esuvund
+
+# Settlements
+max_settlements = 3
+b_esuvund = castle
+b_kilith = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

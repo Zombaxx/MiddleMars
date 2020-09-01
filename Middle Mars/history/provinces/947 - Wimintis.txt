@@ -1,0 +1,15 @@
+# 947 - Wimintis
+
+# County Title
+title = c_wimintis
+
+# Settlements
+max_settlements = 3
+b_wimintis = city
+b_laluall = temple
+
+# Misc
+culture = alan
+religion = orthodox
+
+# History

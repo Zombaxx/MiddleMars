@@ -1,0 +1,14 @@
+# 1173 - Qagunai
+
+# County Title
+title = c_qagunai
+
+# Settlements
+max_settlements = 3
+b_qagunai = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

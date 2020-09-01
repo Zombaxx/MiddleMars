@@ -1,0 +1,15 @@
+# 254 - Ticarat
+
+# County Title
+title = c_ticarat
+
+# Settlements
+max_settlements = 3
+b_ticarat = castle
+b_tiralis = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

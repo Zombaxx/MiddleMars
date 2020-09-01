@@ -1,0 +1,14 @@
+# 1421 - Tekala
+
+# County Title
+title = c_tekala
+
+# Settlements
+max_settlements = 4
+b_tekala = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1516 - Wubinai
+
+# County Title
+title = c_wubinai
+
+# Settlements
+max_settlements = 3
+b_wubinai = castle
+b_wedahtu = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

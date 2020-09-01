@@ -1,0 +1,14 @@
+# 571 - Wucuzma
+
+# County Title
+title = c_wucuzma
+
+# Settlements
+max_settlements = 4
+b_wucuzma = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

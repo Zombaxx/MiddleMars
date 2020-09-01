@@ -1,0 +1,15 @@
+# 812 - Bakoja
+
+# County Title
+title = c_bakoja
+
+# Settlements
+max_settlements = 3
+b_bakoja = castle
+b_nilukpo = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

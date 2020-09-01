@@ -1,0 +1,16 @@
+# 1395 - Talka
+
+# County Title
+title = c_talka
+
+# Settlements
+max_settlements = 4
+b_talka = castle
+b_amahense = temple
+b_rolund = city
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

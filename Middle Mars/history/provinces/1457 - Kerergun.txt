@@ -1,0 +1,15 @@
+# 1457 - Kerergun
+
+# County Title
+title = c_kerergun
+
+# Settlements
+max_settlements = 3
+b_kerergun = tribal
+b_lusilia = temple
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

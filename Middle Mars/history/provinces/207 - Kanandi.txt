@@ -1,0 +1,15 @@
+# 207 - Kanandi
+
+# County Title
+title = c_kanandi
+
+# Settlements
+max_settlements = 3
+b_kanandi = castle
+b_alekail = temple
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

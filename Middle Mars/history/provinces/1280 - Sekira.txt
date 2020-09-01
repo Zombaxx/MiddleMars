@@ -1,0 +1,15 @@
+# 1280 - Sekira
+
+# County Title
+title = c_sekira
+
+# Settlements
+max_settlements = 3
+b_sekira = castle
+b_rolawgan = temple
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

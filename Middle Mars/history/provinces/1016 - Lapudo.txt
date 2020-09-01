@@ -1,0 +1,15 @@
+# 1016 - Lapudo
+
+# County Title
+title = c_lapudo
+
+# Settlements
+max_settlements = 4
+b_lapudo = tribal
+b_sigeric = temple
+
+# Misc
+culture = nahuatl
+religion = hindu
+
+# History

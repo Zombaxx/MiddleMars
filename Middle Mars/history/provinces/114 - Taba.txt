@@ -1,0 +1,17 @@
+# 114 - Taba
+
+# County Title
+title = c_taba
+
+# Settlements
+max_settlements = 5
+b_taba = castle
+b_dibaria = temple
+b_rubirek = city
+b_bakania = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

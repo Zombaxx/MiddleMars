@@ -1,0 +1,14 @@
+# 1268 - Karogs
+
+# County Title
+title = c_karogs
+
+# Settlements
+max_settlements = 3
+b_karogs = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

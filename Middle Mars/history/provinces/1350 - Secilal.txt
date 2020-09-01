@@ -1,0 +1,16 @@
+# 1350 - Secilal
+
+# County Title
+title = c_secilal
+
+# Settlements
+max_settlements = 4
+b_secilal = castle
+b_nanunya = temple
+b_datyu = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

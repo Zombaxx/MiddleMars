@@ -1,0 +1,16 @@
+# 773 - Sojeer
+
+# County Title
+title = c_sojeer
+
+# Settlements
+max_settlements = 4
+b_sojeer = castle
+b_kulaqar = temple
+b_sezokol = city
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 1275 - Waranta
+
+# County Title
+title = c_waranta
+
+# Settlements
+max_settlements = 4
+b_waranta = tribal
+b_qenania = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

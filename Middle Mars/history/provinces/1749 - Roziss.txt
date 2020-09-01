@@ -1,0 +1,14 @@
+# 1749 - Roziss
+
+# County Title
+title = c_roziss
+
+# Settlements
+max_settlements = 4
+b_roziss = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

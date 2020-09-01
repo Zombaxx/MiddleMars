@@ -1,0 +1,147 @@
+# Kyayuo Merchant Republic Palaces
+b_patrician_100170 = {
+	culture = portuguese
+	religion = catholic
+}
+b_patrician_100171 = {
+	culture = portuguese
+	religion = catholic
+}
+b_patrician_100172 = {
+	culture = portuguese
+	religion = catholic
+}
+b_patrician_100173 = {
+	culture = portuguese
+	religion = catholic
+}
+b_patrician_100174 = {
+	culture = portuguese
+	religion = catholic
+}
+# Ebozar Merchant Republic Palaces
+b_patrician_105830 = {
+	culture = basque
+	religion = orthodox
+}
+b_patrician_105831 = {
+	culture = basque
+	religion = orthodox
+}
+b_patrician_105832 = {
+	culture = basque
+	religion = orthodox
+}
+b_patrician_105833 = {
+	culture = basque
+	religion = orthodox
+}
+b_patrician_105834 = {
+	culture = basque
+	religion = orthodox
+}
+# Katha Merchant Republic Palaces
+b_patrician_109640 = {
+	culture = alan
+	religion = sunni
+}
+b_patrician_109641 = {
+	culture = alan
+	religion = sunni
+}
+b_patrician_109642 = {
+	culture = alan
+	religion = sunni
+}
+b_patrician_109643 = {
+	culture = alan
+	religion = sunni
+}
+b_patrician_109644 = {
+	culture = alan
+	religion = sunni
+}
+# Roj Merchant Republic Palaces
+b_patrician_109310 = {
+	culture = alan
+	religion = orthodox
+}
+b_patrician_109311 = {
+	culture = alan
+	religion = orthodox
+}
+b_patrician_109312 = {
+	culture = alan
+	religion = orthodox
+}
+b_patrician_109313 = {
+	culture = alan
+	religion = orthodox
+}
+b_patrician_109314 = {
+	culture = alan
+	religion = orthodox
+}
+# Korazi Merchant Republic Palaces
+b_patrician_112660 = {
+	culture = levantine_arabic
+	religion = jain
+}
+b_patrician_112661 = {
+	culture = levantine_arabic
+	religion = jain
+}
+b_patrician_112662 = {
+	culture = levantine_arabic
+	religion = jain
+}
+b_patrician_112663 = {
+	culture = levantine_arabic
+	religion = jain
+}
+b_patrician_112664 = {
+	culture = levantine_arabic
+	religion = jain
+}
+# Eneetana Merchant Republic Palaces
+b_patrician_114660 = {
+	culture = maghreb_arabic
+	religion = shiite
+}
+b_patrician_114661 = {
+	culture = maghreb_arabic
+	religion = shiite
+}
+b_patrician_114662 = {
+	culture = maghreb_arabic
+	religion = shiite
+}
+b_patrician_114663 = {
+	culture = maghreb_arabic
+	religion = shiite
+}
+b_patrician_114664 = {
+	culture = maghreb_arabic
+	religion = shiite
+}
+# Taracob Merchant Republic Palaces
+b_patrician_117590 = {
+	culture = telugu
+	religion = buddhist
+}
+b_patrician_117591 = {
+	culture = telugu
+	religion = buddhist
+}
+b_patrician_117592 = {
+	culture = telugu
+	religion = buddhist
+}
+b_patrician_117593 = {
+	culture = telugu
+	religion = buddhist
+}
+b_patrician_117594 = {
+	culture = telugu
+	religion = buddhist
+}

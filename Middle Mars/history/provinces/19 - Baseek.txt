@@ -1,0 +1,15 @@
+# 19 - Baseek
+
+# County Title
+title = c_baseek
+
+# Settlements
+max_settlements = 3
+b_baseek = castle
+b_elerhi = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

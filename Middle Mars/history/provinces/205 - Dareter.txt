@@ -1,0 +1,16 @@
+# 205 - Dareter
+
+# County Title
+title = c_dareter
+
+# Settlements
+max_settlements = 4
+b_dareter = castle
+b_wanaul = temple
+b_wageuta = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

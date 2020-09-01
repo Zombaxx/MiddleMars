@@ -1,0 +1,14 @@
+# 1325 - Asins
+
+# County Title
+title = c_asins
+
+# Settlements
+max_settlements = 3
+b_asins = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

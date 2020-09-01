@@ -1,0 +1,14 @@
+# 452 - Aratira
+
+# County Title
+title = c_aratira
+
+# Settlements
+max_settlements = 3
+b_aratira = tribal
+
+# Misc
+culture = russian
+religion = west_african_pagan
+
+# History

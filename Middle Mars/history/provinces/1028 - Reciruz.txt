@@ -1,0 +1,15 @@
+# 1028 - Reciruz
+
+# County Title
+title = c_reciruz
+
+# Settlements
+max_settlements = 3
+b_reciruz = castle
+b_etatira = temple
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

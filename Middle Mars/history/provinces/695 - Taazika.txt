@@ -1,0 +1,15 @@
+# 695 - Taazika
+
+# County Title
+title = c_taazika
+
+# Settlements
+max_settlements = 6
+b_taazika = tribal
+b_byasuha = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

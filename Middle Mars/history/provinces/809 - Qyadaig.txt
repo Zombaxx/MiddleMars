@@ -1,0 +1,14 @@
+# 809 - Qyadaig
+
+# County Title
+title = c_qyadaig
+
+# Settlements
+max_settlements = 3
+b_qyadaig = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 760 - Adageer
+
+# County Title
+title = c_adageer
+
+# Settlements
+max_settlements = 4
+b_adageer = tribal
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,16 @@
+# 59 - Qevassa
+
+# County Title
+title = c_qevassa
+
+# Settlements
+max_settlements = 4
+b_qevassa = castle
+b_qoleek = temple
+b_dasilvi = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

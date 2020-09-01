@@ -1,0 +1,14 @@
+# 277 - Etutodia
+
+# County Title
+title = c_etutodia
+
+# Settlements
+max_settlements = 1
+b_etutodia = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

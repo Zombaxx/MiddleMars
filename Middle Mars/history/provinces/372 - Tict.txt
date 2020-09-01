@@ -1,0 +1,14 @@
+# 372 - Tict
+
+# County Title
+title = c_tict
+
+# Settlements
+max_settlements = 3
+b_tict = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 388 - Reitl
+
+# County Title
+title = c_reitl
+
+# Settlements
+max_settlements = 2
+b_reitl = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1051 - Nawumay
+
+# County Title
+title = c_nawumay
+
+# Settlements
+max_settlements = 3
+b_nawumay = castle
+b_agaetvi = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

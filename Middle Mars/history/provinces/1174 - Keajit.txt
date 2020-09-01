@@ -1,0 +1,16 @@
+# 1174 - Keajit
+
+# County Title
+title = c_keajit
+
+# Settlements
+max_settlements = 4
+b_keajit = castle
+b_taruin = temple
+b_siubald = city
+
+# Misc
+culture = bodpa
+religion = jain
+
+# History

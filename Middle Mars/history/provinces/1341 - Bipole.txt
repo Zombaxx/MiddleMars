@@ -1,0 +1,14 @@
+# 1341 - Bipole
+
+# County Title
+title = c_bipole
+
+# Settlements
+max_settlements = 2
+b_bipole = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

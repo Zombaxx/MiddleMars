@@ -1,0 +1,14 @@
+# 349 - Kudoke
+
+# County Title
+title = c_kudoke
+
+# Settlements
+max_settlements = 1
+b_kudoke = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

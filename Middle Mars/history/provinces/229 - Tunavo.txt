@@ -1,0 +1,14 @@
+# 229 - Tunavo
+
+# County Title
+title = c_tunavo
+
+# Settlements
+max_settlements = 2
+b_tunavo = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

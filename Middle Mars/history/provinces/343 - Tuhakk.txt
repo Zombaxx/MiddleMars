@@ -1,0 +1,14 @@
+# 343 - Tuhakk
+
+# County Title
+title = c_tuhakk
+
+# Settlements
+max_settlements = 1
+b_tuhakk = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

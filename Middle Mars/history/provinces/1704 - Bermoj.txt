@@ -1,0 +1,14 @@
+# 1704 - Bermoj
+
+# County Title
+title = c_bermoj
+
+# Settlements
+max_settlements = 2
+b_bermoj = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

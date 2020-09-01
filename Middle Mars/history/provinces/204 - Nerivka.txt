@@ -1,0 +1,15 @@
+# 204 - Nerivka
+
+# County Title
+title = c_nerivka
+
+# Settlements
+max_settlements = 3
+b_nerivka = castle
+b_bohisii = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

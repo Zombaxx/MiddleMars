@@ -1,0 +1,18 @@
+# 1190 - Elupuyan
+
+# County Title
+title = c_elupuyan
+
+# Settlements
+max_settlements = 7
+b_elupuyan = castle
+b_betou = temple
+b_sapasus = city
+b_teroch = castle
+b_wopudo = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

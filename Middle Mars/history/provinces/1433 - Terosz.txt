@@ -1,0 +1,14 @@
+# 1433 - Terosz
+
+# County Title
+title = c_terosz
+
+# Settlements
+max_settlements = 4
+b_terosz = tribal
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

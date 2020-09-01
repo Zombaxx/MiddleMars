@@ -1,0 +1,16 @@
+# 825 - Ler
+
+# County Title
+title = c_ler
+
+# Settlements
+max_settlements = 4
+b_ler = castle
+b_reinim = temple
+b_tadile = city
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

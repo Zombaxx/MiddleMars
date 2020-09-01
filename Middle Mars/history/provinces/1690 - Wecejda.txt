@@ -1,0 +1,14 @@
+# 1690 - Wecejda
+
+# County Title
+title = c_wecejda
+
+# Settlements
+max_settlements = 2
+b_wecejda = castle
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

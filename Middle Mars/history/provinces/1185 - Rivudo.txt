@@ -1,0 +1,16 @@
+# 1185 - Rivudo
+
+# County Title
+title = c_rivudo
+
+# Settlements
+max_settlements = 4
+b_rivudo = castle
+b_banahtu = temple
+b_raidamr = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

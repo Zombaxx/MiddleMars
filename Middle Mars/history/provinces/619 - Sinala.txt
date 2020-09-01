@@ -1,0 +1,15 @@
+# 619 - Sinala
+
+# County Title
+title = c_sinala
+
+# Settlements
+max_settlements = 4
+b_sinala = tribal
+b_taloth = temple
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

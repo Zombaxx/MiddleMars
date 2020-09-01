@@ -1,0 +1,14 @@
+# 392 - Aquneka
+
+# County Title
+title = c_aquneka
+
+# Settlements
+max_settlements = 4
+b_aquneka = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

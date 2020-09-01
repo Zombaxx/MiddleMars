@@ -1,0 +1,14 @@
+# 1583 - Kadory
+
+# County Title
+title = c_kadory
+
+# Settlements
+max_settlements = 2
+b_kadory = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

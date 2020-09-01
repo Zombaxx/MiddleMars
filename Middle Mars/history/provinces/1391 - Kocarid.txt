@@ -1,0 +1,16 @@
+# 1391 - Kocarid
+
+# County Title
+title = c_kocarid
+
+# Settlements
+max_settlements = 4
+b_kocarid = castle
+b_raboch = temple
+b_risezo = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

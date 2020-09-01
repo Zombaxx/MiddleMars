@@ -1,0 +1,15 @@
+# 552 - Rebena
+
+# County Title
+title = c_rebena
+
+# Settlements
+max_settlements = 5
+b_rebena = tribal
+b_qagune = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

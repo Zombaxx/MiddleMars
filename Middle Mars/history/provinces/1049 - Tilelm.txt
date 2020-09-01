@@ -1,0 +1,16 @@
+# 1049 - Tilelm
+
+# County Title
+title = c_tilelm
+
+# Settlements
+max_settlements = 4
+b_tilelm = castle
+b_dila = temple
+b_agaoo = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

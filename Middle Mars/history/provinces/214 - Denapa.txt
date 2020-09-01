@@ -1,0 +1,14 @@
+# 214 - Denapa
+
+# County Title
+title = c_denapa
+
+# Settlements
+max_settlements = 4
+b_denapa = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 1142 - Bilania
+
+# County Title
+title = c_bilania
+
+# Settlements
+max_settlements = 4
+b_bilania = castle
+b_wilyam = temple
+b_bavistin = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

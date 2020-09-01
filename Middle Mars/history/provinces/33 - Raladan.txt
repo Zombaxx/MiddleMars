@@ -1,0 +1,16 @@
+# 33 - Raladan
+
+# County Title
+title = c_raladan
+
+# Settlements
+max_settlements = 4
+b_raladan = castle
+b_akehanna = temple
+b_tuigi = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 453 - Raralc
+
+# County Title
+title = c_raralc
+
+# Settlements
+max_settlements = 2
+b_raralc = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

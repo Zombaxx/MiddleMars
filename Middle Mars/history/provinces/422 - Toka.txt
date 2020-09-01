@@ -1,0 +1,14 @@
+# 422 - Toka
+
+# County Title
+title = c_toka
+
+# Settlements
+max_settlements = 3
+b_toka = tribal
+
+# Misc
+culture = russian
+religion = west_african_pagan
+
+# History

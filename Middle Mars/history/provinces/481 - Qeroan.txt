@@ -1,0 +1,14 @@
+# 481 - Qeroan
+
+# County Title
+title = c_qeroan
+
+# Settlements
+max_settlements = 4
+b_qeroan = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

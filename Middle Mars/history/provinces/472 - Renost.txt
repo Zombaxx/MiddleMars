@@ -1,0 +1,15 @@
+# 472 - Renost
+
+# County Title
+title = c_renost
+
+# Settlements
+max_settlements = 3
+b_renost = castle
+b_ejadiog = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

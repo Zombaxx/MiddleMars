@@ -1,0 +1,17 @@
+# 739 - Dauloul
+
+# County Title
+title = c_dauloul
+
+# Settlements
+max_settlements = 5
+b_dauloul = castle
+b_kyasa = temple
+b_balvor = city
+b_ryed = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

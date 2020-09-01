@@ -1,0 +1,16 @@
+# 613 - Emisibor
+
+# County Title
+title = c_emisibor
+
+# Settlements
+max_settlements = 4
+b_emisibor = castle
+b_rozodan = temple
+b_kasoul = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

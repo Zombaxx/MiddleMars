@@ -1,0 +1,14 @@
+# 777 - Tiatate
+
+# County Title
+title = c_tiatate
+
+# Settlements
+max_settlements = 3
+b_tiatate = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

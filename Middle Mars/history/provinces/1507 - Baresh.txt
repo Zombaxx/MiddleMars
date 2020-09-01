@@ -1,0 +1,14 @@
+# 1507 - Baresh
+
+# County Title
+title = c_baresh
+
+# Settlements
+max_settlements = 2
+b_baresh = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

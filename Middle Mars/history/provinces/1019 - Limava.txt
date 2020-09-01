@@ -1,0 +1,16 @@
+# 1019 - Limava
+
+# County Title
+title = c_limava
+
+# Settlements
+max_settlements = 4
+b_limava = castle
+b_qainala = temple
+b_talaide = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

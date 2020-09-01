@@ -1,0 +1,14 @@
+# 486 - Qaring
+
+# County Title
+title = c_qaring
+
+# Settlements
+max_settlements = 3
+b_qaring = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

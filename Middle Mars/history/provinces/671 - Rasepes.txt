@@ -1,0 +1,15 @@
+# 671 - Rasepes
+
+# County Title
+title = c_rasepes
+
+# Settlements
+max_settlements = 3
+b_rasepes = castle
+b_balutlu = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

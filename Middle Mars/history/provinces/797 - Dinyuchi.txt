@@ -1,0 +1,14 @@
+# 797 - Dinyuchi
+
+# County Title
+title = c_dinyuchi
+
+# Settlements
+max_settlements = 3
+b_dinyuchi = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

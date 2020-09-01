@@ -1,0 +1,15 @@
+# 1013 - Nasuatl
+
+# County Title
+title = c_nasuatl
+
+# Settlements
+max_settlements = 3
+b_nasuatl = castle
+b_kodasus = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

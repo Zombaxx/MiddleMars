@@ -1,0 +1,16 @@
+# 11 - Noguigi
+
+# County Title
+title = c_noguigi
+
+# Settlements
+max_settlements = 4
+b_noguigi = castle
+b_naran = temple
+b_kanar = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

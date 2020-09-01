@@ -1,0 +1,16 @@
+# 1554 - Sanavo
+
+# County Title
+title = c_sanavo
+
+# Settlements
+max_settlements = 4
+b_sanavo = castle
+b_qaadada = temple
+b_tayawar = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

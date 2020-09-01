@@ -1,0 +1,14 @@
+# 653 - Rirasus
+
+# County Title
+title = c_rirasus
+
+# Settlements
+max_settlements = 2
+b_rirasus = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

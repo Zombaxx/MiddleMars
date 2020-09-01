@@ -1,0 +1,16 @@
+# 35 - Kya
+
+# County Title
+title = c_kya
+
+# Settlements
+max_settlements = 4
+b_kya = castle
+b_loluin = temple
+b_nifa = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

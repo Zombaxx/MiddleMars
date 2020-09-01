@@ -1,0 +1,14 @@
+# 1479 - Ricins
+
+# County Title
+title = c_ricins
+
+# Settlements
+max_settlements = 3
+b_ricins = tribal
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 157 - Kasonda
+
+# County Title
+title = c_kasonda
+
+# Settlements
+max_settlements = 3
+b_kasonda = castle
+b_kasilay = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

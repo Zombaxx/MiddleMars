@@ -1,0 +1,17 @@
+# 78 - Tojasia
+
+# County Title
+title = c_tojasia
+
+# Settlements
+max_settlements = 5
+b_tojasia = castle
+b_neetdat = temple
+b_larohn = city
+b_bamimhi = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

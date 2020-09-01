@@ -1,0 +1,14 @@
+# 1215 - Baliya
+
+# County Title
+title = c_baliya
+
+# Settlements
+max_settlements = 3
+b_baliya = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

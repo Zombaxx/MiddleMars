@@ -1,0 +1,14 @@
+# 802 - Rohali
+
+# County Title
+title = c_rohali
+
+# Settlements
+max_settlements = 2
+b_rohali = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

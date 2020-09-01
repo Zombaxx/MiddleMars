@@ -1,0 +1,17 @@
+# 672 - Telafu
+
+# County Title
+title = c_telafu
+
+# Settlements
+max_settlements = 6
+b_telafu = castle
+b_nodaka = temple
+b_saceva = city
+b_quneva = castle
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

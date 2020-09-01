@@ -1,0 +1,15 @@
+# 1481 - Saaz
+
+# County Title
+title = c_saaz
+
+# Settlements
+max_settlements = 5
+b_saaz = tribal
+b_nalan = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

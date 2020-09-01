@@ -1,0 +1,17 @@
+# 32 - Tadinat
+
+# County Title
+title = c_tadinat
+
+# Settlements
+max_settlements = 5
+b_tadinat = city
+b_kojinat = temple
+b_qosita = castle
+b_edieltun = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

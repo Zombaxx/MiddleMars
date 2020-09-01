@@ -1,0 +1,14 @@
+# 918 - Tadou
+
+# County Title
+title = c_tadou
+
+# Settlements
+max_settlements = 3
+b_tadou = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

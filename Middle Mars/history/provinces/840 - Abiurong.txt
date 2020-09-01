@@ -1,0 +1,14 @@
+# 840 - Abiurong
+
+# County Title
+title = c_abiurong
+
+# Settlements
+max_settlements = 4
+b_abiurong = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

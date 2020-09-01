@@ -1,0 +1,16 @@
+# 505 - Qumeya
+
+# County Title
+title = c_qumeya
+
+# Settlements
+max_settlements = 4
+b_qumeya = castle
+b_kyaviya = temple
+b_teloch = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

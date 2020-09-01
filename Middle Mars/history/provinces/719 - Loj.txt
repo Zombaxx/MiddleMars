@@ -1,0 +1,15 @@
+# 719 - Loj
+
+# County Title
+title = c_loj
+
+# Settlements
+max_settlements = 3
+b_loj = castle
+b_livia = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

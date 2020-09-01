@@ -1,0 +1,17 @@
+# 1137 - Senya
+
+# County Title
+title = c_senya
+
+# Settlements
+max_settlements = 5
+b_senya = castle
+b_qiuniruz = temple
+b_tawyal = city
+b_qemenxiu = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,16 @@
+# 232 - Keneba
+
+# County Title
+title = c_keneba
+
+# Settlements
+max_settlements = 4
+b_keneba = castle
+b_ekajan = temple
+b_wuneas = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

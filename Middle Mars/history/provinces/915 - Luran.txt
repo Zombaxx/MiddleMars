@@ -1,0 +1,15 @@
+# 915 - Luran
+
+# County Title
+title = c_luran
+
+# Settlements
+max_settlements = 3
+b_luran = castle
+b_narerge = temple
+
+# Misc
+culture = alan
+religion = finnish_pagan
+
+# History

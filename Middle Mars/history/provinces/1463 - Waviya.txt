@@ -1,0 +1,17 @@
+# 1463 - Waviya
+
+# County Title
+title = c_waviya
+
+# Settlements
+max_settlements = 5
+b_waviya = castle
+b_wageva = temple
+b_nashla = city
+b_rodijah = castle
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

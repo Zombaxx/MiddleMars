@@ -1,0 +1,15 @@
+# 889 - Ehawemir
+
+# County Title
+title = c_ehawemir
+
+# Settlements
+max_settlements = 5
+b_ehawemir = tribal
+b_tarepes = temple
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

@@ -1,0 +1,16 @@
+# 1543 - Rolabur
+
+# County Title
+title = c_rolabur
+
+# Settlements
+max_settlements = 4
+b_rolabur = castle
+b_tavid = temple
+b_tyalew = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

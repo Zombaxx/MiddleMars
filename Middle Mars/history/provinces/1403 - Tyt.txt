@@ -1,0 +1,17 @@
+# 1403 - Tyt
+
+# County Title
+title = c_tyt
+
+# Settlements
+max_settlements = 5
+b_tyt = castle
+b_lechun = temple
+b_bilatis = city
+b_kawtus = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

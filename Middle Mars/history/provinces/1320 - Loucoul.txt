@@ -1,0 +1,14 @@
+# 1320 - Loucoul
+
+# County Title
+title = c_loucoul
+
+# Settlements
+max_settlements = 4
+b_loucoul = tribal
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

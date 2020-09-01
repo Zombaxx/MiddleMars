@@ -1,0 +1,14 @@
+# 1378 - Ranatan
+
+# County Title
+title = c_ranatan
+
+# Settlements
+max_settlements = 3
+b_ranatan = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

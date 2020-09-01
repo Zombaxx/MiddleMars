@@ -1,0 +1,15 @@
+# 806 - Ehyhan
+
+# County Title
+title = c_ehyhan
+
+# Settlements
+max_settlements = 5
+b_ehyhan = tribal
+b_wodarma = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

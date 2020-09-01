@@ -1,0 +1,15 @@
+# 789 - Averim
+
+# County Title
+title = c_averim
+
+# Settlements
+max_settlements = 3
+b_averim = castle
+b_niatakk = temple
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

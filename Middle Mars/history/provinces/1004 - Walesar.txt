@@ -1,0 +1,14 @@
+# 1004 - Walesar
+
+# County Title
+title = c_walesar
+
+# Settlements
+max_settlements = 2
+b_walesar = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

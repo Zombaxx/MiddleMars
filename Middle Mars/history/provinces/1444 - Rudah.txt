@@ -1,0 +1,15 @@
+# 1444 - Rudah
+
+# County Title
+title = c_rudah
+
+# Settlements
+max_settlements = 5
+b_rudah = tribal
+b_nobapur = temple
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 775 - Riatava
+
+# County Title
+title = c_riatava
+
+# Settlements
+max_settlements = 4
+b_riatava = castle
+b_rooroka = temple
+b_waahurd = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

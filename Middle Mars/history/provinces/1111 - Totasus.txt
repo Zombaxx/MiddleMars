@@ -1,0 +1,15 @@
+# 1111 - Totasus
+
+# County Title
+title = c_totasus
+
+# Settlements
+max_settlements = 3
+b_totasus = castle
+b_lenailo = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

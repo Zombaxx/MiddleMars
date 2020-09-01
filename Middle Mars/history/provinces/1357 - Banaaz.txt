@@ -1,0 +1,16 @@
+# 1357 - Banaaz
+
+# County Title
+title = c_banaaz
+
+# Settlements
+max_settlements = 4
+b_banaaz = castle
+b_edilateh = temple
+b_beleyn = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 408 - Sutaster
+
+# County Title
+title = c_sutaster
+
+# Settlements
+max_settlements = 4
+b_sutaster = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 241 - Talan
+
+# County Title
+title = c_talan
+
+# Settlements
+max_settlements = 3
+b_talan = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

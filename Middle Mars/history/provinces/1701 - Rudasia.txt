@@ -1,0 +1,15 @@
+# 1701 - Rudasia
+
+# County Title
+title = c_rudasia
+
+# Settlements
+max_settlements = 3
+b_rudasia = castle
+b_loelia = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

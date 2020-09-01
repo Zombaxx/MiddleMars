@@ -1,0 +1,15 @@
+# 1614 - Qiruzma
+
+# County Title
+title = c_qiruzma
+
+# Settlements
+max_settlements = 3
+b_qiruzma = castle
+b_lolitya = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

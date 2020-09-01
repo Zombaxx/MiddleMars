@@ -1,0 +1,14 @@
+# 1140 - Taliur
+
+# County Title
+title = c_taliur
+
+# Settlements
+max_settlements = 3
+b_taliur = tribal
+
+# Misc
+culture = visigothic
+religion = zoroastrian
+
+# History

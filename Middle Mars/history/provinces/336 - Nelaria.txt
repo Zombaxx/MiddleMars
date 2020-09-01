@@ -1,0 +1,14 @@
+# 336 - Nelaria
+
+# County Title
+title = c_nelaria
+
+# Settlements
+max_settlements = 1
+b_nelaria = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1105 - Ekamacob
+
+# County Title
+title = c_ekamacob
+
+# Settlements
+max_settlements = 3
+b_ekamacob = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

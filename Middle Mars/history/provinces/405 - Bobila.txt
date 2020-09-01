@@ -1,0 +1,14 @@
+# 405 - Bobila
+
+# County Title
+title = c_bobila
+
+# Settlements
+max_settlements = 3
+b_bobila = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

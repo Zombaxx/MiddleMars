@@ -1,0 +1,15 @@
+# 793 - Kulisce
+
+# County Title
+title = c_kulisce
+
+# Settlements
+max_settlements = 3
+b_kulisce = castle
+b_aralura = temple
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

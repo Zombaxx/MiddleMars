@@ -1,0 +1,14 @@
+# 1014 - Natd
+
+# County Title
+title = c_natd
+
+# Settlements
+max_settlements = 3
+b_natd = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

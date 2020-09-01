@@ -1,0 +1,15 @@
+# 447 - Emufilu
+
+# County Title
+title = c_emufilu
+
+# Settlements
+max_settlements = 3
+b_emufilu = castle
+b_ahjine = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

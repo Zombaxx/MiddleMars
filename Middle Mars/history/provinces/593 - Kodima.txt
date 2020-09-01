@@ -1,0 +1,16 @@
+# 593 - Kodima
+
+# County Title
+title = c_kodima
+
+# Settlements
+max_settlements = 4
+b_kodima = castle
+b_nyokima = temple
+b_qelalc = city
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,5 @@
+1058.1.1 = {
+	holding_dynasty = 100172 # de Kamudan - makes this a FAMILY_PALACE type Holding
+	liege="d_kyayuo"
+	holder = 200345
+}

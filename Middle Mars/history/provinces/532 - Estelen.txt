@@ -1,0 +1,14 @@
+# 532 - Estelen
+
+# County Title
+title = c_estelen
+
+# Settlements
+max_settlements = 2
+b_estelen = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

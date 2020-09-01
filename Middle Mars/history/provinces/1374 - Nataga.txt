@@ -1,0 +1,17 @@
+# 1374 - Nataga
+
+# County Title
+title = c_nataga
+
+# Settlements
+max_settlements = 6
+b_nataga = castle
+b_sudathi = temple
+b_esaaz = city
+b_rashir = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 1297 - Tusihui
+
+# County Title
+title = c_tusihui
+
+# Settlements
+max_settlements = 4
+b_tusihui = castle
+b_talagos = temple
+b_qenailo = city
+
+# Misc
+culture = bolghar
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 506 - Sisahim
+
+# County Title
+title = c_sisahim
+
+# Settlements
+max_settlements = 3
+b_sisahim = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

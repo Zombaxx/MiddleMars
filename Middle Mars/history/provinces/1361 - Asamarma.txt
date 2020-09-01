@@ -1,0 +1,16 @@
+# 1361 - Asamarma
+
+# County Title
+title = c_asamarma
+
+# Settlements
+max_settlements = 4
+b_asamarma = castle
+b_eguil = temple
+b_amacili = city
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

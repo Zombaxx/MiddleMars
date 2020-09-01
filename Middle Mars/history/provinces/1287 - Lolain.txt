@@ -1,0 +1,17 @@
+# 1287 - Lolain
+
+# County Title
+title = c_lolain
+
+# Settlements
+max_settlements = 5
+b_lolain = castle
+b_tujalis = temple
+b_tujie = city
+b_qoriwal = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

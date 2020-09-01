@@ -1,0 +1,14 @@
+# 1528 - Lerann
+
+# County Title
+title = c_lerann
+
+# Settlements
+max_settlements = 3
+b_lerann = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

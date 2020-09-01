@@ -1,0 +1,15 @@
+# 790 - Kanemir
+
+# County Title
+title = c_kanemir
+
+# Settlements
+max_settlements = 3
+b_kanemir = castle
+b_dyadika = temple
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

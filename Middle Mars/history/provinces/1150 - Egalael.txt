@@ -1,0 +1,17 @@
+# 1150 - Egalael
+
+# County Title
+title = c_egalael
+
+# Settlements
+max_settlements = 5
+b_egalael = castle
+b_delozar = temple
+b_taureya = city
+b_kisin = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

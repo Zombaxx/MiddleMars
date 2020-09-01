@@ -1,0 +1,15 @@
+# 1634 - Econne
+
+# County Title
+title = c_econne
+
+# Settlements
+max_settlements = 3
+b_econne = castle
+b_quloul = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

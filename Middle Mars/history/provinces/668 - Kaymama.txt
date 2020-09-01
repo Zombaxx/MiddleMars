@@ -1,0 +1,15 @@
+# 668 - Kaymama
+
+# County Title
+title = c_kaymama
+
+# Settlements
+max_settlements = 3
+b_kaymama = castle
+b_bajila = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,14 @@
+# 582 - Nodiyah
+
+# County Title
+title = c_nodiyah
+
+# Settlements
+max_settlements = 3
+b_nodiyah = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

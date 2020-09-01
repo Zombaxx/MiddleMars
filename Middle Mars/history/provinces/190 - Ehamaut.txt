@@ -1,0 +1,14 @@
+# 190 - Ehamaut
+
+# County Title
+title = c_ehamaut
+
+# Settlements
+max_settlements = 4
+b_ehamaut = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

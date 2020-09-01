@@ -1,0 +1,14 @@
+# 1523 - Safega
+
+# County Title
+title = c_safega
+
+# Settlements
+max_settlements = 4
+b_safega = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

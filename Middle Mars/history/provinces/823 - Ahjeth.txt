@@ -1,0 +1,14 @@
+# 823 - Ahjeth
+
+# County Title
+title = c_ahjeth
+
+# Settlements
+max_settlements = 2
+b_ahjeth = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1012 - Renusa
+
+# County Title
+title = c_renusa
+
+# Settlements
+max_settlements = 3
+b_renusa = castle
+b_agibunya = temple
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

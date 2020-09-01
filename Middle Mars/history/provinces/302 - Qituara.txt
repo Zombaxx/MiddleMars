@@ -1,0 +1,14 @@
+# 302 - Qituara
+
+# County Title
+title = c_qituara
+
+# Settlements
+max_settlements = 2
+b_qituara = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 252 - Nuxisam
+
+# County Title
+title = c_nuxisam
+
+# Settlements
+max_settlements = 1
+b_nuxisam = tribal
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

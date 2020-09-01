@@ -1,0 +1,14 @@
+# 243 - Taterna
+
+# County Title
+title = c_taterna
+
+# Settlements
+max_settlements = 2
+b_taterna = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 519 - Etarin
+
+# County Title
+title = c_etarin
+
+# Settlements
+max_settlements = 4
+b_etarin = castle
+b_qisyka = temple
+b_rinyze = city
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

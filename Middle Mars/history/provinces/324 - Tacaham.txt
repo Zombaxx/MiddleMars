@@ -1,0 +1,14 @@
+# 324 - Tacaham
+
+# County Title
+title = c_tacaham
+
+# Settlements
+max_settlements = 1
+b_tacaham = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 173 - Lakawuj
+
+# County Title
+title = c_lakawuj
+
+# Settlements
+max_settlements = 3
+b_lakawuj = castle
+b_kutonse = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

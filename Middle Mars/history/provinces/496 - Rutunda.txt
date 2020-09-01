@@ -1,0 +1,14 @@
+# 496 - Rutunda
+
+# County Title
+title = c_rutunda
+
+# Settlements
+max_settlements = 4
+b_rutunda = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

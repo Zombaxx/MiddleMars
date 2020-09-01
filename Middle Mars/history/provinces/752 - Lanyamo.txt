@@ -1,0 +1,16 @@
+# 752 - Lanyamo
+
+# County Title
+title = c_lanyamo
+
+# Settlements
+max_settlements = 4
+b_lanyamo = castle
+b_lelalda = temple
+b_nakasus = city
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

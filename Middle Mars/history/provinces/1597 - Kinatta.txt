@@ -1,0 +1,15 @@
+# 1597 - Kinatta
+
+# County Title
+title = c_kinatta
+
+# Settlements
+max_settlements = 3
+b_kinatta = castle
+b_basitya = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

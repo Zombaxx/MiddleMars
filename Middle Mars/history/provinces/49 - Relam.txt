@@ -1,0 +1,16 @@
+# 49 - Relam
+
+# County Title
+title = c_relam
+
+# Settlements
+max_settlements = 4
+b_relam = castle
+b_kentiy = temple
+b_suke = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 418 - Abhaseya
+
+# County Title
+title = c_abhaseya
+
+# Settlements
+max_settlements = 2
+b_abhaseya = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

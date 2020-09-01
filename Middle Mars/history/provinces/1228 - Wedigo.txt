@@ -1,0 +1,14 @@
+# 1228 - Wedigo
+
+# County Title
+title = c_wedigo
+
+# Settlements
+max_settlements = 3
+b_wedigo = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

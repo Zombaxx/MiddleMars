@@ -1,0 +1,14 @@
+# 393 - Noruin
+
+# County Title
+title = c_noruin
+
+# Settlements
+max_settlements = 4
+b_noruin = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

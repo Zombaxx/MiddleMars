@@ -1,0 +1,16 @@
+# 1347 - Tyanall
+
+# County Title
+title = c_tyanall
+
+# Settlements
+max_settlements = 4
+b_tyanall = castle
+b_besuk = temple
+b_agalka = city
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

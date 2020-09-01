@@ -1,0 +1,15 @@
+# 177 - Aglril
+
+# County Title
+title = c_aglril
+
+# Settlements
+max_settlements = 3
+b_aglril = castle
+b_taguslo = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

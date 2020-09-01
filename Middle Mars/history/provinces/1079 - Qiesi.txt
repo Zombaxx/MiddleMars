@@ -1,0 +1,16 @@
+# 1079 - Qiesi
+
+# County Title
+title = c_qiesi
+
+# Settlements
+max_settlements = 4
+b_qiesi = castle
+b_naodl = temple
+b_tavani = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 1264 - Tigira
+
+# County Title
+title = c_tigira
+
+# Settlements
+max_settlements = 4
+b_tigira = tribal
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

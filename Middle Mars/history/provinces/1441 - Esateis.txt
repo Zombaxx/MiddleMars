@@ -1,0 +1,17 @@
+# 1441 - Esateis
+
+# County Title
+title = c_esateis
+
+# Settlements
+max_settlements = 5
+b_esateis = castle
+b_qahebia = temple
+b_nadashi = city
+b_emutic = castle
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

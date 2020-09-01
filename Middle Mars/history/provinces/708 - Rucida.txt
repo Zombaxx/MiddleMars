@@ -1,0 +1,15 @@
+# 708 - Rucida
+
+# County Title
+title = c_rucida
+
+# Settlements
+max_settlements = 5
+b_rucida = tribal
+b_disili = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

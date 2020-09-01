@@ -1,0 +1,14 @@
+# 720 - Lerolas
+
+# County Title
+title = c_lerolas
+
+# Settlements
+max_settlements = 4
+b_lerolas = tribal
+
+# Misc
+culture = hausa
+religion = orthodox
+
+# History

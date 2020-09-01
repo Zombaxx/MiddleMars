@@ -1,0 +1,14 @@
+# 1372 - Ronotia
+
+# County Title
+title = c_ronotia
+
+# Settlements
+max_settlements = 3
+b_ronotia = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

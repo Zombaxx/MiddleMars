@@ -1,0 +1,17 @@
+# 407 - Demd
+
+# County Title
+title = c_demd
+
+# Settlements
+max_settlements = 5
+b_demd = castle
+b_neloa = temple
+b_saleka = city
+b_wenann = castle
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 425 - Teas
+
+# County Title
+title = c_teas
+
+# Settlements
+max_settlements = 4
+b_teas = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

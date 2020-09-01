@@ -1,0 +1,16 @@
+# 1354 - Rangar
+
+# County Title
+title = c_rangar
+
+# Settlements
+max_settlements = 4
+b_rangar = castle
+b_nagunki = temple
+b_telm = city
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 318 - Avimena
+
+# County Title
+title = c_avimena
+
+# Settlements
+max_settlements = 1
+b_avimena = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

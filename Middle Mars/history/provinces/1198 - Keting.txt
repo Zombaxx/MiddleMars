@@ -1,0 +1,15 @@
+# 1198 - Keting
+
+# County Title
+title = c_keting
+
+# Settlements
+max_settlements = 5
+b_keting = tribal
+b_wasoila = temple
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

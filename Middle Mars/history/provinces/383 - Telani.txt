@@ -1,0 +1,14 @@
+# 383 - Telani
+
+# County Title
+title = c_telani
+
+# Settlements
+max_settlements = 3
+b_telani = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

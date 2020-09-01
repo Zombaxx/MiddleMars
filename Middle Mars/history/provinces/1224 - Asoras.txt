@@ -1,0 +1,15 @@
+# 1224 - Asoras
+
+# County Title
+title = c_asoras
+
+# Settlements
+max_settlements = 6
+b_asoras = tribal
+b_nanoshi = temple
+
+# Misc
+culture = visigothic
+religion = bon
+
+# History

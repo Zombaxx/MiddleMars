@@ -1,0 +1,16 @@
+# 200 - Tobina
+
+# County Title
+title = c_tobina
+
+# Settlements
+max_settlements = 4
+b_tobina = castle
+b_noraria = temple
+b_kared = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

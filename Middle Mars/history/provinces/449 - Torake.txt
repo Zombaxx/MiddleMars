@@ -1,0 +1,14 @@
+# 449 - Torake
+
+# County Title
+title = c_torake
+
+# Settlements
+max_settlements = 3
+b_torake = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

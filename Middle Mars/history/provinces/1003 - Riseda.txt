@@ -1,0 +1,15 @@
+# 1003 - Riseda
+
+# County Title
+title = c_riseda
+
+# Settlements
+max_settlements = 3
+b_riseda = castle
+b_dosanie = temple
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

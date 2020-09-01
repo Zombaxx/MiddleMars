@@ -1,0 +1,14 @@
+# 474 - Loma
+
+# County Title
+title = c_loma
+
+# Settlements
+max_settlements = 1
+b_loma = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

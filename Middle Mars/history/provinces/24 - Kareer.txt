@@ -1,0 +1,16 @@
+# 24 - Kareer
+
+# County Title
+title = c_kareer
+
+# Settlements
+max_settlements = 4
+b_kareer = castle
+b_telapo = temple
+b_taleis = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 781 - Kayafu
+
+# County Title
+title = c_kayafu
+
+# Settlements
+max_settlements = 3
+b_kayafu = castle
+b_ranatha = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

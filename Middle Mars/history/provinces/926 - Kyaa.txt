@@ -1,0 +1,16 @@
+# 926 - Kyaa
+
+# County Title
+title = c_kyaa
+
+# Settlements
+max_settlements = 4
+b_kyaa = castle
+b_ropeida = temple
+b_qonaraz = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

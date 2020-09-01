@@ -1,0 +1,14 @@
+# 1653 - Tuoul
+
+# County Title
+title = c_tuoul
+
+# Settlements
+max_settlements = 2
+b_tuoul = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 895 - Taromas
+
+# County Title
+title = c_taromas
+
+# Settlements
+max_settlements = 4
+b_taromas = castle
+b_lelavar = temple
+b_tagavar = city
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

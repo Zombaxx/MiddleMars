@@ -1,0 +1,14 @@
+# 1726 - Durast
+
+# County Title
+title = c_durast
+
+# Settlements
+max_settlements = 2
+b_durast = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

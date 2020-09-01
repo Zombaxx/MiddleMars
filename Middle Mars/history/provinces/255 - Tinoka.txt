@@ -1,0 +1,14 @@
+# 255 - Tinoka
+
+# County Title
+title = c_tinoka
+
+# Settlements
+max_settlements = 2
+b_tinoka = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

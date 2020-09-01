@@ -1,0 +1,15 @@
+# 705 - Ethotte
+
+# County Title
+title = c_ethotte
+
+# Settlements
+max_settlements = 3
+b_ethotte = castle
+b_kalan = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

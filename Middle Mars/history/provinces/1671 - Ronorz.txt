@@ -1,0 +1,14 @@
+# 1671 - Ronorz
+
+# County Title
+title = c_ronorz
+
+# Settlements
+max_settlements = 1
+b_ronorz = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

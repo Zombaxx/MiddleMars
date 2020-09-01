@@ -1,0 +1,17 @@
+# 544 - Solenzu
+
+# County Title
+title = c_solenzu
+
+# Settlements
+max_settlements = 5
+b_solenzu = castle
+b_toryhan = temple
+b_qabeer = city
+b_soramy = castle
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

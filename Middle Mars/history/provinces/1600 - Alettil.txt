@@ -1,0 +1,14 @@
+# 1600 - Alettil
+
+# County Title
+title = c_alettil
+
+# Settlements
+max_settlements = 2
+b_alettil = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

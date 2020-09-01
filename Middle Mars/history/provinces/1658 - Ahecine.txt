@@ -1,0 +1,16 @@
+# 1658 - Ahecine
+
+# County Title
+title = c_ahecine
+
+# Settlements
+max_settlements = 4
+b_ahecine = castle
+b_nakali = temple
+b_edrideva = city
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

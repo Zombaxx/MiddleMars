@@ -1,0 +1,14 @@
+# 1284 - Wimude
+
+# County Title
+title = c_wimude
+
+# Settlements
+max_settlements = 4
+b_wimude = tribal
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

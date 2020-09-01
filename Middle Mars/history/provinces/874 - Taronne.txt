@@ -1,0 +1,15 @@
+# 874 - Taronne
+
+# County Title
+title = c_taronne
+
+# Settlements
+max_settlements = 6
+b_taronne = tribal
+b_sahonia = temple
+
+# Misc
+culture = bodpa
+religion = zoroastrian
+
+# History

@@ -1,0 +1,17 @@
+# 1440 - Saratis
+
+# County Title
+title = c_saratis
+
+# Settlements
+max_settlements = 5
+b_saratis = castle
+b_worobos = temple
+b_deylard = city
+b_tudasia = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

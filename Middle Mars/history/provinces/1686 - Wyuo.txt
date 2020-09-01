@@ -1,0 +1,14 @@
+# 1686 - Wyuo
+
+# County Title
+title = c_wyuo
+
+# Settlements
+max_settlements = 1
+b_wyuo = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 680 - Wenory
+
+# County Title
+title = c_wenory
+
+# Settlements
+max_settlements = 5
+b_wenory = tribal
+b_kaimita = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

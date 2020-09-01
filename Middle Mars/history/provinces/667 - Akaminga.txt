@@ -1,0 +1,15 @@
+# 667 - Akaminga
+
+# County Title
+title = c_akaminga
+
+# Settlements
+max_settlements = 5
+b_akaminga = tribal
+b_lotata = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

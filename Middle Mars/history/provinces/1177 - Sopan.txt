@@ -1,0 +1,15 @@
+# 1177 - Sopan
+
+# County Title
+title = c_sopan
+
+# Settlements
+max_settlements = 4
+b_sopan = tribal
+b_raoja = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

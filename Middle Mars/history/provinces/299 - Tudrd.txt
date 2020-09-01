@@ -1,0 +1,15 @@
+# 299 - Tudrd
+
+# County Title
+title = c_tudrd
+
+# Settlements
+max_settlements = 2
+b_tudrd = tribal
+b_kacukar = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

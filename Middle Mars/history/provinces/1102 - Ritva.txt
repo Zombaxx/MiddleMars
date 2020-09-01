@@ -1,0 +1,14 @@
+# 1102 - Ritva
+
+# County Title
+title = c_ritva
+
+# Settlements
+max_settlements = 3
+b_ritva = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

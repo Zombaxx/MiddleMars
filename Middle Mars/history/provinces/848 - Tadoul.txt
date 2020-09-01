@@ -1,0 +1,15 @@
+# 848 - Tadoul
+
+# County Title
+title = c_tadoul
+
+# Settlements
+max_settlements = 3
+b_tadoul = castle
+b_bapella = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1143 - Lalabha
+
+# County Title
+title = c_lalabha
+
+# Settlements
+max_settlements = 4
+b_lalabha = castle
+b_seziwen = temple
+b_remail = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

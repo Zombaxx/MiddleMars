@@ -1,0 +1,14 @@
+# 1217 - Wubate
+
+# County Title
+title = c_wubate
+
+# Settlements
+max_settlements = 2
+b_wubate = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

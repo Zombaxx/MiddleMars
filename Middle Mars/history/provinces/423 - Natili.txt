@@ -1,0 +1,15 @@
+# 423 - Natili
+
+# County Title
+title = c_natili
+
+# Settlements
+max_settlements = 3
+b_natili = castle
+b_qelaria = temple
+
+# Misc
+culture = catalan
+religion = west_african_pagan
+
+# History

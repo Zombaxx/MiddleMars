@@ -1,0 +1,16 @@
+# 39 - Tegoger
+
+# County Title
+title = c_tegoger
+
+# Settlements
+max_settlements = 4
+b_tegoger = castle
+b_tadoger = temple
+b_kamernat = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

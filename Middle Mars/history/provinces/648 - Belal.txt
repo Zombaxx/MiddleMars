@@ -1,0 +1,15 @@
+# 648 - Belal
+
+# County Title
+title = c_belal
+
+# Settlements
+max_settlements = 5
+b_belal = tribal
+b_ehecyuk = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

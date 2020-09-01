@@ -1,0 +1,17 @@
+# 53 - Agevaani
+
+# County Title
+title = c_agevaani
+
+# Settlements
+max_settlements = 6
+b_agevaani = castle
+b_numathi = temple
+b_neatda = city
+b_lineas = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

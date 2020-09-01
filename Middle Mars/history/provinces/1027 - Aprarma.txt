@@ -1,0 +1,15 @@
+# 1027 - Aprarma
+
+# County Title
+title = c_aprarma
+
+# Settlements
+max_settlements = 4
+b_aprarma = tribal
+b_dadunga = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

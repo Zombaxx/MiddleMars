@@ -1,0 +1,14 @@
+# 164 - Esaloriy
+
+# County Title
+title = c_esaloriy
+
+# Settlements
+max_settlements = 4
+b_esaloriy = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

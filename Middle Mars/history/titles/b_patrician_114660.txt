@@ -1,0 +1,14 @@
+937.1.1 = {
+	holding_dynasty = 114660 # Ajdirid - makes this a FAMILY_PALACE type Holding
+	liege="d_eneetana"
+	holder = 114660
+}
+1001.1.1 = {
+	holder = 114661
+}
+1037.1.1 = {
+	holder = 114662
+}
+1054.1.1 = {
+	holder = 114665
+}

@@ -1,0 +1,6 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+chinese_cybernetic;Request Cybernetics;;;;;;;;;;;;;x
+chinese_cybernetic_desc;Request the permanent installation of Cybernetics from the Celestial Empire.;;;;;;;;;;;;;x
+EVTOPTA_MC_9001;;;;;;;;;;;;;;x
+EVTDESC_MC_9001;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe celestial [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A wondrous cybernetic has been installed in you by a [From.Offmap.Ruler.Culture.GetName] wizard.;;;;;;;;;;;;;x
+EVTOPTA_MC_9001;This magnificant cybernetic will bring you superhuman abilities!;;;;;;;;;;;;;x

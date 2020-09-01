@@ -1,0 +1,17 @@
+# 1000 - Kanari
+
+# County Title
+title = c_kanari
+
+# Settlements
+max_settlements = 5
+b_kanari = castle
+b_rorueri = temple
+b_kosika = city
+b_dareda = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

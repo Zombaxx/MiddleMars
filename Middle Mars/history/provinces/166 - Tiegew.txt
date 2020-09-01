@@ -1,0 +1,16 @@
+# 166 - Tiegew
+
+# County Title
+title = c_tiegew
+
+# Settlements
+max_settlements = 4
+b_tiegew = castle
+b_suzniq = temple
+b_tifaqar = city
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

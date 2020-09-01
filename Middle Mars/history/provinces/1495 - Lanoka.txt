@@ -1,0 +1,16 @@
+# 1495 - Lanoka
+
+# County Title
+title = c_lanoka
+
+# Settlements
+max_settlements = 4
+b_lanoka = castle
+b_qelilge = temple
+b_qehemir = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,16 @@
+# 1500 - Tohaka
+
+# County Title
+title = c_tohaka
+
+# Settlements
+max_settlements = 4
+b_tohaka = castle
+b_navalka = temple
+b_diubash = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

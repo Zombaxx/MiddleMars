@@ -1,0 +1,16 @@
+# 9 - Wanila
+
+# County Title
+title = c_wanila
+
+# Settlements
+max_settlements = 4
+b_wanila = castle
+b_subying = temple
+b_kimala = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1659 - Keireer
+
+# County Title
+title = c_keireer
+
+# Settlements
+max_settlements = 2
+b_keireer = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

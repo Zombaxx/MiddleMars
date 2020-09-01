@@ -1,0 +1,14 @@
+# 1082 - Sapavid
+
+# County Title
+title = c_sapavid
+
+# Settlements
+max_settlements = 3
+b_sapavid = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

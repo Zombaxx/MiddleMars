@@ -1,0 +1,16 @@
+# 231 - Atheoran
+
+# County Title
+title = c_atheoran
+
+# Settlements
+max_settlements = 4
+b_atheoran = castle
+b_nyatayla = temple
+b_etselo = city
+
+# Misc
+culture = ethiopian
+religion = norse_pagan
+
+# History

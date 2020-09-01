@@ -1,0 +1,16 @@
+# 1212 - Tari
+
+# County Title
+title = c_tari
+
+# Settlements
+max_settlements = 4
+b_tari = castle
+b_wadolke = temple
+b_bouoan = city
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

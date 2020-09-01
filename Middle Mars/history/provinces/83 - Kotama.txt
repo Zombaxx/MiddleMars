@@ -1,0 +1,16 @@
+# 83 - Kotama
+
+# County Title
+title = c_kotama
+
+# Settlements
+max_settlements = 4
+b_kotama = castle
+b_tabdirai = temple
+b_rosirai = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

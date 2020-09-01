@@ -1,0 +1,15 @@
+# 1307 - Tasar
+
+# County Title
+title = c_tasar
+
+# Settlements
+max_settlements = 5
+b_tasar = tribal
+b_balomo = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

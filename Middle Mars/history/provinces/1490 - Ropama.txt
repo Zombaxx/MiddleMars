@@ -1,0 +1,16 @@
+# 1490 - Ropama
+
+# County Title
+title = c_ropama
+
+# Settlements
+max_settlements = 4
+b_ropama = castle
+b_aragidis = temple
+b_tunidis = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

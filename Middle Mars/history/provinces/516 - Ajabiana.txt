@@ -1,0 +1,15 @@
+# 516 - Ajabiana
+
+# County Title
+title = c_ajabiana
+
+# Settlements
+max_settlements = 3
+b_ajabiana = tribal
+b_kyavanca = temple
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

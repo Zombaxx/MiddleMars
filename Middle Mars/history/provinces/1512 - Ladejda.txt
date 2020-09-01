@@ -1,0 +1,17 @@
+# 1512 - Ladejda
+
+# County Title
+title = c_ladejda
+
+# Settlements
+max_settlements = 5
+b_ladejda = castle
+b_adisii = temple
+b_dasine = city
+b_ribisii = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

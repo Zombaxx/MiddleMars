@@ -1,0 +1,14 @@
+# 1192 - Qusith
+
+# County Title
+title = c_qusith
+
+# Settlements
+max_settlements = 3
+b_qusith = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1022 - Rabozar
+
+# County Title
+title = c_rabozar
+
+# Settlements
+max_settlements = 2
+b_rabozar = tribal
+
+# Misc
+culture = pecheneg
+religion = taoist
+
+# History

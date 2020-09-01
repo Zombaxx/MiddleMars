@@ -1,0 +1,15 @@
+# 531 - Adomihal
+
+# County Title
+title = c_adomihal
+
+# Settlements
+max_settlements = 2
+b_adomihal = castle
+b_sedakk = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

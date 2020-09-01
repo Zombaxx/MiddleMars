@@ -1,0 +1,14 @@
+# 457 - Tyuneila
+
+# County Title
+title = c_tyuneila
+
+# Settlements
+max_settlements = 4
+b_tyuneila = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 426 - Tonnu
+
+# County Title
+title = c_tonnu
+
+# Settlements
+max_settlements = 2
+b_tonnu = castle
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

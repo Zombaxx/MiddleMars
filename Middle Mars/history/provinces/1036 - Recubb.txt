@@ -1,0 +1,17 @@
+# 1036 - Recubb
+
+# County Title
+title = c_recubb
+
+# Settlements
+max_settlements = 5
+b_recubb = castle
+b_afilahat = temple
+b_araveth = city
+b_tebozar = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

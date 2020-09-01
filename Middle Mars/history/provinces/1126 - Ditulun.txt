@@ -1,0 +1,17 @@
+# 1126 - Ditulun
+
+# County Title
+title = c_ditulun
+
+# Settlements
+max_settlements = 5
+b_ditulun = castle
+b_qemara = temple
+b_weinuwe = city
+b_deralih = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

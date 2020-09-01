@@ -1,0 +1,16 @@
+# 681 - Egabaghu
+
+# County Title
+title = c_egabaghu
+
+# Settlements
+max_settlements = 4
+b_egabaghu = castle
+b_nilava = temple
+b_enara = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

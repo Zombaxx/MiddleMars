@@ -1,0 +1,14 @@
+# 624 - Teran
+
+# County Title
+title = c_teran
+
+# Settlements
+max_settlements = 2
+b_teran = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

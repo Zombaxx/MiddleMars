@@ -1,0 +1,15 @@
+# 1227 - Qagoshi
+
+# County Title
+title = c_qagoshi
+
+# Settlements
+max_settlements = 3
+b_qagoshi = castle
+b_tabude = temple
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 673 - Rurong
+
+# County Title
+title = c_rurong
+
+# Settlements
+max_settlements = 5
+b_rurong = tribal
+b_ryasuo = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

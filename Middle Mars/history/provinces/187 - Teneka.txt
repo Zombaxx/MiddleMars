@@ -1,0 +1,14 @@
+# 187 - Teneka
+
+# County Title
+title = c_teneka
+
+# Settlements
+max_settlements = 4
+b_teneka = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

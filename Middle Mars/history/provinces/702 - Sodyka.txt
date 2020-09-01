@@ -1,0 +1,16 @@
+# 702 - Sodyka
+
+# County Title
+title = c_sodyka
+
+# Settlements
+max_settlements = 4
+b_sodyka = castle
+b_adoman = temple
+b_kodeyao = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

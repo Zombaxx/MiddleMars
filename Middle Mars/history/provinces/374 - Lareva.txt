@@ -1,0 +1,14 @@
+# 374 - Lareva
+
+# County Title
+title = c_lareva
+
+# Settlements
+max_settlements = 3
+b_lareva = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

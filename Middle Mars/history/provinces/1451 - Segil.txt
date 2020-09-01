@@ -1,0 +1,17 @@
+# 1451 - Segil
+
+# County Title
+title = c_segil
+
+# Settlements
+max_settlements = 6
+b_segil = castle
+b_efarude = temple
+b_naseth = city
+b_basulk = castle
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 60 - Nukipac
+
+# County Title
+title = c_nukipac
+
+# Settlements
+max_settlements = 4
+b_nukipac = castle
+b_baath = temple
+b_emahork = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

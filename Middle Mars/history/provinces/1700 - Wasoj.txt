@@ -1,0 +1,14 @@
+# 1700 - Wasoj
+
+# County Title
+title = c_wasoj
+
+# Settlements
+max_settlements = 1
+b_wasoj = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

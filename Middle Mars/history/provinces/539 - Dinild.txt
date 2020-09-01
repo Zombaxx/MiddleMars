@@ -1,0 +1,14 @@
+# 539 - Dinild
+
+# County Title
+title = c_dinild
+
+# Settlements
+max_settlements = 3
+b_dinild = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

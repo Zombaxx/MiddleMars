@@ -1,0 +1,14 @@
+# 801 - Adaguti
+
+# County Title
+title = c_adaguti
+
+# Settlements
+max_settlements = 4
+b_adaguti = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

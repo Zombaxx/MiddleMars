@@ -1,0 +1,14 @@
+# 782 - Wodamd
+
+# County Title
+title = c_wodamd
+
+# Settlements
+max_settlements = 2
+b_wodamd = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

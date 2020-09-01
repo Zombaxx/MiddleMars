@@ -1,0 +1,15 @@
+# 1622 - Eledrig
+
+# County Title
+title = c_eledrig
+
+# Settlements
+max_settlements = 3
+b_eledrig = castle
+b_kozalih = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

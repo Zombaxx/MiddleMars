@@ -1,0 +1,16 @@
+# 676 - Taverro
+
+# County Title
+title = c_taverro
+
+# Settlements
+max_settlements = 4
+b_taverro = castle
+b_reonutlu = temple
+b_rali = city
+
+# Misc
+culture = khitan
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 635 - Rotyamo
+
+# County Title
+title = c_rotyamo
+
+# Settlements
+max_settlements = 4
+b_rotyamo = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

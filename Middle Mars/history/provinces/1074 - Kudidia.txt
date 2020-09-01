@@ -1,0 +1,17 @@
+# 1074 - Kudidia
+
+# County Title
+title = c_kudidia
+
+# Settlements
+max_settlements = 6
+b_kudidia = castle
+b_rilonnu = temple
+b_eponaham = city
+b_kyaqacon = castle
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

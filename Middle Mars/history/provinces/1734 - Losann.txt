@@ -1,0 +1,14 @@
+# 1734 - Losann
+
+# County Title
+title = c_losann
+
+# Settlements
+max_settlements = 3
+b_losann = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

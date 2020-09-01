@@ -1,0 +1,14 @@
+# 455 - Relas
+
+# County Title
+title = c_relas
+
+# Settlements
+max_settlements = 3
+b_relas = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

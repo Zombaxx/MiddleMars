@@ -1,0 +1,14 @@
+# 387 - Niya
+
+# County Title
+title = c_niya
+
+# Settlements
+max_settlements = 3
+b_niya = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

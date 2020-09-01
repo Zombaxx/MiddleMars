@@ -1,0 +1,15 @@
+# 391 - Talapur
+
+# County Title
+title = c_talapur
+
+# Settlements
+max_settlements = 3
+b_talapur = castle
+b_seocokol = temple
+
+# Misc
+culture = ethiopian
+religion = pagan
+
+# History

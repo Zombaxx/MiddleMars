@@ -1,0 +1,15 @@
+# 298 - Kuwarde
+
+# County Title
+title = c_kuwarde
+
+# Settlements
+max_settlements = 3
+b_kuwarde = tribal
+b_amarinik = temple
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

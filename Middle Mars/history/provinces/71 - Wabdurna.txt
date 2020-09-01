@@ -1,0 +1,16 @@
+# 71 - Wabdurna
+
+# County Title
+title = c_wabdurna
+
+# Settlements
+max_settlements = 4
+b_wabdurna = castle
+b_qantala = temple
+b_tahala = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

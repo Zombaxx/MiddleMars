@@ -1,0 +1,15 @@
+# 1416 - Davaly
+
+# County Title
+title = c_davaly
+
+# Settlements
+max_settlements = 3
+b_davaly = castle
+b_dozidia = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

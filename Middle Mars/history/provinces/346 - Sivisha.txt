@@ -1,0 +1,14 @@
+# 346 - Sivisha
+
+# County Title
+title = c_sivisha
+
+# Settlements
+max_settlements = 2
+b_sivisha = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

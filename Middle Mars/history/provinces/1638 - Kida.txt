@@ -1,0 +1,14 @@
+# 1638 - Kida
+
+# County Title
+title = c_kida
+
+# Settlements
+max_settlements = 2
+b_kida = tribal
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

@@ -1,0 +1,17 @@
+# 1458 - Qula
+
+# County Title
+title = c_qula
+
+# Settlements
+max_settlements = 5
+b_qula = city
+b_qawali = temple
+b_wangar = castle
+b_kukali = city
+
+# Misc
+culture = maghreb_arabic
+religion = shiite
+
+# History

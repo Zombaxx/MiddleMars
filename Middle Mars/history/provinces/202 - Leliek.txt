@@ -1,0 +1,16 @@
+# 202 - Leliek
+
+# County Title
+title = c_leliek
+
+# Settlements
+max_settlements = 4
+b_leliek = castle
+b_risna = temple
+b_naneba = city
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

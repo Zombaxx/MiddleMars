@@ -1,0 +1,16 @@
+# 514 - Quanakk
+
+# County Title
+title = c_quanakk
+
+# Settlements
+max_settlements = 4
+b_quanakk = castle
+b_kenakk = temple
+b_talda = city
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

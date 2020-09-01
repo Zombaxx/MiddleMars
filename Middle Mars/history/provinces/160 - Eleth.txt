@@ -1,0 +1,14 @@
+# 160 - Eleth
+
+# County Title
+title = c_eleth
+
+# Settlements
+max_settlements = 4
+b_eleth = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

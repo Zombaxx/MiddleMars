@@ -1,0 +1,15 @@
+# 835 - Keupawud
+
+# County Title
+title = c_keupawud
+
+# Settlements
+max_settlements = 5
+b_keupawud = tribal
+b_racarus = temple
+
+# Misc
+culture = bodpa
+religion = zoroastrian
+
+# History

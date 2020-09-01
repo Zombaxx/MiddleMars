@@ -1,0 +1,15 @@
+# 1520 - Dyousse
+
+# County Title
+title = c_dyousse
+
+# Settlements
+max_settlements = 3
+b_dyousse = castle
+b_kulane = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

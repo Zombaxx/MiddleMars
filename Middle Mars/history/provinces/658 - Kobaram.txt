@@ -1,0 +1,15 @@
+# 658 - Kobaram
+
+# County Title
+title = c_kobaram
+
+# Settlements
+max_settlements = 3
+b_kobaram = castle
+b_topodu = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

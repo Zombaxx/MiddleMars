@@ -1,0 +1,15 @@
+# 176 - Saruvje
+
+# County Title
+title = c_saruvje
+
+# Settlements
+max_settlements = 5
+b_saruvje = tribal
+b_sinuin = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1524 - Lumeuta
+
+# County Title
+title = c_lumeuta
+
+# Settlements
+max_settlements = 5
+b_lumeuta = castle
+b_bifa = temple
+b_laura = city
+b_kibila = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 1334 - Nohas
+
+# County Title
+title = c_nohas
+
+# Settlements
+max_settlements = 4
+b_nohas = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

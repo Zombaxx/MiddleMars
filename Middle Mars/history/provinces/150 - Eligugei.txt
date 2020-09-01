@@ -1,0 +1,16 @@
+# 150 - Eligugei
+
+# County Title
+title = c_eligugei
+
+# Settlements
+max_settlements = 4
+b_eligugei = castle
+b_ejagate = temple
+b_ludeis = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1358 - Delemba
+
+# County Title
+title = c_delemba
+
+# Settlements
+max_settlements = 3
+b_delemba = castle
+b_kelim = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 891 - Kogiam
+
+# County Title
+title = c_kogiam
+
+# Settlements
+max_settlements = 3
+b_kogiam = castle
+b_tireyao = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,15 @@
+# 1521 - Tilielo
+
+# County Title
+title = c_tilielo
+
+# Settlements
+max_settlements = 3
+b_tilielo = castle
+b_ronita = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

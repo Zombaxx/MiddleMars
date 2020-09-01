@@ -1,0 +1,16 @@
+# 1120 - Raop
+
+# County Title
+title = c_raop
+
+# Settlements
+max_settlements = 4
+b_raop = castle
+b_kocullah = temple
+b_koumani = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

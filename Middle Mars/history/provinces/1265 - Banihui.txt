@@ -1,0 +1,17 @@
+# 1265 - Banihui
+
+# County Title
+title = c_banihui
+
+# Settlements
+max_settlements = 6
+b_banihui = castle
+b_bimimir = temple
+b_kanork = city
+b_nerajan = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

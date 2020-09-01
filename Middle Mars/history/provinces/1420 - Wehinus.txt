@@ -1,0 +1,15 @@
+# 1420 - Wehinus
+
+# County Title
+title = c_wehinus
+
+# Settlements
+max_settlements = 3
+b_wehinus = castle
+b_receek = temple
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

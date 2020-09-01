@@ -1,0 +1,14 @@
+# 1230 - Binyay
+
+# County Title
+title = c_binyay
+
+# Settlements
+max_settlements = 3
+b_binyay = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

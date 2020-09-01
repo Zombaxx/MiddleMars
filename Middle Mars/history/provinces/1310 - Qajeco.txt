@@ -1,0 +1,17 @@
+# 1310 - Qajeco
+
+# County Title
+title = c_qajeco
+
+# Settlements
+max_settlements = 5
+b_qajeco = castle
+b_salos = temple
+b_qohua = city
+b_rerezhav = castle
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 849 - Asopyka
+
+# County Title
+title = c_asopyka
+
+# Settlements
+max_settlements = 5
+b_asopyka = tribal
+b_dalaghu = temple
+
+# Misc
+culture = bodpa
+religion = zoroastrian
+
+# History

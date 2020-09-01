@@ -1,0 +1,17 @@
+# 131 - Raxirai
+
+# County Title
+title = c_raxirai
+
+# Settlements
+max_settlements = 5
+b_raxirai = castle
+b_eforipa = temple
+b_kahadro = city
+b_becolad = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

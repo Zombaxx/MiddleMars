@@ -1,0 +1,14 @@
+# 237 - Erajahar
+
+# County Title
+title = c_erajahar
+
+# Settlements
+max_settlements = 2
+b_erajahar = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

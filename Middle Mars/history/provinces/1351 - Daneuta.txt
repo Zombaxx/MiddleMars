@@ -1,0 +1,15 @@
+# 1351 - Daneuta
+
+# County Title
+title = c_daneuta
+
+# Settlements
+max_settlements = 4
+b_daneuta = tribal
+b_remeph = temple
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

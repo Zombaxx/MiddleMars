@@ -1,0 +1,14 @@
+# 884 - Tolaac
+
+# County Title
+title = c_tolaac
+
+# Settlements
+max_settlements = 3
+b_tolaac = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

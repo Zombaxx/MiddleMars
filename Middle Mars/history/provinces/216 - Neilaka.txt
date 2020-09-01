@@ -1,0 +1,14 @@
+# 216 - Neilaka
+
+# County Title
+title = c_neilaka
+
+# Settlements
+max_settlements = 3
+b_neilaka = tribal
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

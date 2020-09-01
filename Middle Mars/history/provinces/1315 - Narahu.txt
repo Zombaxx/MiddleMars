@@ -1,0 +1,17 @@
+# 1315 - Narahu
+
+# County Title
+title = c_narahu
+
+# Settlements
+max_settlements = 5
+b_narahu = castle
+b_qolatan = temple
+b_qagelric = city
+b_qalapur = castle
+
+# Misc
+culture = lettigallish
+religion = finnish_pagan
+
+# History

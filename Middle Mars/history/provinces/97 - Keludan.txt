@@ -1,0 +1,16 @@
+# 97 - Keludan
+
+# County Title
+title = c_keludan
+
+# Settlements
+max_settlements = 4
+b_keludan = castle
+b_karassa = temple
+b_korajid = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

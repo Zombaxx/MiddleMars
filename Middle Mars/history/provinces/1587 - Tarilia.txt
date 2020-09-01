@@ -1,0 +1,17 @@
+# 1587 - Tarilia
+
+# County Title
+title = c_tarilia
+
+# Settlements
+max_settlements = 5
+b_tarilia = castle
+b_wayah = temple
+b_saomxi = city
+b_evyla = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

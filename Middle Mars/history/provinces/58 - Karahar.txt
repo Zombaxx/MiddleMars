@@ -1,0 +1,16 @@
+# 58 - Karahar
+
+# County Title
+title = c_karahar
+
+# Settlements
+max_settlements = 4
+b_karahar = castle
+b_kizida = temple
+b_loruigi = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1248 - Boghan
+
+# County Title
+title = c_boghan
+
+# Settlements
+max_settlements = 2
+b_boghan = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

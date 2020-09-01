@@ -1,0 +1,14 @@
+# 459 - Rukanka
+
+# County Title
+title = c_rukanka
+
+# Settlements
+max_settlements = 2
+b_rukanka = tribal
+
+# Misc
+culture = russian
+religion = shiite
+
+# History

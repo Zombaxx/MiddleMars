@@ -1,0 +1,14 @@
+# 224 - Abeneer
+
+# County Title
+title = c_abeneer
+
+# Settlements
+max_settlements = 2
+b_abeneer = castle
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

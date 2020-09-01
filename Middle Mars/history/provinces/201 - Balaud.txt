@@ -1,0 +1,16 @@
+# 201 - Balaud
+
+# County Title
+title = c_balaud
+
+# Settlements
+max_settlements = 4
+b_balaud = castle
+b_kaheran = temple
+b_wisa = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

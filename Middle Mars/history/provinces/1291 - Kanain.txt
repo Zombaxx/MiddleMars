@@ -1,0 +1,14 @@
+# 1291 - Kanain
+
+# County Title
+title = c_kanain
+
+# Settlements
+max_settlements = 4
+b_kanain = tribal
+
+# Misc
+culture = bolghar
+religion = sunni
+
+# History

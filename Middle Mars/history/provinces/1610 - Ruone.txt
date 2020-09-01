@@ -1,0 +1,14 @@
+# 1610 - Ruone
+
+# County Title
+title = c_ruone
+
+# Settlements
+max_settlements = 2
+b_ruone = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

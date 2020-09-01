@@ -1,0 +1,16 @@
+# 139 - Ecotijah
+
+# County Title
+title = c_ecotijah
+
+# Settlements
+max_settlements = 4
+b_ecotijah = castle
+b_roste = temple
+b_rurard = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

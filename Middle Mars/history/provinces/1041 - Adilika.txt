@@ -1,0 +1,14 @@
+# 1041 - Adilika
+
+# County Title
+title = c_adilika
+
+# Settlements
+max_settlements = 4
+b_adilika = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

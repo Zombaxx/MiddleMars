@@ -1,0 +1,14 @@
+# 403 - Dayohn
+
+# County Title
+title = c_dayohn
+
+# Settlements
+max_settlements = 3
+b_dayohn = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,15 @@
+# 1011 - Tuoxun
+
+# County Title
+title = c_tuoxun
+
+# Settlements
+max_settlements = 3
+b_tuoxun = castle
+b_epagawa = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

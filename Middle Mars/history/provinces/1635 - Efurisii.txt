@@ -1,0 +1,16 @@
+# 1635 - Efurisii
+
+# County Title
+title = c_efurisii
+
+# Settlements
+max_settlements = 4
+b_efurisii = castle
+b_kelegus = temple
+b_toeliya = city
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 787 - Eburita
+
+# County Title
+title = c_eburita
+
+# Settlements
+max_settlements = 5
+b_eburita = castle
+b_rahesha = temple
+b_apaozar = city
+b_rahely = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

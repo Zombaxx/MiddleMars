@@ -1,0 +1,14 @@
+# 871 - Rumashi
+
+# County Title
+title = c_rumashi
+
+# Settlements
+max_settlements = 3
+b_rumashi = tribal
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

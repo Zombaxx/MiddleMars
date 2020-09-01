@@ -1,0 +1,15 @@
+# 5 - Tibokal
+
+# County Title
+title = c_tibokal
+
+# Settlements
+max_settlements = 3
+b_tibokal = castle
+b_qaroto = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

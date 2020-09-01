@@ -1,0 +1,15 @@
+# 729 - Emawud
+
+# County Title
+title = c_emawud
+
+# Settlements
+max_settlements = 3
+b_emawud = castle
+b_nehad = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

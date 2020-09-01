@@ -1,0 +1,15 @@
+# 1204 - Sinella
+
+# County Title
+title = c_sinella
+
+# Settlements
+max_settlements = 5
+b_sinella = tribal
+b_syarosa = temple
+
+# Misc
+culture = karluk
+religion = finnish_pagan
+
+# History

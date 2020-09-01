@@ -1,0 +1,14 @@
+# 337 - Bojucia
+
+# County Title
+title = c_bojucia
+
+# Settlements
+max_settlements = 2
+b_bojucia = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

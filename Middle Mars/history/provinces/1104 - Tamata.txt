@@ -1,0 +1,17 @@
+# 1104 - Tamata
+
+# County Title
+title = c_tamata
+
+# Settlements
+max_settlements = 6
+b_tamata = castle
+b_roise = temple
+b_torohn = city
+b_balekald = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

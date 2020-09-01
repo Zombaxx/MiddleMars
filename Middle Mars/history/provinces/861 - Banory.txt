@@ -1,0 +1,17 @@
+# 861 - Banory
+
+# County Title
+title = c_banory
+
+# Settlements
+max_settlements = 6
+b_banory = castle
+b_rilory = temple
+b_wududak = city
+b_nudalka = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

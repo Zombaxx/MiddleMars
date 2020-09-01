@@ -1,0 +1,14 @@
+# 1219 - Etibegin
+
+# County Title
+title = c_etibegin
+
+# Settlements
+max_settlements = 2
+b_etibegin = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

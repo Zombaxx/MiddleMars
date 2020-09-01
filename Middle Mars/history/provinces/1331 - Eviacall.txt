@@ -1,0 +1,14 @@
+# 1331 - Eviacall
+
+# County Title
+title = c_eviacall
+
+# Settlements
+max_settlements = 3
+b_eviacall = tribal
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

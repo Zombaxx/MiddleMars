@@ -1,0 +1,15 @@
+# 572 - Lecyka
+
+# County Title
+title = c_lecyka
+
+# Settlements
+max_settlements = 5
+b_lecyka = tribal
+b_reupyuns = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

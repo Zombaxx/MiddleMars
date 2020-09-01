@@ -1,0 +1,16 @@
+# 709 - Tarakk
+
+# County Title
+title = c_tarakk
+
+# Settlements
+max_settlements = 4
+b_tarakk = castle
+b_dodoos = temple
+b_wenomoc = city
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

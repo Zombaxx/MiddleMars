@@ -1,0 +1,15 @@
+# 260 - Nyatine
+
+# County Title
+title = c_nyatine
+
+# Settlements
+max_settlements = 3
+b_nyatine = castle
+b_tekine = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

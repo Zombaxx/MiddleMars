@@ -1,0 +1,15 @@
+# 1682 - Kogenna
+
+# County Title
+title = c_kogenna
+
+# Settlements
+max_settlements = 3
+b_kogenna = castle
+b_ramilai = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 1221 - Kohas
+
+# County Title
+title = c_kohas
+
+# Settlements
+max_settlements = 4
+b_kohas = castle
+b_rolopolk = temple
+b_ketamis = city
+
+# Misc
+culture = levantine_arabic
+religion = shiite
+
+# History

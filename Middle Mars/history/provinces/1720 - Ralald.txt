@@ -1,0 +1,14 @@
+# 1720 - Ralald
+
+# County Title
+title = c_ralald
+
+# Settlements
+max_settlements = 4
+b_ralald = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

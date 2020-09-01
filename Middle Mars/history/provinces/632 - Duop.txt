@@ -1,0 +1,14 @@
+# 632 - Duop
+
+# County Title
+title = c_duop
+
+# Settlements
+max_settlements = 2
+b_duop = castle
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

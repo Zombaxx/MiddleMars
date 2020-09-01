@@ -1,0 +1,14 @@
+# 371 - Ebozaba
+
+# County Title
+title = c_ebozaba
+
+# Settlements
+max_settlements = 2
+b_ebozaba = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 815 - Denain
+
+# County Title
+title = c_denain
+
+# Settlements
+max_settlements = 3
+b_denain = castle
+b_qeland = temple
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

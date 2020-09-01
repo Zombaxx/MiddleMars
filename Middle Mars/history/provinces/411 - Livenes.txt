@@ -1,0 +1,14 @@
+# 411 - Livenes
+
+# County Title
+title = c_livenes
+
+# Settlements
+max_settlements = 2
+b_livenes = castle
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

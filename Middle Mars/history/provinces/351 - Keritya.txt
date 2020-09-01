@@ -1,0 +1,14 @@
+# 351 - Keritya
+
+# County Title
+title = c_keritya
+
+# Settlements
+max_settlements = 2
+b_keritya = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

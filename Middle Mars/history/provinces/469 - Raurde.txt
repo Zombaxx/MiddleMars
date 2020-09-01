@@ -1,0 +1,14 @@
+# 469 - Raurde
+
+# County Title
+title = c_raurde
+
+# Settlements
+max_settlements = 2
+b_raurde = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

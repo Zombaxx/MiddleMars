@@ -1,0 +1,15 @@
+# 979 - Tefisa
+
+# County Title
+title = c_tefisa
+
+# Settlements
+max_settlements = 3
+b_tefisa = castle
+b_esnab = temple
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

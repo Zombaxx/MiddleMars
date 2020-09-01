@@ -1,0 +1,17 @@
+# 1550 - Ruinomo
+
+# County Title
+title = c_ruinomo
+
+# Settlements
+max_settlements = 6
+b_ruinomo = castle
+b_esofie = temple
+b_emikach = city
+b_soj = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 155 - Talapo
+
+# County Title
+title = c_talapo
+
+# Settlements
+max_settlements = 4
+b_talapo = castle
+b_bokund = temple
+b_qurille = city
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History

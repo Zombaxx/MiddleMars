@@ -1,0 +1,15 @@
+# 460 - Kohassi
+
+# County Title
+title = c_kohassi
+
+# Settlements
+max_settlements = 5
+b_kohassi = tribal
+b_radomo = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

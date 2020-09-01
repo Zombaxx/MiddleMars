@@ -1,0 +1,14 @@
+# 1710 - Kanuna
+
+# County Title
+title = c_kanuna
+
+# Settlements
+max_settlements = 4
+b_kanuna = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

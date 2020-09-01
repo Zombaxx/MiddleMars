@@ -1,0 +1,17 @@
+# 1189 - Anarita
+
+# County Title
+title = c_anarita
+
+# Settlements
+max_settlements = 6
+b_anarita = castle
+b_taroa = temple
+b_adika = city
+b_tyaserd = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

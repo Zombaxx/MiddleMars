@@ -1,0 +1,14 @@
+# 1722 - Soheytn
+
+# County Title
+title = c_soheytn
+
+# Settlements
+max_settlements = 2
+b_soheytn = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

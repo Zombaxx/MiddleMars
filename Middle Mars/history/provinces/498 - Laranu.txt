@@ -1,0 +1,14 @@
+# 498 - Laranu
+
+# County Title
+title = c_laranu
+
+# Settlements
+max_settlements = 3
+b_laranu = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

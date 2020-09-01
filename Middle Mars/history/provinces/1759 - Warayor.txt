@@ -1,0 +1,19 @@
+# 1759 - Warayor
+
+# County Title
+title = c_warayor
+
+# Settlements
+max_settlements = 4
+b_warayor = city
+b_rilania = temple
+b_avilavy = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_117590
+}

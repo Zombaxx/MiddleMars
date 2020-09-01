@@ -1,0 +1,14 @@
+# 184 - Nerar
+
+# County Title
+title = c_nerar
+
+# Settlements
+max_settlements = 4
+b_nerar = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

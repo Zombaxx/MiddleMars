@@ -1,0 +1,16 @@
+# 64 - Lajory
+
+# County Title
+title = c_lajory
+
+# Settlements
+max_settlements = 4
+b_lajory = castle
+b_bumiuva = temple
+b_aviuva = city
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

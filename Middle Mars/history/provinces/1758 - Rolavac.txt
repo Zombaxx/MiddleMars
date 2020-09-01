@@ -1,0 +1,14 @@
+# 1758 - Rolavac
+
+# County Title
+title = c_rolavac
+
+# Settlements
+max_settlements = 4
+b_rolavac = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

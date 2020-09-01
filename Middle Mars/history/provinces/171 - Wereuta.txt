@@ -1,0 +1,14 @@
+# 171 - Wereuta
+
+# County Title
+title = c_wereuta
+
+# Settlements
+max_settlements = 4
+b_wereuta = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

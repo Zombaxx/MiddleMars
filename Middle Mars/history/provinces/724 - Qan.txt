@@ -1,0 +1,16 @@
+# 724 - Qan
+
+# County Title
+title = c_qan
+
+# Settlements
+max_settlements = 4
+b_qan = castle
+b_kolaud = temple
+b_kalinie = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

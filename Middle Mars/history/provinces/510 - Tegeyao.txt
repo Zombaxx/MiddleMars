@@ -1,0 +1,15 @@
+# 510 - Tegeyao
+
+# County Title
+title = c_tegeyao
+
+# Settlements
+max_settlements = 5
+b_tegeyao = tribal
+b_nawassa = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

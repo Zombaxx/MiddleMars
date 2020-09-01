@@ -1,0 +1,15 @@
+# 1628 - Ribejda
+
+# County Title
+title = c_ribejda
+
+# Settlements
+max_settlements = 3
+b_ribejda = castle
+b_wibivka = temple
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

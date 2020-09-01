@@ -1,0 +1,14 @@
+# 1618 - Tyatahtu
+
+# County Title
+title = c_tyatahtu
+
+# Settlements
+max_settlements = 2
+b_tyatahtu = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 963 - Koraud
+
+# County Title
+title = c_koraud
+
+# Settlements
+max_settlements = 2
+b_koraud = castle
+
+# Misc
+culture = cuman
+religion = taoist
+
+# History

@@ -1,0 +1,17 @@
+# 1534 - Sarvin
+
+# County Title
+title = c_sarvin
+
+# Settlements
+max_settlements = 5
+b_sarvin = castle
+b_kacissa = temple
+b_arecilda = city
+b_kaicoun = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,16 @@
+# 992 - Budelen
+
+# County Title
+title = c_budelen
+
+# Settlements
+max_settlements = 4
+b_budelen = castle
+b_qudeen = temple
+b_wageen = city
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

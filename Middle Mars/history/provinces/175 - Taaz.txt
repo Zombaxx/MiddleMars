@@ -1,0 +1,15 @@
+# 175 - Taaz
+
+# County Title
+title = c_taaz
+
+# Settlements
+max_settlements = 3
+b_taaz = castle
+b_wanude = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

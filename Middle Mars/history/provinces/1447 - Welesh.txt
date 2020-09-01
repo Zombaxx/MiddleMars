@@ -1,0 +1,14 @@
+# 1447 - Welesh
+
+# County Title
+title = c_welesh
+
+# Settlements
+max_settlements = 3
+b_welesh = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

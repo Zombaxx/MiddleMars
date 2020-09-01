@@ -1,0 +1,16 @@
+# 128 - Nekegin
+
+# County Title
+title = c_nekegin
+
+# Settlements
+max_settlements = 4
+b_nekegin = castle
+b_qonain = temple
+b_kinapal = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

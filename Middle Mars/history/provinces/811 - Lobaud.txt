@@ -1,0 +1,16 @@
+# 811 - Lobaud
+
+# County Title
+title = c_lobaud
+
+# Settlements
+max_settlements = 4
+b_lobaud = castle
+b_arotte = temple
+b_qusaba = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

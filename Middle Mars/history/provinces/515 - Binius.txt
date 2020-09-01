@@ -1,0 +1,14 @@
+# 515 - Binius
+
+# County Title
+title = c_binius
+
+# Settlements
+max_settlements = 4
+b_binius = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 327 - Nisom
+
+# County Title
+title = c_nisom
+
+# Settlements
+max_settlements = 1
+b_nisom = tribal
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

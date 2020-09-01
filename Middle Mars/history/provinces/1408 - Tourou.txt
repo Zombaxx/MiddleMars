@@ -1,0 +1,15 @@
+# 1408 - Tourou
+
+# County Title
+title = c_tourou
+
+# Settlements
+max_settlements = 3
+b_tourou = castle
+b_lyokyuns = temple
+
+# Misc
+culture = panjabi
+religion = jain
+
+# History

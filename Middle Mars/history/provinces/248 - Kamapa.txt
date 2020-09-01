@@ -1,0 +1,14 @@
+# 248 - Kamapa
+
+# County Title
+title = c_kamapa
+
+# Settlements
+max_settlements = 4
+b_kamapa = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

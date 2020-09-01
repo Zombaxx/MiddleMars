@@ -1,0 +1,14 @@
+# 1157 - Ahederd
+
+# County Title
+title = c_ahederd
+
+# Settlements
+max_settlements = 3
+b_ahederd = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

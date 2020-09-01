@@ -1,0 +1,16 @@
+# 1008 - Ezantay
+
+# County Title
+title = c_ezantay
+
+# Settlements
+max_settlements = 4
+b_ezantay = castle
+b_atheozer = temple
+b_saudika = city
+
+# Misc
+culture = bodpa
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 270 - Elikusa
+
+# County Title
+title = c_elikusa
+
+# Settlements
+max_settlements = 2
+b_elikusa = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

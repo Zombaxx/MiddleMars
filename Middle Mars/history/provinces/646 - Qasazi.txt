@@ -1,0 +1,15 @@
+# 646 - Qasazi
+
+# County Title
+title = c_qasazi
+
+# Settlements
+max_settlements = 3
+b_qasazi = castle
+b_becara = temple
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

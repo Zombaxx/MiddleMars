@@ -1,0 +1,17 @@
+# 853 - Wirit
+
+# County Title
+title = c_wirit
+
+# Settlements
+max_settlements = 5
+b_wirit = castle
+b_qeruin = temple
+b_arau = city
+b_kurold = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

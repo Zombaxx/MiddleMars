@@ -1,0 +1,15 @@
+# 1208 - Rashi
+
+# County Title
+title = c_rashi
+
+# Settlements
+max_settlements = 3
+b_rashi = castle
+b_dodonne = temple
+
+# Misc
+culture = rajput
+religion = jain
+
+# History

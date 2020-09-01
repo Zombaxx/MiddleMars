@@ -1,0 +1,16 @@
+# 29 - Wanuko
+
+# County Title
+title = c_wanuko
+
+# Settlements
+max_settlements = 4
+b_wanuko = castle
+b_rogijah = temple
+b_lyuviuva = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

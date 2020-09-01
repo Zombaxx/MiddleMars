@@ -1,0 +1,14 @@
+# 1674 - Kibatta
+
+# County Title
+title = c_kibatta
+
+# Settlements
+max_settlements = 2
+b_kibatta = castle
+
+# Misc
+culture = bengali
+religion = jain
+
+# History

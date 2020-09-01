@@ -1,0 +1,16 @@
+# 31 - Qenaran
+
+# County Title
+title = c_qenaran
+
+# Settlements
+max_settlements = 4
+b_qenaran = castle
+b_kieloa = temple
+b_loranka = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

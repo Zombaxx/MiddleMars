@@ -1,0 +1,14 @@
+# 886 - Elordan
+
+# County Title
+title = c_elordan
+
+# Settlements
+max_settlements = 2
+b_elordan = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

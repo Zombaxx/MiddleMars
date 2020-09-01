@@ -1,0 +1,14 @@
+# 1220 - Walema
+
+# County Title
+title = c_walema
+
+# Settlements
+max_settlements = 3
+b_walema = tribal
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

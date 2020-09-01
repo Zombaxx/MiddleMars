@@ -1,0 +1,14 @@
+# 1043 - Egasin
+
+# County Title
+title = c_egasin
+
+# Settlements
+max_settlements = 3
+b_egasin = tribal
+
+# Misc
+culture = pecheneg
+religion = taoist
+
+# History

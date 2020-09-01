@@ -1,0 +1,15 @@
+# 758 - Dathedey
+
+# County Title
+title = c_dathedey
+
+# Settlements
+max_settlements = 3
+b_dathedey = castle
+b_luge = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

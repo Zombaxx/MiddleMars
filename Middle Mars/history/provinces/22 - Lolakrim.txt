@@ -1,0 +1,14 @@
+# 22 - Lolakrim
+
+# County Title
+title = c_lolakrim
+
+# Settlements
+max_settlements = 2
+b_lolakrim = castle
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 869 - Qalunda
+
+# County Title
+title = c_qalunda
+
+# Settlements
+max_settlements = 4
+b_qalunda = castle
+b_bavarna = temple
+b_nugerin = city
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

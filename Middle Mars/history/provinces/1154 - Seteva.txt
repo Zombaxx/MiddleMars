@@ -1,0 +1,16 @@
+# 1154 - Seteva
+
+# County Title
+title = c_seteva
+
+# Settlements
+max_settlements = 4
+b_seteva = castle
+b_bathi = temple
+b_tokoran = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 771 - Wisaqar
+
+# County Title
+title = c_wisaqar
+
+# Settlements
+max_settlements = 3
+b_wisaqar = castle
+b_nanulnaz = temple
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

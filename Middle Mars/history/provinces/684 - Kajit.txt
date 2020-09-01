@@ -1,0 +1,16 @@
+# 684 - Kajit
+
+# County Title
+title = c_kajit
+
+# Settlements
+max_settlements = 4
+b_kajit = castle
+b_takelec = temple
+b_avagata = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

@@ -1,0 +1,17 @@
+# 1080 - Kameuba
+
+# County Title
+title = c_kameuba
+
+# Settlements
+max_settlements = 5
+b_kameuba = castle
+b_taruju = temple
+b_keilani = city
+b_qaludo = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

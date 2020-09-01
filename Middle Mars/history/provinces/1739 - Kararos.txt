@@ -1,0 +1,16 @@
+# 1739 - Kararos
+
+# County Title
+title = c_kararos
+
+# Settlements
+max_settlements = 4
+b_kararos = castle
+b_ebelandi = temple
+b_egrali = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 497 - Tuderas
+
+# County Title
+title = c_tuderas
+
+# Settlements
+max_settlements = 2
+b_tuderas = castle
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

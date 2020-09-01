@@ -1,0 +1,14 @@
+# 1728 - Tinluo
+
+# County Title
+title = c_tinluo
+
+# Settlements
+max_settlements = 2
+b_tinluo = tribal
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 660 - Soley
+
+# County Title
+title = c_soley
+
+# Settlements
+max_settlements = 5
+b_soley = tribal
+b_warodek = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

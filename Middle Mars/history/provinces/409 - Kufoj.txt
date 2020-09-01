@@ -1,0 +1,14 @@
+# 409 - Kufoj
+
+# County Title
+title = c_kufoj
+
+# Settlements
+max_settlements = 4
+b_kufoj = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

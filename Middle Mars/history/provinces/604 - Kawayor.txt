@@ -1,0 +1,16 @@
+# 604 - Kawayor
+
+# County Title
+title = c_kawayor
+
+# Settlements
+max_settlements = 4
+b_kawayor = castle
+b_sida = temple
+b_kacelle = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

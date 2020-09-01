@@ -1,0 +1,16 @@
+# 34 - Bevan
+
+# County Title
+title = c_bevan
+
+# Settlements
+max_settlements = 4
+b_bevan = castle
+b_laydas = temple
+b_rindila = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

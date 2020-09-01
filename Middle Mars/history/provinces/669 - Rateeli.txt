@@ -1,0 +1,15 @@
+# 669 - Rateeli
+
+# County Title
+title = c_rateeli
+
+# Settlements
+max_settlements = 3
+b_rateeli = castle
+b_kagirve = temple
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

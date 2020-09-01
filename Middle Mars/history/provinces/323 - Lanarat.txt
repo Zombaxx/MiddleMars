@@ -1,0 +1,14 @@
+# 323 - Lanarat
+
+# County Title
+title = c_lanarat
+
+# Settlements
+max_settlements = 2
+b_lanarat = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

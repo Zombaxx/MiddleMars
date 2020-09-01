@@ -1,0 +1,14 @@
+# 1715 - Radakh
+
+# County Title
+title = c_radakh
+
+# Settlements
+max_settlements = 2
+b_radakh = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

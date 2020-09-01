@@ -1,0 +1,14 @@
+# 1218 - Karutai
+
+# County Title
+title = c_karutai
+
+# Settlements
+max_settlements = 3
+b_karutai = tribal
+
+# Misc
+culture = levantine_arabic
+religion = tengri_pagan
+
+# History

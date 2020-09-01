@@ -1,0 +1,14 @@
+# 1621 - Wilalp
+
+# County Title
+title = c_wilalp
+
+# Settlements
+max_settlements = 2
+b_wilalp = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

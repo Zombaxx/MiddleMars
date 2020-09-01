@@ -1,0 +1,17 @@
+# 57 - Noanius
+
+# County Title
+title = c_noanius
+
+# Settlements
+max_settlements = 5
+b_noanius = castle
+b_qohewal = temple
+b_raxeda = city
+b_eposeru = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

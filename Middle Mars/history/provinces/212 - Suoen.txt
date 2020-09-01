@@ -1,0 +1,14 @@
+# 212 - Suoen
+
+# County Title
+title = c_suoen
+
+# Settlements
+max_settlements = 2
+b_suoen = castle
+
+# Misc
+culture = assyrian
+religion = hellenic_pagan
+
+# History

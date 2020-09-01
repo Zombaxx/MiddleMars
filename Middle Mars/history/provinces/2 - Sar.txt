@@ -1,0 +1,15 @@
+# 2 - Sar
+
+# County Title
+title = c_sar
+
+# Settlements
+max_settlements = 3
+b_sar = castle
+b_senaran = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

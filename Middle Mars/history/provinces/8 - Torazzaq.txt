@@ -1,0 +1,16 @@
+# 8 - Torazzaq
+
+# County Title
+title = c_torazzaq
+
+# Settlements
+max_settlements = 4
+b_torazzaq = castle
+b_qer-mur = temple
+b_nizahim = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

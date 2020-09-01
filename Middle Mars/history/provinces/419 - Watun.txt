@@ -1,0 +1,15 @@
+# 419 - Watun
+
+# County Title
+title = c_watun
+
+# Settlements
+max_settlements = 3
+b_watun = castle
+b_qukanya = temple
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

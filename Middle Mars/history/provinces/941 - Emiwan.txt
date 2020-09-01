@@ -1,0 +1,15 @@
+# 941 - Emiwan
+
+# County Title
+title = c_emiwan
+
+# Settlements
+max_settlements = 6
+b_emiwan = tribal
+b_sisaca = temple
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

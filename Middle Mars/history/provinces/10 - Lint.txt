@@ -1,0 +1,15 @@
+# 10 - Lint
+
+# County Title
+title = c_lint
+
+# Settlements
+max_settlements = 3
+b_lint = castle
+b_lauftun = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

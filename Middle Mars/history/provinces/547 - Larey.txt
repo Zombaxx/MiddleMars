@@ -1,0 +1,14 @@
+# 547 - Larey
+
+# County Title
+title = c_larey
+
+# Settlements
+max_settlements = 4
+b_larey = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

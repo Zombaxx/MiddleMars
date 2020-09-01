@@ -1,0 +1,14 @@
+# 1229 - Sermukmo
+
+# County Title
+title = c_sermukmo
+
+# Settlements
+max_settlements = 3
+b_sermukmo = tribal
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

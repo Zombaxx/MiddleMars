@@ -1,0 +1,14 @@
+# 1151 - Tagamr
+
+# County Title
+title = c_tagamr
+
+# Settlements
+max_settlements = 4
+b_tagamr = tribal
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History

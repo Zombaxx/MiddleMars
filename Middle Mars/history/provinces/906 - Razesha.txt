@@ -1,0 +1,15 @@
+# 906 - Razesha
+
+# County Title
+title = c_razesha
+
+# Settlements
+max_settlements = 6
+b_razesha = tribal
+b_rekila = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

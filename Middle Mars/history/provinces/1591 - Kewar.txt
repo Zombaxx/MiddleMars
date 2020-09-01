@@ -1,0 +1,14 @@
+# 1591 - Kewar
+
+# County Title
+title = c_kewar
+
+# Settlements
+max_settlements = 3
+b_kewar = tribal
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

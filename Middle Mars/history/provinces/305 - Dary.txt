@@ -1,0 +1,15 @@
+# 305 - Dary
+
+# County Title
+title = c_dary
+
+# Settlements
+max_settlements = 3
+b_dary = castle
+b_wucadan = temple
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

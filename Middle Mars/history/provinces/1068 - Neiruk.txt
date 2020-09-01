@@ -1,0 +1,14 @@
+# 1068 - Neiruk
+
+# County Title
+title = c_neiruk
+
+# Settlements
+max_settlements = 3
+b_neiruk = tribal
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

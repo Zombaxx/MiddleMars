@@ -1,0 +1,17 @@
+# 167 - Larunai
+
+# County Title
+title = c_larunai
+
+# Settlements
+max_settlements = 5
+b_larunai = castle
+b_evimadiq = temple
+b_kevire = city
+b_lagoriy = castle
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

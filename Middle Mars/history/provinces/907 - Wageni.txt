@@ -1,0 +1,15 @@
+# 907 - Wageni
+
+# County Title
+title = c_wageni
+
+# Settlements
+max_settlements = 5
+b_wageni = tribal
+b_kasedey = temple
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

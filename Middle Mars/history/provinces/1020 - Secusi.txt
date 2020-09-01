@@ -1,0 +1,16 @@
+# 1020 - Secusi
+
+# County Title
+title = c_secusi
+
+# Settlements
+max_settlements = 4
+b_secusi = castle
+b_dilinga = temple
+b_nocic = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

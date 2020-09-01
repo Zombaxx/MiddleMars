@@ -1,0 +1,14 @@
+# 194 - Nokalram
+
+# County Title
+title = c_nokalram
+
+# Settlements
+max_settlements = 3
+b_nokalram = tribal
+
+# Misc
+culture = german
+religion = catholic
+
+# History

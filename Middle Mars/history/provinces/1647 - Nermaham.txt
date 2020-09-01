@@ -1,0 +1,14 @@
+# 1647 - Nermaham
+
+# County Title
+title = c_nermaham
+
+# Settlements
+max_settlements = 2
+b_nermaham = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

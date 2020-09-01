@@ -1,0 +1,15 @@
+# 828 - Byusyt
+
+# County Title
+title = c_byusyt
+
+# Settlements
+max_settlements = 3
+b_byusyt = castle
+b_nohend = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

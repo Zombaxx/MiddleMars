@@ -1,0 +1,14 @@
+# 1389 - Dalusbu
+
+# County Title
+title = c_dalusbu
+
+# Settlements
+max_settlements = 4
+b_dalusbu = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1122 - Kisari
+
+# County Title
+title = c_kisari
+
+# Settlements
+max_settlements = 5
+b_kisari = castle
+b_alinanna = temple
+b_sabilof = city
+b_emais = castle
+
+# Misc
+culture = turkish
+religion = shiite
+
+# History

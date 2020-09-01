@@ -1,0 +1,16 @@
+# 1450 - Asahinus
+
+# County Title
+title = c_asahinus
+
+# Settlements
+max_settlements = 4
+b_asahinus = castle
+b_nanyo = temple
+b_tirozar = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

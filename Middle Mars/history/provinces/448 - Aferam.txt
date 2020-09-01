@@ -1,0 +1,14 @@
+# 448 - Aferam
+
+# County Title
+title = c_aferam
+
+# Settlements
+max_settlements = 1
+b_aferam = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

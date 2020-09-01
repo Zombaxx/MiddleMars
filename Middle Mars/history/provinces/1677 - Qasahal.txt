@@ -1,0 +1,14 @@
+# 1677 - Qasahal
+
+# County Title
+title = c_qasahal
+
+# Settlements
+max_settlements = 2
+b_qasahal = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

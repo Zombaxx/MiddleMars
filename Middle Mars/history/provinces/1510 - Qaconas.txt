@@ -1,0 +1,14 @@
+# 1510 - Qaconas
+
+# County Title
+title = c_qaconas
+
+# Settlements
+max_settlements = 3
+b_qaconas = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

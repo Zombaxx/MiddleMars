@@ -1,0 +1,16 @@
+# 123 - Begs
+
+# County Title
+title = c_begs
+
+# Settlements
+max_settlements = 4
+b_begs = castle
+b_lelegs = temple
+b_qatamas = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

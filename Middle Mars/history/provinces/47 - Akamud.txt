@@ -1,0 +1,16 @@
+# 47 - Akamud
+
+# County Title
+title = c_akamud
+
+# Settlements
+max_settlements = 4
+b_akamud = castle
+b_rijifa = temple
+b_kubaul = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

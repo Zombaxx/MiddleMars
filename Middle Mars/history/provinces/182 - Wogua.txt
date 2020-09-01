@@ -1,0 +1,16 @@
+# 182 - Wogua
+
+# County Title
+title = c_wogua
+
+# Settlements
+max_settlements = 4
+b_wogua = castle
+b_kisokol = temple
+b_relorake = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

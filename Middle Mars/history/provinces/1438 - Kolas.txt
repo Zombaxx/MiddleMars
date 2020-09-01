@@ -1,0 +1,14 @@
+# 1438 - Kolas
+
+# County Title
+title = c_kolas
+
+# Settlements
+max_settlements = 3
+b_kolas = tribal
+
+# Misc
+culture = lithuanian
+religion = finnish_pagan
+
+# History

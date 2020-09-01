@@ -1,0 +1,15 @@
+# 234 - Qand
+
+# County Title
+title = c_qand
+
+# Settlements
+max_settlements = 3
+b_qand = castle
+b_sawabib = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

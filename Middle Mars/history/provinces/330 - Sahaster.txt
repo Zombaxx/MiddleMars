@@ -1,0 +1,15 @@
+# 330 - Sahaster
+
+# County Title
+title = c_sahaster
+
+# Settlements
+max_settlements = 1
+b_sahaster = tribal
+b_ratibad = temple
+
+# Misc
+culture = crimean_gothic
+religion = hellenic_pagan
+
+# History

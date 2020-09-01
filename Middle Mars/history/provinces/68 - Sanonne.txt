@@ -1,0 +1,16 @@
+# 68 - Sanonne
+
+# County Title
+title = c_sanonne
+
+# Settlements
+max_settlements = 4
+b_sanonne = castle
+b_totaqar = temple
+b_begin = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History

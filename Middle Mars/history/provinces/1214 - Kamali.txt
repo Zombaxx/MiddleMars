@@ -1,0 +1,17 @@
+# 1214 - Kamali
+
+# County Title
+title = c_kamali
+
+# Settlements
+max_settlements = 5
+b_kamali = castle
+b_waral = temple
+b_lyaaad = city
+b_bawal = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

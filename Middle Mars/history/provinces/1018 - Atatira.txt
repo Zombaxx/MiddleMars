@@ -1,0 +1,16 @@
+# 1018 - Atatira
+
+# County Title
+title = c_atatira
+
+# Settlements
+max_settlements = 4
+b_atatira = castle
+b_ajosecol = temple
+b_amuno = city
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

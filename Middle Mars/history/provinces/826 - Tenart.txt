@@ -1,0 +1,16 @@
+# 826 - Tenart
+
+# County Title
+title = c_tenart
+
+# Settlements
+max_settlements = 4
+b_tenart = castle
+b_nalyze = temple
+b_tagucha = city
+
+# Misc
+culture = alan
+religion = shiite
+
+# History

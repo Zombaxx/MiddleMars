@@ -1,0 +1,14 @@
+# 340 - Ragidda
+
+# County Title
+title = c_ragidda
+
+# Settlements
+max_settlements = 3
+b_ragidda = tribal
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 911 - Sainay
+
+# County Title
+title = c_sainay
+
+# Settlements
+max_settlements = 5
+b_sainay = tribal
+b_kiat = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

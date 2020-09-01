@@ -1,0 +1,15 @@
+# 933 - Tinena
+
+# County Title
+title = c_tinena
+
+# Settlements
+max_settlements = 3
+b_tinena = castle
+b_avanarun = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

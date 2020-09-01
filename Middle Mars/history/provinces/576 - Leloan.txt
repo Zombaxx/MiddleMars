@@ -1,0 +1,14 @@
+# 576 - Leloan
+
+# County Title
+title = c_leloan
+
+# Settlements
+max_settlements = 3
+b_leloan = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

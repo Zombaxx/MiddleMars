@@ -1,0 +1,14 @@
+# 479 - Wokinn
+
+# County Title
+title = c_wokinn
+
+# Settlements
+max_settlements = 2
+b_wokinn = tribal
+
+# Misc
+culture = nubian
+religion = west_african_pagan
+
+# History

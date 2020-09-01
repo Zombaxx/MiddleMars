@@ -1,0 +1,15 @@
+# 770 - Akugam
+
+# County Title
+title = c_akugam
+
+# Settlements
+max_settlements = 3
+b_akugam = castle
+b_neinoa = temple
+
+# Misc
+culture = basque
+religion = pagan
+
+# History

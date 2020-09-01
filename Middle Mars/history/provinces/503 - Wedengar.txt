@@ -1,0 +1,14 @@
+# 503 - Wedengar
+
+# County Title
+title = c_wedengar
+
+# Settlements
+max_settlements = 3
+b_wedengar = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

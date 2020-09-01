@@ -1,0 +1,16 @@
+# 1501 - Nenatta
+
+# County Title
+title = c_nenatta
+
+# Settlements
+max_settlements = 4
+b_nenatta = castle
+b_ranofie = temple
+b_rumuna = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 1001 - Tohenes
+
+# County Title
+title = c_tohenes
+
+# Settlements
+max_settlements = 5
+b_tohenes = tribal
+b_wenonne = temple
+
+# Misc
+culture = nahuatl
+religion = bon
+
+# History

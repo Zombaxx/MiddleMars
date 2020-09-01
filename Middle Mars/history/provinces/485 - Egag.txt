@@ -1,0 +1,14 @@
+# 485 - Egag
+
+# County Title
+title = c_egag
+
+# Settlements
+max_settlements = 4
+b_egag = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

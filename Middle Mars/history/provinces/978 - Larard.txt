@@ -1,0 +1,15 @@
+# 978 - Larard
+
+# County Title
+title = c_larard
+
+# Settlements
+max_settlements = 3
+b_larard = castle
+b_esau = temple
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

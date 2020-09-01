@@ -1,0 +1,15 @@
+# 1017 - Wyasimir
+
+# County Title
+title = c_wyasimir
+
+# Settlements
+max_settlements = 3
+b_wyasimir = castle
+b_baocn = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

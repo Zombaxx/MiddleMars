@@ -1,0 +1,15 @@
+# 1 - Kanaud
+
+# County Title
+title = c_kanaud
+
+# Settlements
+max_settlements = 3
+b_kanaud = castle
+b_kisuslo = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

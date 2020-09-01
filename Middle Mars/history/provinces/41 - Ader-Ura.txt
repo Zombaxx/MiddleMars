@@ -1,0 +1,15 @@
+# 41 - Ader-Ura
+
+# County Title
+title = c_ader-ura
+
+# Settlements
+max_settlements = 3
+b_ader-ura = castle
+b_warura = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

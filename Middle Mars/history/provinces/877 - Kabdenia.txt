@@ -1,0 +1,17 @@
+# 877 - Kabdenia
+
+# County Title
+title = c_kabdenia
+
+# Settlements
+max_settlements = 5
+b_kabdenia = castle
+b_qasuda = temple
+b_licohn = city
+b_kahad = castle
+
+# Misc
+culture = alan
+religion = sunni
+
+# History

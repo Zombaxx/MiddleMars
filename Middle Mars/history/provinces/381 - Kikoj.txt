@@ -1,0 +1,15 @@
+# 381 - Kikoj
+
+# County Title
+title = c_kikoj
+
+# Settlements
+max_settlements = 7
+b_kikoj = tribal
+b_siaged = temple
+
+# Misc
+culture = kirghiz
+religion = zun_pagan
+
+# History

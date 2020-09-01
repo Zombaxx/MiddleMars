@@ -1,0 +1,14 @@
+# 697 - Kyasika
+
+# County Title
+title = c_kyasika
+
+# Settlements
+max_settlements = 2
+b_kyasika = castle
+
+# Misc
+culture = basque
+religion = orthodox
+
+# History

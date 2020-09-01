@@ -1,0 +1,15 @@
+# 1128 - Rinurd
+
+# County Title
+title = c_rinurd
+
+# Settlements
+max_settlements = 3
+b_rinurd = tribal
+b_kelya = temple
+
+# Misc
+culture = zhangzhung
+religion = bon
+
+# History

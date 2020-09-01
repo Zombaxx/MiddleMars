@@ -1,0 +1,14 @@
+# 1669 - Natuel
+
+# County Title
+title = c_natuel
+
+# Settlements
+max_settlements = 2
+b_natuel = tribal
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

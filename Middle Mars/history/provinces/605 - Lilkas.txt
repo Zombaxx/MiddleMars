@@ -1,0 +1,15 @@
+# 605 - Lilkas
+
+# County Title
+title = c_lilkas
+
+# Settlements
+max_settlements = 5
+b_lilkas = tribal
+b_lameir = temple
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

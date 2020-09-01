@@ -1,0 +1,16 @@
+# 1108 - Tudo
+
+# County Title
+title = c_tudo
+
+# Settlements
+max_settlements = 4
+b_tudo = castle
+b_kaloras = temple
+b_ruholke = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

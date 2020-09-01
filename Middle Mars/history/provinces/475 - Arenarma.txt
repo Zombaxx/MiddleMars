@@ -1,0 +1,14 @@
+# 475 - Arenarma
+
+# County Title
+title = c_arenarma
+
+# Settlements
+max_settlements = 3
+b_arenarma = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

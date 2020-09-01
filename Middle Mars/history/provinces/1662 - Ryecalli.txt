@@ -1,0 +1,14 @@
+# 1662 - Ryecalli
+
+# County Title
+title = c_ryecalli
+
+# Settlements
+max_settlements = 2
+b_ryecalli = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

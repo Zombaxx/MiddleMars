@@ -1,0 +1,14 @@
+# 595 - Talati
+
+# County Title
+title = c_talati
+
+# Settlements
+max_settlements = 4
+b_talati = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

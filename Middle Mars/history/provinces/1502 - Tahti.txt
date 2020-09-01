@@ -1,0 +1,14 @@
+# 1502 - Tahti
+
+# County Title
+title = c_tahti
+
+# Settlements
+max_settlements = 3
+b_tahti = tribal
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

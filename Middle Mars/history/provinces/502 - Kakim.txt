@@ -1,0 +1,14 @@
+# 502 - Kakim
+
+# County Title
+title = c_kakim
+
+# Settlements
+max_settlements = 4
+b_kakim = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

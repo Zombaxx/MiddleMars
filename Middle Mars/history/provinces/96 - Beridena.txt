@@ -1,0 +1,14 @@
+# 96 - Beridena
+
+# County Title
+title = c_beridena
+
+# Settlements
+max_settlements = 2
+b_beridena = castle
+
+# Misc
+culture = old_saxon
+religion = west_african_pagan
+
+# History

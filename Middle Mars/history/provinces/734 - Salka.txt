@@ -1,0 +1,14 @@
+# 734 - Salka
+
+# County Title
+title = c_salka
+
+# Settlements
+max_settlements = 3
+b_salka = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1282 - Daherne
+
+# County Title
+title = c_daherne
+
+# Settlements
+max_settlements = 4
+b_daherne = tribal
+b_ribalih = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

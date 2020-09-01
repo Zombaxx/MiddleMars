@@ -1,0 +1,16 @@
+# 1191 - Sicuzh
+
+# County Title
+title = c_sicuzh
+
+# Settlements
+max_settlements = 4
+b_sicuzh = castle
+b_adepaneh = temple
+b_arefuno = city
+
+# Misc
+culture = rajput
+religion = jain
+
+# History

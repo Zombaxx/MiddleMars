@@ -1,0 +1,17 @@
+# 148 - Rudo
+
+# County Title
+title = c_rudo
+
+# Settlements
+max_settlements = 5
+b_rudo = castle
+b_tuslo = temple
+b_kimeir = city
+b_teymert = castle
+
+# Misc
+culture = german
+religion = norse_pagan
+
+# History

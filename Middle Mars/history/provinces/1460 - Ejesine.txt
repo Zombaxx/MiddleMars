@@ -1,0 +1,14 @@
+# 1460 - Ejesine
+
+# County Title
+title = c_ejesine
+
+# Settlements
+max_settlements = 4
+b_ejesine = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

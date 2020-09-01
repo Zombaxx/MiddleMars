@@ -1,0 +1,14 @@
+# 435 - Koragha
+
+# County Title
+title = c_koragha
+
+# Settlements
+max_settlements = 3
+b_koragha = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

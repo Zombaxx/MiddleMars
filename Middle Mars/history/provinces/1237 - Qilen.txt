@@ -1,0 +1,16 @@
+# 1237 - Qilen
+
+# County Title
+title = c_qilen
+
+# Settlements
+max_settlements = 4
+b_qilen = castle
+b_nepaz = temple
+b_ratabas = city
+
+# Misc
+culture = levantine_arabic
+religion = shiite
+
+# History

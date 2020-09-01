@@ -1,0 +1,14 @@
+# 290 - Qukoquz
+
+# County Title
+title = c_qukoquz
+
+# Settlements
+max_settlements = 1
+b_qukoquz = tribal
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

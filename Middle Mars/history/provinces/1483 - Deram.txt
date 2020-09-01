@@ -1,0 +1,15 @@
+# 1483 - Deram
+
+# County Title
+title = c_deram
+
+# Settlements
+max_settlements = 3
+b_deram = castle
+b_setebia = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

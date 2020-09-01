@@ -1,0 +1,18 @@
+# 834 - Laning
+
+# County Title
+title = c_laning
+
+# Settlements
+max_settlements = 7
+b_laning = castle
+b_qainena = temple
+b_abhle = city
+b_baralka = castle
+b_rilabba = temple
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

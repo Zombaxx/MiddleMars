@@ -1,0 +1,16 @@
+# 119 - Navabib
+
+# County Title
+title = c_navabib
+
+# Settlements
+max_settlements = 4
+b_navabib = castle
+b_rarork = temple
+b_tukolad = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

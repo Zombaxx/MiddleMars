@@ -1,0 +1,15 @@
+# 733 - Nenzu
+
+# County Title
+title = c_nenzu
+
+# Settlements
+max_settlements = 3
+b_nenzu = castle
+b_negort = temple
+
+# Misc
+culture = catalan
+religion = orthodox
+
+# History

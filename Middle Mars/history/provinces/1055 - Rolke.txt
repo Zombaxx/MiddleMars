@@ -1,0 +1,15 @@
+# 1055 - Rolke
+
+# County Title
+title = c_rolke
+
+# Settlements
+max_settlements = 5
+b_rolke = tribal
+b_leda = temple
+
+# Misc
+culture = visigothic
+religion = hindu
+
+# History

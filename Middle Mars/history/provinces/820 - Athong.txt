@@ -1,0 +1,17 @@
+# 820 - Athong
+
+# County Title
+title = c_athong
+
+# Settlements
+max_settlements = 5
+b_athong = castle
+b_qojinie = temple
+b_kurinie = city
+b_kong = castle
+
+# Misc
+culture = castillan
+religion = sunni
+
+# History

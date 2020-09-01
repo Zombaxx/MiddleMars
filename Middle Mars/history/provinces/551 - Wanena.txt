@@ -1,0 +1,14 @@
+# 551 - Wanena
+
+# County Title
+title = c_wanena
+
+# Settlements
+max_settlements = 4
+b_wanena = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

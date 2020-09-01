@@ -1,0 +1,14 @@
+# 971 - Qanunai
+
+# County Title
+title = c_qanunai
+
+# Settlements
+max_settlements = 4
+b_qanunai = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

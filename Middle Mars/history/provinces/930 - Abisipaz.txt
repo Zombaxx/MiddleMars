@@ -1,0 +1,15 @@
+# 930 - Abisipaz
+
+# County Title
+title = c_abisipaz
+
+# Settlements
+max_settlements = 5
+b_abisipaz = tribal
+b_emalaul = temple
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

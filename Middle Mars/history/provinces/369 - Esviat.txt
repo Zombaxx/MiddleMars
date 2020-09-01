@@ -1,0 +1,14 @@
+# 369 - Esviat
+
+# County Title
+title = c_esviat
+
+# Settlements
+max_settlements = 1
+b_esviat = castle
+
+# Misc
+culture = ethiopian
+religion = orthodox
+
+# History

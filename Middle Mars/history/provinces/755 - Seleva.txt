@@ -1,0 +1,16 @@
+# 755 - Seleva
+
+# County Title
+title = c_seleva
+
+# Settlements
+max_settlements = 4
+b_seleva = castle
+b_ebelaka = temple
+b_takahra = city
+
+# Misc
+culture = kurdish
+religion = zoroastrian
+
+# History

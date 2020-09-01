@@ -1,0 +1,17 @@
+# 791 - Beyao
+
+# County Title
+title = c_beyao
+
+# Settlements
+max_settlements = 5
+b_beyao = castle
+b_takhuo = temple
+b_eprim = city
+b_kaguo = castle
+
+# Misc
+culture = castillan
+religion = orthodox
+
+# History

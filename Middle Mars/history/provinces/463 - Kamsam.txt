@@ -1,0 +1,14 @@
+# 463 - Kamsam
+
+# County Title
+title = c_kamsam
+
+# Settlements
+max_settlements = 3
+b_kamsam = tribal
+
+# Misc
+culture = hausa
+religion = shiite
+
+# History

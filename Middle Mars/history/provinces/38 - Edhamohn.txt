@@ -1,0 +1,17 @@
+# 38 - Edhamohn
+
+# County Title
+title = c_edhamohn
+
+# Settlements
+max_settlements = 5
+b_edhamohn = castle
+b_nivilvi = temple
+b_ajay-ius = city
+b_bamatta = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

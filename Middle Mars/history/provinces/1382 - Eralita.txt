@@ -1,0 +1,17 @@
+# 1382 - Eralita
+
+# County Title
+title = c_eralita
+
+# Settlements
+max_settlements = 6
+b_eralita = castle
+b_neireth = temple
+b_lanita = city
+b_ralelg = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

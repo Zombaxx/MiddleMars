@@ -1,0 +1,14 @@
+# 541 - Aburi
+
+# County Title
+title = c_aburi
+
+# Settlements
+max_settlements = 3
+b_aburi = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

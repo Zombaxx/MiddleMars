@@ -1,0 +1,14 @@
+# 313 - Byasessa
+
+# County Title
+title = c_byasessa
+
+# Settlements
+max_settlements = 4
+b_byasessa = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

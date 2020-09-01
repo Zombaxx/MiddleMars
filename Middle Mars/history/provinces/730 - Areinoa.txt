@@ -1,0 +1,15 @@
+# 730 - Areinoa
+
+# County Title
+title = c_areinoa
+
+# Settlements
+max_settlements = 5
+b_areinoa = tribal
+b_lyasuluk = temple
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History

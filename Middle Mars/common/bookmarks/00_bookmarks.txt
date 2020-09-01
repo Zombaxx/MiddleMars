@@ -1,0 +1,90 @@
+bm_middle_mars = {
+	name = "BM_MIDDLE_MARS_ERA"
+	desc = "BM_MIDDLE_MARS_ERA_INFO"
+	date = 1066.9.15
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+	selectable_character = {
+		id = 102265 # Maximilianos of Olympus Mons
+		age = 27
+		name = ERA_CHAR_NAME_102265
+		title = d_olympus_mons
+		title_name = d_olympus_mons
+		
+		character = {
+			dna = zpabrsaohdv
+			properties = am000c00
+			religion="hellenic_pagan"
+			culture="greek"
+			government = feudal_government
+			dynasty=102260
+		}
+	}
+	selectable_character = {
+		id = 111585 # Abdul-Aziz II of Noachis Terra
+		age = 38
+		name = ERA_CHAR_NAME_111585
+		title = e_noachis_terra
+		title_name = e_noachis_terra
+		
+		character = {
+			dna = vekzbwluvsc
+			properties = nlu0d00
+			religion="sunni"
+			culture="andalusian_arabic"
+			government111580= feudal_government
+			dynasty=102260
+		}
+	}
+	selectable_character = {
+		id = 104895 # Alvar II of Valles Varineris
+		age = 31
+		name = ERA_CHAR_NAME_104895
+		title = e_valles_marineris
+		title_name = e_valles_marineris
+		
+		character = {
+			dna = cagfktibaal
+			properties = fj0dcd000000
+			religion="hellenic_pagan"
+			culture="basque"
+			government = feudal_government
+			dynasty=104890
+		}
+	}
+	selectable_character = {
+		id = 100785 # John II of South Alba
+		age = 33
+		name = ERA_CHAR_NAME_100785
+		title = k_north_alba
+		title_name = k_north_alba
+		
+		character = {
+			dna = joxvfbqdxvs
+			properties = am00hb0
+			religion="catholic"
+			culture="german"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 111905 # Elupuyan Fangzhi of Promethei Terra
+		age = 19
+		name = ERA_CHAR_NAME_111905
+		title = k_promethei_terra
+		title_name = k_promethei_terra
+		
+		character = {
+			dna = drvzzvggwpm
+			properties = ai0bia00000000bb00000000000000000000l00
+			religion="taoist"
+			culture="han"
+			government = feudal_government
+			dynasty=111900
+		}
+	}
+}

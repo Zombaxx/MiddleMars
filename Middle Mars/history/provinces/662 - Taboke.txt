@@ -1,0 +1,14 @@
+# 662 - Taboke
+
+# County Title
+title = c_taboke
+
+# Settlements
+max_settlements = 4
+b_taboke = tribal
+
+# Misc
+culture = jurchen
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1446 - Ramyang
+
+# County Title
+title = c_ramyang
+
+# Settlements
+max_settlements = 5
+b_ramyang = castle
+b_wohobos = temple
+b_samennu = city
+b_samoquz = castle
+
+# Misc
+culture = rajput
+religion = buddhist
+
+# History

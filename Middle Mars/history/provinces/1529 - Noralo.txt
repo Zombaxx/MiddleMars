@@ -1,0 +1,16 @@
+# 1529 - Noralo
+
+# County Title
+title = c_noralo
+
+# Settlements
+max_settlements = 4
+b_noralo = castle
+b_esanalo = temple
+b_tasasin = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

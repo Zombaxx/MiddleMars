@@ -1,0 +1,14 @@
+# 566 - Kelolam
+
+# County Title
+title = c_kelolam
+
+# Settlements
+max_settlements = 4
+b_kelolam = tribal
+
+# Misc
+culture = russian
+religion = sunni
+
+# History

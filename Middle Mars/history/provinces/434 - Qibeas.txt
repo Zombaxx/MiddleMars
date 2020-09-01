@@ -1,0 +1,14 @@
+# 434 - Qibeas
+
+# County Title
+title = c_qibeas
+
+# Settlements
+max_settlements = 3
+b_qibeas = tribal
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History
