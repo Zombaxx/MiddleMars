@@ -6544,7 +6544,7 @@
 	religion="finnish_pagan"
 }
 112940={
-	name=""Har Rai"id"
+	name="Har Raiid"
 	culture="panjabi"
 	religion="jain"
 }
@@ -6714,7 +6714,7 @@
 	religion="bon"
 }
 113280={
-	name=""Har Rai"id"
+	name="Har Raiid"
 	culture="panjabi"
 	religion="jain"
 }
@@ -6779,7 +6779,7 @@
 	religion="jain"
 }
 113410={
-	name=""Ram Rai"id"
+	name="Ram Raiid"
 	culture="panjabi"
 	religion="jain"
 }
@@ -7034,12 +7034,12 @@
 	religion="shiite"
 }
 113920={
-	name=""Amar Dasi"id"
+	name="Amar Dasiid"
 	culture="panjabi"
 	religion="jain"
 }
 113930={
-	name=""Ram Rai"id"
+	name="Ram Raiid"
 	culture="panjabi"
 	religion="jain"
 }
@@ -7834,7 +7834,7 @@
 	religion="jain"
 }
 115490={
-	name=""Hemant Sen"id"
+	name="Hemant Senid"
 	culture="bengali"
 	religion="hindu"
 }
@@ -7934,7 +7934,7 @@
 	religion="hindu"
 }
 115690={
-	name=""Narsingh Dev"id"
+	name="Narsingh Devid"
 	culture="bengali"
 	religion="hindu"
 }
@@ -8099,7 +8099,7 @@
 	religion="hindu"
 }
 116020={
-	name=""Laxminath Singh Dev"id"
+	name="Laxminath Singh Devid"
 	culture="bengali"
 	religion="hindu"
 }
@@ -8149,7 +8149,7 @@
 	religion="hindu"
 }
 116120={
-	name=""Vijay Sen"id"
+	name="Vijay Senid"
 	culture="bengali"
 	religion="buddhist"
 }
@@ -8229,7 +8229,7 @@
 	religion="hindu"
 }
 116280={
-	name=""Laxminath Singh Dev"id"
+	name="Laxminath Singh Devid"
 	culture="bengali"
 	religion="hindu"
 }
@@ -8284,7 +8284,7 @@
 	religion="jain"
 }
 116390={
-	name=""Laxminath Singh Dev"id"
+	name="Laxminath Singh Devid"
 	culture="bengali"
 	religion="jain"
 }
@@ -8374,7 +8374,7 @@
 	religion="buddhist"
 }
 116570={
-	name=""Vijay Sen"id"
+	name="Vijay Senid"
 	culture="bengali"
 	religion="buddhist"
 }
@@ -8419,7 +8419,7 @@
 	religion="hindu"
 }
 116660={
-	name=""Bhairav Singh"id"
+	name="Bhairav Singhid"
 	culture="bengali"
 	religion="hindu"
 }

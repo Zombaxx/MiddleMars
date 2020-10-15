@@ -378,11 +378,11 @@ d_sunni = {
 				piety = 1000
 			}
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -478,11 +478,11 @@ d_shiite = {
 				piety = 1000
 			}
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -579,11 +579,11 @@ d_qarmatian = {
 		}
 		OR = {
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -42937,11 +42937,11 @@ d_ibadi = {
 				piety = 1000
 			}
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -43017,11 +43017,11 @@ d_kharijite = {
 				piety = 1000
 			}
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -43097,11 +43097,11 @@ d_hurufi = {
 				piety = 1000
 			}
 			custom_tooltip = {
-				text = THREE_#holy_siteS_TT
+				text = THREE_holy_siteS_TT
 				hidden_tooltip = {
 					any_realm_title = {
 						count = 3
-						is_#holy_site = ROOT
+						is_holy_site = ROOT
 					}
 				}
 			}
@@ -43522,7 +43522,7 @@ d_norse_pagan_reformed = {
 	
 	allow = {
 		religion = norse_pagan_reformed
-		num_of_#holy_sites = 3
+		num_of_holy_sites = 3
 		piety = 500
 	}
 
