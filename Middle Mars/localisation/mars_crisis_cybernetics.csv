@@ -4,3 +4,14 @@ chinese_cybernetic_desc;Request the permanent installation of Cybernetics from t
 EVTOPTA_MC_9001;;;;;;;;;;;;;;x
 EVTDESC_MC_9001;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe celestial [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A wondrous cybernetic has been installed in you by a [From.Offmap.Ruler.Culture.GetName] wizard.;;;;;;;;;;;;;x
 EVTOPTA_MC_9001;This magnificant cybernetic will bring you superhuman abilities!;;;;;;;;;;;;;x
+chinese_clone;Request Clone;;;;;;;;;;;;;x
+chinese_clone_desc;Request a clone of yourself.;;;;;;;;;;;;;x
+EVTOPTA_MC_9002;;;;;;;;;;;;;;x
+EVTDESC_MC_9002;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe celestial [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A wondrous clone has been decanted for you by a [From.Offmap.Ruler.Culture.GetName] wizard.;;;;;;;;;;;;;x
+EVTOPTA_MC_9002;This magnificant clone will bring glory to your dynasty!;;;;;;;;;;;;;x
+chinese_vatborn;Request Vat Born;;;;;;;;;;;;;x
+chinese_vatborn_desc;Request a Vat Born child made from the best genetic traits of you and your spouse(s).;;;;;;;;;;;;;x
+EVTOPTA_MC_9003;;;;;;;;;;;;;;x
+EVTDESC_MC_9003;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe celestial [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A wondrous Vat Born child has been decanted for you by a [From.Offmap.Ruler.Culture.GetName] wizard.;;;;;;;;;;;;;x
+EVTOPTA_MC_9003;This magnificant child will bring glory to your dynasty!;;;;;;;;;;;;;x
+
