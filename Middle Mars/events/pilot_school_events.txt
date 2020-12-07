@@ -1,0 +1,487 @@
+namespace = pilot_school_events
+character_event = {
+	id = roy_pilot_events.1
+	title = roy_pilot_events.1
+	desc = EVTDESCroy_pilot_events.1
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.1
+		FROM = {
+			remove_character_modifer = in_pilot_school
+			random = {
+				chance = 40
+				add_trait = shy
+			}
+			random = {
+				chance = 60
+				add_trait = slothful
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTBroy_pilot_events.1
+		wealth = -100
+		set_character_flag = learning_mechs
+		hidden_tooltip = {
+				character_event = { id = roy_pilot_events.9 years = 2 } 
+				character_event = { id = roy_pilot_events.4 years = 1 } 
+			}
+		}
+	}
+character_event = {
+	id = roy_pilot_events.2
+	desc = EVTDESCroy_pilot_events.2
+	picture = GFX_evt_council
+	
+	trigger = {
+		has_character_flag = learning_mechs 
+	}
+	mean_time_to_happen = {
+		months = 12
+	}
+	immediate = {
+		random_courtier = {
+			limit = {
+				prisoner = no
+				has_minor_title = title_commander
+				age = 14
+				NOT = { age = 50 }
+				NOR = {
+					trait = infirm
+					trait = incapable
+				}
+			}
+			save_event_target_as = pilot_friend
+		}
+	}
+
+	option = {
+		name = EVTOPTAroy_pilot_events.2
+		FROM = {
+			random = {
+				chance = 20 
+				add_trait = gregarious
+			}
+			random = {
+				chance = 20 
+				add_trait = diligent
+			}
+		event_target:pilot_friend = { add_friend = FROM }
+		clear_event_target = pilot_friend
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.3
+	title = roy_pilot_events.3
+	desc = EVTDESCroy_pilot_events.3
+	picture = GFX_evt_council
+
+	trigger = {
+		has_character_flag = learning_mechs 
+	}
+	mean_time_to_happen = {
+		months = 10
+	}
+
+	immediate = {
+		random_courtier = {
+			limit = {
+				prisoner = no
+				has_minor_title = title_commander
+				age = 14
+				NOT = { age = 50 }
+				NOR = {
+					trait = infirm
+					trait = incapable
+				}
+			}
+			save_event_target_as = pilot_foe
+		}
+	}
+
+	option = {
+		name = EVTOPTAroy_pilot_events.3
+		FROM = {
+			random = {
+				chance = 20 
+				add_trait = patient
+			}
+			random = {
+				chance = 20 
+				add_trait = craven
+			}
+			random = {
+				chance = 10
+				add_trait = diligent
+			}
+			random = {
+				chance = 50
+				event_target:pilot_foe = { add_rival = FROM }
+				clear_event_target = pilot_foe
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTBroy_pilot_events.3
+		FROM = {
+			random = {
+				chance = 20 
+				add_trait = wroth
+			}
+			random = {
+				chance = 20 
+				add_trait = brave
+			}
+			random = {
+				chance = 10
+				add_trait = wounded
+			}
+			random = {
+				chance = 50
+				event_target:pilot_foe = { add_rival = FROM }
+				clear_event_target = pilot_foe
+			}
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.4
+	title = roy_pilot_events.4
+	desc = EVTDESCroy_pilot_events.4
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.4
+		hidden_tooltip = {
+			random_list = {
+				50 = { character_event = { id = roy_pilot_events.5 days = 5 } }
+				30 = { character_event = { id = roy_pilot_events.6 days = 5 } }
+				20 = { character_event = { id = roy_pilot_events.7 days = 5 } }
+			}
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.5
+	title = roy_pilot_events.5
+	desc = EVTDESCroy_pilot_events.5
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.5
+		FROM = {
+			prestige = 50
+			add_character_modifier = {
+				name = expert_pilot
+				duration = 15
+			}
+			random_list = {
+				75 = { add_trait = proud }
+				25 = { add_trait = quick }
+				}
+			}
+		}
+	}
+character_event = {
+	id = roy_pilot_events.6
+	title = roy_pilot_events.6
+	desc = EVTDESCroy_pilot_events.6
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.6
+		FROM = {
+				add_character_modifier = {
+					name = competent_pilot
+					duration = 15
+				}
+				random_list = {
+					75 = { add_trait = proud }
+					25 = { add_trait = wroth }
+				}
+			}
+		}
+	}
+character_event = {
+	id = roy_pilot_events.7
+	title = roy_pilot_events.7
+	desc = EVTDESCroy_pilot_events.7
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.7
+		FROM = {
+				add_character_modifier = {
+					name = poor_pilot
+					duration = 5
+				}
+			random = {
+				chance = 40
+				add_trait = depressed
+				}
+			}
+		}
+	}
+character_event = {
+	id = roy_pilot_events.8
+	title = roy_pilot_events.8
+	desc = EVTDESCroy_pilot_events.8
+	picture = GFX_evt_council
+
+	trigger = {
+		has_character_flag = learning_mechs 
+		OR = {
+		has_trait = depressed
+		has_trait = shy
+		}
+	}
+
+	immediate = {
+		create_character = {
+		age = 19
+		dynasty = NONE
+		traits = random
+		religion = ROOT
+		culture = ROOT
+		female = yes
+		}	
+		new_character = {	
+			save_event_target_as = pilot_lover
+		}
+	}
+
+	option = {
+		name = EVTOPTAroy_pilot_events.8
+		FROM = {
+			remove_trait = shy
+			remove_trait = depressed
+			random = {
+				chance = 20
+				add_trait = honest
+			}
+			event_target:pilot_lover = { add_lover = FROM }
+			clear_event_target = pilot_lover
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.9
+	title = roy_pilot_events.9
+	desc = EVTDESCroy_pilot_events.9
+	is_triggered_only = yes
+
+	immediate = {
+		clr_character_flag = learning_mechs
+	}
+	option = {
+		name = EVTOPTAroy_pilot_events.9
+		FROM = {
+			prestige = 100
+			add_trait = mech_pilot
+			remove_character_modifier = in_pilot_school
+		}
+		any_courtier = {
+			limit = {
+				has_character_flag = pilot_training
+			}
+			clear_character_flag = pilot_training
+			add_trait = mech_pilot
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.10
+	hide_window = yes
+	trigger = {
+		has_character_flag = learning_mechs
+	}
+
+	mean_time_to_happen = {
+		years = 2
+	}
+
+	immediate = {
+		character_event = { id = roy_pilot_events.11 } 
+	}
+}
+character_event = {
+	id = roy_pilot_events.11
+	title = roy_pilot_events.11
+	desc = EVTDESCroy_pilot_events.11
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.11
+		FROM = {
+			remove_trait = stressed
+			random = {
+				chance = 20 
+				add_trait = slothful
+			}
+		hidden_tooltip = {
+			random = {
+				chance = 5 
+				character_event = { id = roy_pilot_events.11 }
+			}
+		}
+	}
+}
+	option = {
+		name = EVTOPTBroy_pilot_events.11
+		FROM = {
+			add_trait = stressed
+			random_list = {
+				5 = { add_trait = trusting }
+				15 = { add_trait = diligent }
+				15 = { add_trait = quick }
+				20 = { add_trait = chaste }
+				20 = { add_trait = strong }
+				20 = { add_trait = zealous }
+				5 = { add_trait = genius }
+			}
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.12
+	title = roy_pilot_events.12
+	desc = EVTDESCroy_pilot_events.12
+	picture = GFX_evt_council
+
+	trigger = {
+		has_character_flag = learning_mechs 
+	}
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	immediate = {
+		random_courtier = {
+			limit = {
+				prisoner = no
+				has_minor_title = title_commander
+				age = 14
+				NOT = { age = 50 }
+				NOR = {
+					trait = infirm
+					trait = incapable
+				}
+			}
+			save_event_target_as = pilot_battle
+		}
+	}
+
+	option = {
+		name = EVTOPTAroy_pilot_events.12
+		hidden_tooltip = {
+			random_list = {
+				50 = { character_event = { id = roy_pilot_events.13 days = 7 random = 7 } }
+				30 = { character_event = { id = roy_pilot_events.14 days = 7 random = 7 } }
+				20 = { character_event = { id = roy_pilot_events.15 days = 7 random = 7 } }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBroy_pilot_events.12
+		hidden_tooltip = {
+			random_list = {
+				50 = { character_event = { id = roy_pilot_events.13 days = 7 } }
+				50 = { character_event = { id = roy_pilot_events.14 days = 7 } }
+			}
+		}
+	}
+}
+character_event = {
+	id = roy_pilot_events.13
+	title = roy_pilot_events.13
+	desc = EVTDESCroy_pilot_events.13
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.13
+			random = {
+				chance = 20 
+				event_target:pilot_battle = { add_friend = FROM }
+			}
+				clear_event_target = pilot_battle
+	}
+	option = {
+		name = EVTOPTBroy_pilot_events.13
+			random = {
+				chance = 20 
+				event_target:pilot_battle = { add_rival = FROM }
+			}
+				clear_event_target = pilot_battle
+	}
+}
+character_event = {
+	id = roy_pilot_events.14
+	title = roy_pilot_events.14
+	desc = EVTDESCroy_pilot_events.14
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAroy_pilot_events.14
+			random = {
+				chance = 15 
+				add_trait = wounded
+			}
+				clear_event_target = pilot_battle
+	}
+	option = {
+		name = EVTOPTBroy_pilot_events.14
+			random = {
+				chance = 15 
+				add_trait = wounded
+			}
+			random = {
+				chance = 20 
+				event_target:pilot_battle = { add_rival = FROM }
+			}
+				clear_event_target = pilot_battle
+		}
+	}
+character_event = {
+	id = roy_pilot_events.15
+	title = roy_pilot_events.15
+	desc = EVTDESCroy_pilot_events.15
+	is_triggered_only = yes
+
+	immediate = {
+		clr_character_flag = learning_mechs
+	}
+	option = {
+		name = EVTOPTAroy_pilot_events.15
+		FROM = {
+			prestige = -100
+			add_trait = depressed
+			remove_character_modifier = in_pilot_school
+		}
+		any_courtier = {
+			limit = {
+			limit = {
+				prisoner = no
+				has_minor_title = title_commander
+				age = 14
+				NOT = { age = 50 }
+				NOR = {
+					trait = infirm
+					trait = incapable
+				}
+			}
+			add_trait = mech_pilot
+		}
+	}
+}

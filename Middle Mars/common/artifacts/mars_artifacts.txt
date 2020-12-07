@@ -1,0 +1,79 @@
+# The limiting slots for equipped artifacts. Dynamic system (you can add new types of slots freely)
+slots = {
+	weapon = 1
+	ceremonial_weapon = 1
+	scepter = 1
+	crown = 1
+	wrist = 1
+	neck = 1
+	torso = 1
+	ship = 1
+	ceremonial_torso = 1
+	mask = 1 
+}
+
+#############################
+####### Random/Misc #########
+#############################
+
+mech_suit = { 
+	cached = yes
+	monthly_character_prestige = 1.0
+	vassal_opinion = 10
+	combat_rating = 25
+	global_tax_modifier = -0.5
+	martial = 5
+	command_modifier = {
+		morale_offence = 0.4
+		morale_defence = 0.4
+	}
+	quality = 3
+	active = {
+		age = 16
+	}
+	flags = { combat_weapon combat_tier_3 mecha_suit }
+	stacking = no
+	picture = "GFX_mech_suit"
+	slot = weapon
+}
+common_mech_suit = { 
+	cached = yes
+	monthly_character_prestige = 0.2
+	vassal_opinion = 5
+	combat_rating = 15
+	global_tax_modifier = -0.5
+	martial = 1
+	command_modifier = {
+		morale_offence = 0.15
+		morale_defence = 0.15
+	}
+	quality = 2
+	active = {
+		age = 16
+	}
+	flags = { combat_weapon combat_tier_2 mecha_suit }
+	stacking = no
+	picture = "GFX_common_mech_suit"
+	slot = weapon
+}
+super_mech_suit = { 
+	cached = yes
+	monthly_character_prestige = 2
+	vassal_opinion = 10
+	combat_rating = 40
+	global_tax_modifier = -0.7
+	martial = 6
+	command_modifier = {
+		morale_offence = 0.50
+		morale_defence = 0.50
+	}
+	quality = 5
+	active = {
+		age = 16
+		martial = 12
+	}
+	flags = { combat_weapon combat_tier_5 mecha_suit }
+	stacking = no
+	picture = "GFX_super_mech_suit"
+	slot = weapon
+}

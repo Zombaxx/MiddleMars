@@ -1,0 +1,19 @@
+targetted_decisions = {
+	start_looting_decision = {
+		is_high_prio = yes
+		filter = self
+		ai_target_filter = none
+		
+		potential = {
+			has_law = raiding_restriction_law_1
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			any_unit = {
+				set_looting = yes
+			}
+		}
+	}
+}

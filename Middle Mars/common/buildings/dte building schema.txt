@@ -1,0 +1,48 @@
+#Conference Center
+#	Assembly Chamber	(+ Vassal Opinion)
+#	High Court		(- Revolt Risk)
+#	Peace Monument 		(+ Prestige)
+#	Seminar Series		(+ Cultural Tech)
+#	Cultural Exchange	(+ General Opinion)
+#
+#Central Command
+#	Officer Academy		(+ Attack/Defense)
+#	Communications Center	(+ Retinue)
+#	Recruitment Office	(+ Reinforcement)
+#	Special Projects Div.	(+ Military Tech)
+#	Victory Monument	(+ Prestige)
+#
+#Economic Bureau
+#	Central Bank 		(+ Emergency Loans)
+#	Stock Market		(+ Tax Revenue)
+#	Reformed Civil Service	(+ Demesne Size)
+#	Infrastructure Program	(- Building Cost/Time)
+#	Economic Analysis	(+ Economic Tech)
+#
+#Secret Lair
+#	Underground Location	(+ Fort Size)
+#	Self-Destruct		(+ Self-Destruct)
+#	Shadowy Contacts	(+ Plot Power)
+#	Nazi Scientists*	(+ Projects)
+#	Exotic Pets		(+ Prestige)
+#
+#Research Facilities
+#	Research Library	(+ Acquire Books)
+#	Public Schools		(+ Science Traits)
+#	Doctoral Program	(+ Science Trait)
+#	Medical Facility	(+ Health)
+#	Applied Science Div.	(+ All Tech)
+#
+######*I know. Nazi Scientists in the 22nd century? But these are basically Bond villains - there have to be Nazi scientists!
+
+#Hospitals are now fallout shelters in pre-war cultures	#cancel that - ai can't handle the truth!
+#Shelter 1-5
+#Food Stockpile 1-5
+#Water Treatment 1-3
+#Security 1-4
+#Library 1-4
+#Shrine 1-3
+#Workspaces 1-3
+#Schools 1-3
+#Infirmary 1-3
+#Overseer Posters 1-3

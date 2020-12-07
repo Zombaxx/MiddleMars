@@ -1,0 +1,14 @@
+pragmatist_pattern_for = {
+	icon = 6
+	pattern_type = for
+
+	tax_peasants_law_feudal_0 = { always = yes }
+	tax_peasants_law_feudal_1 = { always = yes }
+	tax_peasants_law_feudal_2 = { always = yes }
+}
+pragmatist_pattern_against = {
+	icon = 3
+	pattern_type = against
+
+	tax_peasants_law_feudal_3 = { always = yes }
+}

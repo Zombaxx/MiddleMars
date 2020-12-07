@@ -1,0 +1,187 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Unit stuff
+LIGHT_INFANTRY;Militia;x
+LIGHT_INFANTRY_MORALE;Militia Morale;x
+LIGHT_INFANTRY_DISCIPLINE_FIRE;Militia Discipline;x
+LIGHT_INFANTRY_DEFENSIVE_FIRE;Militia Defense;x
+HEAVY_INFANTRY;Riflemen;x
+HEAVY_INFANTRY_MORALE;Rifleman Morale;x
+HEAVY_INFANTRY_DISCIPLINE;Rifleman Discipline;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Rifleman Attack;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Rifleman Defense;x
+PIKEMEN;Grenadiers;x
+PIKEMEN_MORALE;Grenadier Morale;x
+PIKEMEN_DISCIPLINE;Grenadier Discipline;x
+PIKEMEN_OFFENSIVE_FIRE;Grenadier Attack;x
+PIKEMEN_DEFENSIVE_FIRE;Grenadier Defense;x
+LIGHT_CAVALRY;Motorized;x
+LIGHT_CAVALRY_MORALE;Motorized Morale;x
+LIGHT_CAVALRY_DISCIPLINE;Motorized Discipline;x
+LIGHT_CAVALRY_OFFENSIVE_FIRE;Motorized Attack;x
+LIGHT_CAVALRY_DEFENSIVE_FIRE;Motorized Defense;x
+KNIGHTS;Armored;x
+KNIGHTS_MORALE;Armored Morale;x
+KNIGHTS_DISCIPLINE;Armored Discipline;x
+KNIGHTS_OFFENSIVE_FIRE;Armored Attack;x
+ARCHERS;Marksmen;x
+ARCHERS_MORALE;Marksman Morale;x
+ARCHERS_DISCIPLINE;Marksman Discipline;x
+ARCHERS_OFFENSIVE_FIRE;Marksman Attack;x
+ARCHERS_DEFENSIVE_FIRE;Marksman Defense;x
+war_elephants;Artillery;x
+war_elephants_offensive;Artillery Offensive;x
+war_elephants_defensive;Artillery Defensive;x
+war_elephants_morale;Artillery Morale;x
+GALLEYS;Watercraft;x
+PHASE_MELEE;Assault;x
+RETTYPE_MILITIA;Irregular Company;x
+RETTYPE_RIFLEMEN;Rifleman Company;x
+RETTYPE_GRENADIERS;Grenadier Company;x
+RETTYPE_MOTORIZED;Motor Company;x
+RETTYPE_MARKSMEN;Marksman Company;x
+RETTYPE_ARTILLERY;Artillery Company;x
+
+#Tactics
+probe_defenses;Probe Defenses;x
+decapitation_strikes;Decapitation Strikes;x
+misdirection;Misdirection;x
+artillery_barrage;Artillery Barrage;x
+night_attack;Night Attack;x
+hit_and_run;Hit and Run;x
+artillery_off_mark;Artillery Off Mark;x
+failed_night_attack;Failed Night Attack;x
+mobile_troops_anticipated;Mobile Troops Anticipated;x
+marksmen_poor_visibility;Visibility Lacking;x
+blunder_into_enemy;Blunder into Enemy;x
+entrench;Entrench;x
+prepare_ambush;Prepare Ambush;x
+suppressive_barrage;Suppressing Barrage;x
+motorized_screen;Motorized Screen;x
+marksman_screen;Marksmen Screen;x
+space_for_time;Trade Space for Time;x
+withdrawal_intercepted;Withdrawal Intercepted;x
+motor_screen_overwhelmed;Motor Screen Overwhelmed;x
+marksman_screen_overwhelmed;Marksmen Screen Overwhelmed;x
+shock_and_awe;Shock and Awe;x
+human_wave;Human Wave;x
+blitz_spearhead;Blitz Spearhead;x
+stormtrooper_assault;Stormtrooper Assault;x
+carpet_artillery;Line-Fire Artillery;x
+keypoint_artillery;Called Artillery;x
+motorized_swarm;Mobile Swarm;x
+strongpoint_breach;Breach Strongpoint;x
+encirclement;Encirclement;x
+dange_close_succ;Danger Close Artillery;x
+fanatic_charge;For the Cause!;x
+broad_assault;NCO Discretion;x
+we_have_reserves;We Have Reserves;x
+danger_close_fail;Danger Close Disaster;x
+house_to_house_off;House-to-House Offense;x
+unguarded_armor;Unescorted Armor;x
+uncoordinated_charge;Uncoordinated Offensive;x
+outrun_supply_lines;Overextended Troops;x
+detached_pocket;Detached Pocket;x
+overwhelming_fire;Overwhelming Fire;x
+improvised_traps;Improvised Traps;x
+deploy_minefield;Deploy Minefield;x
+house_to_house_def;House-to_House Defense;x
+elastic_defense;Elastic Defense;x
+trench_defense;Trench Defense;x
+guerilla_warfare;Guerilla Warfare;x
+strongpoint_defense;Strongpoint Defense;x
+lure_into_ambush;Lure into Ambush;x
+overlapping_fire;Overlapping Fields of Fire;x
+fanatic_defense;Not One Step Back!;x
+broad_defense;Holding Positions;x
+artillery_overshoots;Artillery Overshoots;x
+misplaced_minefield;Misplaced Minefield;x
+cowards_and_traitors;Cowards and Traitors!;x
+vanguard_too_ahead;Vanguard Too Forward;x
+holes_in_line;Holes in Defensive Line;x
+incomplete_coverage;Incomplete Coverage;x
+reserves_too_back;Reserves Too Rearward;x
+
+#Ideological Buildings
+ca_conference_center;Conference Center;x
+ca_conference_center_desc;A central conference center will provide our government with a location for holding high-level meetings, negotiations, and other get-togethers that are vital to the health and good order of the state.;x
+ca_assembly_chamber;Assembly Chamber;x
+ca_assembly_chamber_desc;Here our various subordinates can gather for regular business and extraordinary sessions alike, assisting the state in organizing the entire apparatus of the government behind a unified policy and vision while giving voice to dissenting opinions.;x
+ca_high_court;High Court;x
+ca_high_court_desc;Here are disputes of all sorts ajudicated and settled with the finality of the fullest and highest law. Our judges stand as the best of their profession, whose wisdom and impartiality is taken for granted by all our citizens, who appreciate and submit to its rulings.;x
+ca_peace_monument;Peace Monument;x
+ca_peace_monument_desc;There is much talk of peace, and indeed much policy action on the part of the government in pursuit of harmony among and within states. But here we satisfy the middle element: words and action united in a grand monument to the cause of good order in the world.;x
+ca_seminar_series;Seminar Series;x
+ca_seminar_series_desc;Peace faces threats from all sides, and sometimes these forces take forms never before seen. It is imperative to have continuing seminars on existing and potential sources of instability, with our finest minds grappling with the societal implications and possibilities.;x
+ca_cultural_exchange;Cultural Exchange Program;x
+ca_cultural_exchange_desc;"The Malaysians? Hell, I know those people!" A pre-war comedian once quipped that this was the secret to peace, and he is not far off: by encouraging deeper interaction across borders, we facilitate cooperation and enrich our own cultural experience.;x
+ca_central_command;Central Command;x
+ca_central_command_desc;Central Command acts as the aegis of our military forces at home and in the field. Here, commanders and their lieutenants gather to analyze incoming reports, evaluate the situation, and issue orders in pursuit of victory and glory for the state.;x
+ca_officer_academy;Officer Academy;x
+ca_officer_academy_desc;Men are only as effective as the men who lead them. It is thus essential to establish means by which we can form officers, from the highest to the lowest, who can lead their men into battle with full efficacy. Those who lead from the front are the key to victory.;x
+ca_communications_center;Communications Center;x
+ca_communications_center_desc;All communications for our military run through this facility, which receives, sorts, and sends in order to coordinate operations across the land. In particular, they are essential to directing permanent, professional forces.;x
+ca_recruitment_office;Recruitment Office;x
+ca_recruitment_office_desc;Boots, uniforms, and rifles are useless without a body in between them. By organizing our recruitment efforts into a specialized corps that uses the best lessons of pre-war psychology and marketing, we can always rely on a fresh crop of young, enthusiastic blood.;x
+ca_special_projects_division;Special Projects Division;x
+ca_special_projects_division_desc;One maxim of armed conflict is that the bigger stick will always lose to the sharp stick. Our permanent staff of scientists and military theorists dedicate themselves to ensuring that ours will always be the sharpest stick when conflict erupts.;x
+ca_victory_monument;Victory Monument;x
+ca_victory_monument_desc;Are our victories in battle inspiring? Do not our men in uniform put a thrill in our hearts? Surely, this is true, but it is not enough. Let us remind our people of the valor and honor our armed forces have brough and always will bring to the state.;x
+ca_economic_bureau;Economic Bureau;x
+ca_economic_bureau_desc;The Economic Bureau is the state's official organ for the management and administration of our domestic affairs. Here, an army of clerks and bureaucrats labor to ensure our prosperity in the present and in the ages to come.;x
+ca_central_bank;Central Bank;x
+ca_central_bank_desc;Rather than some thrown together currency without regulation, we provide a well-managed currency overseen by a central bank with the authority to stimulate the economy and provide us with emergency capital.;x
+ca_stock_market;Stock Market;x
+ca_stock_market_desc;While the war devastated our once abundant capital stocks, this market provides a place for traders to exchange shares and finance companies in need of financial resources. This encourages start-ups and efficiency in our businesses.;x
+ca_reformed_civil_service;Reformed Civil Service;x
+ca_reformed_civil_service_desc;Collective decision-making, while necessary, is a nightmare. Some problems too involved for democracy are left to bureaucracy, but who regulates the regulators? A steady and unrelenting eye on the administrative apparatus keeps our civil service honest and effective.;x
+ca_infrastructure_program;Infrastructure Program;x
+ca_infrastructure_program_desc;Obviously, roads aren't enough: the wasteland is criss-crossed by thousands. Still, an eye to civil infrastructure makes it easier for businesses and consumers to enjoy a framework that encourages material exchange and interaction.;x
+ca_economic_analysis;Economic Analysis;x
+ca_economic_analysis_desc;The economy is not some simple chart you learn in a textbook, it is organic, ever changing. Thus, we will always need analysts to pore over the data and fundamentals alike to discover and study new and existing economic problems and their solutions.;x
+ca_secret_lair;Secret Lair;x
+ca_secret_lair_desc;In this hidden abode, a schemer builds his shadowy empire of secrets, contacts, and lies. In this sanctum of intrigue and guile, anything goes in the mad quest to dominate the world and shape it according to one's own twisted vision.;x
+ca_underground_location;Underground Location;x
+ca_underground_location_desc;Nobody knew where the secret lair was located, but rumors have surfaced that the shadowy headquarters is secreted away deep underground, perhaps in a cave system or under a volcano, far from the reaches of any who would breach its defenses.;x
+ca_self_destruct;Self Destruct;x
+ca_self_destruct_desc;The owner of this lair takes no prisoners - and certainly won't be taken one himself! This system can be activated if anyone gets too close to breaching the perimeter, devastating the invaders while the mad genius behind it escapes via a secret passage.;x
+ca_shadowy_contacts;Shadowy Contacts;x
+ca_shadowy_contacts_desc;Rumors abound of a networks that spreads across the continent...men who, by hook or crook, now serve the sovereign of this abode. Their influence together gives him incredible reach, and the ability to touch just about anyone who strikes his fancy.;x
+ca_exotic_pets;Exotic Pets;x
+ca_exotic_pets_desc;Some men still have dogs. Others...others have fluffy white cats on their laps while schools of piranhas swim in miniature moats across their office. Some men want to see the world burn...in style.;x
+ca_research_facility;Research Facility;x
+ca_research_facility_desc;This complex exists for the furtherance of human knowledge, from the theoretical to the applied, from pushing the frontiers of science towards the forbidden to instructing the youth, this facility sees it all.;x
+ca_research_library;Research Library;x
+ca_research_library_desc;In a world shaped by atom bombs, it is absurd for men to re-invent the wheel. Instead, they have access to a vast library, paper and electronic, touching on every field of scientific inquiry. Here, our knowledge will be immune to decay.;x
+ca_public_schools;Scholarship Programs;x
+ca_public_schools_desc;Landmarks across the wasteland host the children of the rich and powerful for education, but we will go further: all of society must have access to a college education. Only then will we be wise enough to conquer ignorance.;x
+ca_doctoral_program;Doctoral Program;x
+ca_doctoral_program_desc;Our most gifted students should not have to settle for a common degree in their desired field, nor should they be taught by those with only that paltry qualification. Instead, we should offer them a chance at advanced degrees and more knowledge than ever.;x
+ca_medical_wing;Medical Wing;x
+ca_medical_wing_desc;One of the universe's greatest enigmas is the very body each of us possesses. Because so much effort has gone into its study, we have a staff of doctors and surgeons ready to assist people with a variety of ailments and troubles.;x
+ca_applied_science_division;Applied Science Division;x
+ca_applied_science_division_desc;Our scientists are not merely theoreticians, however valuable the pure studies they pursue may be. Many also apply their ample intellects to practical problems of violence, provision, and government.;x
+
+ca_manufactury_1;Manufactury;x
+ca_manufactury_2;Manufactury;x
+ca_manufactury_3;Manufactury;x
+ca_manufactury_4;Manufactury;x
+ca_manufactury_desc;This manufacturing center produces heavy artillery and shells for bombarding the enemy at long range. It also generates some income from serving the civilian market.;x
+
+#Other holding/building/province
+CITY_TAX_MODIFIER;Civilian Revenue;x
+CASTLE_TAX_MODIFIER;Military Revenue;x
+TEMPLE_TAX_MODIFIER;Landmark Revenue;x
+TRIBAL_TAX_MODIFIER;Tribal Revenue;x
+CITY_VASSAL_TAX_MODIFIER;Civilian Tax;x
+CASTLE_VASSAL_TAX_MODIFIER;Military Tax;x
+TEMPLE_VASSAL_TAX_MODIFIER;Landmark Tax;x
+TRIBAL_VASSAL_TAX_MODIFIER;Tribal Tax;x
+CITY_VASSAL_MIN_LEVY;Civilian Min Levy;x
+CASTLE_VASSAL_MIN_LEVY;Military Min Levy;x
+TEMPLE_VASSAL_MIN_LEVY;Church Min Levy;x
+TRIBAL_VASSAL_MIN_LEVY;Camp Min Levy;x
+CITY_VASSAL_MAX_LEVY;Civilian Max Levy;x
+CASTLE_VASSAL_MAX_LEVY;Military Max Lev;x
+TEMPLE_VASSAL_MAX_LEVY;Church Max Levy;x
+TRIBAL_VASSAL_MAX_LEVY;Tribal Max Levy;x

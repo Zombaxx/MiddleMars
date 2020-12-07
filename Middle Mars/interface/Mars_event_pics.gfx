@@ -1,0 +1,31 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_mech_fight"
+		texturefile = "gfx\\event_pictures\mech_fight.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "GFX_mech_defend"
+		texturefile = "gfx\\event_pictures\mech_defend.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_mech_siege"
+		texturefile = "gfx\\event_pictures\mech_siege.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_mech_aftermath"
+		texturefile = "gfx\\event_pictures\mech_aftermath.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_mech_hangar"
+		texturefile = "gfx\\event_pictures\mech_aftermath.dds"
+		allwaystransparent = yes
+	}
+
+
+}

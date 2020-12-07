@@ -32,9 +32,9 @@ technology = {
 		d_rubicon_valles
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 1.5
+		culture = 2.0
 	}
 }
 
@@ -68,9 +68,9 @@ technology = {
 		d_tempe_fossae
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 1.5
+		culture = 1.7
 	}
 }
 
@@ -99,9 +99,9 @@ technology = {
 		d_gigia
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -111,9 +111,9 @@ technology = {
 		d_kinnunes
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -123,9 +123,9 @@ technology = {
 		d_karuti
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -135,9 +135,9 @@ technology = {
 		d_tamafa
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -147,9 +147,9 @@ technology = {
 		d_raripac
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -182,9 +182,9 @@ technology = {
 		d_tithonium_chasma
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 2.5
+		culture = 2.0
 	}
 }
 
@@ -219,9 +219,9 @@ technology = {
 		d_sotogna
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -251,9 +251,9 @@ technology = {
 		d_eponara
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 2.0
 	}
 }
 
@@ -285,9 +285,9 @@ technology = {
 		d_amubasin
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 2.0
+		culture = 2.0
 	}
 }
 
@@ -297,9 +297,9 @@ technology = {
 		d_rohurna
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -309,9 +309,9 @@ technology = {
 		d_dugua
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -343,9 +343,9 @@ technology = {
 		d_nuoja
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 1.7
+		culture = 2.0
 	}
 }
 
@@ -355,9 +355,9 @@ technology = {
 		d_luke
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -395,9 +395,9 @@ technology = {
 		d_niceter
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 1.0
+		culture = 1.2
 	}
 }
 
@@ -407,9 +407,9 @@ technology = {
 		d_kibanna
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -419,9 +419,9 @@ technology = {
 		d_noraimur
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -431,9 +431,9 @@ technology = {
 		d_danyuan
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -464,9 +464,9 @@ technology = {
 		d_refaya
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 0.5
+		culture = 1.0
 	}
 }
 
@@ -476,9 +476,9 @@ technology = {
 		d_rani
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -488,9 +488,9 @@ technology = {
 		d_renes
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -525,9 +525,9 @@ technology = {
 		d_galle
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 2.0
+		culture = 1.5
 	}
 }
 
@@ -569,9 +569,9 @@ technology = {
 		d_lenarma
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 2.0
+		culture = 1.5
 	}
 }
 
@@ -581,9 +581,9 @@ technology = {
 		d_qoza
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.0
+		economy = 0.5
+		culture = 0.5
 	}
 }
 
@@ -593,9 +593,9 @@ technology = {
 		d_sopael
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 0.5
+		culture = 0.5
 	}
 }
 
@@ -638,9 +638,9 @@ technology = {
 		d_naxiska
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 3.9
+		economy = 3.9
+		culture = 3.9
 	}
 }
 
@@ -650,9 +650,9 @@ technology = {
 		d_aradilii
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 0.5
+		economy = 2.5
+		culture = 1.5
 	}
 }
 
@@ -662,9 +662,9 @@ technology = {
 		d_kenalih
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 0.5
+		culture = 2.5
 	}
 }
 
@@ -674,9 +674,9 @@ technology = {
 		d_emarund
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.5
+		economy = 1.5
+		culture = 0.5
 	}
 }
 
@@ -686,9 +686,9 @@ technology = {
 		d_tekinio
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 0.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -721,9 +721,9 @@ technology = {
 		d_kumaod
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 1.5
+		culture = 2.0
 	}
 }
 
@@ -733,9 +733,9 @@ technology = {
 		d_lyaud
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -758,9 +758,9 @@ technology = {
 		d_toheka
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.7
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -770,9 +770,9 @@ technology = {
 		d_nadecca
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -782,9 +782,9 @@ technology = {
 		d_sakayada
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -794,9 +794,9 @@ technology = {
 		d_wonik
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -806,9 +806,9 @@ technology = {
 		d_nagiami
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -818,9 +818,9 @@ technology = {
 		d_ekayada
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -830,9 +830,9 @@ technology = {
 		d_takaret
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -870,9 +870,9 @@ technology = {
 		d_ekepi
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 2.5
+		culture = 2.0
 	}
 }
 
@@ -913,9 +913,9 @@ technology = {
 		d_qanuo
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.8
+		economy = 1.6
+		culture = 1.7
 	}
 }
 
@@ -925,9 +925,9 @@ technology = {
 		d_qadobos
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -937,9 +937,9 @@ technology = {
 		d_kelura
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -949,9 +949,9 @@ technology = {
 		d_tabduida
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -961,9 +961,9 @@ technology = {
 		d_ekumasia
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -1004,9 +1004,9 @@ technology = {
 		d_birania
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.0
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -1053,9 +1053,9 @@ technology = {
 		d_qarar
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 2.5
+		culture = 2.0
 	}
 }
 
@@ -1065,9 +1065,9 @@ technology = {
 		d_bulana
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -1077,9 +1077,9 @@ technology = {
 		d_kyaytok
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -1089,9 +1089,9 @@ technology = {
 		d_etoda
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.5
+		economy = 1.5
+		culture = 1.5
 	}
 }
 
@@ -1147,9 +1147,9 @@ technology = {
 		d_sarerdeg
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 2.5
+		economy = 1.0
+		culture = 2.0
 	}
 }
 

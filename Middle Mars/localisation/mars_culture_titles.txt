@@ -1,0 +1,15 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+king_han;Admiral;;;;;;;;;;;;;x
+king_title_ruler_consort_han;Mr. Admiral;;;;;;;;;;;;x
+king_title_ruler_consort_female_han;Mrs. Admiral;;;;;;;;;;;;;x
+title_prince_han;Cadet;;;;;;;;;;;;;x
+title_prince_female_han;Cadet;;;;;;;;;;;;;x
+duke_han;Captain;;;;;;;;;;;;;x
+duke_title_ruler_consort_han;Mr. Captain;;;;;;;;;;;;x
+duke_title_ruler_consort_female_han;Mrs. Captain;;;;;;;;;;;;;x
+count_han;Commander;;;;;;;;;;;;;x
+count_title_ruler_consort_han;Mr. Commander;;;;;;;;;;;;x
+count_title_ruler_consort_female_han;Mrs. Commander;;;;;;;;;;;;;x
+baron_han;Lieutenant;;;;;;;;;;;;;x
+baron_title_ruler_consort_han;Mr. Lieutenant;;;;;;;;;;;;x
+baron_title_ruler_consort_female_han;Mrs. Lieutenant;;;;;;;;;;;;;x

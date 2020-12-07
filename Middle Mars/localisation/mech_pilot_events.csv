@@ -1,0 +1,31 @@
+#CODE;ENGLISH;;;;;;;;;x
+
+common_mech_suit;Red Fighter;;;;;;;;;;;;;x
+common_mech_suit_desc;This is a Red Fighter, common on the battlefields of Mars. They give the user a tactical edge and greater defense but are often made of shoddy material.;;;;;;;;;;;;;x
+super_mech_suit;AP-6 STRIKER;;;;;;;;;;;;;x
+super_mech_suit_desc;The AP-6 STRIKER is the most advanced Mech Suit designed by Spacer engineers.Equipped with guns and cannons unfamiliar to the people of Mars, it has devastating effect on the battlefield. However, it can be as dangerous to the pilot as to his foe...;;;;;;;;;;;;;x
+mech_suit;Zhao Ranger Mech Suit;;;;;;;;;;;;;x
+mech_suit_desc;This is a Zhao Ranger Mech Suit designed Spacer engineers.It is equipped with an autocannon and automatic defensive capabilities.;;;;;;;;;;;;;x
+weapon;Weapons;;;;;;;;;;;;;x
+usedmech;Mech Power Cooldown;;;;;;;;;;;;;x
+acquire_mech_license;Acquire Mech Piloting License;;;;;;;;;;;;x
+acquire_mech_license_desc;Acquire Mech Piloting License;;;;;;;;;;;;x
+piloting_license;This person is authorized to purchase mech suits.;;;;;;;;;;;;;x
+mech_pilot;Pilot License;;;;;;;;;;;;x
+mech_pilot_desc;This character is authorized to pilot a personalized Mech Suit;;;;;;;;;;;;x
+buy_mech_suit;Purchase your own Combat Mech;;;;;;;;;;;;;x
+buy_mech_suit_desc;Purchase your own Combat Mech Suit;;;;;;;;;;;;;x
+buy_black_mech_suit;Purchase a Mech Suit;;;;;;;;;;;;;x
+buy_black_mech_suit_desc;Look for a Spacer Trader to buy a Mech Suit on the black market;;;;;;;;;;;;;x
+buy_super_mech_suit;Purchase an Advanced Mech Suit;;;;;;;;;;;;;x
+buy_super_mech_suit_desc;Consult your Marshall about purchasing a high end Mech Suit;;;;;;;;;;;;;x
+EVTDESCbuy_mech.1;You have purchased a piloting license and are now authorized to pilot a Combat Mech Suit. Be careful!;;;;;;;;;;;;;x
+EVTbuy_mech.1;This is good.;;;;;;;;;;;;;x
+EVTDESCbuy_mech.2;You enter the hangar, inspecting all the potential mech suits. "That one," you say, pointing to a beautiful mechanized work of art.;;;;;;;;;;;;;x
+EVTbuy_mech.2;I will dominate the battlefield!;;;;;;;;;;;;;x
+buy_mech.3;Mech from Spacer Traders;;;;;;;;;;;;;x
+EVTDESCbuy_mech.3;You meet your contact, a Cetinese trader with a mechanic eye, at a hangar not too far from your capital. "They're masterworks, all. You can't go wrong," he says as he unveils his 'toys' for you to see.;;;;;;;;;;;;;x
+EVTbuy_mech.3;I want that one;;;;;;;;;;;;;x
+buy_mech.4;Super Suit;;;;;;;;;;;;;x
+EVTDESCbuy_mech.4;You've finally accumulated enough money to purchase the AP-6 STRIKER, the most powerful Mech Suit available on Mars. You can barely keep the grin off of your face as the Armor Merchant hands you the keys to the cockpit.;;;;;;;;;;x
+EVTbuy_mech.4;The world is mine!;;;;;;;;;;;;;x

@@ -1,0 +1,15 @@
+zealot_pattern_for = {
+	icon = 5
+	pattern_type = for
+
+	tax_peasants_law_feudal_0 = { always = yes }
+	tax_peasants_law_feudal_1 = { always = yes }
+}
+
+zealot_pattern_against = {
+	icon = 5
+	pattern_type = against
+
+	tax_peasants_law_feudal_2 = { always = yes }
+	tax_peasants_law_feudal_3 = { always = yes }
+}

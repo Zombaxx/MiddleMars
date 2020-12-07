@@ -1,0 +1,1611 @@
+#Special buildings for ideologies, like family palaces but within other holdings
+#Legalist - Conference Center with modules to impress vassals, etc.
+#Militarist - Command Center to improve unit effectiveness, fortification
+#Economist - Economic Bureau for coordinating and supporting economic activity
+#Supremacist - Secret Lair for villainous activities
+#Scientist - Lab Wing for SCIENCE!!!
+castle = {	
+	ca_conference_center = {		
+		desc = ca_conference_center_desc	
+		potential = {	
+			FROM = {		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+				OR = {	
+					real_tier = KING	
+					real_tier = EMPEROR	
+					AND = {	
+						real_tier = DUKE	
+						#independent = yes	
+					}	
+				}	
+			}	
+		}	
+		trigger = { TECH_CONSTRUCTION = 0 }	
+		gold_cost = 200	
+		build_time = 730	
+		diplomacy = 5	
+			ai_creation_factor = 90	
+		extra_tech_building_start = 100	
+		add_number_to_name = no	
+		court_size_modifier = 2
+	}
+	ca_assembly_chamber = {
+		desc = ca_assembly_chamber_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		vassal_opinion = 10
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		court_size_modifier = 2
+	}
+	ca_high_court = {
+		desc = ca_high_court_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		culture_techpoints = 0.10
+	}
+	ca_peace_monument = {
+		desc = ca_peace_monument_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_seminar_series = {
+		desc = ca_seminar_series_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		culture_techpoints = 0.10
+	}
+	ca_cultural_exchange = {
+		desc = ca_cultural_exchange_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		general_opinion = 10
+		culture_techpoints = 0.25
+	}
+	ca_central_command = {
+		desc = ca_central_command_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		martial = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		court_size_modifier = 5
+		fort_level = 2
+		levy_reinforce_rate = 0.50
+		garrison_size = 0.25
+	}
+	ca_officer_academy = {
+		desc = ca_officer_academy_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		commander_limit = 10
+	}
+	ca_communications_center = {
+		desc = ca_communications_center_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		levy_reinforce_rate = 0.15
+		garrison_size = 0.05
+		retinuesize_perc = 5
+	}
+	ca_recruitment_office = {
+		desc = ca_recruitment_office_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		levy_reinforce_rate = 1.0
+	}
+	ca_special_projects_division = {
+		desc = ca_special_projects_division_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100	
+		add_number_to_name = no
+		military_techpoints = 0.5
+	}
+	ca_victory_monument = {
+		desc = ca_victory_monument_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+		culture_techpoints = 0.10
+	}
+	ca_economic_bureau = {
+		desc = ca_economic_bureau_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 50
+		build_time = 360
+		stewardship = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		tax_income = 5
+	}
+	ca_central_bank = {
+		desc = ca_central_bank_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		tax_income = 2
+		global_tax_modifier = -0.25
+	}
+	ca_stock_market = {
+		desc = ca_stock_market_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		global_tax_modifier = 0.25
+		tax_income = 2
+	}
+	ca_reformed_civil_service = {
+		desc = ca_reformed_civil_service_desc	
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		global_tax_modifier = -0.25
+		tax_income = 2
+		demesne_size = 2
+	}
+	ca_infrastructure_program = {
+		desc = ca_infrastructure_program_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		court_size_modifier = 2
+		global_tax_modifier = -0.05
+		fort_level = 1
+		}
+	ca_economic_analysis = {
+		desc = ca_economic_analysis_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		economy_techpoints = 0.1
+		global_tax_modifier = -0.05
+		tax_income = 0.1
+	}
+	ca_secret_lair = {
+		desc = ca_secret_lair_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		intrigue = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_underground_location = {
+		desc = ca_underground_location_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		fort_level = 10.0
+	}
+	ca_self_destruct = {
+		desc = ca_self_destruct_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_shadowy_contacts = {
+		desc = ca_shadowy_contacts_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+			plot_power = 10
+	}
+	ca_exotic_pets = {
+		desc = ca_exotic_pets_desc	
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_research_facility = {
+		desc = ca_research_facility_desc
+		potential = {
+			FROM = {	
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		learning = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_research_library = {
+		desc = ca_research_library_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_public_schools = {
+		desc = ca_public_schools_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 150
+		build_time = 730
+		tech_growth_modifier = 1
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		global_tax_modifier = -0.1
+		economy_techpoints = 0.5
+		military_techpoints = 0.5
+		culture_techpoints = 0.25
+	}
+	ca_doctoral_program = {
+		desc = ca_doctoral_program_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		economy_techpoints = 0.02
+		military_techpoints = 0.01
+		culture_techpoints = 0.05
+	}
+	ca_medical_wing = {
+		desc = ca_medical_wing_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		disease_defence = 0.25
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		economy_techpoints = 0.02
+		military_techpoints = 0.01
+		culture_techpoints = 0.05
+	}
+	ca_applied_science_division = {
+		desc = ca_applied_science_division_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		military_techpoints = 0.1
+		economy_techpoints = 0.1	
+		culture_techpoints = 0.1		
+	}
+}
+city = {
+	ca_conference_center = {		
+		desc = ca_conference_center_desc	
+		potential = {	
+			FROM = {		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+				OR = {	
+					real_tier = KING	
+					real_tier = EMPEROR	
+					AND = {	
+						real_tier = DUKE	
+						#independent = yes	
+					}	
+				}	
+			}	
+		}	
+		trigger = { TECH_CONSTRUCTION = 0 }	
+		gold_cost = 200	
+		build_time = 730	
+		diplomacy = 5	
+			ai_creation_factor = 90	
+		extra_tech_building_start = 100	
+		add_number_to_name = no	
+	}
+	ca_assembly_chamber = {
+		desc = ca_assembly_chamber_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		vassal_opinion = 10
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_high_court = {
+		desc = ca_high_court_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		culture_techpoints = 0.1
+	}
+	ca_peace_monument = {
+		desc = ca_peace_monument_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+		culture_techpoints = 0.05
+	}
+	ca_seminar_series = {
+		desc = ca_seminar_series_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		culture_techpoints = 0.15
+	}
+	ca_cultural_exchange = {
+		desc = ca_cultural_exchange_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		general_opinion = 10
+		culture_techpoints = 0.25
+	}
+	ca_central_command = {
+		desc = ca_central_command_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		martial = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_officer_academy = {
+		desc = ca_officer_academy_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		commander_limit = 10
+	}
+	ca_communications_center = {
+		desc = ca_communications_center_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		retinuesize_perc = 5
+	}
+	ca_recruitment_office = {
+		desc = ca_recruitment_office_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		levy_reinforce_rate = 1.0
+	}
+	ca_special_projects_division = {
+		desc = ca_special_projects_division_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100	
+		add_number_to_name = no
+		military_techpoints = 0.1
+	}
+	ca_victory_monument = {
+		desc = ca_victory_monument_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+		culture_techpoints = 0.05
+	}
+	ca_economic_bureau = {
+		desc = ca_economic_bureau_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		stewardship = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		tax_income = 0.3
+	}
+	ca_central_bank = {
+		desc = ca_central_bank_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_stock_market = {
+		desc = ca_stock_market_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		global_tax_modifier = 0.25
+	}
+	ca_reformed_civil_service = {
+		desc = ca_reformed_civil_service_desc	
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		demesne_size = 2
+	}
+	ca_infrastructure_program = {
+		desc = ca_infrastructure_program_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		}
+	ca_economic_analysis = {
+		desc = ca_economic_analysis_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		economy_techpoints = 0.1
+	}
+	ca_secret_lair = {
+		desc = ca_secret_lair_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		intrigue = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_underground_location = {
+		desc = ca_underground_location_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		fort_level = 10.0
+	}
+	ca_self_destruct = {
+		desc = ca_self_destruct_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_shadowy_contacts = {
+		desc = ca_shadowy_contacts_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+			plot_power = 10
+	}
+	ca_nazi_scientists = {
+		desc = ca_nazi_scientists_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_exotic_pets = {
+		desc = ca_exotic_pets_desc	
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_research_facility = {
+		desc = ca_research_facility_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		learning = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_research_library = {
+		desc = ca_research_library_desc
+		potential = {
+			has_building = ca_research_facility 
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_public_schools = {
+		desc = ca_public_schools_desc
+		potential = {
+			has_building = ca_research_facility 
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		tech_growth_modifier = 1
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_doctoral_program = {
+		desc = ca_doctoral_program_desc
+		potential = {
+			has_building = ca_research_facility 
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_medical_wing = {
+		desc = ca_medical_wing_desc
+		potential = {
+			has_building = ca_research_facility 
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		disease_defence = 0.25
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_applied_science_division = {
+		desc = ca_applied_science_division_desc
+		potential = {
+			has_building = ca_research_facility 
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		military_techpoints = 0.1
+		economy_techpoints = 0.1	
+		culture_techpoints = 0.1		
+	}
+}
+temple = {
+	ca_conference_center = {		
+		desc = ca_conference_center_desc	
+		potential = {	
+			FROM = {		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+				OR = {	
+					real_tier = KING	
+					real_tier = EMPEROR	
+					AND = {	
+						real_tier = DUKE	
+						#independent = yes	
+					}	
+				}	
+			}	
+		}	
+		trigger = { TECH_CONSTRUCTION = 0 }	
+		gold_cost = 200	
+		build_time = 730	
+		diplomacy = 5	
+			ai_creation_factor = 90	
+		extra_tech_building_start = 100	
+		add_number_to_name = no	
+	}
+	ca_assembly_chamber = {
+		desc = ca_assembly_chamber_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		vassal_opinion = 10
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_high_court = {
+		desc = ca_high_court_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_peace_monument = {
+		desc = ca_peace_monument_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_seminar_series = {
+		desc = ca_seminar_series_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		culture_techpoints = 0.10
+	}
+	ca_cultural_exchange = {
+		desc = ca_cultural_exchange_desc
+		potential = {
+			has_building = ca_conference_center
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		general_opinion = 10
+	}
+	ca_central_command = {
+		desc = ca_central_command_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		martial = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_officer_academy = {
+		desc = ca_officer_academy_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		commander_limit = 10
+	}
+	ca_communications_center = {
+		desc = ca_communications_center_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		retinuesize_perc = 5
+	}
+	ca_recruitment_office = {
+		desc = ca_recruitment_office_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		levy_reinforce_rate = 1.0
+	}
+	ca_special_projects_division = {
+		desc = ca_special_projects_division_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100	
+		add_number_to_name = no
+		military_techpoints = 0.1
+	}
+	ca_victory_monument = {
+		desc = ca_victory_monument_desc
+		potential = {
+			has_building = ca_central_command
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_economic_bureau = {
+		desc = ca_economic_bureau_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		stewardship = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_central_bank = {
+		desc = ca_central_bank_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_stock_market = {
+		desc = ca_stock_market_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		global_tax_modifier = 0.25
+	}
+	ca_reformed_civil_service = {
+		desc = ca_reformed_civil_service_desc	
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		demesne_size = 2
+	}
+	ca_infrastructure_program = {
+		desc = ca_infrastructure_program_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		}
+	ca_economic_analysis = {
+		desc = ca_economic_analysis_desc
+		potential = {
+			has_building = ca_economic_bureau
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		economy_techpoints = 0.1
+	}
+	ca_secret_lair = {
+		desc = ca_secret_lair_desc
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		intrigue = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_underground_location = {
+		desc = ca_underground_location_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		fort_level = 10.0
+	}
+	ca_self_destruct = {
+		desc = ca_self_destruct_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_shadowy_contacts = {
+		desc = ca_shadowy_contacts_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100	
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+			plot_power = 10
+	}
+	ca_nazi_scientists = {
+		desc = ca_nazi_scientists_desc
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_exotic_pets = {
+		desc = ca_exotic_pets_desc	
+		potential = {
+			has_building = ca_secret_lair
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		monthly_character_prestige = 1.0
+	}
+	ca_research_facility = {
+		desc = ca_research_facility_desc
+		potential = {
+			FROM = {	
+				capital_holding = {
+					title = FROMFROM
+				}
+				OR = {
+					real_tier = KING
+					real_tier = EMPEROR
+					AND = {
+						real_tier = DUKE
+						#independent = yes
+					}
+				}
+			}
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 200
+		build_time = 730
+		learning = 5
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_research_library = {
+		desc = ca_research_library_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_public_schools = {
+		desc = ca_public_schools_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		tech_growth_modifier = 1
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_doctoral_program = {
+		desc = ca_doctoral_program_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_medical_wing = {
+		desc = ca_medical_wing_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		disease_defence = 0.25
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+	}
+	ca_applied_science_division = {
+		desc = ca_applied_science_division_desc
+		potential = {
+			has_building = ca_research_facility
+		}
+		trigger = { TECH_CONSTRUCTION = 0 }
+		gold_cost = 100
+		build_time = 730
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
+		military_techpoints = 0.1
+		economy_techpoints = 0.1	
+		culture_techpoints = 0.1		
+	}
+}
+castle = {
+	ca_manufactury_1 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 5 }
+		gold_cost = 200
+		build_time = 360		ai_creation_factor = 120		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 5	#artillery
+	}
+	ca_manufactury_2 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_1		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		gold_cost = 100
+		build_time = 540		ai_creation_factor = 100		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 10	#artillery
+	}
+	ca_manufactury_3 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_2
+		trigger = { TECH_CASTLE_CONSTRUCTION = 7 }
+		gold_cost = 400
+		build_time = 720		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 15	#artillery
+	}
+	ca_manufactury_4 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_3
+		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
+		gold_cost = 200
+		build_time = 900		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 20	#artillery
+	}
+	ca_heritage_room = {	#the good, the true, the cozy af
+		potential = {
+			FROMFROM = { title = b_hillsdale_MI }
+		}
+		trigger = { TECH_MAJESTY = 4 }
+		desc = ca_heritage_room_desc
+		gold_cost = 400
+		build_time = 360		culture_techpoints = 0.05		monthly_character_prestige = 1.0	
+		ai_creation_factor = 100
+	}		
+}
+city = {
+	ca_manufactury_1 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 5 }
+		gold_cost = 200
+		build_time = 360		ai_creation_factor = 120		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 5	#artillery
+	}
+	ca_manufactury_2 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_1		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		gold_cost = 100
+		build_time = 540		ai_creation_factor = 100		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 10	#artillery
+	}
+	ca_manufactury_3 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_2
+		trigger = { TECH_CASTLE_CONSTRUCTION = 7 }
+		gold_cost = 400
+		build_time = 720		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 15	#artillery
+	}
+	ca_manufactury_4 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_3
+		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
+		gold_cost = 200
+		build_time = 900		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 20	#artillery
+	}
+
+	ca_heritage_room = {
+		potential = {
+			FROMFROM = { title = b_hillsdale_mi }
+		}
+		trigger = { TECH_MAJESTY = 4 }
+		desc = ca_heritage_room_desc
+		gold_cost = 400
+		build_time = 360		culture_techpoints = 0.05		monthly_character_prestige = 1.0	
+		ai_creation_factor = 100
+	}
+
+}
+temple = {
+	ca_manufactury_1 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 5 }
+		gold_cost = 200
+		build_time = 360		ai_creation_factor = 120		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 5	#artillery
+	}
+	ca_manufactury_2 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_1		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
+		gold_cost = 100
+		build_time = 540		ai_creation_factor = 100		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 10	#artillery
+	}
+	ca_manufactury_3 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_2
+		trigger = { TECH_CASTLE_CONSTRUCTION = 7 }
+		gold_cost = 400
+		build_time = 720		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 15	#artillery
+	}
+	ca_manufactury_4 = {
+		desc = ca_manufactury_desc
+		potential = { 
+			OR = {
+				culture_group = old_canadian
+				culture_group = old_american
+				culture_group = old_latino
+				culture_group = old_caribbean
+				culture_group = old_south_american
+			}
+		}		upgrades_from = ca_manufactury_3
+		trigger = { TECH_CASTLE_CONSTRUCTION = 8 }
+		gold_cost = 200
+		build_time = 900		ai_creation_factor = 80		extra_tech_building_start = 100
+		tax_income = 2	
+		war_elephants = 20	#artillery
+	}
+
+	ca_heritage_room = {
+		potential = {
+			FROMFROM = { title = b_hillsdale_mi }
+		}
+		trigger = { TECH_MAJESTY = 4 }
+		desc = ca_heritage_room_desc
+		gold_cost = 400
+		build_time = 360		culture_techpoints = 0.05		monthly_character_prestige = 1.0	
+		ai_creation_factor = 100
+	}
+
+}	

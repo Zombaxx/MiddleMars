@@ -1,0 +1,25 @@
+usedmech = {
+	icon = 8
+	hidden = yes
+}
+recentmechbattle = {
+	icon = 8
+	hidden = yes
+}
+peasants_lenient_tax = {
+	local_tax_modifier = 0.05
+	icon = 24
+}
+peasants_high_tax = {
+	local_tax_modifier = 0.10
+	icon = 24
+}
+peasants_brutal_tax = {
+	local_tax_modifier = 0.25
+	icon = 6
+}
+
+peasants_horrying_tax = {
+	local_tax_modifier = 0.50
+	icon = 6
+}

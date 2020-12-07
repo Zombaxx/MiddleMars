@@ -1,0 +1,159 @@
+decisions = {
+	acquire_mech_license = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+		}
+		allow = {
+			in_command = no
+			age = 14
+			OR = {
+				religion = taoist
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}
+			prisoner = no
+			wealth = 75
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+			NOT = { trait = mech_pilot }
+		}
+		effect = { 
+				character_event = { id = buy_mech.1 } 
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0.02
+				NOT = { religion = taoist }
+			} 
+			modifier = {
+				factor = 0.25
+				NOT = { learning = 8 }
+			} 
+		}
+	}	
+	
+	buy_mech_suit = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+		}
+		allow = {
+			in_command = no
+			trait = mech_pilot
+			age = 14
+			prisoner = no
+			OR = {
+				religion = taoist
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}
+			wealth = 300
+			NOT = { has_artifact = mech_suit }
+			NOT = { has_artifact = common_mech_suit }
+			NOT = { has_artifact = super_mech_suit }
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				character_event = { id = buy_mech.2 } 
+			
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1 
+			modifier = {
+				factor = 0.02
+				NOT = { religion = taoist }
+			} 
+		}
+	}	
+	
+	buy_black_mech_suit = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+		}
+		allow = {
+			in_command = no
+			age = 14
+			prisoner = no
+			wealth = 150
+			OR = {
+				religion = taoist
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}
+			NOT = { has_artifact = mech_suit }
+			NOT = { has_artifact = common_mech_suit }
+			NOT = { has_artifact = super_mech_suit }
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				character_event = { id = buy_mech.3 } 
+			
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1 
+			modifier = {
+				factor = 0.05 #slow it down
+				NOT = { religion = taoist }
+			}
+			modifier = {
+				factor = 0.02 #We have access to better mech
+				religion = taoist
+			} 
+		}
+	}		
+
+	buy_super_mech_suit = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+		}
+		allow = {
+			in_command = no
+			trait = mech_pilot
+			age = 14
+			prisoner = no
+			wealth = 600
+			religion = taoist
+			NOT = { has_artifact = mech_suit }
+			NOT = { has_artifact = common_mech_suit }
+			NOT = { has_artifact = super_mech_suit }
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				character_event = { id = buy_mech.4 } 
+			
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 100 
+
+			modifier = {
+				factor = 0.02
+				martial < 12 
+			}
+		}
+	}		
