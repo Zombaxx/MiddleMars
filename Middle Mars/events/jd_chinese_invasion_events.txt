@@ -1987,12 +1987,12 @@ character_event = {
 				create_character = {
 					random_traits = yes
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -2049,12 +2049,12 @@ character_event = {
 				new_character = {
 					add_trait = ambitious
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -2114,12 +2114,12 @@ character_event = {
 				create_character = {
 					random_traits = yes
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -2176,12 +2176,12 @@ character_event = {
 				new_character = {
 					add_trait = ambitious
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -2281,33 +2281,42 @@ character_event = {
 			random_traits = yes
 			religion = taoist
 			random_list = {
-				20 = { }
-				10 = { add_trait = odin_mk_i }
-				15 = odin_mk_i
-				10 = thoth_mk_i
-				15 = iaei_mk_i
-				10 = pci_mk_i
-				10 = cybernetic_limb
-				10 = cybernetic_leg
-			}
-			random_list = {
-				40 = { }
-				10 = { add_trait = odin_mk_i }
-				10 = odin_mk_ii
-				10 = thoth_mk_ii
-				10 = iaei_mk_ii
-				10 = pci_mk_ii
-				5 = cybernetic_skeleton
-				1 = full_cybernetic_conversion
-				4 = hiver_implant
+				75 = { }
+				25 = { add_trait = cybernetic_leg }
 			}
 			random_list = {
 				75 = { }
-				5 = { add_trait = odin_mk_i }
-				5 = odin_mk_iii
-				5 = thoth_mk_iii
-				5 = iaei_mk_iii
-				5 = pci_mk_iii
+				25 = { add_trait = cybernetic_limb }
+			}
+			random_list = {
+				95 = { }
+				25 = { add_trait = cybernetic_skeleton }
+			}				
+			random_list = {
+				20 = { }
+				20 = { add_trait = odin_mk_i }
+				20 = { add_trait = thoth_mk_i }
+				20 = { add_trait = iaei_mk_i }
+				20 = { add_trait = pci_mk_i }
+			}
+			random_list = {
+				40 = { }
+				15 = { add_trait = odin_mk_ii }
+				15 = { add_trait = thoth_mk_ii }
+				15 = { add_trait = iaei_mk_ii }
+				15 = { add_trait = pci_mk_ii }
+			}
+			random_list = {
+				60 = { }
+				10 = { add_trait = odin_mk_iii }
+				10 = { add_trait = thoth_mk_iii }
+				10 = { add_trait = iaei_mk_iii }
+				10 = { add_trait = pci_mk_iii }
+			}
+			random_list = {
+				95 = { }
+				1 = { add_trait = full_cybernetic_conversion }
+				4 = { add_trait = hiver_implant }
 			}
 			culture = event_target:previousEmperor 
 			dynasty = event_target:previousEmperor
@@ -3012,12 +3021,8 @@ character_event = {
 					age = 27
 					random_traits = yes
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
 						90 = { }
@@ -3078,12 +3083,12 @@ character_event = {
 					age = 36
 					random_traits = yes
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3144,12 +3149,12 @@ character_event = {
 					age = 52
 					random_traits = yes
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3211,12 +3216,12 @@ character_event = {
 			add_trait = ambitious
 			add_trait = brave
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3441,12 +3446,12 @@ character_event = {
 					age = 24
 					random_traits = yes
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3503,12 +3508,12 @@ character_event = {
 						age = 6
 						random_traits = yes
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						20 = { }
@@ -3536,12 +3541,12 @@ character_event = {
 						female = 50
 						religion = taoist
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3608,12 +3613,12 @@ character_event = {
 					culture = han
 					historical = yes
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3657,12 +3662,12 @@ character_event = {
 						religion = taoist
 						culture = han
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3700,12 +3705,12 @@ character_event = {
 						religion = taoist
 						culture = han
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3743,12 +3748,12 @@ character_event = {
 						religion = taoist
 						culture = han
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3789,12 +3794,12 @@ character_event = {
 					religion = taoist
 					culture = han
 				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }
@@ -3896,12 +3901,12 @@ character_event = {
 						religion = taoist
 						culture = han
 					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
+						80 = { }
+						20 = { add_trait = heavy_worlder }
 					}
 					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
+						25 = { }
+						75 = { add_trait = spacer_physiology }
 					}
 					random_list = {
 						90 = { }

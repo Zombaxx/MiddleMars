@@ -124198,6 +124198,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = fair
@@ -124216,6 +124217,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108520
 	967.1.1={
 		birth="967.1.1"
@@ -124229,6 +124231,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108521
 	999.1.1={
 		birth="999.1.1"
@@ -124245,6 +124248,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108521
 	1003.1.1={
 		birth="1003.1.1"
@@ -124258,6 +124262,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1006.1.1={
 		birth="1006.1.1"
 		effect={ dynasty = father_bastard }
@@ -124274,6 +124279,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108522
 	mother = 108524
 	1029.1.1={
@@ -124288,6 +124294,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108522
 	mother = 108524
 	1030.1.1={
@@ -124302,6 +124309,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108522
 	mother = 108524
 	1034.1.1={
@@ -124317,6 +124325,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108523
 	1029.1.1={
 		birth="1029.1.1"
@@ -124330,6 +124339,7 @@
 	dynasty = 108520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108523
 	1034.1.1={
 		birth="1034.1.1"
@@ -124487,6 +124497,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -124504,6 +124515,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108540
 	968.1.1={
 		birth="968.1.1"
@@ -124517,6 +124529,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108541
 	1008.1.1={
 		birth="1008.1.1"
@@ -124533,6 +124546,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108541
 	1013.1.1={
 		birth="1013.1.1"
@@ -124546,6 +124560,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1018.1.1={
 		birth="1018.1.1"
 		effect={ dynasty = father_bastard }
@@ -124562,6 +124577,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108542
 	mother = 108544
 	1042.1.1={
@@ -124577,6 +124593,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108542
 	mother = 108544
 	1046.1.1={
@@ -124591,6 +124608,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108542
 	mother = 108544
 	1049.1.1={
@@ -124605,6 +124623,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108543
 	1037.1.1={
 		birth="1037.1.1"
@@ -124619,6 +124638,7 @@
 	dynasty = 108540
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108543
 	1042.1.1={
 		birth="1042.1.1"
@@ -126093,6 +126113,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -126110,6 +126131,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108650
 	987.1.1={
 		birth="987.1.1"
@@ -126123,6 +126145,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108651
 	1011.1.1={
 		birth="1011.1.1"
@@ -126139,6 +126162,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108651
 	1014.1.1={
 		birth="1014.1.1"
@@ -126152,6 +126176,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1013.1.1={
 		birth="1013.1.1"
 		effect={ dynasty = father_bastard }
@@ -126168,6 +126193,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108652
 	mother = 108654
 	1038.1.1={
@@ -126182,6 +126208,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108652
 	mother = 108654
 	1040.1.1={
@@ -126197,6 +126224,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108652
 	mother = 108654
 	1044.1.1={
@@ -126211,6 +126239,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108653
 	1038.1.1={
 		birth="1038.1.1"
@@ -126225,6 +126254,7 @@
 	dynasty = 108650
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108653
 	1040.1.1={
 		birth="1040.1.1"
@@ -126385,6 +126415,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = quick
@@ -126403,6 +126434,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108670
 	974.1.1={
 		birth="974.1.1"
@@ -126416,6 +126448,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108671
 	1000.1.1={
 		birth="1000.1.1"
@@ -126432,6 +126465,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108671
 	1005.1.1={
 		birth="1005.1.1"
@@ -126445,6 +126479,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1012.1.1={
 		birth="1012.1.1"
 		effect={ dynasty = father_bastard }
@@ -126461,6 +126496,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108672
 	mother = 108674
 	1032.1.1={
@@ -126475,6 +126511,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108672
 	mother = 108674
 	1035.1.1={
@@ -126490,6 +126527,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108672
 	mother = 108674
 	1039.1.1={
@@ -126505,6 +126543,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108673
 	1028.1.1={
 		birth="1028.1.1"
@@ -126519,6 +126558,7 @@
 	dynasty = 108670
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108673
 	1029.1.1={
 		birth="1029.1.1"
@@ -129567,6 +129607,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -129586,6 +129627,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108890
 	981.1.1={
 		birth="981.1.1"
@@ -129599,6 +129641,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108891
 	1011.1.1={
 		birth="1011.1.1"
@@ -129615,6 +129658,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108891
 	1013.1.1={
 		birth="1013.1.1"
@@ -129628,6 +129672,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1018.1.1={
 		birth="1018.1.1"
 		effect={ dynasty = father_bastard }
@@ -129645,6 +129690,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108892
 	mother = 108894
 	1040.1.1={
@@ -129660,6 +129706,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108892
 	mother = 108894
 	1044.1.1={
@@ -129675,6 +129722,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108892
 	mother = 108894
 	1047.1.1={
@@ -129689,6 +129737,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108893
 	1034.1.1={
 		birth="1034.1.1"
@@ -129702,6 +129751,7 @@
 	dynasty = 108890
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 108893
 	1038.1.1={
 		birth="1038.1.1"
@@ -132922,6 +132972,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = fair
@@ -132940,6 +132991,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109120
 	979.1.1={
 		birth="979.1.1"
@@ -132953,6 +133005,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109121
 	1013.1.1={
 		birth="1013.1.1"
@@ -132969,6 +133022,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109121
 	1018.1.1={
 		birth="1018.1.1"
@@ -132982,6 +133036,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1012.1.1={
 		birth="1012.1.1"
 		effect={ dynasty = father_bastard }
@@ -132998,6 +133053,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109122
 	mother = 109124
 	1034.1.1={
@@ -133012,6 +133068,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109122
 	mother = 109124
 	1036.1.1={
@@ -133027,6 +133084,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109122
 	mother = 109124
 	1041.1.1={
@@ -133042,6 +133100,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109123
 	1040.1.1={
 		birth="1040.1.1"
@@ -133056,6 +133115,7 @@
 	dynasty = 109120
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109123
 	1043.1.1={
 		birth="1043.1.1"
@@ -133069,6 +133129,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -133086,6 +133147,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109130
 	989.1.1={
 		birth="989.1.1"
@@ -133099,6 +133161,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109131
 	1011.1.1={
 		birth="1011.1.1"
@@ -133115,6 +133178,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109131
 	1013.1.1={
 		birth="1013.1.1"
@@ -133128,6 +133192,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1024.1.1={
 		birth="1024.1.1"
 		effect={ dynasty = father_bastard }
@@ -133144,6 +133209,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109132
 	mother = 109134
 	1044.1.1={
@@ -133158,6 +133224,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109132
 	mother = 109134
 	1045.1.1={
@@ -133173,6 +133240,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109132
 	mother = 109134
 	1050.1.1={
@@ -133187,6 +133255,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109133
 	1042.1.1={
 		birth="1042.1.1"
@@ -133200,6 +133269,7 @@
 	dynasty = 109130
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109133
 	1047.1.1={
 		birth="1047.1.1"
@@ -135112,6 +135182,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -135129,6 +135200,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109280
 	981.1.1={
 		birth="981.1.1"
@@ -135142,6 +135214,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109281
 	1009.1.1={
 		birth="1009.1.1"
@@ -135158,6 +135231,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109281
 	1011.1.1={
 		birth="1011.1.1"
@@ -135171,6 +135245,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1016.1.1={
 		birth="1016.1.1"
 		effect={ dynasty = father_bastard }
@@ -135187,6 +135262,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109282
 	mother = 109284
 	1043.1.1={
@@ -135202,6 +135278,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109282
 	mother = 109284
 	1046.1.1={
@@ -135217,6 +135294,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109282
 	mother = 109284
 	1051.1.1={
@@ -135231,6 +135309,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109283
 	1032.1.1={
 		birth="1032.1.1"
@@ -135245,6 +135324,7 @@
 	dynasty = 109280
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109283
 	1033.1.1={
 		birth="1033.1.1"
@@ -135258,6 +135338,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -135275,6 +135356,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109290
 	984.1.1={
 		birth="984.1.1"
@@ -135288,6 +135370,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109291
 	1008.1.1={
 		birth="1008.1.1"
@@ -135304,6 +135387,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109291
 	1010.1.1={
 		birth="1010.1.1"
@@ -135317,6 +135401,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1018.1.1={
 		birth="1018.1.1"
 		effect={ dynasty = father_bastard }
@@ -135333,6 +135418,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109292
 	mother = 109294
 	1037.1.1={
@@ -135347,6 +135433,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109292
 	mother = 109294
 	1041.1.1={
@@ -135362,6 +135449,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109292
 	mother = 109294
 	1042.1.1={
@@ -135377,6 +135465,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109293
 	1035.1.1={
 		birth="1035.1.1"
@@ -135390,6 +135479,7 @@
 	dynasty = 109290
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109293
 	1036.1.1={
 		birth="1036.1.1"
@@ -136541,6 +136631,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -136559,6 +136650,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109360
 	975.1.1={
 		birth="975.1.1"
@@ -136573,6 +136665,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109361
 	1011.1.1={
 		birth="1011.1.1"
@@ -136590,6 +136683,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109361
 	1012.1.1={
 		birth="1012.1.1"
@@ -136603,6 +136697,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1018.1.1={
 		birth="1018.1.1"
 		effect={ dynasty = father_bastard }
@@ -136620,6 +136715,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109362
 	mother = 109364
 	trait = iaei_mk_iii
@@ -136637,6 +136733,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109362
 	mother = 109364
 	trait = odin_mk_ii
@@ -136655,6 +136752,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109362
 	mother = 109364
 	1048.1.1={
@@ -136670,6 +136768,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109363
 	1041.1.1={
 		birth="1041.1.1"
@@ -136684,6 +136783,7 @@
 	trait = spacer_physiology
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109363
 	1046.1.1={
 		birth="1046.1.1"
@@ -138167,6 +138267,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -138185,6 +138286,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109480
 	984.1.1={
 		birth="984.1.1"
@@ -138198,6 +138300,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109481
 	1006.1.1={
 		birth="1006.1.1"
@@ -138214,6 +138317,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109481
 	1007.1.1={
 		birth="1007.1.1"
@@ -138227,6 +138331,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -138243,6 +138348,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109482
 	mother = 109484
 	1038.1.1={
@@ -138258,6 +138364,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109482
 	mother = 109484
 	1039.1.1={
@@ -138272,6 +138379,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109482
 	mother = 109484
 	1042.1.1={
@@ -138287,6 +138395,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109483
 	1028.1.1={
 		birth="1028.1.1"
@@ -138300,6 +138409,7 @@
 	dynasty = 109480
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109483
 	1031.1.1={
 		birth="1031.1.1"
@@ -138313,6 +138423,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = elusive_shadow
 	intrigue = 10
 	trait = quick
@@ -138331,6 +138442,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109490
 	979.1.1={
 		birth="979.1.1"
@@ -138344,6 +138456,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109491
 	1000.1.1={
 		birth="1000.1.1"
@@ -138360,6 +138473,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109491
 	1003.1.1={
 		birth="1003.1.1"
@@ -138373,6 +138487,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1002.1.1={
 		birth="1002.1.1"
 		effect={ dynasty = father_bastard }
@@ -138389,6 +138504,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109492
 	mother = 109494
 	1029.1.1={
@@ -138403,6 +138519,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109492
 	mother = 109494
 	1034.1.1={
@@ -138418,6 +138535,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109492
 	mother = 109494
 	1035.1.1={
@@ -138432,6 +138550,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109493
 	1031.1.1={
 		birth="1031.1.1"
@@ -138446,6 +138565,7 @@
 	dynasty = 109490
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109493
 	1033.1.1={
 		birth="1033.1.1"
@@ -138459,6 +138579,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -138476,6 +138597,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109500
 	972.1.1={
 		birth="972.1.1"
@@ -138489,6 +138611,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109501
 	1012.1.1={
 		birth="1012.1.1"
@@ -138505,6 +138628,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109501
 	1016.1.1={
 		birth="1016.1.1"
@@ -138518,6 +138642,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1023.1.1={
 		birth="1023.1.1"
 		effect={ dynasty = father_bastard }
@@ -138534,6 +138659,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109502
 	mother = 109504
 	1046.1.1={
@@ -138549,6 +138675,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109502
 	mother = 109504
 	1049.1.1={
@@ -138564,6 +138691,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109502
 	mother = 109504
 	1050.1.1={
@@ -138578,6 +138706,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109503
 	1043.1.1={
 		birth="1043.1.1"
@@ -138592,6 +138721,7 @@
 	dynasty = 109500
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109503
 	1046.1.1={
 		birth="1046.1.1"
@@ -138753,6 +138883,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = elusive_shadow
 	intrigue = 10
 	trait = genius
@@ -138771,6 +138902,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109520
 	976.1.1={
 		birth="976.1.1"
@@ -138784,6 +138916,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109521
 	1004.1.1={
 		birth="1004.1.1"
@@ -138800,6 +138933,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109521
 	1007.1.1={
 		birth="1007.1.1"
@@ -138813,6 +138947,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1010.1.1={
 		birth="1010.1.1"
 		effect={ dynasty = father_bastard }
@@ -138829,6 +138964,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109522
 	mother = 109524
 	1035.1.1={
@@ -138843,6 +138979,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109522
 	mother = 109524
 	1040.1.1={
@@ -138858,6 +138995,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109522
 	mother = 109524
 	1045.1.1={
@@ -138872,6 +139010,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109523
 	1036.1.1={
 		birth="1036.1.1"
@@ -138886,6 +139025,7 @@
 	dynasty = 109520
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109523
 	1037.1.1={
 		birth="1037.1.1"
@@ -138899,6 +139039,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = elusive_shadow
 	intrigue = 10
 	trait = one_eyed
@@ -138917,6 +139058,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109530
 	973.1.1={
 		birth="973.1.1"
@@ -138930,6 +139072,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109531
 	995.1.1={
 		birth="995.1.1"
@@ -138946,6 +139089,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109531
 	999.1.1={
 		birth="999.1.1"
@@ -138959,6 +139103,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1009.1.1={
 		birth="1009.1.1"
 		effect={ dynasty = father_bastard }
@@ -138975,6 +139120,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109532
 	mother = 109534
 	1029.1.1={
@@ -138989,6 +139135,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109532
 	mother = 109534
 	1031.1.1={
@@ -139004,6 +139151,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109532
 	mother = 109534
 	1033.1.1={
@@ -139019,6 +139167,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109533
 	1023.1.1={
 		birth="1023.1.1"
@@ -139032,6 +139181,7 @@
 	dynasty = 109530
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109533
 	1026.1.1={
 		birth="1026.1.1"
@@ -140066,6 +140216,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -140083,6 +140234,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109610
 	995.1.1={
 		birth="995.1.1"
@@ -140096,6 +140248,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109611
 	1022.1.1={
 		birth="1022.1.1"
@@ -140112,6 +140265,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109611
 	1027.1.1={
 		birth="1027.1.1"
@@ -140125,6 +140279,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1022.1.1={
 		birth="1022.1.1"
 		effect={ dynasty = father_bastard }
@@ -140141,6 +140296,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109612
 	mother = 109614
 	1044.1.1={
@@ -140155,6 +140311,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109612
 	mother = 109614
 	1046.1.1={
@@ -140169,6 +140326,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109612
 	mother = 109614
 	1049.1.1={
@@ -140184,6 +140342,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109613
 	1047.1.1={
 		birth="1047.1.1"
@@ -140197,6 +140356,7 @@
 	dynasty = 109610
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109613
 	1050.1.1={
 		birth="1050.1.1"
@@ -140358,6 +140518,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -140377,6 +140538,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109630
 	968.1.1={
 		birth="968.1.1"
@@ -140390,6 +140552,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109631
 	1004.1.1={
 		birth="1004.1.1"
@@ -140406,6 +140569,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109631
 	1008.1.1={
 		birth="1008.1.1"
@@ -140419,6 +140583,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1011.1.1={
 		birth="1011.1.1"
 		effect={ dynasty = father_bastard }
@@ -140435,6 +140600,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109632
 	mother = 109634
 	1036.1.1={
@@ -140450,6 +140616,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109632
 	mother = 109634
 	1041.1.1={
@@ -140465,6 +140632,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109632
 	mother = 109634
 	1044.1.1={
@@ -140479,6 +140647,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109633
 	1030.1.1={
 		birth="1030.1.1"
@@ -140492,6 +140661,7 @@
 	dynasty = 109630
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109633
 	1035.1.1={
 		birth="1035.1.1"
@@ -141497,6 +141667,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -141514,6 +141685,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109690
 	982.1.1={
 		birth="982.1.1"
@@ -141527,6 +141699,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109691
 	1006.1.1={
 		birth="1006.1.1"
@@ -141543,6 +141716,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109691
 	1010.1.1={
 		birth="1010.1.1"
@@ -141556,6 +141730,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1010.1.1={
 		birth="1010.1.1"
 		effect={ dynasty = father_bastard }
@@ -141572,6 +141747,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109692
 	mother = 109694
 	trait = thoth_mk_ii
@@ -141588,6 +141764,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109692
 	mother = 109694
 	trait = thoth_mk_ii
@@ -141604,6 +141781,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109692
 	mother = 109694
 	1034.1.1={
@@ -141618,6 +141796,7 @@
 	dynasty = 109690
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109693
 	1038.1.1={
 		birth="1038.1.1"
@@ -141935,6 +142114,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -141952,6 +142132,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109720
 	973.1.1={
 		birth="973.1.1"
@@ -141965,6 +142146,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109721
 	999.1.1={
 		birth="999.1.1"
@@ -141981,6 +142163,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109721
 	1000.1.1={
 		birth="1000.1.1"
@@ -141994,6 +142177,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1015.1.1={
 		birth="1015.1.1"
 		effect={ dynasty = father_bastard }
@@ -142010,6 +142194,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109722
 	mother = 109724
 	1034.1.1={
@@ -142025,6 +142210,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109722
 	mother = 109724
 	1037.1.1={
@@ -142040,6 +142226,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109722
 	mother = 109724
 	1040.1.1={
@@ -142054,6 +142241,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109723
 	1022.1.1={
 		birth="1022.1.1"
@@ -142068,6 +142256,7 @@
 	dynasty = 109720
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109723
 	1026.1.1={
 		birth="1026.1.1"
@@ -142371,6 +142560,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -142390,6 +142580,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109750
 	970.1.1={
 		birth="970.1.1"
@@ -142403,6 +142594,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109751
 	999.1.1={
 		birth="999.1.1"
@@ -142419,6 +142611,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109751
 	1001.1.1={
 		birth="1001.1.1"
@@ -142432,6 +142625,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1009.1.1={
 		birth="1009.1.1"
 		effect={ dynasty = father_bastard }
@@ -142448,6 +142642,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109752
 	mother = 109754
 	1028.1.1={
@@ -142463,6 +142658,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109752
 	mother = 109754
 	1029.1.1={
@@ -142477,6 +142673,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109752
 	mother = 109754
 	1034.1.1={
@@ -142492,6 +142689,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109753
 	1026.1.1={
 		birth="1026.1.1"
@@ -142505,6 +142703,7 @@
 	dynasty = 109750
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109753
 	1027.1.1={
 		birth="1027.1.1"
@@ -143831,6 +144030,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -143849,6 +144049,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109850
 	985.1.1={
 		birth="985.1.1"
@@ -143862,6 +144063,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109851
 	1017.1.1={
 		birth="1017.1.1"
@@ -143878,6 +144080,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109851
 	1018.1.1={
 		birth="1018.1.1"
@@ -143891,6 +144094,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1017.1.1={
 		birth="1017.1.1"
 		effect={ dynasty = father_bastard }
@@ -143907,6 +144111,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109852
 	mother = 109854
 	1041.1.1={
@@ -143922,6 +144127,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109852
 	mother = 109854
 	1044.1.1={
@@ -143936,6 +144142,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109852
 	mother = 109854
 	1049.1.1={
@@ -143950,6 +144157,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109853
 	1043.1.1={
 		birth="1043.1.1"
@@ -143963,6 +144171,7 @@
 	dynasty = 109850
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109853
 	1048.1.1={
 		birth="1048.1.1"
@@ -143976,6 +144185,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -143993,6 +144203,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109860
 	982.1.1={
 		birth="982.1.1"
@@ -144006,6 +144217,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109861
 	1021.1.1={
 		birth="1021.1.1"
@@ -144022,6 +144234,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109861
 	1023.1.1={
 		birth="1023.1.1"
@@ -144035,6 +144248,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1022.1.1={
 		birth="1022.1.1"
 		effect={ dynasty = father_bastard }
@@ -144051,6 +144265,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109862
 	mother = 109864
 	1044.1.1={
@@ -144065,6 +144280,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109862
 	mother = 109864
 	1048.1.1={
@@ -144079,6 +144295,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109862
 	mother = 109864
 	1051.1.1={
@@ -144093,6 +144310,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109863
 	1050.1.1={
 		birth="1050.1.1"
@@ -144107,6 +144325,7 @@
 	dynasty = 109860
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109863
 	1055.1.1={
 		birth="1055.1.1"
@@ -144266,6 +144485,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = fair
@@ -144283,6 +144503,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109880
 	970.1.1={
 		birth="970.1.1"
@@ -144296,6 +144517,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109881
 	1002.1.1={
 		birth="1002.1.1"
@@ -144312,6 +144534,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109881
 	1004.1.1={
 		birth="1004.1.1"
@@ -144325,6 +144548,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1012.1.1={
 		birth="1012.1.1"
 		effect={ dynasty = father_bastard }
@@ -144341,6 +144565,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109882
 	mother = 109884
 	1036.1.1={
@@ -144356,6 +144581,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109882
 	mother = 109884
 	1041.1.1={
@@ -144371,6 +144597,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109882
 	mother = 109884
 	1045.1.1={
@@ -144385,6 +144612,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109883
 	1033.1.1={
 		birth="1033.1.1"
@@ -144398,6 +144626,7 @@
 	dynasty = 109880
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109883
 	1038.1.1={
 		birth="1038.1.1"
@@ -144411,6 +144640,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = fair
@@ -144428,6 +144658,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109890
 	997.1.1={
 		birth="997.1.1"
@@ -144441,6 +144672,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109891
 	1021.1.1={
 		birth="1021.1.1"
@@ -144457,6 +144689,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109891
 	1022.1.1={
 		birth="1022.1.1"
@@ -144470,6 +144703,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1022.1.1={
 		birth="1022.1.1"
 		effect={ dynasty = father_bastard }
@@ -144486,6 +144720,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109892
 	mother = 109894
 	1048.1.1={
@@ -144501,6 +144736,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109892
 	mother = 109894
 	1049.1.1={
@@ -144516,6 +144752,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109892
 	mother = 109894
 	1054.1.1={
@@ -144531,6 +144768,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109893
 	1047.1.1={
 		birth="1047.1.1"
@@ -144545,6 +144783,7 @@
 	dynasty = 109890
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 109893
 	1052.1.1={
 		birth="1052.1.1"
@@ -147185,6 +147424,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -147202,6 +147442,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110080
 	966.1.1={
 		birth="966.1.1"
@@ -147215,6 +147456,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110081
 	1000.1.1={
 		birth="1000.1.1"
@@ -147231,6 +147473,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110081
 	1005.1.1={
 		birth="1005.1.1"
@@ -147244,6 +147487,7 @@
 	female = yes
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	1000.1.1={
 		birth="1000.1.1"
 		effect={ dynasty = father_bastard }
@@ -147260,6 +147504,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110082
 	mother = 110084
 	1028.1.1={
@@ -147275,6 +147520,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110082
 	mother = 110084
 	1032.1.1={
@@ -147290,6 +147536,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110082
 	mother = 110084
 	1035.1.1={
@@ -147304,6 +147551,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110083
 	1032.1.1={
 		birth="1032.1.1"
@@ -147318,6 +147566,7 @@
 	dynasty = 110080
 	culture = "bodpa"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110083
 	1037.1.1={
 		birth="1037.1.1"
@@ -147331,6 +147580,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -147350,6 +147600,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110090
 	972.1.1={
 		birth="972.1.1"
@@ -147363,6 +147614,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110091
 	1005.1.1={
 		birth="1005.1.1"
@@ -147379,6 +147631,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110091
 	1009.1.1={
 		birth="1009.1.1"
@@ -147392,6 +147645,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1002.1.1={
 		birth="1002.1.1"
 		effect={ dynasty = father_bastard }
@@ -147408,6 +147662,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110092
 	mother = 110094
 	1030.1.1={
@@ -147423,6 +147678,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110092
 	mother = 110094
 	1035.1.1={
@@ -147437,6 +147693,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110092
 	mother = 110094
 	1036.1.1={
@@ -147452,6 +147709,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110093
 	1035.1.1={
 		birth="1035.1.1"
@@ -147465,6 +147723,7 @@
 	dynasty = 110090
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110093
 	1036.1.1={
 		birth="1036.1.1"
@@ -148210,6 +148469,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -148229,6 +148489,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110150
 	983.1.1={
 		birth="983.1.1"
@@ -148242,6 +148503,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110151
 	1008.1.1={
 		birth="1008.1.1"
@@ -148258,6 +148520,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110151
 	1013.1.1={
 		birth="1013.1.1"
@@ -148271,6 +148534,7 @@
 	female = yes
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	1012.1.1={
 		birth="1012.1.1"
 		effect={ dynasty = father_bastard }
@@ -148287,6 +148551,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110152
 	mother = 110154
 	1042.1.1={
@@ -148301,6 +148566,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110152
 	mother = 110154
 	1043.1.1={
@@ -148315,6 +148581,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110152
 	mother = 110154
 	1048.1.1={
@@ -148329,6 +148596,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110153
 	1039.1.1={
 		birth="1039.1.1"
@@ -148343,6 +148611,7 @@
 	dynasty = 110150
 	culture = "cuman"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110153
 	1043.1.1={
 		birth="1043.1.1"
@@ -149230,6 +149499,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = mastermind_theologian
 	learning = 10
 	trait = quick
@@ -149248,6 +149518,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110220
 	991.1.1={
 		birth="991.1.1"
@@ -149261,6 +149532,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110221
 	1024.1.1={
 		birth="1024.1.1"
@@ -149277,6 +149549,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110221
 	1028.1.1={
 		birth="1028.1.1"
@@ -149290,6 +149563,7 @@
 	female = yes
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	1022.1.1={
 		birth="1022.1.1"
 		effect={ dynasty = father_bastard }
@@ -149306,6 +149580,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110222
 	mother = 110224
 	1046.1.1={
@@ -149320,6 +149595,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110222
 	mother = 110224
 	1050.1.1={
@@ -149335,6 +149611,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110222
 	mother = 110224
 	1055.1.1={
@@ -149349,6 +149626,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110223
 	1049.1.1={
 		birth="1049.1.1"
@@ -149362,6 +149640,7 @@
 	dynasty = 110220
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110223
 	1050.1.1={
 		birth="1050.1.1"
@@ -149669,6 +149948,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = quick
@@ -149686,6 +149966,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110250
 	987.1.1={
 		birth="987.1.1"
@@ -149699,6 +149980,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110251
 	1023.1.1={
 		birth="1023.1.1"
@@ -149715,6 +149997,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110251
 	1025.1.1={
 		birth="1025.1.1"
@@ -149728,6 +150011,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1028.1.1={
 		birth="1028.1.1"
 		effect={ dynasty = father_bastard }
@@ -149744,6 +150028,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110252
 	mother = 110254
 	1048.1.1={
@@ -149758,6 +150043,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110252
 	mother = 110254
 	1049.1.1={
@@ -149772,6 +150058,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110252
 	mother = 110254
 	1054.1.1={
@@ -149787,6 +150074,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110253
 	1051.1.1={
 		birth="1051.1.1"
@@ -149801,6 +150089,7 @@
 	dynasty = 110250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110253
 	1054.1.1={
 		birth="1054.1.1"
@@ -152304,6 +152593,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -152323,6 +152613,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110430
 	955.1.1={
 		birth="955.1.1"
@@ -152336,6 +152627,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110431
 	995.1.1={
 		birth="995.1.1"
@@ -152352,6 +152644,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110431
 	999.1.1={
 		birth="999.1.1"
@@ -152365,6 +152658,7 @@
 	female = yes
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	1007.1.1={
 		birth="1007.1.1"
 		effect={ dynasty = father_bastard }
@@ -152381,6 +152675,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110432
 	mother = 110434
 	1026.1.1={
@@ -152395,6 +152690,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110432
 	mother = 110434
 	1029.1.1={
@@ -152410,6 +152706,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110432
 	mother = 110434
 	1032.1.1={
@@ -152424,6 +152721,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110433
 	1019.1.1={
 		birth="1019.1.1"
@@ -152438,6 +152736,7 @@
 	dynasty = 110430
 	culture = "pecheneg"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110433
 	1022.1.1={
 		birth="1022.1.1"
@@ -153621,6 +153920,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -153638,6 +153938,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110520
 	990.1.1={
 		birth="990.1.1"
@@ -153651,6 +153952,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110521
 	1015.1.1={
 		birth="1015.1.1"
@@ -153667,6 +153969,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110521
 	1020.1.1={
 		birth="1020.1.1"
@@ -153680,6 +153983,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1030.1.1={
 		birth="1030.1.1"
 		effect={ dynasty = father_bastard }
@@ -153697,6 +154001,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110522
 	mother = 110524
 	1049.1.1={
@@ -153712,6 +154017,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110522
 	mother = 110524
 	1054.1.1={
@@ -153727,6 +154033,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110522
 	mother = 110524
 	1056.1.1={
@@ -153741,6 +154048,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110523
 	1040.1.1={
 		birth="1040.1.1"
@@ -153754,6 +154062,7 @@
 	dynasty = 110520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110523
 	1043.1.1={
 		birth="1043.1.1"
@@ -153767,6 +154076,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = grey_eminence
 	diplomacy = 10
 	trait = fair
@@ -153784,6 +154094,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110530
 	967.1.1={
 		birth="967.1.1"
@@ -153797,6 +154108,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110531
 	1002.1.1={
 		birth="1002.1.1"
@@ -153813,6 +154125,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110531
 	1007.1.1={
 		birth="1007.1.1"
@@ -153826,6 +154139,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1003.1.1={
 		birth="1003.1.1"
 		effect={ dynasty = father_bastard }
@@ -153842,6 +154156,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110532
 	mother = 110534
 	1031.1.1={
@@ -153857,6 +154172,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110532
 	mother = 110534
 	1036.1.1={
@@ -153872,6 +154188,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110532
 	mother = 110534
 	1037.1.1={
@@ -153887,6 +154204,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110533
 	1035.1.1={
 		birth="1035.1.1"
@@ -153901,6 +154219,7 @@
 	dynasty = 110530
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110533
 	1037.1.1={
 		birth="1037.1.1"
@@ -153914,6 +154233,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = mastermind_theologian
 	learning = 10
 	trait = genius
@@ -153932,6 +154252,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110540
 	977.1.1={
 		birth="977.1.1"
@@ -153945,6 +154266,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110541
 	1009.1.1={
 		birth="1009.1.1"
@@ -153961,6 +154283,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110541
 	1013.1.1={
 		birth="1013.1.1"
@@ -153974,6 +154297,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1015.1.1={
 		birth="1015.1.1"
 		effect={ dynasty = father_bastard }
@@ -153990,6 +154314,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110542
 	mother = 110544
 	1033.1.1={
@@ -154004,6 +154329,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110542
 	mother = 110544
 	1037.1.1={
@@ -154019,6 +154345,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110542
 	mother = 110544
 	1040.1.1={
@@ -154033,6 +154360,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110543
 	1034.1.1={
 		birth="1034.1.1"
@@ -154047,6 +154375,7 @@
 	dynasty = 110540
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110543
 	1039.1.1={
 		birth="1039.1.1"
@@ -154205,6 +154534,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -154222,6 +154552,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110560
 	982.1.1={
 		birth="982.1.1"
@@ -154235,6 +154566,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110561
 	1007.1.1={
 		birth="1007.1.1"
@@ -154251,6 +154583,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110561
 	1011.1.1={
 		birth="1011.1.1"
@@ -154264,6 +154597,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1013.1.1={
 		birth="1013.1.1"
 		effect={ dynasty = father_bastard }
@@ -154280,6 +154614,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110562
 	mother = 110564
 	1032.1.1={
@@ -154294,6 +154629,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110562
 	mother = 110564
 	1034.1.1={
@@ -154309,6 +154645,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110562
 	mother = 110564
 	1035.1.1={
@@ -154324,6 +154661,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110563
 	1036.1.1={
 		birth="1036.1.1"
@@ -154338,6 +154676,7 @@
 	dynasty = 110560
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110563
 	1037.1.1={
 		birth="1037.1.1"
@@ -156241,6 +156580,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -156258,6 +156598,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110700
 	969.1.1={
 		birth="969.1.1"
@@ -156271,6 +156612,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110701
 	1005.1.1={
 		birth="1005.1.1"
@@ -156287,6 +156629,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110701
 	1007.1.1={
 		birth="1007.1.1"
@@ -156300,6 +156643,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1015.1.1={
 		birth="1015.1.1"
 		effect={ dynasty = father_bastard }
@@ -156316,6 +156660,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110702
 	mother = 110704
 	1034.1.1={
@@ -156331,6 +156676,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110702
 	mother = 110704
 	1035.1.1={
@@ -156345,6 +156691,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110702
 	mother = 110704
 	1037.1.1={
@@ -156359,6 +156706,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110703
 	1034.1.1={
 		birth="1034.1.1"
@@ -156373,6 +156721,7 @@
 	dynasty = 110700
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110703
 	1037.1.1={
 		birth="1037.1.1"
@@ -156386,6 +156735,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -156403,6 +156753,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110710
 	975.1.1={
 		birth="975.1.1"
@@ -156416,6 +156767,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110711
 	1014.1.1={
 		birth="1014.1.1"
@@ -156432,6 +156784,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110711
 	1018.1.1={
 		birth="1018.1.1"
@@ -156445,6 +156798,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1006.1.1={
 		birth="1006.1.1"
 		effect={ dynasty = father_bastard }
@@ -156461,6 +156815,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110712
 	mother = 110714
 	1035.1.1={
@@ -156475,6 +156830,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110712
 	mother = 110714
 	1039.1.1={
@@ -156490,6 +156846,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110712
 	mother = 110714
 	1041.1.1={
@@ -156504,6 +156861,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110713
 	1046.1.1={
 		birth="1046.1.1"
@@ -156518,6 +156876,7 @@
 	dynasty = 110710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110713
 	1049.1.1={
 		birth="1049.1.1"
@@ -157392,6 +157751,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -157411,6 +157771,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110780
 	967.1.1={
 		birth="967.1.1"
@@ -157424,6 +157785,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110781
 	1005.1.1={
 		birth="1005.1.1"
@@ -157440,6 +157802,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110781
 	1007.1.1={
 		birth="1007.1.1"
@@ -157453,6 +157816,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	999.1.1={
 		birth="999.1.1"
 		effect={ dynasty = father_bastard }
@@ -157469,6 +157833,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110782
 	mother = 110784
 	1026.1.1={
@@ -157484,6 +157849,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110782
 	mother = 110784
 	1028.1.1={
@@ -157499,6 +157865,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110782
 	mother = 110784
 	1033.1.1={
@@ -157514,6 +157881,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110783
 	1033.1.1={
 		birth="1033.1.1"
@@ -157527,6 +157895,7 @@
 	dynasty = 110780
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110783
 	1034.1.1={
 		birth="1034.1.1"
@@ -157540,6 +157909,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -157558,6 +157928,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110790
 	966.1.1={
 		birth="966.1.1"
@@ -157571,6 +157942,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110791
 	992.1.1={
 		birth="992.1.1"
@@ -157587,6 +157959,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110791
 	993.1.1={
 		birth="993.1.1"
@@ -157600,6 +157973,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1008.1.1={
 		birth="1008.1.1"
 		effect={ dynasty = father_bastard }
@@ -157616,6 +157990,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110792
 	mother = 110794
 	1027.1.1={
@@ -157631,6 +158006,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110792
 	mother = 110794
 	1028.1.1={
@@ -157646,6 +158022,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110792
 	mother = 110794
 	1032.1.1={
@@ -157661,6 +158038,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110793
 	1019.1.1={
 		birth="1019.1.1"
@@ -157674,6 +158052,7 @@
 	dynasty = 110790
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110793
 	1022.1.1={
 		birth="1022.1.1"
@@ -158260,6 +158639,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -158278,6 +158658,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110840
 	1002.1.1={
 		birth="1002.1.1"
@@ -158291,6 +158672,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110841
 	1024.1.1={
 		birth="1024.1.1"
@@ -158307,6 +158689,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110841
 	1029.1.1={
 		birth="1029.1.1"
@@ -158320,6 +158703,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1028.1.1={
 		birth="1028.1.1"
 		effect={ dynasty = father_bastard }
@@ -158336,6 +158720,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110842
 	mother = 110844
 	1046.1.1={
@@ -158350,6 +158735,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110842
 	mother = 110844
 	1050.1.1={
@@ -158365,6 +158751,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110842
 	mother = 110844
 	1054.1.1={
@@ -158379,6 +158766,7 @@
 	dynasty = 110840
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110843
 	1057.1.1={
 		birth="1057.1.1"
@@ -158539,6 +158927,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -158558,6 +158947,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110860
 	980.1.1={
 		birth="980.1.1"
@@ -158571,6 +158961,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110861
 	1010.1.1={
 		birth="1010.1.1"
@@ -158587,6 +158978,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110861
 	1012.1.1={
 		birth="1012.1.1"
@@ -158600,6 +158992,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1010.1.1={
 		birth="1010.1.1"
 		effect={ dynasty = father_bastard }
@@ -158616,6 +159009,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110862
 	mother = 110864
 	1040.1.1={
@@ -158630,6 +159024,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110862
 	mother = 110864
 	1045.1.1={
@@ -158645,6 +159040,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110862
 	mother = 110864
 	1050.1.1={
@@ -158660,6 +159056,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110863
 	1034.1.1={
 		birth="1034.1.1"
@@ -158673,6 +159070,7 @@
 	dynasty = 110860
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110863
 	1037.1.1={
 		birth="1037.1.1"
@@ -158818,6 +159216,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -158835,6 +159234,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110880
 	961.1.1={
 		birth="961.1.1"
@@ -158848,6 +159248,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110881
 	1000.1.1={
 		birth="1000.1.1"
@@ -158864,6 +159265,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110881
 	1001.1.1={
 		birth="1001.1.1"
@@ -158877,6 +159279,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1011.1.1={
 		birth="1011.1.1"
 		effect={ dynasty = father_bastard }
@@ -158893,6 +159296,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110882
 	mother = 110884
 	1030.1.1={
@@ -158908,6 +159312,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110882
 	mother = 110884
 	1034.1.1={
@@ -158922,6 +159327,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110882
 	mother = 110884
 	1039.1.1={
@@ -158936,6 +159342,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110883
 	1024.1.1={
 		birth="1024.1.1"
@@ -158949,6 +159356,7 @@
 	dynasty = 110880
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110883
 	1025.1.1={
 		birth="1025.1.1"
@@ -159398,6 +159806,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -159417,6 +159826,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110920
 	974.1.1={
 		birth="974.1.1"
@@ -159430,6 +159840,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110921
 	1009.1.1={
 		birth="1009.1.1"
@@ -159446,6 +159857,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110921
 	1010.1.1={
 		birth="1010.1.1"
@@ -159459,6 +159871,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1011.1.1={
 		birth="1011.1.1"
 		effect={ dynasty = father_bastard }
@@ -159475,6 +159888,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110922
 	mother = 110924
 	1033.1.1={
@@ -159489,6 +159903,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110922
 	mother = 110924
 	1036.1.1={
@@ -159503,6 +159918,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110922
 	mother = 110924
 	1037.1.1={
@@ -159517,6 +159933,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110923
 	1034.1.1={
 		birth="1034.1.1"
@@ -159531,6 +159948,7 @@
 	dynasty = 110920
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 110923
 	1039.1.1={
 		birth="1039.1.1"
@@ -160711,6 +161129,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -160728,6 +161147,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111010
 	972.1.1={
 		birth="972.1.1"
@@ -160741,6 +161161,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111011
 	1008.1.1={
 		birth="1008.1.1"
@@ -160757,6 +161178,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111011
 	1011.1.1={
 		birth="1011.1.1"
@@ -160770,6 +161192,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1016.1.1={
 		birth="1016.1.1"
 		effect={ dynasty = father_bastard }
@@ -160786,6 +161209,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111012
 	mother = 111014
 	1038.1.1={
@@ -160801,6 +161225,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111012
 	mother = 111014
 	1041.1.1={
@@ -160816,6 +161241,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111012
 	mother = 111014
 	1042.1.1={
@@ -160830,6 +161256,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111013
 	1031.1.1={
 		birth="1031.1.1"
@@ -160844,6 +161271,7 @@
 	dynasty = 111010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111013
 	1036.1.1={
 		birth="1036.1.1"
@@ -161881,6 +162309,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -161899,6 +162328,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111090
 	999.1.1={
 		birth="999.1.1"
@@ -161912,6 +162342,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111091
 	1020.1.1={
 		birth="1020.1.1"
@@ -161928,6 +162359,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111091
 	1023.1.1={
 		birth="1023.1.1"
@@ -161941,6 +162373,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1029.1.1={
 		birth="1029.1.1"
 		effect={ dynasty = father_bastard }
@@ -161957,6 +162390,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111092
 	mother = 111094
 	1049.1.1={
@@ -161972,6 +162406,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111092
 	mother = 111094
 	1051.1.1={
@@ -161986,6 +162421,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111092
 	mother = 111094
 	1056.1.1={
@@ -162000,6 +162436,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111093
 	1046.1.1={
 		birth="1046.1.1"
@@ -162014,6 +162451,7 @@
 	dynasty = 111090
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111093
 	1047.1.1={
 		birth="1047.1.1"
@@ -162174,6 +162612,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -162191,6 +162630,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111110
 	989.1.1={
 		birth="989.1.1"
@@ -162204,6 +162644,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111111
 	1010.1.1={
 		birth="1010.1.1"
@@ -162220,6 +162661,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111111
 	1012.1.1={
 		birth="1012.1.1"
@@ -162233,6 +162675,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1016.1.1={
 		birth="1016.1.1"
 		effect={ dynasty = father_bastard }
@@ -162249,6 +162692,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111112
 	mother = 111114
 	1035.1.1={
@@ -162264,6 +162708,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111112
 	mother = 111114
 	1036.1.1={
@@ -162278,6 +162723,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111112
 	mother = 111114
 	1038.1.1={
@@ -162293,6 +162739,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111113
 	1040.1.1={
 		birth="1040.1.1"
@@ -162307,6 +162754,7 @@
 	dynasty = 111110
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111113
 	1044.1.1={
 		birth="1044.1.1"
@@ -162615,6 +163063,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -162634,6 +163083,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111140
 	975.1.1={
 		birth="975.1.1"
@@ -162647,6 +163097,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111141
 	1014.1.1={
 		birth="1014.1.1"
@@ -162663,6 +163114,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111141
 	1017.1.1={
 		birth="1017.1.1"
@@ -162676,6 +163128,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1027.1.1={
 		birth="1027.1.1"
 		effect={ dynasty = father_bastard }
@@ -162692,6 +163145,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111142
 	mother = 111144
 	1045.1.1={
@@ -162707,6 +163161,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111142
 	mother = 111144
 	1048.1.1={
@@ -162722,6 +163177,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111142
 	mother = 111144
 	1052.1.1={
@@ -162737,6 +163193,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111143
 	1044.1.1={
 		birth="1044.1.1"
@@ -162750,6 +163207,7 @@
 	dynasty = 111140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111142
 	mother = 111144
 	1055.1.1={
@@ -163343,6 +163801,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -163362,6 +163821,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111190
 	997.1.1={
 		birth="997.1.1"
@@ -163375,6 +163835,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111191
 	1025.1.1={
 		birth="1025.1.1"
@@ -163391,6 +163852,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111191
 	1030.1.1={
 		birth="1030.1.1"
@@ -163404,6 +163866,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1025.1.1={
 		birth="1025.1.1"
 		effect={ dynasty = father_bastard }
@@ -163420,6 +163883,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111192
 	mother = 111194
 	1047.1.1={
@@ -163435,6 +163899,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111192
 	mother = 111194
 	1050.1.1={
@@ -163449,6 +163914,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111192
 	mother = 111194
 	1054.1.1={
@@ -163464,6 +163930,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111193
 	1058.1.1={
 		birth="1058.1.1"
@@ -163477,6 +163944,7 @@
 	dynasty = 111190
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111192
 	mother = 111194
 	1059.1.1={
@@ -163491,6 +163959,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -163508,6 +163977,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111200
 	980.1.1={
 		birth="980.1.1"
@@ -163521,6 +163991,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111201
 	1012.1.1={
 		birth="1012.1.1"
@@ -163537,6 +164008,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111201
 	1017.1.1={
 		birth="1017.1.1"
@@ -163550,6 +164022,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1014.1.1={
 		birth="1014.1.1"
 		effect={ dynasty = father_bastard }
@@ -163566,6 +164039,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111202
 	mother = 111204
 	1035.1.1={
@@ -163580,6 +164054,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111202
 	mother = 111204
 	1038.1.1={
@@ -163595,6 +164070,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111202
 	mother = 111204
 	1043.1.1={
@@ -163609,6 +164085,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111203
 	1040.1.1={
 		birth="1040.1.1"
@@ -163622,6 +164099,7 @@
 	dynasty = 111200
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111203
 	1041.1.1={
 		birth="1041.1.1"
@@ -164218,6 +164696,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -164235,6 +164714,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111250
 	991.1.1={
 		birth="991.1.1"
@@ -164248,6 +164728,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111251
 	1013.1.1={
 		birth="1013.1.1"
@@ -164264,6 +164745,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111251
 	1016.1.1={
 		birth="1016.1.1"
@@ -164277,6 +164759,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1013.1.1={
 		birth="1013.1.1"
 		effect={ dynasty = father_bastard }
@@ -164293,6 +164776,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111252
 	mother = 111254
 	1036.1.1={
@@ -164308,6 +164792,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111252
 	mother = 111254
 	1038.1.1={
@@ -164323,6 +164808,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111252
 	mother = 111254
 	1043.1.1={
@@ -164338,6 +164824,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111253
 	1040.1.1={
 		birth="1040.1.1"
@@ -164352,6 +164839,7 @@
 	dynasty = 111250
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111253
 	1042.1.1={
 		birth="1042.1.1"
@@ -164365,6 +164853,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = mastermind_theologian
 	learning = 10
 	trait = genius
@@ -164382,6 +164871,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111260
 	977.1.1={
 		birth="977.1.1"
@@ -164395,6 +164885,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111261
 	1014.1.1={
 		birth="1014.1.1"
@@ -164411,6 +164902,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111261
 	1016.1.1={
 		birth="1016.1.1"
@@ -164424,6 +164916,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1021.1.1={
 		birth="1021.1.1"
 		effect={ dynasty = father_bastard }
@@ -164440,6 +164933,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111262
 	mother = 111264
 	1045.1.1={
@@ -164455,6 +164949,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111262
 	mother = 111264
 	1046.1.1={
@@ -164470,6 +164965,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111262
 	mother = 111264
 	1049.1.1={
@@ -164485,6 +164981,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111263
 	1037.1.1={
 		birth="1037.1.1"
@@ -164499,6 +164996,7 @@
 	dynasty = 111260
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111263
 	1040.1.1={
 		birth="1040.1.1"
@@ -165386,6 +165884,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -165404,6 +165903,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111330
 	979.1.1={
 		birth="979.1.1"
@@ -165417,6 +165917,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111331
 	1004.1.1={
 		birth="1004.1.1"
@@ -165433,6 +165934,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111331
 	1009.1.1={
 		birth="1009.1.1"
@@ -165446,6 +165948,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1004.1.1={
 		birth="1004.1.1"
 		effect={ dynasty = father_bastard }
@@ -165462,6 +165965,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111332
 	mother = 111334
 	1029.1.1={
@@ -165476,6 +165980,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111332
 	mother = 111334
 	1033.1.1={
@@ -165490,6 +165995,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111332
 	mother = 111334
 	1035.1.1={
@@ -165505,6 +166011,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111333
 	1030.1.1={
 		birth="1030.1.1"
@@ -165519,6 +166026,7 @@
 	dynasty = 111330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111333
 	1033.1.1={
 		birth="1033.1.1"
@@ -166696,6 +167204,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -166715,6 +167224,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111420
 	974.1.1={
 		birth="974.1.1"
@@ -166728,6 +167238,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111421
 	1008.1.1={
 		birth="1008.1.1"
@@ -166744,6 +167255,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111421
 	1009.1.1={
 		birth="1009.1.1"
@@ -166757,6 +167269,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1013.1.1={
 		birth="1013.1.1"
 		effect={ dynasty = father_bastard }
@@ -166773,6 +167286,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111422
 	mother = 111424
 	1039.1.1={
@@ -166788,6 +167302,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111422
 	mother = 111424
 	1041.1.1={
@@ -166803,6 +167318,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111422
 	mother = 111424
 	1045.1.1={
@@ -166817,6 +167333,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111423
 	1038.1.1={
 		birth="1038.1.1"
@@ -166830,6 +167347,7 @@
 	dynasty = 111420
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111423
 	1043.1.1={
 		birth="1043.1.1"
@@ -166843,6 +167361,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -166862,6 +167381,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111430
 	980.1.1={
 		birth="980.1.1"
@@ -166875,6 +167395,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111431
 	1015.1.1={
 		birth="1015.1.1"
@@ -166891,6 +167412,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111431
 	1016.1.1={
 		birth="1016.1.1"
@@ -166904,6 +167426,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -166920,6 +167443,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111432
 	mother = 111434
 	1042.1.1={
@@ -166935,6 +167459,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111432
 	mother = 111434
 	1046.1.1={
@@ -166950,6 +167475,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111432
 	mother = 111434
 	1047.1.1={
@@ -166964,6 +167490,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111433
 	1042.1.1={
 		birth="1042.1.1"
@@ -166977,6 +167504,7 @@
 	dynasty = 111430
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111433
 	1044.1.1={
 		birth="1044.1.1"
@@ -167866,6 +168394,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -167883,6 +168412,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111500
 	975.1.1={
 		birth="975.1.1"
@@ -167896,6 +168426,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111501
 	1009.1.1={
 		birth="1009.1.1"
@@ -167912,6 +168443,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111501
 	1011.1.1={
 		birth="1011.1.1"
@@ -167925,6 +168457,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1016.1.1={
 		birth="1016.1.1"
 		effect={ dynasty = father_bastard }
@@ -167941,6 +168474,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111502
 	mother = 111504
 	1036.1.1={
@@ -167956,6 +168490,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111502
 	mother = 111504
 	1041.1.1={
@@ -167971,6 +168506,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111502
 	mother = 111504
 	1042.1.1={
@@ -167986,6 +168522,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111503
 	1032.1.1={
 		birth="1032.1.1"
@@ -167999,6 +168536,7 @@
 	dynasty = 111500
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111503
 	1034.1.1={
 		birth="1034.1.1"
@@ -168159,6 +168697,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = elusive_shadow
 	intrigue = 10
 	trait = one_eyed
@@ -168177,6 +168716,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111520
 	980.1.1={
 		birth="980.1.1"
@@ -168190,6 +168730,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111521
 	1012.1.1={
 		birth="1012.1.1"
@@ -168206,6 +168747,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111521
 	1014.1.1={
 		birth="1014.1.1"
@@ -168219,6 +168761,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1017.1.1={
 		birth="1017.1.1"
 		effect={ dynasty = father_bastard }
@@ -168235,6 +168778,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111522
 	mother = 111524
 	1042.1.1={
@@ -168249,6 +168793,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111522
 	mother = 111524
 	1045.1.1={
@@ -168264,6 +168809,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111522
 	mother = 111524
 	1046.1.1={
@@ -168278,6 +168824,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111523
 	1043.1.1={
 		birth="1043.1.1"
@@ -168291,6 +168838,7 @@
 	dynasty = 111520
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111523
 	1044.1.1={
 		birth="1044.1.1"
@@ -169328,6 +169876,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -169345,6 +169894,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111600
 	982.1.1={
 		birth="982.1.1"
@@ -169358,6 +169908,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111601
 	1016.1.1={
 		birth="1016.1.1"
@@ -169374,6 +169925,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111601
 	1021.1.1={
 		birth="1021.1.1"
@@ -169387,6 +169939,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1015.1.1={
 		birth="1015.1.1"
 		effect={ dynasty = father_bastard }
@@ -169403,6 +169956,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111602
 	mother = 111604
 	1043.1.1={
@@ -169417,6 +169971,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111602
 	mother = 111604
 	1047.1.1={
@@ -169432,6 +169987,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111602
 	mother = 111604
 	1051.1.1={
@@ -169446,6 +170002,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111603
 	1041.1.1={
 		birth="1041.1.1"
@@ -169459,6 +170016,7 @@
 	dynasty = 111600
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111603
 	1042.1.1={
 		birth="1042.1.1"
@@ -170205,6 +170763,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -170223,6 +170782,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111660
 	973.1.1={
 		birth="973.1.1"
@@ -170236,6 +170796,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111661
 	1004.1.1={
 		birth="1004.1.1"
@@ -170252,6 +170813,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111661
 	1005.1.1={
 		birth="1005.1.1"
@@ -170265,6 +170827,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1003.1.1={
 		birth="1003.1.1"
 		effect={ dynasty = father_bastard }
@@ -170281,6 +170844,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111662
 	mother = 111664
 	1028.1.1={
@@ -170295,6 +170859,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111662
 	mother = 111664
 	1033.1.1={
@@ -170309,6 +170874,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111662
 	mother = 111664
 	1037.1.1={
@@ -170323,6 +170889,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111663
 	1033.1.1={
 		birth="1033.1.1"
@@ -170337,6 +170904,7 @@
 	dynasty = 111660
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111663
 	1034.1.1={
 		birth="1034.1.1"
@@ -170904,6 +171472,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -170921,6 +171490,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111710
 	975.1.1={
 		birth="975.1.1"
@@ -170934,6 +171504,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111711
 	1015.1.1={
 		birth="1015.1.1"
@@ -170950,6 +171521,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111711
 	1017.1.1={
 		birth="1017.1.1"
@@ -170963,6 +171535,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1017.1.1={
 		birth="1017.1.1"
 		effect={ dynasty = father_bastard }
@@ -170979,6 +171552,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111712
 	mother = 111714
 	1046.1.1={
@@ -170993,6 +171567,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111712
 	mother = 111714
 	1050.1.1={
@@ -171007,6 +171582,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111712
 	mother = 111714
 	1051.1.1={
@@ -171022,6 +171598,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111713
 	1038.1.1={
 		birth="1038.1.1"
@@ -171036,6 +171613,7 @@
 	dynasty = 111710
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111713
 	1039.1.1={
 		birth="1039.1.1"
@@ -172349,6 +172927,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -172366,6 +172945,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111810
 	981.1.1={
 		birth="981.1.1"
@@ -172379,6 +172959,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111811
 	1015.1.1={
 		birth="1015.1.1"
@@ -172395,6 +172976,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111811
 	1016.1.1={
 		birth="1016.1.1"
@@ -172408,6 +172990,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1021.1.1={
 		birth="1021.1.1"
 		effect={ dynasty = father_bastard }
@@ -172424,6 +173007,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111812
 	mother = 111814
 	1042.1.1={
@@ -172439,6 +173023,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111812
 	mother = 111814
 	1045.1.1={
@@ -172454,6 +173039,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111812
 	mother = 111814
 	1049.1.1={
@@ -172469,6 +173055,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111813
 	1036.1.1={
 		birth="1036.1.1"
@@ -172482,6 +173069,7 @@
 	dynasty = 111810
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111813
 	1040.1.1={
 		birth="1040.1.1"
@@ -172934,6 +173522,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -172951,6 +173540,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111850
 	978.1.1={
 		birth="978.1.1"
@@ -172964,6 +173554,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111851
 	1016.1.1={
 		birth="1016.1.1"
@@ -172980,6 +173571,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111851
 	1021.1.1={
 		birth="1021.1.1"
@@ -172993,6 +173585,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -173009,6 +173602,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111852
 	mother = 111854
 	1049.1.1={
@@ -173023,6 +173617,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111852
 	mother = 111854
 	1050.1.1={
@@ -173038,6 +173633,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111852
 	mother = 111854
 	1055.1.1={
@@ -173052,6 +173648,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111853
 	1046.1.1={
 		birth="1046.1.1"
@@ -173065,6 +173662,7 @@
 	dynasty = 111850
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111853
 	1049.1.1={
 		birth="1049.1.1"
@@ -173518,6 +174116,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -173536,6 +174135,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111890
 	965.1.1={
 		birth="965.1.1"
@@ -173549,6 +174149,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111891
 	1003.1.1={
 		birth="1003.1.1"
@@ -173565,6 +174166,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111891
 	1006.1.1={
 		birth="1006.1.1"
@@ -173578,6 +174180,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = odin_mk_i
 	trait = iaei_mk_i
 	1012.1.1={
@@ -173596,6 +174199,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111892
 	mother = 111894
 	1030.1.1={
@@ -173610,6 +174214,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111892
 	mother = 111894
 	1032.1.1={
@@ -173625,6 +174230,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111892
 	mother = 111894
 	trait = thoth_mk_i
@@ -173640,6 +174246,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111893
 	1032.1.1={
 		birth="1032.1.1"
@@ -173653,6 +174260,7 @@
 	dynasty = 111890
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111893
 	1037.1.1={
 		birth="1037.1.1"
@@ -173701,6 +174309,7 @@
 	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111901
 	trait = odin_mk_i
 	trait = iaei_mk_i
@@ -173735,6 +174344,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = odin_mk_i
 	trait = iaei_mk_i
 	1030.1.1={
@@ -175142,6 +175752,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -175160,6 +175771,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112000
 	990.1.1={
 		birth="990.1.1"
@@ -175173,6 +175785,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112001
 	1021.1.1={
 		birth="1021.1.1"
@@ -175189,6 +175802,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112001
 	1026.1.1={
 		birth="1026.1.1"
@@ -175202,6 +175816,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1027.1.1={
 		birth="1027.1.1"
 		effect={ dynasty = father_bastard }
@@ -175218,6 +175833,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112002
 	mother = 112004
 	1047.1.1={
@@ -175233,6 +175849,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112002
 	mother = 112004
 	1051.1.1={
@@ -175248,6 +175865,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112002
 	mother = 112004
 	1055.1.1={
@@ -175262,6 +175880,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112003
 	1049.1.1={
 		birth="1049.1.1"
@@ -175275,6 +175894,7 @@
 	dynasty = 112000
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112003
 	1050.1.1={
 		birth="1050.1.1"
@@ -175288,6 +175908,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -175305,6 +175926,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112010
 	978.1.1={
 		birth="978.1.1"
@@ -175318,6 +175940,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112011
 	1016.1.1={
 		birth="1016.1.1"
@@ -175334,6 +175957,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112011
 	1020.1.1={
 		birth="1020.1.1"
@@ -175347,6 +175971,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -175363,6 +175988,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112012
 	mother = 112014
 	1045.1.1={
@@ -175377,6 +176003,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112012
 	mother = 112014
 	1046.1.1={
@@ -175392,6 +176019,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112012
 	mother = 112014
 	1051.1.1={
@@ -175406,6 +176034,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112013
 	1048.1.1={
 		birth="1048.1.1"
@@ -175419,6 +176048,7 @@
 	dynasty = 112010
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112013
 	1050.1.1={
 		birth="1050.1.1"
@@ -177157,6 +177787,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = duelist
@@ -177175,6 +177806,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112140
 	980.1.1={
 		birth="980.1.1"
@@ -177188,6 +177820,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112141
 	1017.1.1={
 		birth="1017.1.1"
@@ -177204,6 +177837,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112141
 	1022.1.1={
 		birth="1022.1.1"
@@ -177217,6 +177851,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -177233,6 +177868,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112142
 	mother = 112144
 	1042.1.1={
@@ -177248,6 +177884,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112142
 	mother = 112144
 	1047.1.1={
@@ -177263,6 +177900,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112142
 	mother = 112144
 	1049.1.1={
@@ -177278,6 +177916,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112143
 	1049.1.1={
 		birth="1049.1.1"
@@ -177292,6 +177931,7 @@
 	dynasty = 112140
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112142
 	mother = 112144
 	1053.1.1={
@@ -179933,6 +180573,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -179952,6 +180593,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112330
 	979.1.1={
 		birth="979.1.1"
@@ -179965,6 +180607,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112331
 	1005.1.1={
 		birth="1005.1.1"
@@ -179981,6 +180624,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112331
 	1009.1.1={
 		birth="1009.1.1"
@@ -179994,6 +180638,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1007.1.1={
 		birth="1007.1.1"
 		effect={ dynasty = father_bastard }
@@ -180010,6 +180655,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112332
 	mother = 112334
 	1030.1.1={
@@ -180025,6 +180671,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112332
 	mother = 112334
 	1034.1.1={
@@ -180039,6 +180686,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112332
 	mother = 112334
 	1036.1.1={
@@ -180053,6 +180701,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112333
 	1030.1.1={
 		birth="1030.1.1"
@@ -180066,6 +180715,7 @@
 	dynasty = 112330
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112333
 	1032.1.1={
 		birth="1032.1.1"
@@ -180079,6 +180729,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	trait = midas_touched
 	stewardship = 10
 	trait = administrator
@@ -180096,6 +180747,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112340
 	985.1.1={
 		birth="985.1.1"
@@ -180109,6 +180761,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112341
 	1021.1.1={
 		birth="1021.1.1"
@@ -180125,6 +180778,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112341
 	1023.1.1={
 		birth="1023.1.1"
@@ -180138,6 +180792,7 @@
 	female = yes
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	1022.1.1={
 		birth="1022.1.1"
 		effect={ dynasty = father_bastard }
@@ -180154,6 +180809,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112342
 	mother = 112344
 	1043.1.1={
@@ -180169,6 +180825,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112342
 	mother = 112344
 	1044.1.1={
@@ -180183,6 +180840,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112342
 	mother = 112344
 	1048.1.1={
@@ -180198,6 +180856,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112343
 	1044.1.1={
 		birth="1044.1.1"
@@ -180211,6 +180870,7 @@
 	dynasty = 112340
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 112343
 	1046.1.1={
 		birth="1046.1.1"
