@@ -48,7 +48,7 @@ laws = {
 				revoke_law = tax_peasants_law_feudal_3
 			}
 		}
-		local_tax_modifier = 0.05
+		local_tax_modifier = 0.10
 		global_revolt_risk = -0.01
 	}
 
@@ -100,8 +100,8 @@ laws = {
 				revoke_law = tax_peasants_law_feudal_3
 			}
 		}
-		local_tax_modifier = 0.10
-		global_revolt_risk = 0.05
+		local_tax_modifier = 0.50
+		global_revolt_risk = 0.15
 	}
 	
 	tax_peasants_law_feudal_2 = {
@@ -148,8 +148,8 @@ laws = {
 				revoke_law = tax_peasants_law_feudal_3
 			}
 		}
-		local_tax_modifier = 0.25
-		global_revolt_risk = 0.15
+		local_tax_modifier = 1.50
+		global_revolt_risk = 0.25
 	}
 	
 	tax_peasants_law_feudal_3 = {

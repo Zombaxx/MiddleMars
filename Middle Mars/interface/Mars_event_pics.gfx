@@ -23,9 +23,12 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_mech_hangar"
-		texturefile = "gfx\\event_pictures\mech_aftermath.dds"
+		texturefile = "gfx\\event_pictures\mech_hangar.dds"
 		allwaystransparent = yes
 	}
-
-
+	spriteType = {
+		name = "GFX_school_learn"
+		texturefile = "gfx\\event_pictures\school_learn.dds"
+		allwaystransparent = yes
+	}
 }

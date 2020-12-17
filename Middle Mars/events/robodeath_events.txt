@@ -44,7 +44,7 @@ character_event = {
 			limit = {NOT = {martial >= 15}}
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.02
+				troops = -0.05
 				}
 			any_current_enemy = {
 				any_realm_lord = {
@@ -53,7 +53,7 @@ character_event = {
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
+					troops = -0.03
 					}
 			}
 		}		
@@ -63,16 +63,16 @@ character_event = {
 			martial >= 15
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.05
+				troops = -0.07
 				}
 			any_current_enemy = {
 				any_realm_lord = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.05
+					troops = -0.07
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.05
+					troops = -0.10
 				}
 			}
 		}
@@ -99,7 +99,7 @@ character_event = {
 		}
 		
 		hidden_tooltip = {
-				add_character_modifier = { modifier = usedmech duration = 10}
+				add_character_modifier = { modifier = usedmech duration = 20}
 			} 
 	}
 }
@@ -124,25 +124,6 @@ character_event = {
 			limit = {NOT = {martial >= 15}}
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.02
-				}
-			any_current_enemy = {
-				any_realm_lord = {
-					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
-					}
-				any_courtier = {
-					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
-					}
-			}
-		}		
-		
-		if = {
-		
-			martial >= 15
-			any_current_enemy = {
-				limit = { in_command = yes at_location = ROOT}
 				troops = -0.05
 				}
 			any_current_enemy = {
@@ -152,7 +133,26 @@ character_event = {
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.10
+					troops = -0.03
+					}
+			}
+		}		
+		
+		if = {
+		
+			martial >= 15
+			any_current_enemy = {
+				limit = { in_command = yes at_location = ROOT}
+				troops = -0.07
+				}
+			any_current_enemy = {
+				any_realm_lord = {
+					limit = { in_command = yes at_location = ROOT}
+					troops = -0.07
+					}
+				any_courtier = {
+					limit = { in_command = yes at_location = ROOT}
+					troops = -0.07
 				}
 			}
 		}
@@ -179,7 +179,7 @@ character_event = {
 		}
 		
 		hidden_tooltip = {
-				add_character_modifier = { modifier = usedmech duration = 10 }
+				add_character_modifier = { modifier = usedmech duration = 30 }
 			}	 
 	}
 }
@@ -205,7 +205,7 @@ character_event = {
 		name = mechfl.def1
 		morale = 0.5
 		hidden_tooltip = {
-				add_character_modifier = { modifier = usedmech duration = 10 }
+				add_character_modifier = { modifier = usedmech duration = 30 }
 			}
 	}
 }
@@ -239,7 +239,7 @@ character_event = {
 		morale = 0.5	
 	}
 	hidden_tooltip = {
-		add_character_modifier = { modifier = usedmech duration = 10 }
+		add_character_modifier = { modifier = usedmech duration = 30 }
 	}
 }
 ####DESTROYED MECH SUIT####

@@ -27,7 +27,7 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 10
+			factor = 1
 			modifier = {
 				factor = 0.02
 				NOT = { religion = taoist }
@@ -94,6 +94,9 @@ decisions = {
 				any_neighbor_independent_ruler = {
 					religion = taoist
 						}
+				capital_holding = {
+						has_building = ca_special_projects_division
+					}
 			}
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
@@ -116,7 +119,7 @@ decisions = {
 				NOT = { religion = taoist }
 			}
 			modifier = {
-				factor = 0.02 #We have access to better mech
+				factor = 0.002 #We have access to better mech
 				religion = taoist
 			} 
 		}
@@ -156,4 +159,5 @@ decisions = {
 				martial < 12 
 			}
 		}
-	}		
+	}
+}		

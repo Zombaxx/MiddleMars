@@ -44,25 +44,6 @@ character_event = {
 			limit = {NOT = {martial >= 15}}
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.01
-				}
-			any_current_enemy = {
-				any_realm_lord = {
-					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
-					}
-				any_courtier = {
-					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
-					}
-			}
-		}		
-		
-		if = {
-		
-			martial >= 15
-			any_current_enemy = {
-				limit = { in_command = yes at_location = ROOT}
 				troops = -0.03
 				}
 			any_current_enemy = {
@@ -73,6 +54,25 @@ character_event = {
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
 					troops = -0.03
+					}
+			}
+		}		
+		
+		if = {
+		
+			martial >= 15
+			any_current_enemy = {
+				limit = { in_command = yes at_location = ROOT}
+				troops = -0.05
+				}
+			any_current_enemy = {
+				any_realm_lord = {
+					limit = { in_command = yes at_location = ROOT}
+					troops = -0.05
+					}
+				any_courtier = {
+					limit = { in_command = yes at_location = ROOT}
+					troops = -0.05
 				}
 			}
 		}
@@ -124,16 +124,16 @@ character_event = {
 			limit = {NOT = {martial >= 15}}
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.01
+				troops = -0.03
 				}
 			any_current_enemy = {
 				any_realm_lord = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
+					troops = -0.03
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.02
+					troops = -0.03
 					}
 			}
 		}		
@@ -143,12 +143,12 @@ character_event = {
 			martial >= 15
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
-				troops = -0.03
+				troops = -0.05
 				}
 			any_current_enemy = {
 				any_realm_lord = {
 					limit = { in_command = yes at_location = ROOT}
-					troops = -0.03
+					troops = -0.05
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}

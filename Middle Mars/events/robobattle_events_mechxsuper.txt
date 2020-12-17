@@ -108,7 +108,12 @@ character_event = {
 		option = { 
 		name = "EVTOPTArobobattle_events.11" 
 		add_character_modifier = { recentmechbattle days = 40 }
-		event_target:roboduel = { remove_artifact = super_mech_suit  add_trait = wounded}
+		event_target:roboduel = { 
+			add_trait = wounded
+			any_artifact = { 
+				limit = { has_artifact_flag = mecha_suit
+					is_artifact_active = yes }
+				unsafe_destroy_artifact = yes } }
 		clear_event_target = roboduel
 		}
 }

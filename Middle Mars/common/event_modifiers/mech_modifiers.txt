@@ -7,19 +7,29 @@ recentmechbattle = {
 	hidden = yes
 }
 peasants_lenient_tax = {
-	local_tax_modifier = 0.05
-	icon = 24
-}
-peasants_high_tax = {
 	local_tax_modifier = 0.10
 	icon = 24
 }
+peasants_high_tax = {
+	local_tax_modifier = 0.50
+	icon = 24
+}
 peasants_brutal_tax = {
-	local_tax_modifier = 0.25
+	local_tax_modifier = 1.50
 	icon = 6
 }
 
 peasants_horrying_tax = {
-	local_tax_modifier = 0.50
+	local_tax_modifier = 3.00
 	icon = 6
+}
+going_to_school = { 
+	prestige = 0.1
+	learning = 1
+	icon = 20
+}
+college_educated = {
+	prestige = 1
+	icon = 20
+	hidden = yes
 }
