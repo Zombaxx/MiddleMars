@@ -11,6 +11,6 @@ b_atuetl = city
 
 # Misc
 culture = castillan
-religion = pagan
+religion = jewish
 
 # History

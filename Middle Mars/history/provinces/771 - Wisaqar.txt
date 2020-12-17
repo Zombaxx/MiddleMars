@@ -10,6 +10,6 @@ b_nanulnaz = temple
 
 # Misc
 culture = basque
-religion = pagan
+religion = jewish
 
 # History

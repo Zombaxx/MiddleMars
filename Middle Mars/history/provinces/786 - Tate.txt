@@ -10,6 +10,6 @@ b_karik = temple
 
 # Misc
 culture = catalan
-religion = pagan
+religion = jewish
 
 # History

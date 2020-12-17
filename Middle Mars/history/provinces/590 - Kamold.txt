@@ -9,6 +9,6 @@ b_kamold = tribal
 
 # Misc
 culture = hausa
-religion = pagan
+religion = jewish
 
 # History

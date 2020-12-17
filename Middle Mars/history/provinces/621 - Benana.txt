@@ -9,6 +9,6 @@ b_benana = tribal
 
 # Misc
 culture = hausa
-religion = pagan
+religion = jewish
 
 # History

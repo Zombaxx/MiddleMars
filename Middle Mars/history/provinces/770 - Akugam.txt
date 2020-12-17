@@ -10,6 +10,6 @@ b_neinoa = temple
 
 # Misc
 culture = basque
-religion = pagan
+religion = jewish
 
 # History

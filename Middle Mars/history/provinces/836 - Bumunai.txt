@@ -11,6 +11,6 @@ b_wevelme = city
 
 # Misc
 culture = basque
-religion = pagan
+religion = jewish
 
 # History

@@ -10,6 +10,6 @@ b_seocokol = temple
 
 # Misc
 culture = ethiopian
-religion = pagan
+religion = jewish
 
 # History

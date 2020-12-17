@@ -11,6 +11,6 @@ b_atyanya = city
 
 # Misc
 culture = castillan
-religion = pagan
+religion = jewish
 
 # History

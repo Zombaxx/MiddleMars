@@ -9,6 +9,6 @@ b_tuderas = castle
 
 # Misc
 culture = basque
-religion = pagan
+religion = jewish
 
 # History

@@ -12,6 +12,6 @@ b_keenomo = castle
 
 # Misc
 culture = basque
-religion = pagan
+religion = jewish
 
 # History
