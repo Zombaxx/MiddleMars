@@ -10,7 +10,7 @@ b_banahtu = temple
 b_raidamr = city
 
 # Misc
-culture = han
-religion = taoist
+culture = coptic
+religion = messalian
 
 # History

@@ -5979,7 +5979,7 @@
 	religion="sunni"
 }
 111850={
-	name="Terra"
+	name="of Terra"
 	culture="coptic"
 	religion="messalian"
 }
@@ -8917,4 +8917,14 @@
 	name="Achyutadevid"
 	culture="kannada"
 	religion="hindu"
+}
+117620={
+	name="Carter"
+	culture="coptic"
+	religion="messalian"
+}
+117630={
+	name="Luo"
+	culture="han"
+	religion="khurmazta"
 }

@@ -333,11 +333,16 @@ full_cybernetic_conversion = {
 		# Any disease traits we put in should go here
 	}
 	is_health = yes
+	health = 10
+	catholic_opinion = 5
+	christian_opinion = 5
+	taoist_opinion = -15
+	khurmazta_opinion = 15
 	immortal = yes
-	general_opinion = -10 # Creeepy
-	same_opinion = 10 # Not quite so creepy
+	general_opinion = 5
+	same_opinion = 10
 	fertility = -10000
-	ruler_designer_cost = 20 # The game apparently severely undervalues "no fertility" relative to "lives forever."
+	ruler_designer_cost = 20
 	combat_rating = 30
 }
 damaged_cybernetics = {

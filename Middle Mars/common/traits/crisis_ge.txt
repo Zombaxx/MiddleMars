@@ -11,7 +11,10 @@ heavy_worlder = {
 	health = +4
 	global_tax_modifier = 0.1
 	same_opinion = 15
-	religious_group_opinion = -40
+	catholic_opinion = 10
+	christian_opinion = 5
+	taoist_opinion = 5
+	hindu_opinion = 5
 	ruler_designer_cost = 25
 	male_compliment_adj = COMPL_STRONG
 	female_compliment_adj = COMPL_STRONG
@@ -42,7 +45,12 @@ spacer_physiology = {
 	intrigue = 2
 	learning = 2
 	stewardship = 2
-	same_opinion = 15
+	same_opinion = 5
+	taoist_opinion = 10
+	tengri_opinion = 5
+	zoroastrian_group_opinion = -5
+	indian_group_opinion = -5
+	khurmazta_opinion = -15
 	ruler_designer_cost = 10
 	male_compliment_adj = COMPL_CLEVER
 	female_compliment_adj = COMPL_CLEVER
@@ -56,53 +64,52 @@ spacer_physiology = {
 	ai_honor = 10
 	ai_zeal = 20
 }
-#organic_wifi = { #BiFi
-#	#potential = { religion = bio_directionist } Wouldn't this cause the same problem we had with Full-body cybernetics, where changing ideology would cause modifications to spontaneously vanish?
-#	birth = 1
-#	inherit_chance = 33
-#	both_parent_has_trait_inherit_chance = 75	
-#	#random = no
-#
-#	bio_directionist_opinion = 10
-#	stewardship = 1
-#	diplomacy = 2
-#	learning = 5
-#	same_opinion = 10
-#	religious_group_opinion = -20
-#	ruler_designer_cost = 20
-#	male_compliment_adj = COMPL_CLEVER
-#	female_compliment_adj = COMPL_CLEVER
-#	male_insult = INSULT_SCHEMING
-#	female_insult = INSULT_SCHEMING
-#	female_insult_adj = INSULT_SCHEMING
-#	child_insult_adj = INSULT_SCHEMING
-#	
-#	ai_rationality = 10
-#	ai_ambition = 5
-#	ai_honor = -5
-#	ai_zeal = 5
-#}
-#cat_splice = {
-#	enatic = yes
-#	inherit_chance = 25
-#	both_parent_has_trait_inherit_chance = 66
-#	random = no
-#
-#	bio_directionist_opinion = 10
-#	intrigue = 5
-#	combat_rating = 15
-#	same_opinion = 10
-#	religious_group_opinion = -50
-#	ruler_designer_cost = 20
-#	male_compliment_adj = COMPL_CLEVER
-#	female_compliment_adj = COMPL_CLEVER
-#	male_insult = INSULT_SCHEMING
-#	female_insult = INSULT_SCHEMING
-#	female_insult_adj = INSULT_SCHEMING
-#	child_insult_adj = INSULT_SCHEMING
-#	
-#	ai_rationality = 10
-#	ai_ambition = 5
-#	ai_honor = -5
-#	ai_zeal = 5
-#}
+organic_wifi = { #BiFi
+	birth = 1
+	inherit_chance = 33
+	both_parent_has_trait_inherit_chance = 75	
+	#random = no
+
+	bio_directionist_opinion = 10
+	stewardship = 1
+	diplomacy = 2
+	learning = 5
+	same_opinion = 10
+	religious_group_opinion = -20
+	ruler_designer_cost = 20
+	male_compliment_adj = COMPL_CLEVER
+	female_compliment_adj = COMPL_CLEVER
+	male_insult = INSULT_SCHEMING
+	female_insult = INSULT_SCHEMING
+	female_insult_adj = INSULT_SCHEMING
+	child_insult_adj = INSULT_SCHEMING
+	
+	ai_rationality = 10
+	ai_ambition = 5
+	ai_honor = -5
+	ai_zeal = 5
+}
+cat_splice = {
+	enatic = yes
+	inherit_chance = 25
+	both_parent_has_trait_inherit_chance = 66
+	random = no
+
+	bio_directionist_opinion = 10
+	intrigue = 5
+	combat_rating = 15
+	same_opinion = 10
+	religious_group_opinion = -50
+	ruler_designer_cost = 20
+	male_compliment_adj = COMPL_CLEVER
+	female_compliment_adj = COMPL_CLEVER
+	male_insult = INSULT_SCHEMING
+	female_insult = INSULT_SCHEMING
+	female_insult_adj = INSULT_SCHEMING
+	child_insult_adj = INSULT_SCHEMING
+	
+	ai_rationality = 10
+	ai_ambition = 5
+	ai_honor = -5
+	ai_zeal = 5
+}
