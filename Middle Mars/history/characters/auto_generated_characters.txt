@@ -173518,11 +173518,11 @@
 	}
 }
 111850 = {
-	name = "Yushi"
+	name = "Ouranos"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -173536,11 +173536,11 @@
 	}
 }
 111851 = {
-	name = "Fengji"
+	name = "Cronus"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111850
 	978.1.1={
 		birth="978.1.1"
@@ -173550,11 +173550,11 @@
 	}
 }
 111852 = {
-	name = "Dunxin"
+	name = "Steve"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111851
 	1016.1.1={
 		birth="1016.1.1"
@@ -173567,11 +173567,11 @@
 	}
 }
 111853 = {
-	name = "Yin"
+	name = "Adam"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111851
 	1021.1.1={
 		birth="1021.1.1"
@@ -173581,11 +173581,11 @@
 	}
 }
 111854 = {
-	name = "Qiuniang"
+	name = "Eve"
 	female = yes
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	1020.1.1={
 		birth="1020.1.1"
 		effect={ dynasty = father_bastard }
@@ -173598,11 +173598,11 @@
 	}
 }
 111855 = {
-	name = "Jiafu"
+	name = "Kane"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111852
 	mother = 111854
 	1049.1.1={
@@ -173613,11 +173613,11 @@
 	}
 }
 111856 = {
-	name = "Rengui"
+	name = "Able"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111852
 	mother = 111854
 	1050.1.1={
@@ -173628,12 +173628,12 @@
 	}
 }
 111857 = {
-	name = "Qiongxian"
+	name = "Eve"
 	female = yes
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111852
 	mother = 111854
 	1055.1.1={
@@ -173644,11 +173644,11 @@
 	}
 }
 111858 = {
-	name = "Shenyou"
+	name = "Alex"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111853
 	1046.1.1={
 		birth="1046.1.1"
@@ -173658,11 +173658,11 @@
 	}
 }
 111859 = {
-	name = "Guan"
+	name = "Steve"
 	dynasty = 111850
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
 	father = 111853
 	1049.1.1={
 		birth="1049.1.1"
@@ -174273,8 +174273,8 @@
 	name = "Fu"
 	dynasty = 111900
 	trait = heavy_worlder
-	culture = "han"
-	religion = "taoist"
+	culture = "coptic"
+	religion = "messalian"
 	trait = mastermind_theologian
 	learning = 10
 	trait = genius
@@ -174293,8 +174293,8 @@
 	name = "Zhaodu"
 	dynasty = 111900
 	trait = heavy_worlder
-	culture = "han"
-	religion = "taoist"
+	culture = "coptic"
+	religion = "messalian"
 	father = 111900
 	989.1.1={
 		birth="989.1.1"
@@ -174307,8 +174307,8 @@
 	name = "Zhaodu"
 	dynasty = 111900
 	trait = heavy_worlder
-	culture = "han"
-	religion = "taoist"
+	culture = "coptic"
+	religion = "messalian"
 	trait = spacer_physiology
 	father = 111901
 	trait = odin_mk_i
@@ -174327,8 +174327,8 @@
 	name = "Liben"
 	dynasty = 111900
 	trait = heavy_worlder
-	culture = "han"
-	religion = "taoist"
+	culture = "coptic"
+	religion = "messalian"
 	father = 111901
 	trait = odin_mk_i
 	trait = iaei_mk_i
@@ -174361,9 +174361,9 @@
 111905 = {
 	name = "Fangzhi"
 	dynasty = 111900
-	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111902
 	mother = 111904
 	trait = odin_mk_i
@@ -174379,9 +174379,9 @@
 	name = "Zhonghua"
 	female = yes
 	dynasty = 111900
-	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111902
 	mother = 111904
 	1052.1.1={
@@ -174394,9 +174394,9 @@
 111907 = {
 	name = "Chuyue"
 	dynasty = 111900
-	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111902
 	mother = 111904
 	trait = odin_mk_i
@@ -174410,9 +174410,9 @@
 111908 = {
 	name = "Yanfan"
 	dynasty = 111900
-	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111903
 	1055.1.1={
 		birth="1055.1.1"
@@ -174425,9 +174425,9 @@
 	name = "Dexiu"
 	female = yes
 	dynasty = 111900
-	trait = heavy_worlder
 	culture = "han"
 	religion = "taoist"
+	trait = spacer_physiology
 	father = 111903
 	1057.1.1={
 		birth="1057.1.1"

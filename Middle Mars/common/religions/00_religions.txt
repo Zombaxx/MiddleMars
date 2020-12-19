@@ -50,14 +50,14 @@ christian = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_GOD
+		high_god_name = HOLY_TERRA
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			HOLY_TERRA GOD_GAIA GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
 		}
 		
 		investiture = yes
@@ -101,6 +101,15 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_GAIA GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
@@ -135,6 +144,16 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_GAIA GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
+		}		
+		
 		use_new_crusade = yes
 		crusade_cb = new_crusade
 
@@ -177,6 +196,15 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_GAIA GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
@@ -248,11 +276,11 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN GOD_GAIA
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
 		}
 		
 		autocephaly = yes
@@ -303,7 +331,7 @@ christian = {
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
 		}
 		
 		autocephaly = yes
@@ -383,6 +411,15 @@ christian = {
 		parent = orthodox
 		
 		crusade_name = CRUSADE
+		high_god_name = HOLY_TERRA
+		
+		god_names = {
+			HOLY_TERRA GOD_GAIA GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
@@ -501,7 +538,7 @@ christian = {
 		crusade_name = CRUSADE
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL THE_DEMIURGE
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL THE_DEMIURGE
 		}
 
 		autocephaly = yes
@@ -539,6 +576,7 @@ christian = {
 		heresy_icon = 47
 		
 		color = { 0.8 0.3 0.5 }
+		parent = messalian
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -547,11 +585,11 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_FATHER_MARS GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			EGOD_DISASTER GOD_MOTHER_EARTH GOD_GAIA GOD_SURVIVORS GOD_HOMELAND SATAN  LUCIFER THE_DEVIL
 		}
 		
 		autocephaly = no
@@ -597,17 +635,18 @@ christian = {
 		heresy_icon = 47
 		
 		color = { 0.6 0.1 0.4 }
-		parent = nestorian
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_ASCETICUS
 		
+		high_god_name = GOD_MOTHER_EARTH
+		
 		god_names = {
-			GOD_GOD THE_PANTOKRATOR GOD_JESUS LUCIFER
+			GOD_MOTHER_EARTH GOD_GAIA GOD_SURVIVORS GOD_HOMELAND
 		}
 		
 		evil_god_names = {
-			THE_DEMIURGE
+			EGOD_DISASTER EGOD_DISASTER SATAN   LUCIFER THE_DEVIL
 		}
 
 		can_retire_to_monastery = yes
@@ -621,6 +660,7 @@ christian = {
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
+		intermarry = taoist
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -2481,7 +2521,7 @@ jewish_group = {
 			GOD_GOD GOD_THE_LORD ADONAI
 		}
 		evil_god_names = {
-			SATAN
+			EGOD_DISASTER SATAN 
 		}
 		
 		can_grant_divorce = yes

@@ -5979,9 +5979,9 @@
 	religion="sunni"
 }
 111850={
-	name="Rivudo"
-	culture="han"
-	religion="taoist"
+	name="Terra"
+	culture="coptic"
+	religion="messalian"
 }
 111860={
 	name="Korail"

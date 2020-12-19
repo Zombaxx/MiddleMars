@@ -1397,8 +1397,8 @@ byzantine = {
 		modifier = default_culture_modifier
 	}
 	
-	coptic = { #copto-egyptian
-		graphical_cultures = { byzantinegfx }
+	coptic = { #Terran
+		graphical_cultures = { outremergfx andalusiangfx southerngfx muslimgfx byzantinegfx africangfx westafricangfx }
 		
 		color = { 0.6 0.4 0.6 }
 

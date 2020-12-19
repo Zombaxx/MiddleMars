@@ -1,7 +1,8 @@
 ####religion relocalisations
 christian;Singularity;;;;Cristiano;;;;;;;;;x
+EVTDESC39661;Holy Terra's influence over the pagan lands in the Tharis Rise is failing, and the thus the security of the many pious independant kingdoms stretching from Alba Mons to shores of Noctis Fossae on the Valles Marineris Sea. The dire situation has convinced His Holiness, [Root.GetTitledName], to accept the possibility of an outright invasion by joint Singularity forces. This signals a new era of large scale Singularity holy wars - the Crusades.;L'Empire romain d'Orient, plus connu sous le nom d'Empire byzantin, solide rempart de la chrétienté contre les infidèles mahométans venus d'Orient, risque de disparaître, ce qui serait une porte ouverte sur l'Europe permettant aux hordes arabes de déferler sur nos vertes contrées.\nCette situation critique a convaincu Sa Sainteté [Root.Get_le_TitledName] d'accepter la possibilité d'une invasion en bonne et due forme des territoires de l'Empire grec au main des infidèles par des forces chrétiennes alliées.\nCette décision annonce une période de guerres saintes chrétiennes à grande échelle - l'ère des grandes croisades.;Das Oströmische Reich. Byzanz - das feste Bollwerk des Christentums gegen die mohammedanischen Ungläubigen im Orient - droht unterzugehen. Aufgrund der Notlage hat seine Heiligkeit [Root.GetTitledName] die Möglichkeit einer regelrechten Invasion durch vereinte christliche Heere in Betracht gezogen. Dies ist der Beginn eines neuen Zeitalters großer christlicher Heiliger Kriege - der Kreuzzüge.;;El Imperio Romano Oriental. Bizancio —firme bastión de la cristiandad contra los infieles mahometanos de Oriente— está a punto de caer. La grave situación ha convencido a Su Santidad [Root.GetTitledName] a autorizar una invasión inmediata por las fuerzas cristianas conjuntas. Este hecho marca el inicio de una nueva era de guerras santas cristianas de gran alcance: las Cruzadas.;;;;;;;;;x
 catholic;Holy Terra;catholique;Katholisch;;Católico;;;;;;;;;x
-catholic_DESC;Disciples of Holy Terra believe Earthlings made a garden of eden for martians and created the old Martian society in Earth’s image,but was abandoned and stripped of technology by Earth for an unknown transgression. They strive to rid themselves of vices and be more like Terrans to correct this transgression, reconnect with earth and reclaim their destiny in the stars.;;;;;;;;;;;;;x
+catholic_DESC;Disciples of Holy Terra believe Earthlings made a garden of eden for martians and created the old Martian society in Earth’s image,but was abandoned and stripped of technology by Earth for an unknown transgression. They strive to rid themselves of vices and be more like Terrans to correct this transgression, reconnect with earth and reclaim their destiny in the stars. They are vary intolerant of any opposing views on Terra, including the rare "false" Mother Earth Terrans which the Spacers claim to have brought straight from the Homeland.;;;;;;;;;;;;;x
 orthodox;Blessed Singulatiry;orthodoxe;Orthodox;;Ortodoxo;;;;;;;;;x
 orthodox_DESC;The Blessed Singularity shares many beliefs with Holy Terra, but believes the sun created the earth, and the singularity created the sun. Therefor even though they strive to be like Terrans they believe Martians to be equal since we are all humans that came from the singularity. They believe that Holy Terra wrongfully abandoned the emphasis on the Singularity for political rather than spiritual reasons to better control the population by making them meek.;;;;;;;;;;;;;x
 muslim;Terraformed;musulman;Muslimisch;;Musulmán;;;;;;;;;x
@@ -10,20 +11,18 @@ sunni_DESC;Sacred guardians of the dormant atmospheric machines, The Terraformed
 shiite;Altered;Altered;Altered;;Altered;;;;;;;;;x
 shiite_DESC;The Altered are an aggressive offshoot of Terraformed adherents which believes it is inevitable that the atmosphere will fade away, and so we must prepare and adapt. Trying to restore the terraforming machines is a dangerous waste of time. Uses Assassins society to eliminate the unaltered who have no potential to survive the impending doom, and are thus a hinderance to humanity’s chance of survival.;;;;;;;;;;;;;x
 cathar;Matriarchal Singularity;cathare;Katharisch;;Cátaro;;;;;;;;;x
-fraticelli;Holy Singularity;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
-fraticelli_DESC;Fusion of Holy Terran and Blessed Singularity beliefs.;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
+fraticelli;Post Terra;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
+fraticelli_DESC;In a Post-Terran world, the faithful must adapt to the realities that Terra will never be what it once was, no matter how great its legacy.;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
 lollard;First Terra;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
 lollard_DESC;Ultra Orthodox sect of Holy Terra which was re-founded based on ancient texts in Holy Terran ruins.;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
 waldensian;Original Singularity;Secular interpretation of Holy Terra and the Singularity which was re-founded based on ancient texts in Holy Terran ruins.;Waldenserisch;;Valdense;;;;;;;;;x
-waldensian_DESC;Original Singularity;vaudoise;Waldenserisch;;Valdense;;;;;;;;;x
+waldensian_DESC;Fusion of Holy Terran and Blessed Singularity beliefs.;vaudoise;Waldenserisch;;Valdense;;;;;;;;;x
 bogomilist;Blessed Terra;bogomile;Bogomilisch;;Bogomilo;;;;;;;;;x
 bogomilist_DESC;Extremist offshoot of Holy Terra which believes the chosen Martians will one day return to reclaim rather than reconnect with Terra.;bogomile;Bogomilisch;;Bogomilo;;;;;;;;;x
 iconoclast;First Singularity;iconoclaste;Ikonoklastisch;;Iconoclasta;;;;;;;;;x
 iconoclast_DESC;Ultra Orthodox sect of Blessed Singularity which believe that the less pious adherents of Blessed Singularity are just as guilty as Holy Terra.;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
 monophysite;Altered Terra;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
 monophysite_DESC;Believe that the disaster changed Terra in addition to Mars, and that Martians should strive to be like the new, Altered Terra since the planet and human race has been forever changed. Striving to be like the people of the past could lead to a dangerous future.;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
-nestorian;Equal Singularity;nestorienne;Nestorianisch;;Nestoriano;;;;;;;;;x
-nestorian_DESC;An altruistic cohort of Singularity followers with socialist influences.;nestorienne;Nestorianisch;;Nestoriano;;;;;;;;;x
 zikri;True Terraformed;zikrie;Zikrisch;;Zikri;;;;;;;;;x
 yazidi;Pre Terraformed;yézidie;Yazidisch;;Yazidí;;;;;;;;;x
 ibadi;Original Terraformed;ibadite;Ibadisch;;Ibadí;;;;;;;;;x
@@ -40,10 +39,38 @@ finnish_pagan;Äiti Marsilainen;Äiti Marsilainen;Äiti Marsilainen;;Äiti Marsi
 finnish_pagan_DESC;Äiti Marsilainen paganism is diverse, varying a lot between tribes and regions. It is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth.;Le paganisme finnois varie beaucoup selon la tribu ou la région. Il est empreint de chamanisme et d'animisme et on y vénère de multiples dieux, dont Ukko (aussi appelé Perkele), Kuu et, dans l'est, Mastor-Ava, déesse de la terre.;Das Finnisches Heidentum ist vielfältig, mit großen Unterschieden zwischen Stämmen und Regionen. Es ist schamanisch und animistisch und bezieht sich auf eine Vielzahl von Göttern, einschließlich Ukko/Perkele, Kuu und im Osten Mastor-Ava, Göttin der Erde.;;El paganismo Finlandés es diverso, variando mucho entre las tribus y las regiones. Es chamánico y animista, reverencia a una multitud de dioses, incluyendo a Ukko/Perkele, Kuu y, en el este, a Mastor-Ava, diosa de la Tierra.;;;;;;;;;x
 zoroastrian;Divine Cycle;;;;;;;;;;;;;x
 zoroastrian_DESC;The Singularity is merely the moment that each cycle of the Divine Cycle begins. Adherents of this ideology believe the disaster and being earth-like irrelevant due to the cycle of the universe, though does not deny Earth’s existence. The Divine Cycle is practiced among royalty through Divine Marriage.;;;;;;;;;;;;;x
+
+nestorian;Father Mars;;;;;;;;;;;;;x
+nestorian_DESC;Father Mars is a heretical branch of Mother Earth which have given up on the proclaimed "backwards ways of The Survivors", and are now embracing new beliefs more in line with standard Martian Singulary sects.;Le nestorianisme est une branche du christianisme primitif qui professe que le Christ possède deux natures séparées, l'une divine et l'autre humaine. Elle est à l'opposé de la position monophysite pour laquelle le Christ possède une seule et unique nature. La personne à la tête de l'Église nestorienne est le patriarche d'Orient.;Der Nestorianismus ist ein frühchristlicher Zweig, welcher glaubt, dass Christus zwei Naturen hat - eine heilige und eine menschliche. Dies ist das Gegenteil des Monophysitischen Glaubens, laut dem Christus nur eine Natur hat. Das nominelle Oberhaupt ist der Patriarch des Ostens.;;El Nestorianismo es una rama temprana del cristianismo que proclama que Cristo tenía dos naturalezas separadas - una divina y una humana. Es lo contrario al monofisismo, en el que Cristo solo tenía una naturaleza. La cabeza nominal de la Iglesia Nestoriana es el Patriarca del Este.;;;;;;;;;x
+THE_DEMIURGE;the Demiurge;le Démiurge;der Demiurg;;el Demiurgo;;;;;;;;;x
+EVTOPTA37012;The traitorous git!;Quelle infâme trahison !;Dieser verräterische Narr!;;¡Cretino traidor!;;;;;;;;;x
+paulician;Equal Singularity;nestorienne;Nestorianisch;;Nestoriano;;;;;;;;;x
+paulician_DESC;An altruistic cohort of Singularity followers with socialist influences.;nestorienne;Nestorianisch;;Nestoriano;;;;;;;;;x
+
+d_paulician;The Equal Patriarchate;Patriarcat paulicien;Das Paulizianische Patriarchat;;El Patriarcado Pauliciano;;;;;;;;;x
+d_paulician_adj;Equal singurlarian;paulicienne;Paulizianisch;;Pauliciano;;;;;;;;;x
+c_lori_adj;Lorian;lorienne;Lorianisch;;Loriano;;;;;;;;;x
+
+messalian;Mother Earth;messalienne;Messalianismus;;Mesaliano;;;;;;;;;x
+messalian_DESC;Mother Earth is the Singularity sect that originated on the ruins of Earth in the wake of the Great Disaster, influenced by multiverse concepts similar to the Divine Cycle. With much of the natural world on Earth destroyed, the original small band of survivors believed they could only save humanity through the carnal senses, and that this perception is necessary to reach perfection. Each person is born with a duty to continue humanity, with incest considered sacred since it was practised by the children of The Survivors. They have no formal rites and no strict church hierarchy.;Les messaliens, ou euchites (''ceux qui prient'') sont une secte hérétique issue du christianisme qui trouve ses origines en Mésopotamie, influencée par des fois dualistiques comme le zoroastrisme. Les messaliens croient que Dieu peut être perçu par les cinq sens et que cette perception est nécessaire pour atteindre la perfection. Chacun est né avec un démon intérieur et seule la prière intense permet de le chasser. Ils croient également que Lucifer est le fils aîné de Dieu et qu'il est une force bénéfique. Pour eux, l'inceste est sacré car il a été pratiqué par les enfants d'Adam et Eve. Ils ne possèdent ni rites officiels ni structure hiérarchique stricte.;Die Messalianiten oder Euchiten ("Jene, die beten") sind eine christlich-ketzerische Sekte mit Ursprung in Mesopotamien, beeinflusst von dualistischen Glauben wie dem Zoroastrianismus. Messalianiten glauben, dass Gott durch körperliche Sinne wahrgenommen werden kann und dass dies notwendig ist, um Vollkommenheit zu erreichen. Jede Person wird mit einem inneren Dämon geboren und nur intensive Gebete können ihn vertreiben. Sie glauben außerdem, dass Luzifer ein Sohn und eine Kraft Gottes ist und dass Inzest geheiligt ist, da die Kinder von Adam und Eva desgleichen taten. Sie haben keine formellen Riten und keine echte Kirchenhierarchie.;;Los Mesalianos, o Euchitas ('quienes no rezan'), son una secta herética cristiana originaria de Mesopotamia, influenciada por fes dualistas como el Zoroastrismo. Los Mesalianos creen que dios puede percibirse por los sentidos carnales, y que esa percepción es necesaria para la perfección. Cada persona nace con un demonio interior, y sólo con intensa oración puede expulsarse. También creen que Lucifer es el hijo mayor de Dios y una fuerza del bien, y que el incesto es sagrado pues lo practicaron los hijos de Adán y Eva. No tienen ritos formales ni jerarquía eclesiástica.;;;;;;;;;;;x
+GOD_MOTHER_EARTH;Mother Earth;;;;;;;;;;;;;x
+GOD_GAIA;Gaia;;;;;;;;;;;;;x
+GOD_SURVIVORS;The Survivors;;;;;;;;;;;;;x
+GOD_HOMELAND;The Homeland;;;;;;;;;;;;;x
+GOD_FATHER_MARS;Father Mars;;;;;;;;;;;;;x
+EGOD_DISASTER;The Great Disaster;;;;;;;;;;;;;x
+
+GENERAL_CLOSE_KIN_UNION;Since §Y[ActorExtra.GetFirstName]§! is §Y[RecipientExtra.GetFirstName]'s§! $RELATION$, it would be a sacred union, pleasing to all vassals of the Faith.;Puisque §Y[ActorExtra.GetFirstName]§! est $RELATION$ de §Y[RecipientExtra.GetFirstName]§!, cela constituerait une union sacrée et tous les vassaux de la même religion en seraient satisfaits.;Da §Y[ActorExtra.GetFirstName]§! §Y[RecipientExtra.GetFirstName]s§! $RELATION$ ist, wäre dies eine heilige Verbindung und erfreut alle Vasallen gleichen Glaubens.;;Como §Y[ActorExtra.GetFirstName]§! es $RELATION$ de §Y[RecipientExtra.GetFirstName]§!, será una unión sagrada, complaciendo a todos los vasallos de la Fe.;;;;;;;;;x
+EVTDESC502;Like the children of The Survivors after the Great Disaster, [From.GetTitledFirstName] and [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] have formed a sacred union, pleasing to [From.Religion.GetRandomGodName]. We can collect a Royal Aid Duty to pay for the ceremonies.;Comme les enfants d'Adam et Eve à l'aube des temps, [From.Get_le_TitledFirstName] et s[New.GetOnA] [GetFromVsNewRelation], [New.Get_le_TitledFirstName], ont formé une union sacrée qui plaît [From.Get_au_HighGod]. Nous pourrions lever une contribution royale afin de financer la cérémonie.;Gleich den Kindern Adam und Evas am Anbeginn der Zeit gingen [From.GetTitledFirstName] und [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] eine heilige Verbindung zum Gefallen von [From.Religion.GetRandomGodName] ein. Wir können eine Hilfssteuer erheben, um die Zeremonie zu bezahlen.;;Como los hijos de Adán y Eva en el amanecer de los tiempos, [From.GetTitledFirstName] y [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] han formado una sagrada unión, complaciendo a [From.Religion.GetRandomGodName]. Podemos recolectar la Dote de Ayuda Real para pagar las ceremonias.;;;;;;;;;x
+
+HOLY_TERRA;Holy Terra;;;;;;;;;;;;;x
 GOD_GOD;Singularity;Dieu;Gott;;Dios;;;;;;;;;x
 GOD_THE_LORD;the Singularity;le Seigneur;Der Seigneur;;El Seigneur;;;;;;;;;x
 GOD_JESUS;Sagan;Sagan;Sagan;;Sagan;;;;;;;;;x
 GOD_THE_BLESSED_VIRGIN;the Blessed Scientist;the Blessed Scientist;the Blessed Scientist;;the Blessed Scientist;;;;;;;;;x
+SATAN;;;;;;;;;;;;;;x
+LUCIFER;;;;;;;;;;;;;;x
+THE_DEVIL;;;;;;;;;;;;;;x
 GOD_ALLAH;Terraformer;Terraformer;Terraformer;;Terraformer;;;;;;;;;x
 GOD_THE_GREATEST;the Greatest;le Très Grand;den Größten;;El Altísimo;;;;;;;;;x
 GOD_THE_SPIRITS;the Machines;les Esprits;die Geister;;Los Espíritus;;;;;;;;;x
@@ -64,6 +91,8 @@ GOD_JUMI;Jumi;Jumi;Jumi;;Jumi;;;;;;;;;x
 GOD_AHURA_MAZDA;Ahura Mazda;Ahura Mazda;Ahura Mazda;;Ahura Mazda;;;;;;;;;x
 GOD_MANAH;Manah;Manah;Manah;;Manat;;;;;;;;;x
 THE_BIBLE;The Texts;Bible;Die Bibel;;La Biblia;;;;;;;;;x
+THE_ASCETICUS;The Anthropocene;Ascètes;der Asceticus;;Los Ascetas;;;;;;;;;x
+THE_PANTOKRATOR;the Pantokrator;le Pantocrator;der Pantokrator;;el Pantocrátor;;;;;;;;;x
 THE_KORAN;The Diagrams;Coran;Der Koran;;El Corán;;;;;;;;;x
 THE_LEGENDS;The Legends;Légendes;Die Legenden;;Las Leyendas;;;;;;;;;x
 THE_SAGAS;The Sagas;Sagas;Die Sagen;;Las Sagas;;;;;;;;;x
