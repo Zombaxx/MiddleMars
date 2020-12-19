@@ -24,6 +24,11 @@ on_adulthood = {
 		take_hostage_events.7
 	}
 }
+on_executed = {
+	events = {
+		 mta.4 #on_executed opinion penalties
+	 }
+}
 on_combat_pulse = {
 	random_events = {
 		3000 = robobattle_events.92
