@@ -4539,6 +4539,11 @@
 	1034.1.1={
 		birth="1034.1.1"
 	}
+	1065.1.1 = {
+		effect = {
+			d_ravius_valles = { add_claim = ROOT }
+		}
+	}
 	1095.1.1={
 		death="1095.1.1"
 	}
@@ -11377,6 +11382,11 @@
 	mother = 100784
 	1033.1.1={
 		birth="1033.1.1"
+	}
+	1065.1.1 = {
+		effect = {
+			d_south_alba = { add_claim = ROOT }
+		}
 	}
 	1084.1.1={
 		death="1084.1.1"
@@ -59246,6 +59256,11 @@
 	1030.1.1={
 		birth="1030.1.1"
 	}
+	1065.1.1 = {
+		effect = {
+			k_noctis_fossae = { add_claim = ROOT }
+		}
+	}
 	1085.1.1={
 		death="1085.1.1"
 	}
@@ -71183,6 +71198,12 @@
 	mother = 104894
 	1035.1.1={
 		birth="1035.1.1"
+	}
+	1065.1.1 = {
+		effect = {
+			k_nereidum_montes = { add_claim = ROOT }
+			k_bosporos_planum = { add_claim = ROOT }
+		}
 	}
 	1090.1.1={
 		death="1090.1.1"
@@ -85601,6 +85622,11 @@
 	mother = 105874
 	1046.1.1={
 		birth="1046.1.1"
+	}
+	1065.1.1 = {
+		effect = {
+			k_south_marineris = { add_claim = ROOT }
+		}
 	}
 	1102.1.1={
 		death="1102.1.1"
