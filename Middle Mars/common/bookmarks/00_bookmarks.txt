@@ -96,8 +96,8 @@ bm_middle_mars = {
 		
 		character = {
 			female = yes
-			#dna = cagfktibaal
-			#properties = fj0dcd000000
+			dna = mtgnhkugxsf
+			properties = 0lyekk
 			religion="messalian"
 			culture="coptic"
 			government = feudal_government
