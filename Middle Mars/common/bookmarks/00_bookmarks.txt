@@ -8,6 +8,22 @@ bm_middle_mars = {
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
 
 	selectable_character = {
+		id = 100785 # John II of South Alba
+		age = 33
+		name = ERA_CHAR_NAME_100785
+		title = k_north_alba
+		title_name = k_north_alba
+		
+		character = {
+			dna = joxvfbqdxvs
+			properties = am00hb0
+			religion="catholic"
+			culture="german"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
 		id = 102265 # Maximilianos of Olympus Mons
 		age = 27
 		name = ERA_CHAR_NAME_102265
@@ -56,22 +72,6 @@ bm_middle_mars = {
 		}
 	}
 	selectable_character = {
-		id = 100785 # John II of South Alba
-		age = 33
-		name = ERA_CHAR_NAME_100785
-		title = k_north_alba
-		title_name = k_north_alba
-		
-		character = {
-			dna = joxvfbqdxvs
-			properties = am00hb0
-			religion="catholic"
-			culture="german"
-			government = feudal_government
-			dynasty=100780
-		}
-	}
-	selectable_character = {
 		id = 111905 # Elupuyan Fangzhi of Promethei Terra
 		age = 19
 		name = ERA_CHAR_NAME_111905
@@ -85,6 +85,23 @@ bm_middle_mars = {
 			culture="han"
 			government = feudal_government
 			dynasty=111900
+		}
+	}
+	selectable_character = {
+		id = 103715 # Tera of Earth
+		age = 16
+		name = ERA_CHAR_NAME_103715
+		title = c_ebozaba
+		title_name = c_ebozaba
+		
+		character = {
+			female = yes
+			#dna = cagfktibaal
+			#properties = fj0dcd000000
+			religion="messalian"
+			culture="coptic"
+			government = feudal_government
+			dynasty=117620
 		}
 	}
 }

@@ -648,7 +648,14 @@ christian = {
 		evil_god_names = {
 			EGOD_DISASTER EGOD_DISASTER SATAN   LUCIFER THE_DEVIL
 		}
+		
+		has_heir_designation = yes
+		defensive_attrition = yes
+		max_consorts = 3
+		women_can_take_consorts = yes
+		allow_looting = yes
 
+		hard_to_convert = yes
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
@@ -2243,7 +2250,7 @@ pagan_group = {
 		#has_heir_designation = yes
 		priests_can_inherit = no
 		defensive_attrition = yes
-		#feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		max_consorts = 3
 		women_can_take_consorts = yes
@@ -2806,9 +2813,10 @@ indian_group = {
 		
 		intermarry = buddhist
 		intermarry = nestorian
+		intermarry = messalian
 		intermarry = manichean
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = jain
+		intermarry = hindu
 		intermarry = bon
 		intermarry = bon_reformed
 	}

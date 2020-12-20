@@ -873,8 +873,8 @@ succ_feudal_elective = {
 		potential = {
 			holder_scope = {
 				OR = {
-					has_landed_title = e_byzantium
-					has_landed_title = e_roman_empire
+					has_landed_title = e_valles_marineris
+					religion = taoist
 				}
 				NOT = { religion_group = muslim }
 				is_nomadic = no

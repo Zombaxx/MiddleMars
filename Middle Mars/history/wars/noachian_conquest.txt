@@ -1,0 +1,19 @@
+name = "Noachian Conquest"
+
+casus_belli = {
+	actor = 111585
+	recipient = 104895
+	casus_belli = invasion
+	landed_title= k_south_marineris
+	date=1066.9.10
+}
+
+1066.9.10 = {
+	add_attacker = 111585
+	add_defender = 104895
+}
+
+1062.10.14 = {
+	rem_attacker = 111585
+	rem_defender = 104895
+}

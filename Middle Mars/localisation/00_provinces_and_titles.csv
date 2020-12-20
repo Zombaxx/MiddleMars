@@ -6106,12 +6106,12 @@ b_ricibah;Ricibah;Ricibah;Ricibah;;Ricibah;;;;;;;;;x
 b_nicoos;Nicoos;Nicoos;Nicoos;;Nicoos;;;;;;;;;x
 b_larad;Larad;Larad;Larad;;Larad;;;;;;;;;x
 b_barony0406g;Barony0406g;Barony0406g;Barony0406g;;Barony0406g;;;;;;;;;x
-k_oudemans;Oudemans;Oudemans;Oudemans;;Oudemans;;;;;;;;;x
-k_oudemans_adj;Oudemans;Oudemans;Oudemans;;Oudemans;;;;;;;;;x
-d_kumach;Kumach;Kumach;Kumach;;Kumach;;;;;;;;;x
-d_kumach_adj;Kumach;Kumach;Kumach;;Kumach;;;;;;;;;x
-c_demd_adj;Demd;Demd;Demd;;Demd;;;;;;;;;x
-b_demd;Demd;Demd;Demd;;Demd;;;;;;;;;x
+k_oudemans;Helium;Helium;Helium;;Helium;;;;;;;;;x
+k_oudemans_adj;Helium;Helium;Helium;;Helium;;;;;;;;;x
+d_kumach;Helium;Helium;Helium;;Helium;;;;;;;;;x
+d_kumach_adj;Helium;Helium;Helium;;Helium;;;;;;;;;x
+c_demd_adj;Greater Helium;Greater Helium;Greater Helium;;Greater Helium;;;;;;;;;x
+b_demd;Greater Helium;Greater Helium;Greater Helium;;Greater Helium;;;;;;;;;x
 b_neloa;Neloa;Neloa;Neloa;;Neloa;;;;;;;;;x
 b_saleka;Saleka;Saleka;Saleka;;Saleka;;;;;;;;;x
 b_wenann;Wenann;Wenann;Wenann;;Wenann;;;;;;;;;x
@@ -6245,7 +6245,7 @@ b_agisick;Agisick;Agisick;Agisick;;Agisick;;;;;;;;;x
 b_aninor;Aninor;Aninor;Aninor;;Aninor;;;;;;;;;x
 b_tisania;Tisania;Tisania;Tisania;;Tisania;;;;;;;;;x
 b_rinanna;Rinanna;Rinanna;Rinanna;;Rinanna;;;;;;;;;x
-b_barony0420g;Barony0420g;Barony0420g;Barony0420g;;Barony0420g;;;;;;;;;x
+b_barony0420g;Aimwheigh;Aimwheigh;Aimwheigh;;Aimwheigh;;;;;;;;;x
 c_wani_adj;Wani;Wani;Wani;;Wani;;;;;;;;;x
 b_wani;Wani;Wani;Wani;;Wani;;;;;;;;;x
 b_wilelm;Wilelm;Wilelm;Wilelm;;Wilelm;;;;;;;;;x
@@ -6254,7 +6254,7 @@ b_barela;Barela;Barela;Barela;;Barela;;;;;;;;;x
 b_ruelina;Ruelina;Ruelina;Ruelina;;Ruelina;;;;;;;;;x
 b_tadapa;Tadapa;Tadapa;Tadapa;;Tadapa;;;;;;;;;x
 b_leloete;Leloete;Leloete;Leloete;;Leloete;;;;;;;;;x
-b_barony0421g;Barony0421g;Barony0421g;Barony0421g;;Barony0421g;;;;;;;;;x
+b_barony0421g;Pupa;Pupa;Pupa;;Pupa;;;;;;;;;x
 c_toka_adj;Toka;Toka;Toka;;Toka;;;;;;;;;x
 b_toka;Toka;Toka;Toka;;Toka;;;;;;;;;x
 b_nobiin;Nobiin;Nobiin;Nobiin;;Nobiin;;;;;;;;;x
@@ -6263,9 +6263,9 @@ b_beloka;Beloka;Beloka;Beloka;;Beloka;;;;;;;;;x
 b_qamoch;Qamoch;Qamoch;Qamoch;;Qamoch;;;;;;;;;x
 b_ruimet;Ruimet;Ruimet;Ruimet;;Ruimet;;;;;;;;;x
 b_qobantay;Qobantay;Qobantay;Qobantay;;Qobantay;;;;;;;;;x
-b_barony0422g;Barony0422g;Barony0422g;Barony0422g;;Barony0422g;;;;;;;;;x
-c_natili_adj;Natili;Natili;Natili;;Natili;;;;;;;;;x
-b_natili;Natili;Natili;Natili;;Natili;;;;;;;;;x
+b_barony0422g;Natili;Natili;Natili;;Natili;;;;;;;;;x
+c_natili_adj;Lesser Helium;Lesser Helium;Lesser Helium;;Lesser Helium;;;;;;;;;x
+b_natili;Lesser Helium;Lesser Helium;Lesser Helium;;Lesser Helium;;;;;;;;;x
 b_qelaria;Qelaria;Qelaria;Qelaria;;Qelaria;;;;;;;;;x
 b_ratama;Ratama;Ratama;Ratama;;Ratama;;;;;;;;;x
 b_kiluall;Kiluall;Kiluall;Kiluall;;Kiluall;;;;;;;;;x
