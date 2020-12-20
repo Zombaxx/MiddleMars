@@ -2434,7 +2434,8 @@ zoroastrian_group = {
 	}
 	
 	khurmazta = {
-		graphical_culture = persiangfx
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
 		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 		
 		secondary_event_pictures = sunni

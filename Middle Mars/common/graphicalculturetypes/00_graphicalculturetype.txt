@@ -277,6 +277,9 @@ amenthiangfx = {
 hesperiangfx = {
 	skin_tone = 1
 }
+taucetinesegfx = {
+	skin_tone = 1
+}
 
 # Hard coded government graphical cultures
 tribalgfx = {}

@@ -54010,9 +54010,9 @@
 1037153 = {
 	name = "Xen"
 	dynasty = 117630
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "zoroastrian"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 30
 	trait = full_cybernetic_conversion
 	trait = clone
@@ -54041,9 +54041,9 @@
 1037154 = {
 	name = "Avatar"
 	dynasty = 117630
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "hindu"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 30
 	trait = full_cybernetic_conversion
 	trait = clone
@@ -54073,9 +54073,9 @@
 }
 1037155 = {
 	name = "Cetus"
-	culture = "han"
-	religion = "hellenic"
-	secret_religion = khurmazta
+	culture = "tau_cetinese"
+	religion = "hellenic_pagan"
+	secret_religion = "khurmazta"
 	immortal_age = 28
 	trait = full_cybernetic_conversion
 	trait = iaei_mk_ii
@@ -54097,9 +54097,9 @@
 }
 1037156 = {
 	name = "Takeshi"
-	culture = "han"
-	religion = "shia"
-	secret_religion = khurmazta
+	culture = "tau_cetinese"
+	religion = "shiite"
+	secret_religion = "khurmazta"
 	immortal_age = 42
 	trait = vat_born
 	trait = gmo
@@ -54126,9 +54126,9 @@
 }
 1037157 = {
 	name = "Weilian"
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "sunni"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 71
 	trait = vat_born
 	trait = gmo
@@ -54153,9 +54153,9 @@
 }
 1037158 = {
 	name = "Qiao"
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "aztec"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 66
 	trait = clone
 	trait = cloning_defects
@@ -54183,9 +54183,9 @@
 1037159 = {
 	name = "Ni"
 	dynasty = 117630
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "bon"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 28
 	trait = full_cybernetic_conversion
 	trait = clone
@@ -54217,9 +54217,9 @@
 1037160 = {
 	name = "Chan"
 	dynasty = 117630
-	culture = "han"
-	religion = "tengi"
-	secret_religion = khurmazta
+	culture = "tau_cetinese"
+	religion = "tengri_pagan"
+	secret_religion = "khurmazta"
 	immortal_age = 102
 	trait = full_cybernetic_conversion
 	trait = vat_born
@@ -54244,9 +54244,9 @@
 	name = "Kai"
 	employer = 103715
 	dynasty = 117620
-	culture = "han"
+	culture = "tau_cetinese"
 	religion = "messalian"
-	secret_religion = khurmazta
+	secret_religion = "khurmazta"
 	immortal_age = 41
 	trait = full_cybernetic_conversion
 	trait = damaged_cybernetics

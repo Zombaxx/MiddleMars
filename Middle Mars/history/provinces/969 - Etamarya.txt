@@ -14,3 +14,42 @@ culture = cuman
 religion = taoist
 
 # History
+1.1.1 = {
+	build_wonder = wonder_house_of_wisdom
+	set_wonder_stage = 1
+}
+
+1.1.2 = { set_wonder_damaged = yes }
+
+#780.1.1 = {
+#	set_wonder_stage = 2
+#}
+#
+#813.1.1 = {
+#	set_wonder_stage = 3
+#}
+#
+#815.1.1 = {
+#	set_wonder_stage = 4
+#}
+#820.1.1 = {
+#	build_wonder_upgrade = upgrade_collection_drama
+#}
+#
+#822.1.1 = {
+#	build_wonder_upgrade = upgrade_collection_math
+#}
+#
+#824.1.1 = {
+#	build_wonder_upgrade = upgrade_collection_architecture
+#}
+#
+#826.1.1 = {
+#	build_wonder_upgrade = upgrade_collection_science
+#}
+#
+#828.1.1 = {
+#	build_wonder_upgrade = upgrade_collection_history
+#}
+
+#1066.1.1 = { set_wonder_damaged = no }

@@ -13,3 +13,9 @@ culture = jurchen
 religion = tengri_pagan
 
 # History
+1.1.1 = {
+	build_wonder = wonder_pyramid_giza
+	set_wonder_stage = 2
+	build_wonder_upgrade = upgrade_mythological_beast
+	set_wonder_damaged = yes      #The damaged image has the pyramid much more damaged than the Giza pyramids
+}
