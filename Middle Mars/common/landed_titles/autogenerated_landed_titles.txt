@@ -1600,6 +1600,7 @@ e_alba_mons = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tempe_terra = {
 	color={ 208 123 33 }
@@ -2965,6 +2966,7 @@ e_tempe_terra = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_olyumpus_mons = {
 	color={ 89 45 87 }
@@ -4077,6 +4079,7 @@ e_olyumpus_mons = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_datta = {
 	color={ 218 240 95 }
@@ -4116,6 +4119,7 @@ e_datta = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_neomna = {
 	color={ 243 210 50 }
@@ -4155,6 +4159,7 @@ e_neomna = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_dijasia = {
 	color={ 85 94 93 }
@@ -4194,6 +4199,7 @@ e_dijasia = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_kijus = {
 	color={ 165 166 119 }
@@ -4233,6 +4239,7 @@ e_kijus = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_noctis_fossae = {
 	color={ 241 236 25 }
@@ -4853,6 +4860,7 @@ e_noctis_fossae = {
 				color={ 226 254 5 }
 				color2={ 255 255 255 }
 				
+				holy_site = messalian
 				
 				b_regand = { }
 				b_selura = { }
@@ -5464,6 +5472,7 @@ e_noctis_fossae = {
 				color={ 145 146 41 }
 				color2={ 255 255 255 }
 				
+				holy_site = messalian
 				
 				b_ebozaba = { }
 				b_lirura = { }
@@ -5521,6 +5530,7 @@ e_noctis_fossae = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tharsis_montes = {
 	color={ 107 133 98 }
@@ -6902,6 +6912,7 @@ e_tharsis_montes = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_daedalia_planum = {
 	color={ 123 139 68 }
@@ -8094,6 +8105,7 @@ e_daedalia_planum = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_valles_marineris = {
 	color={ 104 129 76 }
@@ -9291,6 +9303,7 @@ e_valles_marineris = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_wamucha = {
 	color={ 187 58 29 }
@@ -9330,6 +9343,7 @@ e_wamucha = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_lamurna = {
 	color={ 219 104 22 }
@@ -9383,6 +9397,7 @@ e_lamurna = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_solis_planum = {
 	color={ 122 45 122 }
@@ -9649,6 +9664,7 @@ e_solis_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = west_african_pagan
+				holy_site = messalian
 				
 				b_demd = {
 				dynasty_title_names = no
@@ -10717,6 +10733,7 @@ e_solis_planum = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_avalena = {
 	color={ 219 213 11 }
@@ -10756,6 +10773,7 @@ e_avalena = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_aonia_terra = {
 	color={ 182 226 6 }
@@ -12295,6 +12313,7 @@ e_aonia_terra = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_qanisam = {
 	color={ 196 97 92 }
@@ -12352,6 +12371,7 @@ e_qanisam = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_logah = {
 	color={ 71 123 116 }
@@ -12419,6 +12439,7 @@ e_logah = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_rabolon = {
 	color={ 79 206 125 }
@@ -12458,6 +12479,7 @@ e_rabolon = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_terra_sirenum = {
 	color={ 189 60 122 }
@@ -13637,6 +13659,7 @@ e_terra_sirenum = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_qarimha = {
 	color={ 156 105 49 }
@@ -13676,6 +13699,7 @@ e_qarimha = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tyaqani = {
 	color={ 220 223 81 }
@@ -13715,6 +13739,7 @@ e_tyaqani = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_west_argyre = {
 	color={ 151 107 57 }
@@ -14999,6 +15024,7 @@ e_west_argyre = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_terra_cimmeria = {
 	color={ 99 209 110 }
@@ -16421,6 +16447,7 @@ e_terra_cimmeria = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tavaus = {
 	color={ 77 37 113 }
@@ -16460,6 +16487,7 @@ e_tavaus = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_wopali = {
 	color={ 105 193 23 }
@@ -16499,6 +16527,7 @@ e_wopali = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_planum_australe = {
 	color={ 199 112 46 }
@@ -17596,6 +17625,7 @@ e_planum_australe = {
 				color={ 66 206 30 }
 				color2={ 255 255 255 }
 				
+				holy_site = messalian
 				
 				b_rivudo = { }
 				b_banahtu = { }
@@ -18181,6 +18211,7 @@ e_planum_australe = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_kaday = {
 	color={ 145 248 25 }
@@ -18220,6 +18251,7 @@ e_kaday = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_ravamm = {
 	color={ 111 214 60 }
@@ -18273,6 +18305,7 @@ e_ravamm = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_barahim = {
 	color={ 156 204 99 }
@@ -18354,6 +18387,7 @@ e_barahim = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_ronuwe = {
 	color={ 226 99 83 }
@@ -18393,6 +18427,7 @@ e_ronuwe = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_noachis_terra = {
 	color={ 237 139 56 }
@@ -19770,6 +19805,7 @@ e_noachis_terra = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_raod = {
 	color={ 124 177 82 }
@@ -19809,6 +19845,7 @@ e_raod = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_elysian_island = {
 	color={ 100 40 98 }
@@ -20614,6 +20651,7 @@ e_elysian_island = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_kinipa = {
 	color={ 91 159 6 }
@@ -20641,6 +20679,7 @@ e_kinipa = {
 				color={ 91 159 6 }
 				color2={ 255 255 255 }
 				
+				holy_site = messalian
 				
 				b_nanodia = { }
 				b_berahtu = { }
@@ -20653,6 +20692,7 @@ e_kinipa = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_ariami = {
 	color={ 212 232 28 }
@@ -20692,6 +20732,7 @@ e_ariami = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_araa = {
 	color={ 145 65 21 }
@@ -20731,6 +20772,7 @@ e_araa = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tagazi = {
 	color={ 111 168 42 }
@@ -20784,6 +20826,7 @@ e_tagazi = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_qadaret = {
 	color={ 91 139 53 }
@@ -20823,6 +20866,7 @@ e_qadaret = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_nie = {
 	color={ 143 247 80 }
@@ -20862,6 +20906,7 @@ e_nie = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_hellas = {
 	color={ 124 200 122 }
@@ -22310,6 +22355,7 @@ e_hellas = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_hesperia_planum = {
 	color={ 172 134 40 }
@@ -23974,6 +24020,7 @@ e_hesperia_planum = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tawina = {
 	color={ 80 102 21 }
@@ -24013,6 +24060,7 @@ e_tawina = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_kareba = {
 	color={ 149 141 13 }
@@ -24052,6 +24100,7 @@ e_kareba = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_dakourou = {
 	color={ 173 152 102 }
@@ -24091,6 +24140,7 @@ e_dakourou = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_ekarandi = {
 	color={ 112 167 102 }
@@ -24130,6 +24180,7 @@ e_ekarandi = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_liris_valles = {
 	color={ 122 71 33 }
@@ -25777,6 +25828,7 @@ e_liris_valles = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_tyrrhena_terra = {
 	color={ 86 177 64 }
@@ -27748,6 +27800,7 @@ e_tyrrhena_terra = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_sanana = {
 	color={ 69 101 83 }
@@ -27787,6 +27840,7 @@ e_sanana = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_banoda = {
 	color={ 179 47 59 }
@@ -27826,6 +27880,7 @@ e_banoda = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_kyyana = {
 	color={ 219 188 29 }
@@ -27911,6 +27966,7 @@ e_kyyana = {
 			}
 		}
 	}
+	purple_born_heirs = yes
 }
 e_terra_sabaea = {
 	color={ 167 112 126 }

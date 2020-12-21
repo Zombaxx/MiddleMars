@@ -5979,7 +5979,7 @@
 	religion="sunni"
 }
 111850={
-	name="of Terra"
+	name="Smith"
 	culture="coptic"
 	religion="messalian"
 }

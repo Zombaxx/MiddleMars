@@ -54090,7 +54090,11 @@
 	4.4.1={
 		birth="4.4.1"
 	}
-
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
 	1492.1.1={
 		death="1492.1.1"
 	}
@@ -54119,7 +54123,11 @@
 	4.4.1={
 		birth="4.4.1"
 	}
-
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
 	1492.1.1={
 		death="1492.1.1"
 	}
@@ -54146,7 +54154,11 @@
 	4.4.1={
 		birth="4.4.1"
 	}
-
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
 	2492.1.1={
 		death="2492.1.1"
 	}
@@ -54174,6 +54186,11 @@
 	
 	4.4.1={
 		birth="4.4.1"
+	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
 	}
 
 	1246.1.1={
@@ -54235,6 +54252,11 @@
 	3.11.1={
 		birth="1.1.1"
 	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
 
 	1087.1.1={
 		death="1622.1.1"
@@ -54263,11 +54285,107 @@
 	1.11.1={
 		birth="1.11.1"
 	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
 	1066.16.1 = {
 		add_trait = lunatic
 	}
 	1381.1.1={
 		death="1381.1.1"
+	}
+}
+10371514 = {
+	name = "Al"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 1037150
+	622.1.1={
+		birth="622.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+10371514 = {
+	name = "Max"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 1037150
+	real_father = 10371514
+	666.1.1={
+		birth="666.1.1"
+	}
+	747.1.1={
+		death="747.1.1"
+	}
+}
+10371513 = {
+	name = "Alex"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 10371514
+	745.1.1={
+		birth="745.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+10371512 = {
+	name = "Jak"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 10371513
+	809.1.1={
+		birth="809.1.1"
+	}
+	903.1.1={
+		death="903.1.1"
+	}
+}
+10371511 = {
+	name = "Jakson"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 10371512
+	889.1.1={
+		birth="889.1.1"
+	}
+	967.1.1={
+		death="967.1.1"
+	}
+}
+10371510 = {
+	name = "John"
+	dynasty = 117620
+	culture = "coptic"
+	religion = "messalian"
+	trait = heavy_worlder
+	trait = quick
+	father = 10371511
+	950.1.1={
+		birth="950.1.1"
+	}
+	1026.1.1={
+		death="1026.1.1"
 	}
 }
 1037151 = {
@@ -54277,6 +54395,7 @@
 	religion = "messalian"
 	trait = heavy_worlder
 	trait = quick
+	father = 10371510
 	1033.1.1={
 		birth="1033.1.1"
 	}
@@ -173918,7 +174037,7 @@
 	}
 }
 111852 = {
-	name = "Steve"
+	name = "Adam"
 	dynasty = 111850
 	culture = "coptic"
 	religion = "messalian"
@@ -173935,7 +174054,7 @@
 	}
 }
 111853 = {
-	name = "Adam"
+	name = "Steve"
 	dynasty = 111850
 	culture = "coptic"
 	religion = "messalian"

@@ -2,6 +2,9 @@
 emperor_han;Admiral;;;;;;;;;;;;;x
 emperor_title_ruler_consort_han;Mr. Admiral;;;;;;;;;;;;x
 emperor_title_ruler_consort_female_han;Mrs. Admiral;;;;;;;;;;;;;x
+born_in_the_purple;Born in the Purple;Né dans la pourpre;Purpurgeboren;;Nacido en la púrpura;;;;;;;;;x
+born_in_the_purple_desc;This character is porphyrogennetos - literally "born in the purple." It is an honor bestowed only to children born of a ruling Emperor or Empress. Their fame often grows wider than that of older siblings born before their parents ascended the throne.;Ce personnage est un porphyrogénète – littéralement : « né dans la pourpre ». C'est un honneur conféré seulement aux enfants nés dans la chambre pourpre d'un palais impérial et issus d'un basileus ou d'une basilissa. Leur prétention à la succession est plus forte que celle de leurs aînés nés avant que leurs parents ne deviennent empereurs.;Dieser Charakter ist porphyrogennetos – wortwörtlich purpurgeboren. Diese Ehre wird nur den Kindern eines regierenden Basileus oder einer regierenden Basilissa der Porphyra des Kaiserpalastes zuteil. Ihr Erbfolgeanspruch ist stärker als der älterer Geschwister, die geboren wurden, bevor ihre Eltern den Thron bestiegen.;;Este personaje es porphyrogennetos - literalmente, "nacido en la púrpura". Es un honor otorgado sólo a los niños nacidos de un Basileus o Basileia reinante en la Cámara Púrpura del Palacio Imperial. Su derecho de sucesión es más fuerte que el de hermanos mayores nacidos antes de que sus padres ascendieran al trono.;;;;;;;;;x
+
 king_han;Captain;;;;;;;;;;;;;x
 king_title_ruler_consort_han;Mr. Captain;;;;;;;;;;;;x
 king_title_ruler_consort_female_han;Mrs. Captain;;;;;;;;;;;;;x
