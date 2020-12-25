@@ -9,7 +9,7 @@ character_event = {
 	}
 
 	mean_time_to_happen = {
-		months = 12
+		months = 15
 	}
 
 	immediate = {
@@ -71,8 +71,8 @@ character_event = {
 		FROMFROM = {
 		change_martial = 1
 		change_intrigue = 1
-		change_stewardship = 2
-		change_learning = 3
+		change_stewardship = 1
+		change_learning = 2
 		add_trait = diligent
 		event_target:school_friend = { add_friend = FROMFROM }
 		}
@@ -116,8 +116,8 @@ character_event = {
 		name = EVTOPTAgoing_school_events.4
 		FROMFROM = {
 		change_stewardship = 1
-		change_diplomacy = 2
-		change_learning = 2
+		change_diplomacy = 1
+		change_learning = 1
 		}
 	}
 }
@@ -136,6 +136,7 @@ character_event = {
 				change_stewardship = -1
 				change_diplomacy = -1
 				change_martial = -1
+				change_learning = -1
 				random_list = {
 					75 = { add_trait = stressed }
 					25 = { change_learning = -2 }
