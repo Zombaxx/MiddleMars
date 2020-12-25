@@ -12,6 +12,6 @@ b_ryed = castle
 
 # Misc
 culture = castillan
-religion = sunni
+religion = orthodox
 
 # History

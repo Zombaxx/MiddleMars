@@ -12,6 +12,6 @@ b_kong = castle
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

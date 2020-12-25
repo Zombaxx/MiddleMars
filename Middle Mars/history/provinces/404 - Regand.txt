@@ -4,7 +4,7 @@
 title = c_regand
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_regand = castle
 b_selura = temple
 b_selita = city

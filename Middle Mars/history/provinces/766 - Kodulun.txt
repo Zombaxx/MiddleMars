@@ -10,6 +10,6 @@ b_tuirm = temple
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

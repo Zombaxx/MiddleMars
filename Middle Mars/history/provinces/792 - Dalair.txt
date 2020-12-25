@@ -10,6 +10,6 @@ b_bioreek = temple
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

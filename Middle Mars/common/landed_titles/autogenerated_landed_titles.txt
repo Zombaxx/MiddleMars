@@ -2539,7 +2539,6 @@ e_tempe_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = catholic
-				holy_site = orthodox
 				holy_site = norse_pagan
 				
 				b_kavohn = {
@@ -4063,8 +4062,6 @@ e_olyumpus_mons = {
 				
 				holy_site = zoroastrian
 				holy_site = hellenic_pagan
-				holy_site = catholic
-				holy_site = orthodox
 				
 				b_belilai = {
 				dynasty_title_names = no
@@ -5517,7 +5514,10 @@ e_noctis_fossae = {
 			c_kupine = {
 				color={ 241 236 25 }
 				color2={ 255 255 255 }
-				
+	
+
+				holy_site = catholic
+				holy_site = orthodox
 				
 				b_kupine = { }
 				b_kesine = { }
@@ -6369,6 +6369,8 @@ e_tharsis_montes = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
+				holy_site = catholic
+				holy_site = orthodox
 				
 				b_tezude = {
 				dynasty_title_names = no
@@ -14432,7 +14434,6 @@ e_west_argyre = {
 				color={ 235 156 23 }
 				color2={ 255 255 255 }
 				
-				holy_site = catholic
 				holy_site = jewish
 				holy_site = orthodox
 				

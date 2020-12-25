@@ -11,6 +11,6 @@ b_qusaba = city
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

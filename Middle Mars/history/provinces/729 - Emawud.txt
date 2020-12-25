@@ -10,6 +10,6 @@ b_nehad = temple
 
 # Misc
 culture = castillan
-religion = sunni
+religion = orthodox
 
 # History

@@ -10,6 +10,6 @@ b_weceyao = temple
 
 # Misc
 culture = castillan
-religion = sunni
+religion = orthodox
 
 # History

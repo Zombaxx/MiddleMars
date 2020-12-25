@@ -12,6 +12,6 @@ b_nahyho = castle
 
 # Misc
 culture = castillan
-religion = sunni
+religion = orthodox
 
 # History

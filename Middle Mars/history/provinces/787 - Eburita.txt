@@ -12,6 +12,6 @@ b_rahely = castle
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

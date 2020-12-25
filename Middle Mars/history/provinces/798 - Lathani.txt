@@ -11,6 +11,6 @@ b_rarons = city
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

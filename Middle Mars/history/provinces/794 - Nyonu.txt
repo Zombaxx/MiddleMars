@@ -12,6 +12,6 @@ b_daweca = castle
 
 # Misc
 culture = castillan
-religion = sunni
+religion = catholic
 
 # History

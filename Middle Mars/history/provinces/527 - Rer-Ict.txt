@@ -4,7 +4,7 @@
 title = c_rer-ict
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 b_rer-ict = castle
 b_kulavo = temple
 
