@@ -55398,6 +55398,12 @@
 	1042.1.1={
 		birth="1042.1.1"
 	}
+	1065.1.1 = {
+		effect = {
+			e_valles_marineris = { add_claim = ROOT }
+			k_valles_marineris = { add_claim = ROOT }
+		}
+	}
 	1096.1.1={
 		death="1096.1.1"
 	}
@@ -71659,6 +71665,7 @@
 		effect = {
 			k_nereidum_montes = { add_claim = ROOT }
 			k_bosporos_planum = { add_claim = ROOT }
+			e_noctis_fossae = { add_claim = ROOT }
 		}
 	}
 	1090.1.1={
