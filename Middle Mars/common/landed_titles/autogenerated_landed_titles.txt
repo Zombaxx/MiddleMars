@@ -232,6 +232,7 @@ e_alba_mons = {
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
+				holy_site = hellenic_pagan_reformed
 				
 				b_bajoras = {
 				dynasty_title_names = no
@@ -1433,6 +1434,7 @@ e_alba_mons = {
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_lint = {
 				dynasty_title_names = no
@@ -1583,9 +1585,11 @@ e_alba_mons = {
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
+				holy_site = hellenic_pagan_reformed
 				holy_site = catholic
 				holy_site = orthodox
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_kena = {
 				dynasty_title_names = no
@@ -2014,6 +2018,7 @@ e_tempe_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_wuducho = {
 				dynasty_title_names = no
@@ -2540,6 +2545,7 @@ e_tempe_terra = {
 				
 				holy_site = catholic
 				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_kavohn = {
 				dynasty_title_names = no
@@ -2951,6 +2957,7 @@ e_tempe_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_bumanda = {
 				dynasty_title_names = no
@@ -3311,6 +3318,7 @@ e_olyumpus_mons = {
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
+				holy_site = hellenic_pagan_reformed
 				
 				b_wariisa = {
 				dynasty_title_names = no
@@ -3757,6 +3765,7 @@ e_olyumpus_mons = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_nerivka = {
 				dynasty_title_names = no
@@ -4062,6 +4071,7 @@ e_olyumpus_mons = {
 				
 				holy_site = zoroastrian
 				holy_site = hellenic_pagan
+				holy_site = hellenic_pagan_reformed
 				
 				b_belilai = {
 				dynasty_title_names = no
@@ -4468,6 +4478,7 @@ e_noctis_fossae = {
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_dary = {
 				dynasty_title_names = no
@@ -6282,6 +6293,7 @@ e_tharsis_montes = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_tudrd = {
 				dynasty_title_names = no
@@ -6369,6 +6381,7 @@ e_tharsis_montes = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				holy_site = catholic
 				holy_site = orthodox
 				
@@ -6900,6 +6913,7 @@ e_tharsis_montes = {
 				
 				holy_site = shiite
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_kikoj = {
 				dynasty_title_names = no
@@ -7726,6 +7740,7 @@ e_daedalia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
+				holy_site = hellenic_pagan_reformed
 				
 				b_ehakk = {
 				dynasty_title_names = no
@@ -7890,6 +7905,7 @@ e_daedalia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				
 				b_dalemir = {
 				dynasty_title_names = no
@@ -9666,6 +9682,7 @@ e_solis_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				holy_site = messalian
 				
 				b_demd = {
@@ -10127,6 +10144,7 @@ e_solis_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				
 				b_agodubb = {
 				dynasty_title_names = no
@@ -10653,6 +10671,7 @@ e_solis_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				
 				b_radili = {
 				dynasty_title_names = no
@@ -10719,6 +10738,7 @@ e_solis_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				holy_site = jewish
 				holy_site = orthodox
 				
@@ -11788,6 +11808,7 @@ e_aonia_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				
 				b_byusyt = {
 				dynasty_title_names = no
@@ -12359,6 +12380,7 @@ e_qanisam = {
 				
 				holy_site = shiite
 				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				
 				b_loruraq = {
 				dynasty_title_names = no
@@ -13153,6 +13175,7 @@ e_terra_sirenum = {
 				
 				holy_site = bon
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				holy_site = zoroastrian
 				holy_site = taoist
 				
@@ -18183,6 +18206,7 @@ e_planum_australe = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				holy_site = taoist
 				
 				b_kobathi = {
@@ -19208,6 +19232,7 @@ e_noachis_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				
 				b_emolun = {
 				dynasty_title_names = no
@@ -19444,6 +19469,7 @@ e_noachis_terra = {
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				
 				b_daherne = {
 				dynasty_title_names = no
@@ -21948,6 +21974,7 @@ e_hellas = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				holy_site = shiite
 				holy_site = sunni
 				
@@ -24350,6 +24377,7 @@ e_liris_valles = {
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				
 				b_sarofie = {
 				dynasty_title_names = no
@@ -25773,6 +25801,7 @@ e_liris_valles = {
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				
 				b_kerergun = {
 				dynasty_title_names = no
@@ -28808,6 +28837,7 @@ e_terra_sabaea = {
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				
 				b_sevas = {
 				dynasty_title_names = no
