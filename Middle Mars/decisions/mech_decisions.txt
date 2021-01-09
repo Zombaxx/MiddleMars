@@ -3,6 +3,12 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 14
+			OR = {
+				religion = taoist
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}
 		}
 		allow = {
 			in_command = no
@@ -83,6 +89,15 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 14
+			OR = {
+				religion = taoist
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+				capital_holding = {
+						has_building = ca_special_projects_division
+					}
+			}			
 		}
 		allow = {
 			in_command = no
@@ -129,6 +144,7 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 14
+			religion = taoist
 		}
 		allow = {
 			in_command = no
