@@ -13174,6 +13174,7 @@ e_terra_sirenum = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
 				holy_site = zoroastrian
@@ -15629,6 +15630,7 @@ e_terra_cimmeria = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				holy_site = buddhist
 				holy_site = taoist
 				
@@ -19985,6 +19987,7 @@ e_elysian_island = {
 				color2={ 255 255 255 }
 				
 				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_lapudo = {
 				dynasty_title_names = no
@@ -20114,6 +20117,7 @@ e_elysian_island = {
 				color2={ 255 255 255 }
 				
 				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_tubampa = {
 				dynasty_title_names = no
@@ -20632,7 +20636,9 @@ e_elysian_island = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_toviuva = {
 				dynasty_title_names = no
@@ -22461,6 +22467,7 @@ e_hesperia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_aprarma = {
 				dynasty_title_names = no
@@ -23063,6 +23070,7 @@ e_hesperia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				
 				b_nudoj = {
 				dynasty_title_names = no
@@ -23593,6 +23601,7 @@ e_hesperia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				holy_site = jain
 				holy_site = buddhist
 				
@@ -24006,6 +24015,7 @@ e_hesperia_planum = {
 				color2={ 255 255 255 }
 				
 				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_daneuta = {
 				dynasty_title_names = no
