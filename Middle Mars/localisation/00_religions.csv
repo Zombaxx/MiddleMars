@@ -172,12 +172,15 @@ taoist;Spacer;Spacer;Spacer;;Spacer;;;;;;;;;x
 taoist_DESC;A fleet of ships from a nearby star system has arrived to investigate in the wake of the disaster. Because light travel is impossible it took this intersystem ship 1066 years to reach its destination in the Solar System.\n Due to unforseen circumstances, the crew is less prepared than would be viable to complete their mission.  They must trade their advanced tech and knowledge, seen as magic by the majority of Martians, for food and resources in order to survive.;;;;;;;;;;;;x
 
 bon;Mother of Waters;Mother of Waters;Mother of Waters;;Mother of Waters;;;;;;;;;x
-bon_DESC;Starting off as an Hesperian traditional rain dance reciting the battle between the seas and the Storm Demon, this once Ahimsa-Yogi inspired piece has fully become a religion of its own. With the belief that Moni Mekhala is the guardian of the seas which her people depend on, believers have an expansive sea-faring and aquatic culture.;;;;;;;;;;;;;x
+bon_DESC;Starting off as an Hesperian traditional rain dance reciting the battle between the Seas and the Storm Demon, this once Ahimsa-Yogi inspired piece has fully become a religion of its own. With the belief that Moni Mekhala is the guardian of the seas which her people depend on, believers have an expansive sea-faring and aquatic culture.;;;;;;;;;;;;;x
 bon_reformed;Mother of Waters;Mother of Waters;Mother of Waters;;Mother of Waters;;;;;;;;;x
 bon_reformed_DESC;Starting off as an Hesperian traditional rain dance reciting the battle between the seas and the Storm Demon, this once Ahimsa-Yogi inspired piece has fully become a religion of its own. With the belief that Moni Mekhala is the guardian of the seas which her people depend on, believers have an expansive sea-faring and aquatic culture.;;;;;;;;;;;;;x
 GOD_SANGPO_BUMTRI;Moni Mekhala;;;;;;;;;;;;;x
 GOD_SHENLA_OKAR;Vorachhun;;;;;;;;;;;;;x
-GOD_YESHE_WALMO;Ream Eyso;;;;;;;;;;;;;x
+#GOD_YESHE_WALMO;Ream Eyso;;;;;;;;;;;;;x
+GOD_THE_EVIL_ONES;Ream Eyso;;;;;;;;;;;;;x
+MDODUS;Robam Moni Mekhala;;;;;;;;;;;;;x
+LAMA;Preahsang;;;;;;;;;;;;;x
 
 aztec;Escudo Solar;Escudo Solar;Escudo Solar;;Escudo Solar;;;;;;;;;x
 aztec_DESC;Escudo Solarists believe the ancient king Pakal had saved the Earth from the Doom with his sun shield vessel. Humanity strayed from this sacred knowledge and neglected to stop the Doom the second time. They must be ready to stop it the third.;Escudo Solar;Escudo Solar;;Escudo Solar;;;;;;;;;x
