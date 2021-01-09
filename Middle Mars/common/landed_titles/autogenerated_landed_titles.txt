@@ -7739,6 +7739,7 @@ e_daedalia_planum = {
 				color={ 231 8 98 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
 				holy_site = hellenic_pagan
 				holy_site = hellenic_pagan_reformed
 				
@@ -12754,7 +12755,8 @@ e_terra_sirenum = {
 			c_solenzu = {
 				color={ 102 26 91 }
 				color2={ 255 255 255 }
-				
+
+				holy_site = zoroastrian	
 				
 				b_solenzu = { }
 				b_toryhan = { }
