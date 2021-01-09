@@ -3413,7 +3413,7 @@ wonder_apostolic_palace = {
 
 # A7. House of Wisdom
 wonder_house_of_wisdom = {
-	picture = GFX_wonder_stages_space_elevator
+	picture = GFX_wonder_strip_space_elevator
 	allow_construction = no
 	model = wonder_grand_lighthouse
 	potential = {

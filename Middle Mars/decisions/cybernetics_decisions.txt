@@ -1,110 +1,110 @@
-decisions = {
-	get_full_cybernetic_conversion_decision = {
-		is_high_prio = yes
-		ai_check_interval = 40 
-		potential = {
-			NOT = { trait = full_cybernetic_conversion }
-			age = 16
-			NOT = { trait = incapable }
-			prisoner = no
-			OR = {
-				ai = yes
-				has_character_flag = flag_cybernetics_menu_open
-			}
-			OR = {
-				religion = taoist
-				trait = lunatic
-				AND = {
-					trait = ambitious
-					trait = brave
-					age = 60
-				}
-			}
-		}
-		allow = {
-			is_pregnant = no
-			NOT = { has_character_flag = flag_busy }
-			has_artifact = jade_dragon
-			OR = {
-				wealth = 2000
-				AND = {
-					location = { TECH_POPULAR_CUSTOMS = 6 }
-					wealth = 1000
-				}
-				AND = {
-					location = { TECH_POPULAR_CUSTOMS = 7 }
-					wealth = 500
-				}
-			}
-			OR = {
-				religion = taoist
-				trait = ambitious
-					trait = brave
-				piety = 500
-			}
-		}
-		effect = {
-			if = {
-				limit = { location = { NOT = { TECH_POPULAR_CUSTOMS = 6 } } }
-				wealth = -2000
-			}
-			if = {
-				limit = {
-					location = {
-						TECH_POPULAR_CUSTOMS = 6
-						NOT = { TECH_POPULAR_CUSTOMS = 7 }
-					}
-				}
-				wealth = -1000
-			}
-			if = {
-				limit = { location = { TECH_POPULAR_CUSTOMS = 7 } }
-				wealth = -500
-			}
-			# Remove Health Traits
-			if = {
-				limit = { trait = wounded }
-				remove_trait = wounded
-			}
-			if = {
-				limit = { trait = maimed }
-				remove_trait = maimed
-			}
-			if = {	
-				limit = { trait = severely_injured }
-				remove_trait = severely_injured
-			}
-			if = {
-				limit = { trait = one_handed }
-				remove_trait = one_handed
-			}
-			if = {
-				limit = { trait = one_legged }
-				remove_trait = one_legged
-			}
-			if = {
-				limit = { trait = disfigured }
-				remove_trait = disfigured
-			}
-			if = {
-				limit = { trait = mangled }
-				remove_trait = mangled
-			}
-			if = {
-				limit = { trait = one_eyed }
-				remove_trait = one_eyed
-			}
-			if = {
-				limit = { trait = blinded }
-				remove_trait = blinded
-			}
-			if = {
-				limit = { trait = ill }
-				remove_trait = ill
-			}
-			if = {
-				limit = { trait = pneumonic }
-				remove_trait = pneumonic
+#decisions = {
+#	get_full_cybernetic_conversion_decision = {
+#		is_high_prio = yes
+#		ai_check_interval = 40 
+#		potential = {
+#			NOT = { trait = full_cybernetic_conversion }
+#			age = 16
+#			NOT = { trait = incapable }
+#			prisoner = no
+#			OR = {
+#				ai = yes
+#				has_character_flag = flag_cybernetics_menu_open
+#			}
+#			OR = {
+#				religion = taoist
+#				trait = lunatic
+#				AND = {
+#					trait = ambitious
+#					trait = brave
+#					age = 60
+#				}
+#			}
+#		}
+#		allow = {
+#			is_pregnant = no
+#			NOT = { has_character_flag = flag_busy }
+#			has_artifact = jade_dragon
+#			OR = {
+#				wealth = 2000
+#				AND = {
+#					location = { TECH_POPULAR_CUSTOMS = 6 }
+#					wealth = 1000
+#				}
+#				AND = {
+#					location = { TECH_POPULAR_CUSTOMS = 7 }
+#					wealth = 500
+#				}
+#			}
+#			OR = {
+#				religion = taoist
+#				trait = ambitious
+#					trait = brave
+#				piety = 500
+#			}
+#		}
+#		effect = {
+#			if = {
+#				limit = { location = { NOT = { TECH_POPULAR_CUSTOMS = 6 } } }
+#				wealth = -2000
+#			}
+#			if = {
+#				limit = {
+#					location = {
+#						TECH_POPULAR_CUSTOMS = 6
+#						NOT = { TECH_POPULAR_CUSTOMS = 7 }
+#					}
+#				}
+#				wealth = -1000
+#			}
+#			if = {
+#				limit = { location = { TECH_POPULAR_CUSTOMS = 7 } }
+#				wealth = -500
+#			}
+#			# Remove Health Traits
+#			if = {
+#				limit = { trait = wounded }
+#				remove_trait = wounded
+#			}
+#			if = {
+#				limit = { trait = maimed }
+#				remove_trait = maimed
+#			}
+#			if = {	
+#				limit = { trait = severely_injured }
+#				remove_trait = severely_injured
+#			}
+#			if = {
+#				limit = { trait = one_handed }
+#				remove_trait = one_handed
+#			}
+#			if = {
+#				limit = { trait = one_legged }
+#				remove_trait = one_legged
+#			}
+#			if = {
+#				limit = { trait = disfigured }
+#				remove_trait = disfigured
+#			}
+#			if = {
+#				limit = { trait = mangled }
+#				remove_trait = mangled
+#			}
+#			if = {
+#				limit = { trait = one_eyed }
+#				remove_trait = one_eyed
+#			}
+#			if = {
+#				limit = { trait = blinded }
+#				remove_trait = blinded
+#			}
+#			if = {
+#				limit = { trait = ill }
+#				remove_trait = ill
+#			}
+#			if = {
+#				limit = { trait = pneumonic }
+#				remove_trait = pneumonic
 #			}
 #			if = {
 #				limit = { trait = syphilitic }
