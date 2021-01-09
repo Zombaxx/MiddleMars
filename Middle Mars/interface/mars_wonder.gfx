@@ -1,19 +1,19 @@
 spriteTypes = {
 	#Library
 	spriteType = {
-		name = "GFX_wonder_strip_library_large"
+		name = "GFX_wonder_strip_space_elevator_large"
 		texturefile = "gfx\\interface\\wonder_interface\\wonder_strips\\wonder_stages_space_elevator_large.dds"
 		noOfFrames = 5
 	}
 	
 	spriteType = {
-		name = "GFX_wonder_strip_library_medium"
+		name = "GFX_wonder_strip_space_elevator_medium"
 		texturefile = "gfx\\interface\\wonder_interface\\wonder_strips\\wonder_stages_space_elevator_medium.dds"
 		noOfFrames = 5
 	}
 	
 	spriteType = {
-		name = "GFX_wonder_strip_library_small"
+		name = "GFX_wonder_strip_space_elevator_small"
 		texturefile = "gfx\\interface\\wonder_interface\\wonder_strips\\wonder_stages_space_elevator_small.dds"
 		noOfFrames = 5
 	}
