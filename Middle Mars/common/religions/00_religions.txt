@@ -167,6 +167,8 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
+		max_consorts = 1 # Can take concubines
+		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
@@ -549,6 +551,10 @@ christian = {
 		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
+		
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
