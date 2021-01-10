@@ -4,7 +4,7 @@
 title = c_kuwarde
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 b_kuwarde = tribal
 b_amarinik = temple
 
