@@ -85,12 +85,13 @@ e_alba_mons = {
 			color={ 216 246 54 }
 			color2={ 255 255 255 }
 			
-			capital = 52
+			capital = 51
 			
 			c_amucath = {
 				color={ 176 100 109 }
 				color2={ 255 255 255 }
 				
+				holy_site = catholic
 				
 				b_amucath = { }
 				b_dana = { }
@@ -9306,8 +9307,6 @@ e_valles_marineris = {
 			c_nedui = {
 				color={ 104 129 76 }
 				color2={ 255 255 255 }
-				
-				holy_site = catholic
 				
 				b_nedui = {
 				dynasty_title_names = no

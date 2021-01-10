@@ -7365,7 +7365,7 @@
 100510 = {
 	name = "Theodoros"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	trait = midas_touched
 	stewardship = 10
@@ -7382,7 +7382,7 @@
 100511 = {
 	name = "Ioannes"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100510
 	987.1.1={
@@ -7395,7 +7395,7 @@
 100512 = {
 	name = "Germanos"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100511
 	1008.1.1={
@@ -7411,7 +7411,7 @@
 100513 = {
 	name = "Hippolytos"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100511
 	1009.1.1={
@@ -7424,7 +7424,7 @@
 100514 = {
 	name = "Ioulia"
 	female = yes
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	1006.1.1={
 		birth="1006.1.1"
@@ -7440,7 +7440,7 @@
 100515 = {
 	name = "Anatolios"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100512
 	mother = 100514
@@ -7454,7 +7454,7 @@
 100516 = {
 	name = "Theodoulos"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100512
 	mother = 100514
@@ -7469,7 +7469,7 @@
 	name = "Eunike"
 	female = yes
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100512
 	mother = 100514
@@ -7483,7 +7483,7 @@
 100518 = {
 	name = "Niphon"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100513
 	1035.1.1={
@@ -7496,7 +7496,7 @@
 100519 = {
 	name = "Michael"
 	dynasty = 100510
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100513
 	1040.1.1={
@@ -11451,7 +11451,7 @@
 100790 = {
 	name = "Sergios"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	trait = brilliant_strategist
 	martial = 10
@@ -11470,7 +11470,7 @@
 100791 = {
 	name = "Anastasios"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100790
 	969.1.1={
@@ -11483,7 +11483,7 @@
 100792 = {
 	name = "Demetrios"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100791
 	998.1.1={
@@ -11499,7 +11499,7 @@
 100793 = {
 	name = "Kyriakos"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100791
 	1002.1.1={
@@ -11512,7 +11512,7 @@
 100794 = {
 	name = "Eusebia"
 	female = yes
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	1005.1.1={
 		birth="1005.1.1"
@@ -11528,7 +11528,7 @@
 100795 = {
 	name = "Nikarete"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100792
 	mother = 100794
@@ -11543,7 +11543,7 @@
 	name = "Markia"
 	female = yes
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100792
 	mother = 100794
@@ -11558,7 +11558,7 @@
 	name = "Viviana"
 	female = yes
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100792
 	mother = 100794
@@ -11572,7 +11572,7 @@
 100798 = {
 	name = "Maurikios"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100793
 	1030.1.1={
@@ -11585,7 +11585,7 @@
 100799 = {
 	name = "Germanos"
 	dynasty = 100790
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100793
 	1032.1.1={
@@ -11744,7 +11744,7 @@
 100810 = {
 	name = "Iordanes"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	trait = midas_touched
 	stewardship = 10
@@ -11761,7 +11761,7 @@
 100811 = {
 	name = "Sebastianos"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100810
 	966.1.1={
@@ -11774,7 +11774,7 @@
 100812 = {
 	name = "Konstas"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100811
 	1004.1.1={
@@ -11790,7 +11790,7 @@
 100813 = {
 	name = "Herakleios"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100811
 	1008.1.1={
@@ -11803,7 +11803,7 @@
 100814 = {
 	name = "Nikoletta"
 	female = yes
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	1006.1.1={
 		birth="1006.1.1"
@@ -11819,7 +11819,7 @@
 100815 = {
 	name = "Kyriakos"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100812
 	mother = 100814
@@ -11834,7 +11834,7 @@
 	name = "Damiane"
 	female = yes
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100812
 	mother = 100814
@@ -11848,7 +11848,7 @@
 100817 = {
 	name = "Leontios"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100812
 	mother = 100814
@@ -11862,7 +11862,7 @@
 100818 = {
 	name = "Arsenios"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100813
 	1032.1.1={
@@ -11875,7 +11875,7 @@
 100819 = {
 	name = "Alexandros"
 	dynasty = 100810
-	culture = "greek"
+	culture = "portuguese"
 	religion = "catholic"
 	father = 100813
 	1033.1.1={

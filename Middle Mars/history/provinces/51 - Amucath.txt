@@ -4,14 +4,14 @@
 title = c_amucath
 
 # Settlements
-max_settlements = 5
-b_amucath = castle
+max_settlements = 6
+b_amucath = temple
 b_dana = temple
 b_suranu = city
 b_raraya = castle
 
 # Misc
-culture = greek
+culture = portuguese
 religion = catholic
 
 # History

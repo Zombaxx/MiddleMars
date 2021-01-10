@@ -131,7 +131,7 @@ k_papal_state = {
 	color={ 255 249 198 }
 	color2={ 220 220 0 }
 	
-	capital = 333 # Rome
+	capital = 51 # Cynae Fossae
 	
 	title = "POPE"
 	foa = "POPE_FOA"
@@ -168,7 +168,7 @@ d_papal_guards = {
 	color={ 255 240 240 }
 	color2 = { 220 220 0}
 
-	capital = 333 # Rome
+	capital = 51 # Cynae Fossae
 
 	title = "CAPTAIN"
 	foa = "CAPTAIN_FOA"
@@ -196,7 +196,7 @@ k_hellenic_pagan = {
 	color={ 124 0 175 }
 	color2={ 220 220 0 }
 	
-	capital = 333 # Rome
+	capital = 226 # Olympus Mons
 	
 	title = "PONTIFEX_MAXIMUS"
 	title_female = "PONTIFEX_MAXIMA"
@@ -225,7 +225,7 @@ k_orthodox = {
 	color={ 183 60 155 }
 	color2={ 220 220 0 }
 	
-	capital = 496 # Constantinople
+	capital = 489 # Valles Marineris
 	
 	title = "ECUMENICAL_PATRIARCH"
 	foa = "ECUMENICAL_PATRIARCH_FOA"
@@ -315,7 +315,7 @@ e_sunni = {
 	color={ 40 160 40 }
 	color2={ 220 220 0 }
 	
-	#capital = 719 # Mecca
+	#capital = 1154 # Mars
 	
 	title = "CALIPH"
 	title_female = "CALIPHA"
@@ -334,7 +334,7 @@ e_shiite = {
 	color={ 60 190 60 }
 	color2={ 220 220 0 }
 	
-	#capital = 719 # Mecca
+	#capital = 1019 # Mars
 	
 	title = "CALIPH"
 	title_female = "CALIPHA"
@@ -352,7 +352,7 @@ d_sunni = {
 	color={ 40 160 40 }
 	color2={ 220 220 0 }
 	
-	capital = 719 # Mecca
+	capital = 1154 # Mars
 	
 	creation_requires_capital = no
 	
@@ -452,7 +452,7 @@ d_shiite = {
 	color={ 60 190 60 }
 	color2={ 220 220 0 }
 	
-	capital = 719 # Mecca
+	capital = 2029 # Mars
 	
 	creation_requires_capital = no
 	
