@@ -920,13 +920,13 @@ muslim = {
 		scripture_name = THE_KORAN
 		priest_title = MULLAH
 		
-		high_god_name = GOD_ALLAH
+		high_god_name = ALTERED
 		
 		god_names = {
-			GOD_ALLAH GOD_THE_GREATEST
+			ALTERED IBLIS GOD_ALLAH 
 		}
 		evil_god_names = {
-			IBLIS SHAYTAN
+			 GOD_THE_GREATEST UNALTERED SHAYTAN
 		}
 		
 		can_call_crusade = yes
