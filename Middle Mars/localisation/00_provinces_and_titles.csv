@@ -4337,8 +4337,8 @@ k_olyumpus_mons;Olympus Mons;Olympus Mons;Olympus Mons;;Olympus Mons;;;;;;;;;x
 k_olyumpus_mons_adj;Olympus Mons;Olympus Mons;Olympus Mons;;Olympus Mons;;;;;;;;;x
 d_olympus_mons;Olympus Mons;Olympus Mons;Olympus Mons;;Olympus Mons;;;;;;;;;x
 d_olympus_mons_adj;Olympus Mons;Olympus Mons;Olympus Mons;;Olympus Mons;;;;;;;;;x
-c_belilai_adj;Belilai;Belilai;Belilai;;Belilai;;;;;;;;;x
-b_belilai;Belilai;Belilai;Belilai;;Belilai;;;;;;;;;x
+c_belilai_adj;Olympian;Belilai;Belilai;;Belilai;;;;;;;;;x
+b_belilai;Olympus;Belilai;Belilai;;Belilai;;;;;;;;;x
 b_syecila;Syecila;Syecila;Syecila;;Syecila;;;;;;;;;x
 b_koke;Koke;Koke;Koke;;Koke;;;;;;;;;x
 b_boragnus;Boragnus;Boragnus;Boragnus;;Boragnus;;;;;;;;;x
