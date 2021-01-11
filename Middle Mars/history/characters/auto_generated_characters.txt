@@ -54046,6 +54046,7 @@
 	secret_religion = "khurmazta"
 	immortal_age = 30
 	trait = full_cybernetic_conversion
+	trait = cat_splice
 	trait = clone
 	trait = gmo
 	trait = iaei_mk_ii
@@ -54069,6 +54070,30 @@
 
 	1099.1.1={
 		death="1099.1.1"
+	}
+}
+10371541 = {
+	name = "Durga"
+	dynasty = 117630
+	father = 1037154
+	female = yes
+	culture = "tau_cetinese"
+	religion = "hindu"
+	secret_religion = "khurmazta"
+	trait = cat_splice
+	trait = clone
+	trait = gmo
+	1051.11.11={
+		birth="1051.11.11"
+	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
+
+	1111.11.11={
+		death="1111.11.11"
 	}
 }
 1037155 = {

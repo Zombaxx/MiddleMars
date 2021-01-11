@@ -550,7 +550,9 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		religious_clothing_head = 2
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+				religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
 		intermarry = catholic
@@ -2468,6 +2470,11 @@ zoroastrian_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
+
+		has_heir_designation = yes
+		priests_can_inherit = yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+
 		
 		max_consorts = 3 # Can take concubines
 		
@@ -2812,6 +2819,8 @@ indian_group = {
 		piety_name = PIETY_TE
 		
 		intermarry = buddhist
+		intermarry = catholic
+		intermarry = orthodox
 		intermarry = nestorian
 		intermarry = messalian
 		intermarry = manichean

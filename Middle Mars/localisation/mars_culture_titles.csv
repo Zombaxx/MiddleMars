@@ -19,3 +19,37 @@ count_title_ruler_consort_female_han;Mrs. Lieutenant;;;;;;;;;;;;;x
 baron_han;Officer;;;;;;;;;;;;;x
 baron_title_ruler_consort_han;Mr. Officer;;;;;;;;;;;;x
 baron_title_ruler_consort_female_han;Mrs. Officer;;;;;;;;;;;;;x
+
+family_palace_taoist;Corporation;;;;;;;;;;;;;x
+family_palace_baron_taoist;CEO;;;;;;;;;;;;;x
+family_palace_baron_female_taoist;CEO;;;;;;;;;;;;;x
+family_palace_baron_foa_taoist;Sir;;;;;;;;;;;;;x
+family_palace_baron_foa_female_taoist;Ma;;;;;;;;;;;;;;x
+family_palace_barony_of_taoist;Chair of;Quartier général de;;;;;;;;;;;;x
+family_palace_baron_deed_taoist;Chair of;;;;;;;;;;;;;x
+
+family_palace_khurmazta;Corporation;;;;;;;;;;;;;x
+family_palace_baron_khurmazta;CEO;;;;;;;;;;;;;x
+family_palace_baron_female_khurmazta;CEO;;;;;;;;;;;;;x
+family_palace_baron_foa_khurmazta;Sir;;;;;;;;;;;;;x
+family_palace_baron_foa_female_khurmazta;Ma;;;;;;;;;;;;;;x
+family_palace_barony_of_khurmazta;Chair of;Quartier général de;;;;;;;;;;;;x
+family_palace_baron_deed_khurmazta;Chair of;;;;;;;;;;;;;x
+
+emperor_tau_cetinese;God Emperor;;;;;;;;;;;;;x
+emperor_title_ruler_consort_tau_cetinese;God;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_tau_cetinese;Goddess;;;;;;;;;;;;;x
+king_tau_cetinese;Supreme Leader;;;;;;;;;;;;;x
+king_title_ruler_consort_tau_cetinese;Supreme Leader;;;;;;;;;;;;x
+king_title_ruler_consort_female_tau_cetinese;Mrs. Supreme Leader;;;;;;;;;;;;;x
+title_prince_tau_cetinese;Cadet;;;;;;;;;;;;;x
+title_prince_female_tau_cetinese;Cadet;;;;;;;;;;;;;x
+duke_tau_cetinese;Chairman;;;;;;;;;;;;;x
+duke_title_ruler_consort_tau_cetinese;Mr. Chairman;;;;;;;;;;;;x
+duke_title_ruler_consort_female_tau_cetinese;Chairwoman;;;;;;;;;;;;;x
+count_tau_cetinese;Commissioner;;;;;;;;;;;;;x
+count_title_ruler_consort_tau_cetinese;Commissioner;;;;;;;;;;;;x
+count_title_ruler_consort_female_tau_cetinese;Mrs. Commissioner;;;;;;;;;;;;;x
+baron_tau_cetinese;Officer;;;;;;;;;;;;;x
+baron_title_ruler_consort_tau_cetinese;Mr. Officer;;;;;;;;;;;;x
+baron_title_ruler_consort_female_tau_cetinese;Mrs. Officer;;;;;;;;;;;;;x

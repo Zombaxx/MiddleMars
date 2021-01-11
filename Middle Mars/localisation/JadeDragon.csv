@@ -399,17 +399,17 @@ RETTYPE_CUL_JURCHEN;Tie-Futu;Tie-futu;Tie-Futu;;Tiefutu;;;;;;;;;x
 WESTERN_GOVERNOR_MALE;Protector General;Général-Protecteur;Generalprotektor;;Protector general;;;;;;;;;x
 WESTERN_GOVERNOR_FEMALE;Protector General;Générale-Protectrice;Generalprotektorin;;Protectora general;;;;;;;;;x
 WESTERN_GOVERNOR_TITLE_FOA;Your Illustriousness;Votre Illustre Grandeur;Eure Erhabenheit;;Su Ilustrísima;;;;;;;;;x
-e_china_west_governor;Southern Protectorate;Protectorat des Régions de l'Ouest;Westliches Protektorat;;Protectorado occidental;;;;;;;;;x
+e_china_west_governor;Celestial Protectorate;Protectorat des Régions de l'Ouest;Westliches Protektorat;;Protectorado occidental;;;;;;;;;x
 e_china_west_governor_adj;Spacer;chinoise;Chinesisch;;chino;;;;;;;;;x
 e_china;Tau Ceti;Empire de Chine;Kaiserreich von China;;Imperio de China;;;;;;;;;x
 china_stable;Stable;Stable;Stabil;;Estable;;;;;;;;;x
 china_unrest;Unrest;Agitation;Unruhe;;Descontento;;;;;;;;;x
 china_civil_war;Mutiny;Guerre civile;Bürgerkrieg;;Guerra civil;;;;;;;;;x
-china_mongol_invasion;Being Invaded by Space Pirates;Invasion par les Mongols;Wird von Mongolen überfallen;;Invadidos por los mongoles;;;;;;;;;x
+china_mongol_invasion;Invasion through Space Elevator;Invasion par les Mongols;Wird von Mongolen überfallen;;Invadidos por los mongoles;;;;;;;;;x
 china_jurchen_invasion;Catastrophic failure of critical equipment.;Invasion par les Jurchen;Wird von Jurchen überfallen;;Invadidos por los yurchen;;;;;;;;;x
-china_famine;Great Famine;Grande famine;Große Hungersnot;;Gran hambruna;;;;;;;;;x
+china_famine;Space Elevator Blockade;Grande famine;Große Hungersnot;;Gran hambruna;;;;;;;;;x
 china_plague;Devastating Plague;Épidémie dévastatrice;Verheerende Pest;;Peste devastadora;;;;;;;;;x
-china_golden_age;Bull Market;Age d'or;Goldenes Zeitalter;;Edad de Oro;;;;;;;;;x
+china_golden_age;Golden Age;Age d'or;Goldenes Zeitalter;;Edad de Oro;;;;;;;;;x
 TXT_GRACE;Grace;Grâce;Gunst;;Gracia;;;;;;;;;x
 title_china_emperor;Admiral;Admiral;Admiral;;Admiral;;;;;;;;;x
 tang_china;Mothership;;;;;;;;;;x
