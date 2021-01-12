@@ -31,4 +31,10 @@ spriteTypes = {
 		texturefile = "gfx\\event_pictures\school_learn.dds"
 		allwaystransparent = yes
 	}
+	spriteType = {
+		name = "GFX_roy_troops"
+		texturefile = "gfx\\event_pictures\roy_troops.dds"
+		allwaystransparent = yes
+	}
+
 }

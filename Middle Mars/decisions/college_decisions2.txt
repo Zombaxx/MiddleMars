@@ -1,5 +1,5 @@
 decisions = {
-	seek_higher_learning = {
+	pursue_degree = {
 		is_high_prio = yes
 		potential = { 
 			age = 16
@@ -10,11 +10,11 @@ decisions = {
 		allow = {
 			wealth = 100
 			capital_holding = {
-			has_building = ca_doctoral_program
+			has_building = ca_public_schools
 				}
 		}
 		effect = {
-			character_event = { id = college_school_events.10 } 
+			character_event = { id = college_school_events.11 } 
 		}
 		revoke_allowed = {
 			always = no

@@ -1,0 +1,43 @@
+opinion_rejected = {
+	opinion = -10
+}
+library_pos = {
+	opinion = 5
+}
+library_neg = {
+	opinion = -5
+}
+throw_book_neg = {
+	opinion = -50
+}
+opinion_made_child_adopt_my_dynasty = {
+	
+	opinion = 30
+	
+	months = 70
+
+}
+opinion_supported_war_effort = {
+	
+	opinion = 15
+	
+	months = 36
+
+}
+opinion_recent_marriage = {
+	opinion = 0
+}
+opinion_attending_wedding = {
+	opinion = 0
+}
+opinion_large_dowry = {
+	opinion = 10
+	months = 48
+}
+opinion_small_dowry = {
+	opinion = -15
+	months = 48
+}
+opinion_raised_to_nobility = {
+	opinion = 50
+}

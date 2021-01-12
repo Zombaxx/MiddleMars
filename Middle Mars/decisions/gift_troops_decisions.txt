@@ -19,7 +19,7 @@ targetted_decisions = {
 		}
 		allow = {
 			ROOT = { war = yes }
-			FROM = { wealth = 50 }
+			FROM = { wealth = 100 }
 		}
 		effect = {
 			ROOT = {

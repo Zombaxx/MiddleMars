@@ -1,6 +1,6 @@
 #CODE;ENGLISH;;;;;;;;;x
 
-peasant_taxing_law;Peasant Tax Laws;;;;;;;;;x
+peasant_taxing_law;Peasant;;;;;;;;;x
 peasant_taxing_law_desc;This laws defines the amount of taxes extracted from the peasants. It may take a short period for the laws to enter into efffect, but the harsher the taxing, the more discontent the peasantry.;;;;;;;;;;;;;x
 LENIENT;Lenient;;;;;;;;;x
 HARSH;Harsh;;;;;;;;;x

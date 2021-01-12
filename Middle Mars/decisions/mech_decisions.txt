@@ -9,16 +9,11 @@ decisions = {
 					religion = taoist
 						}
 			}
+
 		}
 		allow = {
 			in_command = no
 			age = 14
-			OR = {
-				religion = taoist
-				any_neighbor_independent_ruler = {
-					religion = taoist
-						}
-			}
 			prisoner = no
 			wealth = 75
 			NOT = { trait = incapable }
@@ -49,19 +44,28 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 14
-		}
-		allow = {
-			in_command = no
-			trait = mech_pilot
-			age = 14
-			prisoner = no
 			OR = {
 				religion = taoist
 				any_neighbor_independent_ruler = {
 					religion = taoist
 						}
+				capital_holding = {
+						has_building = ca_applied_science_division
+					}
 			}
-			wealth = 300
+
+		}
+		allow = {
+			in_command = no
+			OR = {
+				trait = mech_pilot
+				capital_holding = {
+						has_building = ca_applied_science_division
+					}
+			}
+			age = 14
+			prisoner = no
+			wealth = 200
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
@@ -97,22 +101,14 @@ decisions = {
 				capital_holding = {
 						has_building = ca_special_projects_division
 					}
-			}			
+			}
+
 		}
 		allow = {
 			in_command = no
 			age = 14
 			prisoner = no
 			wealth = 150
-			OR = {
-				religion = taoist
-				any_neighbor_independent_ruler = {
-					religion = taoist
-						}
-				capital_holding = {
-						has_building = ca_special_projects_division
-					}
-			}
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
@@ -145,6 +141,7 @@ decisions = {
 		potential = {
 			age = 14
 			religion = taoist
+
 		}
 		allow = {
 			in_command = no
@@ -152,7 +149,6 @@ decisions = {
 			age = 14
 			prisoner = no
 			wealth = 600
-			religion = taoist
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }

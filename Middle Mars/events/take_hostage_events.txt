@@ -1,103 +1,95 @@
-namespace = take_hostage_events
+namespace = college_misc_events
 character_event = {
-	id = take_hostage_events.0
+	id = college_misc_events.0
 	hide_window = yes
 	trigger = {
-		has_character_flag = taken_hostage
-		age = 6
-		NOT = { age = 14 }
+		has_character_flag = gone_bs_college
+		age = 16
+		NOT = { age = 50 }
 	}
 
 	mean_time_to_happen = {
-		years = 2
+		years = 3
 	}
 
 	immediate = {
-		employer = { character_event = { id = take_hostage_events.1 } }
+		character_event = { id = college_misc_events.1 } 
 	}
 }
 character_event = {
-	id = take_hostage_events.1
-	desc = EVTDESCtake_hostage_events.1
+	id = college_misc_events.1
+	desc = EVTDESCcollege_misc_events.1
 	picture = GFX_evt_council
 	is_triggered_only = yes
 
 	option = {
-		name = EVTOPTAtake_hostage_events.1
+		name = EVTOPTAcollege_misc_events.1
 		FROM = {
-			add_trait = trusting
 			random = {
 				chance = 40
 				add_trait = shy
 			}
 			random = {
 				chance = 60
-				add_trait = slothful
+				add_trait = chaste
 			}
 		}
 	}
 
 	option = {
-		name = EVTOPTBtake_hostage_events.1
+		name = EVTOPTBcollege_misc_events.1
 		hidden_tooltip = {
 			random_list = {
-				5 = { character_event = { id = take_hostage_events.2 days = 7 random = 7 } }
-				20 = { character_event = { id = take_hostage_events.3 days = 7 random = 7 } }
-				50 = { character_event = { id = take_hostage_events.4 days = 7 random = 7 } }
-				20 = { character_event = { id = take_hostage_events.5 days = 7 random = 7 } }
-				5 = { character_event = { id = take_hostage_events.6 days = 7 random = 7 } }
+				5 = { character_event = { id = college_misc_events.2 days = 7 random = 7 } }
+				20 = { character_event = { id = college_misc_events.3 days = 7 random = 7 } }
+				50 = { character_event = { id = college_misc_events.4 days = 7 random = 7 } }
+				20 = { character_event = { id = college_misc_events.5 days = 7 random = 7 } }
+				5 = { character_event = { id = college_misc_events.6 days = 7 random = 7 } }
 			}
 		}
 	}
 }
 character_event = {
-	id = take_hostage_events.2
-	desc = EVTDESCtake_hostage_events.2
+	id = college_misc_events.2
+	desc = EVTDESCcollege_misc_events.2
 	picture = GFX_evt_council
 	is_triggered_only = yes
 
-	immediate = {
-		random_courtier = {
-			limit = {
-				prisoner = no
-				age = 4
-				NOT = { age = 14 }
-			}
-			save_event_target_as = hostage_friend
-		}
-	}
-
 	option = {
-		name = EVTOPTAtake_hostage_events.2
-		add_trait = gregarious
-		add_trait = diligent
-		event_target:hostage_friend = { add_friend = FROMFROM }
-		clear_event_target = hostage_friend
-	}
-}
-character_event = {
-	id = take_hostage_events.3
-	desc = EVTDESCtake_hostage_events.3
-	picture = GFX_evt_council
-	is_triggered_only = yes
+		name = EVTOPTAcollege_misc_events.2
 
-	immediate = {
-		random_courtier = {
-			limit = {
-				prisoner = no
-				age = 4
-				NOT = { age = 14 }
-			}
-			save_event_target_as = hostage_friend
+		create_character = {
+		age = 21
+		dynasty = random
+		random_traits = yes
+		religion = ROOT
+		culture = ROOT
+		female = no
+		}	
+		new_character = {
+		set_character_flag = gone_bs_college	
+		add_friend = ROOT
 		}
-	}
-
-	option = {
-		name = EVTOPTAtake_hostage_events.3
-		FROMFROM = {
+		ROOT = {
 			random = {
 				chance = 40 
 				add_trait = gregarious
+			}
+		}
+	}
+}
+character_event = {
+	id = college_misc_events.3
+	desc = EVTDESCcollege_misc_events.3
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAcollege_misc_events.3
+		ROOT = {
+			random = {
+				chance = 40 
+				add_trait = shy
 			}
 			random = {
 				chance = 10
@@ -105,93 +97,113 @@ character_event = {
 			}
 			random = {
 				chance = 60
-				event_target:hostage_friend = { add_friend = FROMFROM }
-			}
-		}
-		clear_event_target = hostage_friend
-	}
-}
-character_event = {
-	id = take_hostage_events.4
-	desc = EVTDESCtake_hostage_events.4
-	picture = GFX_evt_council
-	is_triggered_only = yes
-
-	option = {
-		name = EVTOPTAtake_hostage_events.4
-	}
-}
-character_event = {
-	id = take_hostage_events.5
-	desc = EVTDESCtake_hostage_events.5
-	picture = GFX_evt_council
-	is_triggered_only = yes
-
-	option = {
-		name = EVTOPTAtake_hostage_events.5
-		FROMFROM = {
-			IF = {
-				limit = { has_character_flag = taken_hostage }
-				add_trait = shy
-				random_list = {
-					75 = { add_trait = stressed }
-					25 = { add_trait = depressed }
-				}
+				add_trait = cynical
 			}
 		}
 	}
 }
 character_event = {
-	id = take_hostage_events.6
-	desc = EVTDESCtake_hostage_events.6
+	id = college_misc_events.4
+	desc = EVTDESCcollege_misc_events.4
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAcollege_misc_events.4
+			random = {
+				chance = 25
+				add_trait = drunkard
+			}
+	}
+}
+character_event = {
+	id = college_misc_events.5
+	desc = EVTDESCcollege_misc_events.5
 	picture = GFX_evt_council
 	is_triggered_only = yes
 
 	immediate = {
-		random_courtier = {
-			limit = {
-				prisoner = no
-				age = 5
-				NOT = { age = 14 }
-			}
-			save_event_target_as = hostage_enemy
+
+		create_character = {
+		age = 21
+		dynasty = random
+		random_traits = yes
+		religion = ROOT
+		culture = ROOT
+		female = yes
+		}	
+		new_character = {
+		set_character_flag = gone_bs_college	
+		save_event_target_as = college_lover
 		}
 	}
-
 	option = {
-		name = EVTOPTAtake_hostage_events.6
+		name = EVTOPTBcollege_misc_events.5
+			random = {
+				chance = 60
+				add_lover = event_target:college_lover
+			}
+			clear_event_target = college_enemy
+		}
+	
+	option = {
+		name = EVTOPTAcollege_misc_events.5
 		FROMFROM = {
-			add_trait = shy
-			add_trait = depressed
+			IF = {
+				limit = { has_character_flag = gone_bs_college }
+				add_trait = shy
+			}
+		}
+	}
+}
+character_event = {
+	id = college_misc_events.6
+	desc = EVTDESCcollege_misc_events.6
+	picture = GFX_evt_council
+	is_triggered_only = yes
+
+	immediate = {
+		create_character = {
+		age = 21
+		dynasty = random
+		random_traits = yes
+		religion = ROOT
+		culture = ROOT
+		female = no
+		}	
+		new_character = {
+		set_character_flag = gone_bs_college	
+		save_event_target_as = college_enemy
+		}
+	}
+	option = {
+		name = EVTOPTBcollege_misc_events.6
+			random = {
+				chance = 10
+				add_trait = coward
+			}
+		clear_event_target = college_enemy
+		}
+	option = {
+		name = EVTOPTAcollege_misc_events.6
+		FROMFROM = {
+			add_trait = proud
 			random = {
 				chance = 20
 				add_trait = wounded
 			}
-			event_target:hostage_enemy = { add_rival = FROMFROM }
+			event_target:college_enemy = { add_rival = FROMFROM }
 		}
-		clear_event_target = hostage_enemy
+		clear_event_target = college_enemy
 	}
 }
 character_event = {
-	id = take_hostage_events.7
-	is_triggered_only = yes
+	id = college_misc_events.8
 	hide_window = yes
 	trigger = {
-		has_character_flag = taken_hostage
+		has_character_flag = gone_bs_college
 		age = 16
-	}
-
-	immediate = {
-		clr_character_flag = taken_hostage
-	}
-}
-character_event = {
-	id = take_hostage_events.8
-	hide_window = yes
-	trigger = {
-		has_character_flag = taken_hostage
-		age = 8
-		NOT = { age = 14 }
+		NOT = { age = 50 }
 	}
 
 	mean_time_to_happen = {
@@ -199,39 +211,40 @@ character_event = {
 	}
 
 	immediate = {
-		employer = { character_event = { id = take_hostage_events.9 } }
+		character_event = { id = college_misc_events.9 } 
 	}
 }
 character_event = {
-	id = take_hostage_events.9
-	desc = EVTDESCtake_hostage_events.9
+	id = college_misc_events.9
+	desc = EVTDESCcollege_misc_events.9
 	picture = GFX_evt_council
 	is_triggered_only = yes
 
 	option = {
-		name = EVTOPTAtake_hostage_events.9
+		name = EVTOPTAcollege_misc_events.9
 		FROM = {
-			add_trait = wroth
-			random_list = {
-				10 = { add_trait = deceitful }
-				40 = { add_trait = ambitious }
-				20 = { add_trait = envious }
-				20 = { add_trait = rude }
-				10 = { add_trait = proud }
+			change_diplomacy = 2
+			random = {
+				chance = 40 
+				add_trait = shy
+			}
+			random = {
+				chance = 10
+				add_trait = gregarious
 			}
 		}
 	}
 	option = {
-		name = EVTOPTBtake_hostage_events.9
+		name = EVTOPTBcollege_misc_events.9
+		change_martial = 2
 		FROM = {
-			random_list = {
-				5 = { add_trait = trusting }
-				15 = { add_trait = diligent }
-				15 = { add_trait = familyperson }
-				20 = { add_trait = chaste }
-				20 = { add_trait = envious }
-				20 = { add_trait = chaste }
-				5 = { add_trait = depressed }
+			random = {
+				chance = 40 
+				add_trait = cruel
+			}
+			random = {
+				chance = 10
+				add_trait = ambitious
 			}
 		}
 	}

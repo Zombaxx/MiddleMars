@@ -1,7 +1,9 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 college_educated;College Educated;;;;;;;;;;;;;x
-seek_higher_learning;Pursue a Degree;;;;;;;;;;;;;x
+seek_higher_learning;Pursue a PHD;;;;;;;;;;;;;x
 seek_higher_learning_desc;Seek higher education to make yourself a better person and ruler;;;;;;;;;;;;;x
+pursue_degree;Pursue a Degree;;;;;;;;;;;;;x
+pursue_degree_desc;Seek higher education to make yourself a better person and ruler;;;;;;;;;;;;;x
 EVTDESCcollege_school_events.1;It will soon be time for you to take the yearly exam at your university. A daunting task awaits you, but you feel ready.;;;;;;;;;;;;;x
 EVTOPTAcollege_school_events.1;On second thought, maybe I should sit this one out...;;;;;;;;;;;;;x
 TOOLTIPEVTOPTAcollege_school_events.1;Sit this exam out to avoid stress. This will probably not help you in the long run, though;;;;;;;;;;;;;x
@@ -24,3 +26,22 @@ EVTOPTBcollege_school_events.9;Art, Literature, and Philosophy;;;;;;;;;;;;;x
 TOOLTIPEVTOPTBcollege_school_events.9;You choose a more literary and artistic degree;;;;;;;;;;;;;x
 EVTDESCcollege_school_events.10;You submit your documents and fees and sign the parchment, agreeing to take classes at your capital's university in pursuit of higher education. You are now a college student.;;;;;;;;;;;;;x
 EVTcollege_school_events.10;I wonder what our mascot is...;;;;;;;;;;;;;x
+EVTDESCcollege_misc_events.1;Your coursework has aligned just right so you aren't too heavily burdened right now. You could use this opportunity to get a head start on some work due in a couple months, but there's also a great, once in a lifetime party being thrown tonight.;x
+EVTOPTAcollege_misc_events.1;I think I'll study instead.;x
+EVTOPTBcollege_misc_events.1;I've earned a break.;x
+EVTDESCcollege_misc_events.2;You've been drinking and socializing with your peers all night. One person in particular you find yourself gravitating to. You realize you've made a great friend.;x
+EVTOPTAcollege_misc_events.2;Another drink for my friend here!;;;x
+EVTDESCcollege_misc_events.3;You stood alone in a corner the whole night during the party. Certainly someone or the other noticed you, but you couldn't work up the nerve to be more social.;;;x
+EVTOPTAcollege_misc_events.3;Perhaps this isn't the life for me...;;;x
+EVTDESCcollege_misc_events.4;Last night's party was one to remember! You awoke the next morning, though, so hung over you're unsure whether or not it actually happened...;;;x
+EVTOPTAcollege_misc_events.4;I need some milk.;;;x
+EVTDESCcollege_misc_events.5;While at a party, you hit it off with a [Root.GetBoyGirlOpp]. As you converse and laugh over things, all while getting increasingly inebriated, [Root.GetSheHeOpp] suggests you retire to another room. A private room.;;;x
+EVTOPTBcollege_misc_events.5;Lead the way, love.;;;x
+EVTOPTAcollege_misc_events.5;I am above these acts, sorry.;;;x
+EVTDESCcollege_misc_events.6;You're enjoying yourself at the party of the year when someone barges in drunk and shouting expletives. You aren't sure why, but their drunken rage seems to be focused on you...;;;x
+EVTOPTBcollege_misc_events.6;Err...I have to go.;;;x
+EVTOPTAcollege_misc_events.6;What did you say about my mom?;;;x
+EVTDESCcollege_misc_events.9;As you watch two people talking across the way, you notice that a crowd is gathering as the couple get louder and louder. Apparently, one of them said something apparently hateful, and the other is demanding mob retribution.;;;x
+EVTOPTAcollege_misc_events.9;Free expression is sacred on these grounds.;;;x
+EVTOPTBcollege_misc_events.9;Opposing ideas should be silenced.;;;x
+

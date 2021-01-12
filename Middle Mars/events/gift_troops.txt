@@ -37,63 +37,10 @@ character_event = {
 		}
 		clr_character_flag = troops1
 		clr_character_flag = buying_troops
-		wealth = -50
-	}
-	option = {
-		name = EVTOPTBgift_troops_ai.0
-		trigger = {
-			has_character_flag = troops1
-			wealth = 100
-		}
-		event_target:sin_troop_target = {
-			capital_scope = {
-				holder_scope = {
-					spawn_unit = {
-						owner = THIS
-						province = PREV
-						leader = none
-						troops = {
-							knights = { 50 50 }
-							light_cavalry = { 150 150 }
-							light_infantry = { 300 300 }
-							heavy_infantry = { 200 200 }
-							archers = { 300 300 }
-						}
-						attrition = 1.0
-						reinforcing = yes
-						reinforce_rate_multiplier = 0.1
-						maintenance_multiplier = 0.0
-  						disband_on_peace = yes
-						merge = yes
-					}
-					spawn_unit = {
-						owner = THIS
-						province = PREV
-						leader = none
-						troops = {
-							knights = { 50 50 }
-							light_cavalry = { 150 150 }
-							light_infantry = { 300 300 }
-							heavy_infantry = { 200 200 }
-							archers = { 300 300 }
-						}
-						attrition = 1.0
-						reinforcing = yes
-						reinforce_rate_multiplier = 0.1
-						maintenance_multiplier = 0.0
-  						disband_on_peace = yes
-						merge = yes
-					}
-				}
-			}
-			character_event = { id = gift_troops_ai.1 }
-		}
-		clr_character_flag = troops1
-		clr_character_flag = buying_troops
 		wealth = -100
 	}
 	option = {
-		name = EVTOPTCgift_troops_ai.0
+		name = EVTOPTBgift_troops_ai.0
 		trigger = {
 			has_character_flag = troops1
 			wealth = 150
@@ -137,6 +84,59 @@ character_event = {
   						disband_on_peace = yes
 						merge = yes
 					}
+				}
+			}
+			character_event = { id = gift_troops_ai.1 }
+		}
+		clr_character_flag = troops1
+		clr_character_flag = buying_troops
+		wealth = -150
+	}
+	option = {
+		name = EVTOPTCgift_troops_ai.0
+		trigger = {
+			has_character_flag = troops1
+			wealth = 200
+		}
+		event_target:sin_troop_target = {
+			capital_scope = {
+				holder_scope = {
+					spawn_unit = {
+						owner = THIS
+						province = PREV
+						leader = none
+						troops = {
+							knights = { 50 50 }
+							light_cavalry = { 150 150 }
+							light_infantry = { 300 300 }
+							heavy_infantry = { 200 200 }
+							archers = { 300 300 }
+						}
+						attrition = 1.0
+						reinforcing = yes
+						reinforce_rate_multiplier = 0.1
+						maintenance_multiplier = 0.0
+  						disband_on_peace = yes
+						merge = yes
+					}
+					spawn_unit = {
+						owner = THIS
+						province = PREV
+						leader = none
+						troops = {
+							knights = { 50 50 }
+							light_cavalry = { 150 150 }
+							light_infantry = { 300 300 }
+							heavy_infantry = { 200 200 }
+							archers = { 300 300 }
+						}
+						attrition = 1.0
+						reinforcing = yes
+						reinforce_rate_multiplier = 0.1
+						maintenance_multiplier = 0.0
+  						disband_on_peace = yes
+						merge = yes
+					}
 					spawn_unit = {
 						owner = THIS
 						province = PREV
@@ -161,7 +161,7 @@ character_event = {
 		}
 		clr_character_flag = troops1
 		clr_character_flag = buying_troops
-		wealth = -150
+		wealth = -200
 	}
 	option = {
 		name = EVTOPTDgift_troops_ai.0

@@ -1,1 +1,72 @@
-#DO NOT USE SEPARATE ON_ACTION FILE, COMBINE EVERYTHING INTO ONE ON_ACTION FILE, ENSURING NO ON_ACTION GROUP IS DUPLICATED WITHIN THE SINGLE FILE.
+character
+on_startup = {
+	events = {
+		mod_group.0 #Gift Troop Decision
+	}
+}
+on_chronicle_start = {
+	events = {
+		mod_group.0
+	}
+}
+on_yearly_pulse = {
+	events = {
+		charlawevents.4
+		high_court_events.4
+		roytroops.0
+		roytroops.1
+	}
+}
+on_bi_yearly_pulse = {
+	events = {
+		roycoup.0
+	}
+}
+on_adulthood = {
+	events = {
+		take_hostage_events.7
+	}
+}
+on_executed = {
+	events = {
+		 mta.4 #on_executed opinion penalties
+	 }
+}
+on_combat_pulse = {
+	events = {
+		roytroops.1
+	}
+	random_events = {
+		3000 = robobattle_events.92
+		3000 = robobattle_events.93
+		3000 = robobattle_events.94
+		3000 = robobattle_events.95
+		3000 = robobattle_events.96
+		3000 = robobattle_events.97
+		3000 = robobattle_events.98
+		3000 = robobattle_events.99
+		3000 = robobattle_events.101
+	}
+}
+on_siege_over_winner = {
+	events = {
+		Ac.6666 # Razing the settlement
+	}
+}
+
+on_battle_won_owner = {
+	events = {
+		Ac.7777 # What to do with prisoners
+		Ac.7778 # For AI
+	}
+}
+on_siege_won_leader = {
+	events ={
+		more_prisoners.0
+	}
+}
+on_war_started = {
+	events = {
+		roytroops.1
+	}
+}

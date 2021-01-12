@@ -1,0 +1,35 @@
+namespace = roycoup
+	character_event = {
+		id = roycoup.0
+		title = EVTTITroycoup.0
+		desc = "EVTDESCROYCOUP"
+		picture = "GFX_evt_whispers"
+	
+		is_triggered_only = yes
+
+		trigger = {
+			primary_title = {
+			OR = {
+				has_law = high_court_law_2
+				has_law = high_court_law_3	
+				}
+			}	
+		}
+		option = { 
+		name = "EVTOPTAROYCOUP" 
+			prestige = -100
+			add_character_modifier = { modifier = conceded_power duration = 90}
+			revoke_law = high_court_law_2
+			revoke_law = high_court_law_3
+		}
+		option = { 
+		name = "EVTOPTBROYCOUP" 
+			piety = -50
+			add_character_modifier = { modifier = tense_vassals duration = 120}
+		}
+		option = { 
+		name = "EVTOPTCROYCOUP" 
+			piety = -100
+			add_character_modifier = { modifier = vassals_outraged duration = 90}
+		}
+}
