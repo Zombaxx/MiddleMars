@@ -59,7 +59,6 @@ beautiful = {
 		ugly
 	}
 	
-	diplomacy = 2
 }
 tall = {
 	birth = 100

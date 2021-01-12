@@ -2443,7 +2443,7 @@
 	name = "Mendo"
 	dynasty = 100171
 	culture = "portuguese"
-	religion = "catholic"
+	religion = "zun_pagan"
 	father = 200341
 	1040.1.1={
 		birth="1040.1.1"
@@ -2456,7 +2456,7 @@
 	name = "Aires"
 	dynasty = 100171
 	culture = "portuguese"
-	religion = "catholic"
+	religion = "zun_pagan"
 	1013.1.1={
 		birth="1013.1.1"
 	}
@@ -2467,8 +2467,8 @@
 200342 = {
 	name = "Nuno"
 	dynasty = 100171
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "kirghiz"
+	religion = "zun_pagan"
 	father = 200341
 	1042.1.1={
 		birth="1042.1.1"
@@ -2480,8 +2480,8 @@
 200343 = {
 	name = "Lourenço"
 	dynasty = 100171
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "kirghiz"
+	religion = "zun_pagan"
 	father = 200341
 	1045.1.1={
 		birth="1045.1.1"
@@ -2494,8 +2494,8 @@
 	name = "Guiomar"
 	female = yes
 	dynasty = 100171
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "kirghiz"
+	religion = "zun_pagan"
 	father = 200341
 	1048.1.1={
 		birth="1048.1.1"
@@ -2573,7 +2573,7 @@
 	name = "Estêvão"
 	dynasty = 100173
 	culture = "portuguese"
-	religion = "catholic"
+	religion = "orthodox"
 	father = 200351
 	1027.1.1={
 		birth="1027.1.1"
@@ -2586,7 +2586,7 @@
 	name = "Estêvão"
 	dynasty = 100173
 	culture = "portuguese"
-	religion = "catholic"
+	religion = "orthodox"
 	997.1.1={
 		birth="997.1.1"
 	}
@@ -2598,7 +2598,7 @@
 	name = "Diogo"
 	dynasty = 100173
 	culture = "portuguese"
-	religion = "catholic"
+	religion = "orthodox"
 	father = 200351
 	1029.1.1={
 		birth="1029.1.1"
@@ -2637,8 +2637,8 @@
 200355 = {
 	name = "Fernando"
 	dynasty = 100174
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "greek"
+	religion = "hellenic_pagan"
 	father = 200356
 	1038.1.1={
 		birth="1038.1.1"
@@ -2650,8 +2650,8 @@
 200356 = {
 	name = "Bermudo"
 	dynasty = 100174
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "greek"
+	religion = "hellenic_pagan"
 	1003.1.1={
 		birth="1003.1.1"
 	}
@@ -2662,8 +2662,8 @@
 200357 = {
 	name = "Gonçalo"
 	dynasty = 100174
-	culture = "portuguese"
-	religion = "catholic"
+	culture = "greek"
+	religion = "hellenic_pagan"
 	father = 200356
 	1040.1.1={
 		birth="1040.1.1"
@@ -85399,7 +85399,7 @@
 	name = "Eneko"
 	dynasty = 105832
 	culture = "basque"
-	religion = "orthodox"
+	religion = "Aztec"
 	father = 211666
 	1027.1.1={
 		birth="1027.1.1"
@@ -85412,7 +85412,7 @@
 	name = "Ladron"
 	dynasty = 105832
 	culture = "basque"
-	religion = "orthodox"
+	religion = "Aztec"
 	993.1.1={
 		birth="993.1.1"
 	}
@@ -85463,8 +85463,8 @@
 211670 = {
 	name = "Alfontso"
 	dynasty = 105833
-	culture = "basque"
-	religion = "orthodox"
+	culture = "nahuatl"
+	religion = "aztec"
 	father = 211671
 	1044.1.1={
 		birth="1044.1.1"
@@ -85476,8 +85476,8 @@
 211671 = {
 	name = "Lope"
 	dynasty = 105833
-	culture = "basque"
-	religion = "orthodox"
+	culture = "nahuatl"
+	religion = "aztec"
 	1013.1.1={
 		birth="1013.1.1"
 	}
@@ -85488,8 +85488,8 @@
 211672 = {
 	name = "Luis"
 	dynasty = 105833
-	culture = "basque"
-	religion = "orthodox"
+	culture = "nahuatl"
+	religion = "aztec"
 	father = 211671
 	1046.1.1={
 		birth="1046.1.1"
@@ -85502,7 +85502,7 @@
 	name = "Fortun"
 	dynasty = 105833
 	culture = "basque"
-	religion = "orthodox"
+	religion = "aztec"
 	father = 211671
 	1049.1.1={
 		birth="1049.1.1"
@@ -85529,7 +85529,7 @@
 	name = "Fernando"
 	dynasty = 105834
 	culture = "basque"
-	religion = "orthodox"
+	religion = "jewish"
 	father = 211676
 	1042.1.1={
 		birth="1042.1.1"
@@ -85542,7 +85542,7 @@
 	name = "Piarres"
 	dynasty = 105834
 	culture = "basque"
-	religion = "orthodox"
+	religion = "jewish"
 	1012.1.1={
 		birth="1012.1.1"
 	}
@@ -85554,7 +85554,7 @@
 	name = "Galindo"
 	dynasty = 105834
 	culture = "basque"
-	religion = "orthodox"
+	religion = "jewish"
 	father = 211676
 	1044.1.1={
 		birth="1044.1.1"
@@ -85568,7 +85568,7 @@
 	female = yes
 	dynasty = 105834
 	culture = "basque"
-	religion = "orthodox"
+	religion = "jewish"
 	father = 211676
 	1047.1.1={
 		birth="1047.1.1"
@@ -85581,7 +85581,7 @@
 	name = "Fernando"
 	dynasty = 105834
 	culture = "basque"
-	religion = "orthodox"
+	religion = "jewish"
 	father = 211676
 	1049.1.1={
 		birth="1049.1.1"
@@ -136299,7 +136299,7 @@
 	name = "Dzæræs"
 	dynasty = 109311
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218621
 	1026.1.1={
 		birth="1026.1.1"
@@ -136312,7 +136312,7 @@
 	name = "Kandz"
 	dynasty = 109311
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	997.1.1={
 		birth="997.1.1"
 	}
@@ -136324,7 +136324,7 @@
 	name = "Askhkadar"
 	dynasty = 109311
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218621
 	1027.1.1={
 		birth="1027.1.1"
@@ -136364,7 +136364,7 @@
 	name = "Burikhan"
 	dynasty = 109312
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218626
 	1042.1.1={
 		birth="1042.1.1"
@@ -136377,7 +136377,7 @@
 	name = "Safrak"
 	dynasty = 109312
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	1013.1.1={
 		birth="1013.1.1"
 	}
@@ -136389,7 +136389,7 @@
 	name = "Kuluk"
 	dynasty = 109312
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218626
 	1043.1.1={
 		birth="1043.1.1"
@@ -136403,7 +136403,7 @@
 	female = yes
 	dynasty = 109312
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218626
 	1047.1.1={
 		birth="1047.1.1"
@@ -136416,7 +136416,7 @@
 	name = "Sangipan"
 	dynasty = 109312
 	culture = "alan"
-	religion = "orthodox"
+	religion = "catholic"
 	father = 218626
 	1050.1.1={
 		birth="1050.1.1"
@@ -136493,8 +136493,8 @@
 218635 = {
 	name = "Alatey"
 	dynasty = 109314
-	culture = "alan"
-	religion = "orthodox"
+	culture = "nubian"
+	religion = "west_african_pagan"
 	father = 218636
 	1045.1.1={
 		birth="1045.1.1"
@@ -136506,8 +136506,8 @@
 218636 = {
 	name = "Gokhar"
 	dynasty = 109314
-	culture = "alan"
-	religion = "orthodox"
+	culture = "nubian"
+	religion = "west_african_pagan"
 	1020.1.1={
 		birth="1020.1.1"
 	}
@@ -136518,8 +136518,8 @@
 218637 = {
 	name = "Djadaron"
 	dynasty = 109314
-	culture = "alan"
-	religion = "orthodox"
+	culture = "nubian"
+	religion = "west_african_pagan"
 	father = 218636
 	1046.1.1={
 		birth="1046.1.1"
@@ -136531,8 +136531,8 @@
 218638 = {
 	name = "Kuluk"
 	dynasty = 109314
-	culture = "alan"
-	religion = "orthodox"
+	culture = "nubian"
+	religion = "west_african_pagan"
 	father = 218636
 	1049.1.1={
 		birth="1049.1.1"
@@ -136545,8 +136545,8 @@
 	name = "Alda"
 	female = yes
 	dynasty = 109314
-	culture = "alan"
-	religion = "orthodox"
+	culture = "nubian"
+	religion = "west_african_pagan"
 	father = 218636
 	1053.1.1={
 		birth="1053.1.1"
@@ -141333,7 +141333,7 @@
 	name = "Gokhar"
 	dynasty = 109641
 	culture = "alan"
-	religion = "sunni"
+	religion = "shiite"
 	father = 219281
 	1026.1.1={
 		birth="1026.1.1"
@@ -141346,7 +141346,7 @@
 	name = "Kaur"
 	dynasty = 109641
 	culture = "alan"
-	religion = "sunni"
+	religion = "shiite"
 	992.1.1={
 		birth="992.1.1"
 	}
@@ -141358,7 +141358,7 @@
 	name = "Kul"
 	dynasty = 109641
 	culture = "alan"
-	religion = "sunni"
+	religion = "shiite"
 	father = 219281
 	1028.1.1={
 		birth="1028.1.1"
@@ -141372,7 +141372,7 @@
 	female = yes
 	dynasty = 109641
 	culture = "alan"
-	religion = "sunni"
+	religion = "shiite"
 	father = 219281
 	1031.1.1={
 		birth="1031.1.1"
@@ -141385,7 +141385,7 @@
 	name = "Guram"
 	dynasty = 109641
 	culture = "alan"
-	religion = "sunni"
+	religion = "shiite"
 	father = 219281
 	1034.1.1={
 		birth="1034.1.1"
@@ -141398,7 +141398,7 @@
 	name = "Kaur"
 	dynasty = 109642
 	culture = "alan"
-	religion = "sunni"
+	religion = "jewish"
 	father = 219286
 	1035.1.1={
 		birth="1035.1.1"
@@ -141411,7 +141411,7 @@
 	name = "Durgulel"
 	dynasty = 109642
 	culture = "alan"
-	religion = "sunni"
+	religion = "jewish"
 	1014.1.1={
 		birth="1014.1.1"
 	}
@@ -141423,7 +141423,7 @@
 	name = "Savkudz"
 	dynasty = 109642
 	culture = "alan"
-	religion = "sunni"
+	religion = "jewish"
 	father = 219286
 	1037.1.1={
 		birth="1037.1.1"
@@ -141437,7 +141437,7 @@
 	female = yes
 	dynasty = 109642
 	culture = "alan"
-	religion = "sunni"
+	religion = "jewish"
 	father = 219286
 	1040.1.1={
 		birth="1040.1.1"
@@ -141463,7 +141463,7 @@
 	name = "Savkudz"
 	dynasty = 109643
 	culture = "alan"
-	religion = "sunni"
+	religion = "tengri_pagan"
 	father = 219291
 	1036.1.1={
 		birth="1036.1.1"
@@ -141476,7 +141476,7 @@
 	name = "Æmbalan"
 	dynasty = 109643
 	culture = "alan"
-	religion = "sunni"
+	religion = "tengri_pagan"
 	1005.1.1={
 		birth="1005.1.1"
 	}
@@ -141488,7 +141488,7 @@
 	name = "Rosmag"
 	dynasty = 109643
 	culture = "alan"
-	religion = "sunni"
+	religion = "tengri_pagan"
 	father = 219291
 	1037.1.1={
 		birth="1037.1.1"
@@ -141501,7 +141501,7 @@
 	name = "Totraz"
 	dynasty = 109643
 	culture = "alan"
-	religion = "sunni"
+	religion = "tengri_pagan"
 	father = 219291
 	1041.1.1={
 		birth="1041.1.1"
@@ -141515,7 +141515,7 @@
 	female = yes
 	dynasty = 109643
 	culture = "alan"
-	religion = "sunni"
+	religion = "tengri_pagan"
 	father = 219291
 	1043.1.1={
 		birth="1043.1.1"
@@ -141528,7 +141528,7 @@
 	name = "Syrdon"
 	dynasty = 109644
 	culture = "alan"
-	religion = "sunni"
+	religion = "catholic"
 	father = 219296
 	1037.1.1={
 		birth="1037.1.1"
@@ -141541,7 +141541,7 @@
 	name = "Kaur"
 	dynasty = 109644
 	culture = "alan"
-	religion = "sunni"
+	religion = "catholic"
 	1004.1.1={
 		birth="1004.1.1"
 	}
@@ -141553,7 +141553,7 @@
 	name = "Anbazuk"
 	dynasty = 109644
 	culture = "alan"
-	religion = "sunni"
+	religion = "catholic"
 	father = 219296
 	1039.1.1={
 		birth="1039.1.1"
@@ -141566,7 +141566,7 @@
 	name = "Syrdon"
 	dynasty = 109644
 	culture = "alan"
-	religion = "sunni"
+	religion = "catholic"
 	father = 219296
 	1042.1.1={
 		birth="1042.1.1"
@@ -141580,7 +141580,7 @@
 	female = yes
 	dynasty = 109644
 	culture = "alan"
-	religion = "sunni"
+	religion = "catholic"
 	father = 219296
 	1045.1.1={
 		birth="1045.1.1"
@@ -186058,7 +186058,7 @@
 	name = "Yasar"
 	dynasty = 112661
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "tengri_pagan"
 	father = 225321
 	1027.1.1={
 		birth="1027.1.1"
@@ -186071,7 +186071,7 @@
 	name = "Youkhanna"
 	dynasty = 112661
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "tengri_pagan"
 	1004.1.1={
 		birth="1004.1.1"
 	}
@@ -186083,7 +186083,7 @@
 	name = "Imamaddin"
 	dynasty = 112661
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "tengri_pagan"
 	father = 225321
 	1028.1.1={
 		birth="1028.1.1"
@@ -186096,7 +186096,7 @@
 	name = "Muzaffaraddin"
 	dynasty = 112661
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "tengri_pagan"
 	father = 225321
 	1032.1.1={
 		birth="1032.1.1"
@@ -186187,8 +186187,8 @@
 225330 = {
 	name = "Boutros"
 	dynasty = 112663
-	culture = "levantine_arabic"
-	religion = "jain"
+	culture = "han"
+	religion = "taoist"
 	father = 225331
 	1035.1.1={
 		birth="1035.1.1"
@@ -186200,8 +186200,8 @@
 225331 = {
 	name = "Boutros"
 	dynasty = 112663
-	culture = "levantine_arabic"
-	religion = "jain"
+	culture = "han"
+	religion = "taoist"
 	1001.1.1={
 		birth="1001.1.1"
 	}
@@ -186212,8 +186212,8 @@
 225332 = {
 	name = "Jamil"
 	dynasty = 112663
-	culture = "levantine_arabic"
-	religion = "jain"
+	culture = "han"
+	religion = "taoist"
 	father = 225331
 	1037.1.1={
 		birth="1037.1.1"
@@ -186226,8 +186226,8 @@
 	name = "Mehri"
 	female = yes
 	dynasty = 112663
-	culture = "levantine_arabic"
-	religion = "jain"
+	culture = "han"
+	religion = "taoist"
 	father = 225331
 	1040.1.1={
 		birth="1040.1.1"
@@ -186239,8 +186239,8 @@
 225334 = {
 	name = "Nuri"
 	dynasty = 112663
-	culture = "levantine_arabic"
-	religion = "jain"
+	culture = "han"
+	religion = "taoist"
 	father = 225331
 	1043.1.1={
 		birth="1043.1.1"
@@ -186253,7 +186253,7 @@
 	name = "Murad"
 	dynasty = 112664
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "buddhist"
 	father = 225336
 	1041.1.1={
 		birth="1041.1.1"
@@ -186266,7 +186266,7 @@
 	name = "Majid"
 	dynasty = 112664
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "buddhist"
 	1017.1.1={
 		birth="1017.1.1"
 	}
@@ -186278,7 +186278,7 @@
 	name = "Yasar"
 	dynasty = 112664
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "buddhist"
 	father = 225336
 	1042.1.1={
 		birth="1042.1.1"
@@ -186291,7 +186291,7 @@
 	name = "Hussayn"
 	dynasty = 112664
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "buddhist"
 	father = 225336
 	1045.1.1={
 		birth="1045.1.1"
@@ -186305,7 +186305,7 @@
 	female = yes
 	dynasty = 112664
 	culture = "levantine_arabic"
-	religion = "jain"
+	religion = "buddhist"
 	father = 225336
 	1049.1.1={
 		birth="1049.1.1"
@@ -215326,7 +215326,7 @@
 	name = "Gulusa"
 	dynasty = 114661
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "hindu"
 	father = 229321
 	1048.1.1={
 		birth="1048.1.1"
@@ -215339,7 +215339,7 @@
 	name = "Immeghar"
 	dynasty = 114661
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "hindu"
 	1018.1.1={
 		birth="1018.1.1"
 	}
@@ -215351,7 +215351,7 @@
 	name = "Matiya"
 	dynasty = 114661
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "hindu"
 	father = 229321
 	1049.1.1={
 		birth="1049.1.1"
@@ -215364,7 +215364,7 @@
 	name = "Anaba"
 	dynasty = 114661
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "hindu"
 	father = 229321
 	1052.1.1={
 		birth="1052.1.1"
@@ -215378,7 +215378,7 @@
 	female = yes
 	dynasty = 114661
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "hindu"
 	father = 229321
 	1056.1.1={
 		birth="1056.1.1"
@@ -215521,7 +215521,7 @@
 	name = "Yabdas"
 	dynasty = 114664
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "sunni"
 	father = 229336
 	1027.1.1={
 		birth="1027.1.1"
@@ -215534,7 +215534,7 @@
 	name = "Asaru"
 	dynasty = 114664
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "sunni"
 	1000.1.1={
 		birth="1000.1.1"
 	}
@@ -215546,7 +215546,7 @@
 	name = "Hotha"
 	dynasty = 114664
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "sunni"
 	father = 229336
 	1029.1.1={
 		birth="1029.1.1"
@@ -215560,7 +215560,7 @@
 	female = yes
 	dynasty = 114664
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "sunni"
 	father = 229336
 	1032.1.1={
 		birth="1032.1.1"
@@ -215573,7 +215573,7 @@
 	name = "Ghanim"
 	dynasty = 114664
 	culture = "maghreb_arabic"
-	religion = "shiite"
+	religion = "sunni"
 	father = 229336
 	1034.1.1={
 		birth="1034.1.1"
@@ -258328,7 +258328,7 @@
 	name = "Amma"
 	dynasty = 117591
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "hindu"
 	father = 235181
 	1036.1.1={
 		birth="1036.1.1"
@@ -258341,7 +258341,7 @@
 	name = "Prataparudra"
 	dynasty = 117591
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "hindu"
 	1010.1.1={
 		birth="1010.1.1"
 	}
@@ -258353,7 +258353,7 @@
 	name = "Anavota"
 	dynasty = 117591
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "hindu"
 	father = 235181
 	1038.1.1={
 		birth="1038.1.1"
@@ -258367,7 +258367,7 @@
 	female = yes
 	dynasty = 117591
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "hindu"
 	father = 235181
 	1041.1.1={
 		birth="1041.1.1"
@@ -258380,7 +258380,7 @@
 	name = "Ammaraja"
 	dynasty = 117591
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "hindu"
 	father = 235181
 	1044.1.1={
 		birth="1044.1.1"
@@ -258393,7 +258393,7 @@
 	name = "Vishnuvardhana"
 	dynasty = 117592
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "jain"
 	father = 235186
 	1048.1.1={
 		birth="1048.1.1"
@@ -258406,7 +258406,7 @@
 	name = "Kadeyaraja"
 	dynasty = 117592
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "jain"
 	1018.1.1={
 		birth="1018.1.1"
 	}
@@ -258418,7 +258418,7 @@
 	name = "Nachana"
 	dynasty = 117592
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "jain"
 	father = 235186
 	1050.1.1={
 		birth="1050.1.1"
@@ -258431,7 +258431,7 @@
 	name = "Allayavema"
 	dynasty = 117592
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "jain"
 	father = 235186
 	1053.1.1={
 		birth="1053.1.1"
@@ -258445,7 +258445,7 @@
 	female = yes
 	dynasty = 117592
 	culture = "telugu"
-	religion = "buddhist"
+	religion = "jain"
 	father = 235186
 	1055.1.1={
 		birth="1055.1.1"
@@ -258457,8 +258457,8 @@
 235190 = {
 	name = "Anavema"
 	dynasty = 117593
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "zhangzhung"
+	religion = "bon"
 	father = 235191
 	1049.1.1={
 		birth="1049.1.1"
@@ -258470,8 +258470,8 @@
 235191 = {
 	name = "Somaditya"
 	dynasty = 117593
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "zhangzhung"
+	religion = "bon"
 	1021.1.1={
 		birth="1021.1.1"
 	}
@@ -258482,8 +258482,8 @@
 235192 = {
 	name = "Nachana"
 	dynasty = 117593
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "zhangzhung"
+	religion = "bon"
 	father = 235191
 	1050.1.1={
 		birth="1050.1.1"
@@ -258495,8 +258495,8 @@
 235193 = {
 	name = "Katayavema"
 	dynasty = 117593
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "zhangzhung"
+	religion = "bon"
 	father = 235191
 	1054.1.1={
 		birth="1054.1.1"
@@ -258509,8 +258509,8 @@
 	name = "Rudramadevi"
 	female = yes
 	dynasty = 117593
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "zhangzhung"
+	religion = "bon"
 	father = 235191
 	1057.1.1={
 		birth="1057.1.1"
@@ -258522,8 +258522,8 @@
 235195 = {
 	name = "Niravadyadhavala"
 	dynasty = 117594
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "lettigallish"
+	religion = "finnish_pagan"
 	father = 235196
 	1027.1.1={
 		birth="1027.1.1"
@@ -258535,8 +258535,8 @@
 235196 = {
 	name = "Mahadeva"
 	dynasty = 117594
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "lettigallish"
+	religion = "finnish_pagan"
 	1002.1.1={
 		birth="1002.1.1"
 	}
@@ -258547,8 +258547,8 @@
 235197 = {
 	name = "Indrabhattaraka"
 	dynasty = 117594
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "lettigallish"
+	religion = "finnish_pagan"
 	father = 235196
 	1028.1.1={
 		birth="1028.1.1"
@@ -258561,8 +258561,8 @@
 	name = "Anitalli"
 	female = yes
 	dynasty = 117594
-	culture = "telugu"
-	religion = "buddhist"
+	culture = "lettigallish"
+	religion = "finnish_pagan"
 	father = 235196
 	1031.1.1={
 		birth="1031.1.1"

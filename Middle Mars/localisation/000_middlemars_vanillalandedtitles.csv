@@ -33,9 +33,9 @@ e_britannia;Sobius;;;;;;;;;;;;;x
 e_byzantium;Toduk;;;;;;;;;;;;;x
 e_carpathia;Neraula;;;;;;;;;;;;;x
 e_france;Alba;;;;;;;;;;;;;x
-e_germany;Albion;;;;;;;;;;;;;x
+e_germany;Tempia;;;;;;;;;;;;;x
 e_hre;Holy Terran Empire;;;;;;;;;;;;;x
-e_idel_ural;Argyre;;;;;;;;;;;;;x
+e_idel_ural;Mariner;;;;;;;;;;;;;x
 e_italy;Baula;;;;;;;;;;;;;x
 e_kanem;Tinuda;;;;;;;;;;;;;x
 e_maghreb;Ryu;;;;;;;;;;;;;x
@@ -45,7 +45,7 @@ e_pontic_steppe;Kuruju;;;;;;;;;;;;;x
 e_roman_empire;Terran Empire;;;;;;;;;;;;;x
 e_russia;Rorude;;;;;;;;;;;;;x
 e_scandinavia;Rerarak;;;;;;;;;;;;;x
-e_spain;Tempian;;;;;;;;;;;;;x
+e_spain;Ascraeus;;;;;;;;;;;;;x
 e_tartaria;Tilaula;;;;;;;;;;;;;x
 e_turkestan;Dazune;;;;;;;;;;;;;x
 e_wendish_empire;Eroukh;;;;;;;;;;;;;x
@@ -545,7 +545,7 @@ d_ungvar;Lacoch;;;;;;;;;;;;;x
 d_upper_burgundy;Sodanco;;;;;;;;;;;;;x
 d_upper_lorraine;Balille;;;;;;;;;;;;;x
 d_uppland;Adokesar;;;;;;;;;;;;;x
-d_ural;Qagateh;;;;;;;;;;;;;x
+d_ural;Mariner;;;;;;;;;;;;;x
 d_ustug;Neigim;;;;;;;;;;;;;x
 d_usturt;Tenuwe;;;;;;;;;;;;;x
 d_uttaranchal;Rily;;;;;;;;;;;;;x
@@ -634,7 +634,7 @@ k_frisia;Senalg;;;;;;;;;;;;;x
 k_galicia-volhynia;Kounitya;;;;;;;;;;;;;x
 k_genoa;Suna;;;;;;;;;;;;;x
 k_georgia;Tulala;;;;;;;;;;;;;x
-k_germany;Akirory;;;;;;;;;;;;;x
+k_germany;Tempia;;;;;;;;;;;;;x
 k_germiyan;Seilali;;;;;;;;;;;;;x
 k_ghana;Sumuna;;;;;;;;;;;;;x
 k_gondwana;Tusasa;;;;;;;;;;;;;x
@@ -939,943 +939,943 @@ d_fraticelli;Wing;;;;;;;;;;;;;x
 d_hurufi;The New Terraformed Caliphate;;;;;;;;;;;;;x
 d_ibadi;The Original Terraformed Caliphate;;;;;;;;;;;;;x
 d_yazidi;The Pre Terraformed Caliphate;;;;;;;;;;;;;x
-e_bengal_DESC;Qaaqokiain
-e_deccan_DESC;Kudtiain
-e_india_DESC;Layarakan
-e_rajastan_DESC;Ryagiusan
-e_tibet_DESC;Cerberus Dorsanian
-d_african_large_DESC;Teelaryan
-d_african_low_DESC;Doitephan
-d_african_massive_DESC;Qayapuran
-d_african_mid_DESC;Tosaryan
-d_african_mid_low_1_DESC;Doitoryan
-d_african_mid_low_2_DESC;Wosoryan
-d_african_tiny_DESC;Dasijahan
-d_scholae_palatinae_DESC;Kosiain
-d_bodpa_low_DESC;Evasokiain
-d_han_junks_DESC;Ehanian
-d_han_large_DESC;Borardinan
-d_han_low_DESC;Beloan
-d_han_massive_DESC;Lenaryan
-d_han_mid_DESC;Balarakan
-d_han_mid_low_DESC;Wosokiain
-d_han_tiny_1_DESC;Wingan
-d_han_tiny_2_DESC;Seryanian
-d_jurchen_band_DESC;Wosanoson Bandan
-d_jurchen_corsairs_DESC;Rilalan Corsairsan
-d_outlaws_of_the_marsh_DESC;Outlaws of the Arctican
-d_tangut_low_DESC;Qayanosan
-d_treasure_fleet_DESC;Leoruk Fleetan
-b_naberezhnye_DESC;Wakukan
-e_abyssinia_DESC;Runundan
-e_arabia_DESC;Tilalanian
-e_britannia_DESC;Sobiusan
-e_byzantium_DESC;Todukan
-e_carpathia_DESC;Neraulanian
-e_france_DESC;Albanian
-e_germany_DESC;Albionan
-e_hre_DESC;Holy Terran Empirean
-e_idel_ural_DESC;Argyrean
-e_italy_DESC;Baulanian
-e_kanem_DESC;Tinudanian
-e_maghreb_DESC;Ryuan
-e_mali_DESC;Nazieluan
-e_persia_DESC;Daedaliain
-e_pontic_steppe_DESC;Kurujuan
-e_roman_empire_DESC;Terran Empirean
-e_russia_DESC;Rorudean
-e_scandinavia_DESC;Rerarakan
-e_spain_DESC;Tempianan
-e_tartaria_DESC;Tilaulanian
-e_turkestan_DESC;Dazunean
-e_wendish_empire_DESC;Eroukhan
-d_army_light_DESC;Army of Lightan
-d_ashokas_chosen_DESC;Waaqarak's Chosenan
-d_bektashi_DESC;Ramdan
-d_bulls_rishabha_DESC;Ascakanian
-d_chosen_perkunas_DESC;Chosen
-d_dralhas_children_DESC;Children
-d_followers_arjuna_DESC;Kayajahan
-d_haruriyyah_DESC;Lohongean
-d_hashshashin_DESC;Of the Third Eye
-d_holy_sepulchre_DESC;Qoramdan
-d_huitzilopochtli_DESC;Baaqoryan
-d_immortals_DESC;Immortalsan
-d_jomsvikings_DESC;Jomspiratesan
-d_knights_calatrava_DESC;Knights of Souan
-d_knights_hospitaler_DESC;Knights Bayanaeran
-d_knights_santiago_DESC;Knights of Qosyanian
-d_knights_templar_DESC;Knights Qundaran
-d_livonian_order_DESC;Nared Order
-d_myrmidons_DESC;Saint Kinanian
-d_saint_addai_DESC;Saint Nibashian
-d_saint_anthony_DESC;Saint Roringan
-d_sky_lords_DESC;Star Lords
-d_sons_kaleva_DESC;Sons of Tayakia
-d_spirit_guardians_DESC;Spirit Guardiansan
-d_teutonic_order_DESC;Derelmo Order
-d_warriors_perun_DESC;Diloukh Warriorsan
-d_zealots_DESC;Zealotsan
-d_zun_warriors_DESC;Solar Guardan
-k_teutonic_state_DESC;Esaa Statean
-d_bengal_band_DESC;Qobinko Bandan
-d_bengal_company_DESC;Qijah Company
-d_marathi_band_DESC;Ekoita Bandan
-d_marathi_company_DESC;Raaqacob Company
-d_rajput_band_DESC;Teelius Bandan
-d_rajput_company_DESC;Qaasinie Company
-d_tamil_band_DESC;Abenory Bandan
-d_abakan_DESC;Kasoryan
-d_abkhazia_DESC;Kuisanian
-d_abruzzo_DESC;Boitiusan
-d_abydos_DESC;Dalughan
-d_achaia_DESC;Ranieluan
-d_adrar_DESC;Karyan
-d_adrianopolis_DESC;Arodunean
-d_aegean_islands_DESC;Loracoban
-d_afar_DESC;Budanosan
-d_agder_DESC;Qobiusan
-d_air_DESC;Qohongean
-d_ajmer_DESC;Ridiselan
-d_akara_dasarna_DESC;Najugean
-d_alania_DESC;Qingan
-d_albany_DESC;Wilyanian
-d_aleppo_DESC;Terelmoan
-d_alexandria_DESC;Teledan
-d_algarve_DESC;Tamdan
-d_alger_DESC;Kakundan
-d_alsace_DESC;Roanertan
-d_altay_DESC;Lelelmoan
-d_amman_DESC;Dodundanian
-d_anartta_DESC;Kiatanian
-d_anatolia_DESC;Robarakan
-d_ancona_DESC;Esobakanian
-d_angria_DESC;Edhineloan
-d_anjou_DESC;Aqokiain
-d_antioch_DESC;Kasanosan
-d_anupa_DESC;Sudapuran
-d_apulia_DESC;Quisanian
-d_aqtobe_DESC;Tenapuran
-d_aquitaine_DESC;Reringan
-d_arabia_petrae_DESC;Ahakundanian
-d_aragon_DESC;Karakan
-d_armenia_DESC;Berertan
-d_armenia_minor_DESC;Ehakingan
-d_armeniacon_DESC;Ageoralanian
-d_ascalon_DESC;Nerelmoan
-d_asturias_DESC;Sosukan
-d_aswan_DESC;Welingan
-d_asyut_DESC;Tiboukhan
-d_athens_DESC;Qobacoban
-d_atyrau_DESC;Tuisukan
-d_auvergne_DESC;Rayarakan
-d_axum_DESC;Keyfertan
-d_azerbaijan_DESC;Waroryan
-d_azov_DESC;Dosanosan
-d_badajoz_DESC;Kayanosan
-d_baden_DESC;Borindan
-d_baghdad_DESC;Baviyean
-d_balata_DESC;Roboryan
-d_balkh_DESC;Wasakanian
-d_baluchistan_DESC;Taaqoryan
-d_bambuk_DESC;Tiughan
-d_bandja_DESC;Botujuan
-d_barcelona_DESC;Tinodanian
-d_barkul_DESC;Rorunean
-d_bashkirs_DESC;Wosoukhan
-d_basra_DESC;Budinkoan
-d_bavaria_DESC;Rasethan
-d_baygal_DESC;Relelmoan
-d_bedford_DESC;Weroukhan
-d_beja_DESC;Keroukhan
-d_beloozero_DESC;Roralanian
-d_benevento_DESC;Bibonnuan
-d_bergslagen_DESC;Dilelmoan
-d_berry_DESC;Raisan
-d_beshbaliq_DESC;Wodanan
-d_bessarabia_DESC;Teothanian
-d_bhakkar_DESC;Delaulanian
-d_bhutan_DESC;Badacoban
-d_bjarmia_DESC;Raryan
-d_bornu_DESC;Qiniusan
-d_bosnia_DESC;Loitanian
-d_bourbon_DESC;Teryanian
-d_brabant_DESC;Qacoban
-d_brandenburg_DESC;Turujuan
-d_bremen_DESC;Ehudanian
-d_brittany_DESC;Enazaisan
-d_brunswick_DESC;Kosacoban
-d_bucellarian_DESC;Teloan
-d_bulgar_DESC;Teringan
-d_burgundy_DESC;Ludephan
-d_cairo_DESC;Ribundan
-d_calabria_DESC;Ehakukan
-d_canterbury_DESC;Adhinakanian
-d_cappadocia_DESC;Rodanian
-d_capua_DESC;Kosapuran
-d_carinthia_DESC;Bilalanian
-d_carniola_DESC;Seramdan
-d_caspian_steppe_DESC;Qayananian
-d_castilla_DESC;Kiniusan
-d_cephalonia_DESC;Neelakanian
-d_champagne_DESC;Kenokiain
-d_charsianon_DESC;Sodalanian
-d_chera_nadu_DESC;Qoaningan
-d_cheremisa_DESC;Silaulanian
-d_chernigov_DESC;Karakanian
-d_cherson_DESC;Selmoan
-d_cherven_cities_DESC;Qeshoan
-d_chola_nadu_DESC;Raulanian
-d_chuy_DESC;Rerukan
-d_cibyrrhaeot_DESC;Kinakanian
-d_coloneia_DESC;Nudaryan
-d_connacht_DESC;Kaaqacoban
-d_cordoba_DESC;Tayankoan
-d_cornwall_DESC;Kibingan
-d_corsica_DESC;Esuan
-d_courland_DESC;Ashsusan
-d_crimea_DESC;Werashian
-d_croatia_DESC;Kiomiran
-d_cumbria_DESC;Egeoralanian
-d_cyprus_DESC;Dadundanian
-d_cyrenaica_DESC;Werosan
-d_dadhipadra_DESC;Amosonnuan
-d_dahala_DESC;Bosonnuan
-d_daksina_kosala_DESC;Silukan
-d_dalmatia_DESC;Evelalanian
-d_damascus_DESC;Rodundanian
-d_damietta_DESC;Nunonnuan
-d_damot_DESC;Roanundan
-d_dandakaranya_DESC;Nakundan
-d_dauphine_DESC;Roriagedan
-d_dege_DESC;Lundan
-d_deheubarth_DESC;Kerertan
-d_derbent_DESC;Bamdan
-d_devagiri_DESC;Raolan
-d_dihistan_DESC;Wagerkanan
-d_dioclea_DESC;Dorounan
-d_durham_palatine_DESC;Daraudan
-d_dyrrachion_DESC;Nudehranian
-d_edessa_DESC;Berehranian
-d_emba_DESC;Sisonsean
-d_epirus_DESC;Kabehranian
-d_esthonia_DESC;Koranuan
-d_esztergom_DESC;Terehranian
-d_faiyum_DESC;Atilanian
-d_fars_DESC;Rireletan
-d_ferghana_DESC;Tingian
-d_ferrara_DESC;Tilonsean
-d_fes_DESC;Telukaran
-d_fezzan_DESC;Logilanian
-d_finland_DESC;Woreran
-d_finnmark_DESC;Baytickan
-d_flanders_DESC;Tagildanian
-d_franche_comte_DESC;Wodanian
-d_franconia_DESC;Titabian
-d_friuli_DESC;Ekrouranian
-d_galich_DESC;Lurayan
-d_galicia_DESC;Ragurayan
-d_galilee_DESC;Tabian
-d_galloway_DESC;Qitiananian
-d_gandhara_DESC;Rabian
-d_gangavadi_DESC;Ninnasan
-d_gascogne_DESC;Larunan
-d_gauda_DESC;Qanadan
-d_gelre_DESC;Nadan
-d_genoa_DESC;Bitanian
-d_ghana_DESC;Tanildanian
-d_gilan_DESC;Kanickan
-d_gloucester_DESC;Ricabanian
-d_gobi_altay_DESC;Litildanian
-d_gojjam_DESC;Kaytadan
-d_gondar_DESC;Radan
-d_gorkha_DESC;Wagabian
-d_gotland_DESC;Biananian
-d_granada_DESC;Ritabian
-d_greater_poland_DESC;Rarunan
-d_gurjara_mandala_DESC;Nisabian
-d_gurma_DESC;Turayan
-d_gwent_DESC;Enitanian
-d_gwynedd_DESC;Akouranian
-d_hadramut_DESC;Ditabanian
-d_hampshire_DESC;Qagembanian
-d_harer_DESC;Ranembanian
-d_haritanaka_DESC;Ekurayan
-d_hausaland_DESC;Kildanian
-d_hayya_DESC;Etiananian
-d_herat_DESC;Lagembanian
-d_hereford_DESC;Qurayan
-d_hesse_DESC;Witabanian
-d_hlynov_DESC;Atassian
-d_holland_DESC;Taganderan
-d_holstein_DESC;Banian
-d_iceland_DESC;Anitabian
-d_ikh_bogd_DESC;Buvvenan
-d_ili_DESC;Biatanian
-d_irtysh_DESC;Seorgean
-d_ishim_DESC;Agurayan
-d_itil_DESC;Binnasan
-d_jamtland_DESC;Nitassian
-d_jangladesh_DESC;Ahanabanian
-d_jazira_DESC;Ritarunan
-d_jejakabhukti_DESC;Landeran
-d_jerid_DESC;Sicouranian
-d_jerusalem_DESC;Atalteran
-d_jharkand_DESC;Rodouranian
-d_jibal_DESC;Ticurayan
-d_jiuquan_DESC;Nisickan
-d_juyan_DESC;Amabian
-d_kabul_DESC;Lodickan
-d_kabylia_DESC;Wagadan
-d_kakheti_DESC;Amicickan
-d_kalinga_DESC;Kaytickan
-d_kalyani_DESC;Sanembanian
-d_kamarupanagara_DESC;Akiatanian
-d_kanem_DESC;Nalraoan
-d_kanyakubja_DESC;Rinnasan
-d_kara_khorum_DESC;Qitassian
-d_karachev_DESC;Randeran
-d_karashar_DESC;Eniturayan
-d_karelia_DESC;Sassian
-d_kargopol_DESC;Nerukaran
-d_kartli_DESC;Qileccanian
-d_karvuna_DESC;Takunean
-d_kashgar_DESC;Weofaacan
-d_kashmir_DESC;Kaketanian
-d_kasi_DESC;Ahakukaran
-d_kathmandu_DESC;Toboran
-d_kazakh_DESC;Tyegiman
-d_kazan_DESC;Kilokopan
-d_kebbi_DESC;Qitokopan
-d_kerman_DESC;Sakabbanian
-d_khangai_DESC;Litoplukan
-d_khiva_DESC;Relingan
-d_khorasan_DESC;Rokopan
-d_khotan_DESC;Lunkanian
-d_khozistan_DESC;Egiman
-d_khuttal_DESC;Wiletanian
-d_kiev_DESC;Ratannanian
-d_kola_DESC;Turiatan
-d_koln_DESC;Qurabahuan
-d_komi_DESC;Nakanian
-d_konkana_DESC;Waoudan
-d_krete_DESC;Saliyanian
-d_kumul_DESC;Sarannanian
-d_kurdistan_DESC;Dakanian
-d_kuru_DESC;Keminaian
-d_kuyavia_DESC;Kyananian
-d_ladakh_DESC;Sudannanian
-d_lahore_DESC;Qerudhanian
-d_lancaster_DESC;Dofran
-d_lanka_DESC;Werunkanian
-d_lata_DESC;Welutasan
-d_latgale_DESC;Deudielan
-d_latium_DESC;Bevartan
-d_lausitz_DESC;Nolavian
-d_leinster_DESC;Ruceyan
-d_leon_DESC;Nondanian
-d_lesser_poland_DESC;Lulattanan
-d_lhasa_DESC;Baylanian
-d_lithuanians_DESC;Naerartan
-d_livonia_DESC;Wodalanian
-d_loire_DESC;Rehabian
-d_lombardia_DESC;Rireccoan
-d_lothian_DESC;Dudeccoan
-d_lower_lorraine_DESC;Raseccoan
-d_mafaza_DESC;Dexurayan
-d_magadha_DESC;Tasomoan
-d_mainz_DESC;Tainuan
-d_mali_DESC;Qureccoan
-d_mallorca_DESC;Teyan
-d_maris_DESC;Danjarean
-d_marrakech_DESC;Esritanian
-d_maru_DESC;Rurarean
-d_mathura_DESC;Qicukpoan
-d_mazandaran_DESC;Warahadan
-d_mazovia_DESC;Walahranian
-d_meath_DESC;Qeliatanian
-d_mecklemburg_DESC;Sikengan
-d_medapata_DESC;Avajiatanian
-d_medina_DESC;Salosesan
-d_meissen_DESC;Danjeran
-d_merv_DESC;Tamoladan
-d_mesopotamia_DESC;Balitanian
-d_minsk_DESC;Rallahan
-d_modena_DESC;Bamyan
-d_moldau_DESC;Walaacan
-d_moray_DESC;Kashiran
-d_mordvins_DESC;Akugaacan
-d_moskva_DESC;Sopilipan
-d_mosul_DESC;Nalaelan
-d_mudar_DESC;Kataelan
-d_multan_DESC;Ratigaran
-d_munster_DESC;Katigaran
-d_munster_germany_DESC;Lilodanian
-d_murcia_DESC;Wakaulan
-d_murom_DESC;Kadalpan
-d_mzab_DESC;Datundan
-d_nadia_DESC;Warillean
-d_nagchu_DESC;Dunochan
-d_nagormo_DESC;Rinaian
-d_nangqen_DESC;Ehecaulan
-d_nasikya_DESC;Akariliain
-d_navarra_DESC;Decennanian
-d_nefoud_DESC;Waneahan
-d_ngari_DESC;Nareyanian
-d_nikaea_DESC;Wusunyanian
-d_nobatia_DESC;Aharasan
-d_nordgau_DESC;Taraluan
-d_norfolk_DESC;Adatogeran
-d_normandy_DESC;Ehakaniain
-d_norrland_DESC;Luroladan
-d_northumberland_DESC;Ekuroladan
-d_novgorod_DESC;Daneahan
-d_novgorod-seversk_DESC;Nimadeyan
-d_novosil_DESC;Rata-Vanian
-d_nubia_DESC;Kacalean
-d_nulambavadi_DESC;Dapa-Vanian
-d_nyingchi_DESC;Kapaluan
-d_nyitra_DESC;Wapaluan
-d_ob_DESC;Dasedeyan
-d_ohrid_DESC;Kacinean
-d_oltenia_DESC;Dasaluan
-d_om_DESC;Bapa-Vanian
-d_oman_DESC;Qeahan
-d_oppland_DESC;Kaneahan
-d_optimatoi_DESC;Taviranian
-d_orkney_DESC;Katedeyan
-d_orleans_DESC;Tecunaian
-d_ostergotland_DESC;Sareyanian
-d_osterreich_DESC;Nilanian
-d_ostlandet_DESC;Akunoanan
-d_ostrobothnia_DESC;Tecaluan
-d_otuken_DESC;Kaluan
-d_oultrejourdain_DESC;Kuniranian
-d_palmyra_DESC;Taraulan
-d_pamir_DESC;Kedrikan
-d_pandya_nadu_DESC;Tecelboan
-d_paphlagonia_DESC;Taraniain
-d_para_lauhitya_DESC;Ravophiain
-d_paraetonium_DESC;Kavaluan
-d_pechora_DESC;Kianan
-d_pecs_DESC;Dadanderan
-d_penthievre_DESC;Kadeyanian
-d_pereyaslavl_DESC;Tuniliain
-d_perm_DESC;Aheciranian
-d_pest_DESC;Rugyaban
-d_picardie_DESC;Nopitanian
-d_pisa_DESC;Tegadayan
-d_poitou_DESC;Kecelboan
-d_polotsk_DESC;Tatochan
-d_pomeralia_DESC;Qacaccoan
-d_pommerania_DESC;Katennanian
-d_porto_DESC;Tunundan
-d_powys_DESC;Tanykanian
-d_provence_DESC;Wara-Vanian
-d_prussia_DESC;Ra-Vanian
-d_pskov_DESC;Taluan
-d_purang_DESC;Tayanran
-d_qamdo_DESC;Narenran
-d_qinghai_DESC;Watesan
-d_racakonda_DESC;Wunadlan
-d_raetia_DESC;Naylanian
-d_raichur_doab_DESC;Rasianan
-d_rashka_DESC;Deahan
-d_ratanpur_DESC;Duninaian
-d_rattapadi_DESC;Nadeyanian
-d_rhine_DESC;Amusunaian
-d_rostov_DESC;Kusiranian
-d_rugen_DESC;Raraulan
-d_ryazan_DESC;Kuninaian
-d_sakala_DESC;Ryegykanian
-d_sakmara_DESC;Negushan
-d_salerno_DESC;Ecyiatanian
-d_salzburg_DESC;Womyhoan
-d_samarkand_DESC;Kyiain
-d_samarra_DESC;Waredeyan
-d_samogitia_DESC;Toukasan
-d_samos_DESC;Doukoanan
-d_samoyed_DESC;Savianan
-d_sanaa_DESC;Najashan
-d_sapmi_DESC;Wajaelan
-d_sardinia_DESC;Elyaian
-d_sarkel_DESC;Latigaran
-d_saryupara_DESC;Ejayagaran
-d_saurashtra_DESC;Kacilipan
-d_sauvira_DESC;Najekpoan
-d_savoie_DESC;Bilasan
-d_savonia_DESC;Ekuraacan
-d_saxony_DESC;Babaacan
-d_semien_DESC;Bishuan
-d_sennar_DESC;Setannanian
-d_sevilla_DESC;Qajaulan
-d_shewa_DESC;Enalillean
-d_shigatse_DESC;Wuniranian
-d_sibir_DESC;Rateyanian
-d_sicily_DESC;Kariliain
-d_sijilmasa_DESC;Biranian
-d_silesia_DESC;Nacaulan
-d_sinai_DESC;Lunochan
-d_sinhala_DESC;Esrelmoan
-d_sistan_DESC;Nuderan
-d_sjaelland_DESC;Tameran
-d_skane_DESC;Qarisanian
-d_slavonia_DESC;Elakenran
-d_slesvig_DESC;Tilipan
-d_smaland_DESC;Latoisean
-d_smolensk_DESC;Runaacan
-d_socotra_DESC;Bayagaran
-d_somerset_DESC;Topusbuan
-d_songhay_DESC;Tagahilan
-d_sous_DESC;Kopaccoan
-d_spoleto_DESC;Tusbuan
-d_stravani_DESC;Rarinaian
-d_strymon_DESC;Raidean
-d_styria_DESC;Sissiean
-d_suhma_DESC;Savaluan
-d_sumparu_DESC;Sopalanian
-d_susa_DESC;Wyyanian
-d_sutiya_DESC;Nodanian
-d_swabia_DESC;Botyhoan
-d_syr_darya_DESC;Qitanian
-d_syrmia_DESC;Tahilan
-d_syrte_DESC;Kalalpan
-d_tabriz_DESC;Qeinitanian
-d_tagant_DESC;Laelan
-d_tahert_DESC;Tasasan
-d_taizz_DESC;Nanoanan
-d_tangiers_DESC;Kaladayan
-d_tao_DESC;Evahiman
-d_tarbagatai_DESC;Bopailanian
-d_temes_DESC;Qajigaran
-d_the_isles_DESC;Nardisan
-d_thessalonika_DESC;Kodeahan
-d_thrace_DESC;Tagaylanian
-d_thracesia_DESC;Rijoryan
-d_thurgau_DESC;Qeorgean
-d_thuringia_DESC;Emaramyan
-d_timbuktu_DESC;Qunisanian
-d_tioharad_DESC;Risanian
-d_tirabhukti_DESC;Rosaylanian
-d_tlemcen_DESC;Amarahadan
-d_tobol_DESC;Sakusbuan
-d_toledo_DESC;Wuritanian
-d_tondai_nadu_DESC;Tyeran
-d_tosali_DESC;Nunoryan
-d_toscana_DESC;Duukpoan
-d_toulouse_DESC;Rikitanian
-d_transylvania_DESC;Tikalan
-d_trebizond_DESC;Welabanian
-d_trier_DESC;Wecasan
-d_trigarta_DESC;Wanianan
-d_tripoli_DESC;Boryan
-d_tripolitania_DESC;Qetinean
-d_trondelag_DESC;Sopunean
-d_tunis_DESC;Rophiain
-d_turgay_DESC;Ratalean
-d_turkestan_DESC;Eharaccoan
-d_turnovo_DESC;Runianan
-d_turov_DESC;Qashiran
-d_tver_DESC;Nyudan
-d_tyrol_DESC;Nelosesan
-d_ubagan_DESC;Qaelan
-d_udayagiri_DESC;Ricitanian
-d_ulster_DESC;Daladayan
-d_ungvar_DESC;Lacochan
-d_upper_burgundy_DESC;Sodancoan
-d_upper_lorraine_DESC;Balillean
-d_uppland_DESC;Adokesaran
-d_ural_DESC;Qagatehan
-d_ustug_DESC;Neigiman
-d_usturt_DESC;Tenuwean
-d_uttaranchal_DESC;Rilyan
-d_uvs_DESC;Dopaniain
-d_valencia_DESC;Senakinan
-d_valois_DESC;Qeinaran
-d_vanga_DESC;Tagaudan
-d_varendra_DESC;Qagannan
-d_vastergotland_DESC;Saruranian
-d_vasyugan_DESC;Akinekanian
-d_vengi_DESC;Lunanian
-d_venice_DESC;Dirundanian
-d_verona_DESC;Lenanian
-d_vestlandet_DESC;Lilenanian
-d_vidharba_DESC;Sopahiman
-d_vidin_DESC;Kegamasan
-d_vladimir_DESC;Sotaniain
-d_vodamayutja_DESC;Biruinan
-d_volhynia_DESC;Nucoryan
-d_votyaki_DESC;Kanehan
-d_wadai_DESC;Delaudan
-d_wag_DESC;Bolpan
-d_wallachia_DESC;Kinolpan
-d_warangal_DESC;Natindanian
-d_western_isles_DESC;Tokilyan
-d_wild_fields_DESC;Kanethan
-d_yaik_DESC;Wawilyan
-d_yarlung_DESC;Byarellanian
-d_yaroslavl_DESC;Salinderan
-d_yatenga_DESC;Ririman
-d_yatviags_DESC;Kabrilyan
-d_york_DESC;Asaelan
-d_yugra_DESC;Elaracoban
-d_zabulistan_DESC;Emekilyan
-d_zavarot_DESC;Lereeran
-d_zhetysu_DESC;Everolpan
-d_zyriane_DESC;Diincian
-k_abyssinia_DESC;Ekadelenan
-k_afghanistan_DESC;Elikethan
-k_africa_DESC;Nilolanian
-k_alania_DESC;Ligelan
-k_amalfi_DESC;Tarudanian
-k_anatolia_DESC;Beinanian
-k_andalusia_DESC;Rurudanian
-k_andhra_DESC;Wigelan
-k_aquitaine_DESC;Saraniain
-k_arabia_DESC;Qikilyan
-k_aragon_DESC;Rorakinan
-k_armenia_DESC;Dagekanian
-k_asturias_DESC;Wokodekan
-k_austria_DESC;Tasyuchian
-k_aydin_DESC;Deysakanian
-k_badajoz_DESC;Lenamanan
-k_baluchistan_DESC;Nusaykanian
-k_bavaria_DESC;Ebenitanian
-k_bengal_DESC;Satatkanian
-k_bihar_DESC;Busonan
-k_bohemia_DESC;Rikacoban
-k_brittany_DESC;Topakinan
-k_bulgaria_DESC;Ehemyanan
-k_burgundy_DESC;Turudanian
-k_byzantium_DESC;Taroryan
-k_candar_DESC;Eidarakan
-k_carinthia_DESC;Kokairanian
-k_castille_DESC;Danernean
-k_chernigov_DESC;Aghudanian
-k_crimea_DESC;Rarenkanian
-k_croatia_DESC;Eyuanian
-k_cuman_DESC;Lekilyan
-k_cyprus_DESC;Noghephan
-k_dacia_DESC;Benarcuan
-k_daylam_DESC;Keniman
-k_delhi_DESC;Taulurean
-k_denmark_DESC;Kyasadejan
-k_eastern_marches_DESC;Rasostan
-k_egypt_DESC;Serroan
-k_england_DESC;Wavislanian
-k_epirus_DESC;Elaroryan
-k_eretnid_DESC;Takechaian
-k_estonia_DESC;Kemendan
-k_finland_DESC;Likaganian
-k_france_DESC;Outer Albanian
-k_franconia_DESC;Duuliogan
-k_franconia_otto_DESC;Wawethan
-k_frisia_DESC;Senalgan
-k_galicia-volhynia_DESC;Kounityanian
-k_genoa_DESC;Sunanian
-k_georgia_DESC;Tulalanian
-k_germany_DESC;Akiroryan
-k_germiyan_DESC;Seilalian
-k_ghana_DESC;Sumunanian
-k_gondwana_DESC;Tusasanian
-k_guge_DESC;Apataran
-k_gujarat_DESC;Nukosan
-k_hansa_DESC;Kirutaran
-k_hausaland_DESC;Qalafanian
-k_hungary_DESC;Banuwean
-k_iraq_DESC;Tautan
-k_ireland_DESC;Samanian
-k_israel_DESC;Rethan
-k_italy_DESC;Raylanian
-k_jerusalem_DESC;Wireutanian
-k_kamarupa_DESC;Dopudanian
-k_kanem_DESC;Agawethan
-k_karaman_DESC;Lauronanian
-k_karnata_DESC;Eghephan
-k_kashmir_DESC;Ragaudan
-k_kham_DESC;Rubimonan
-k_khazaria_DESC;Basircan
-k_khiva_DESC;Riniman
-k_khorasan_DESC;Selethan
-k_khotan_DESC;Qelitanian
-k_kosala_DESC;Bicyejuan
-k_lanka_DESC;Egernean
-k_leon_DESC;Darcuan
-k_lithuania_DESC;Kanudrdan
-k_lotharingia_DESC;Keudoryan
-k_magyar_DESC;Lenibanan
-k_maharastra_DESC;Karudanian
-k_mali_DESC;Talekanian
-k_malwa_DESC;Sanaltanian
-k_mauretania_DESC;Warannan
-k_mentese_DESC;Qaruwean
-k_mesopotamia_DESC;Dagesaran
-k_mongolia_DESC;Akirodekan
-k_moravia_DESC;Enaatkanian
-k_naples_DESC;Returanian
-k_navarra_DESC;Lahiman
-k_nenets_DESC;Qukiogan
-k_nepal_DESC;Weneeran
-k_norway_DESC;Abarelenan
-k_nubia_DESC;Sikevojan
-k_orissa_DESC;Qalihan
-k_ottoman_DESC;Quribanan
-k_papacy_DESC;Atiruephan
-k_perm_DESC;Larislanian
-k_persia_DESC;Qeiruranian
-k_pisa_DESC;Toracoban
-k_poland_DESC;Wanindanian
-k_pomerania_DESC;Noctis Labyrinthusan
-k_portugal_DESC;Baramanan
-k_punjab_DESC;Ewalanehan
-k_rajputana_DESC;Amakyejuan
-k_romagna_DESC;Betakkanian
-k_rum_DESC;Lotalihan
-k_rus_DESC;Boghudanian
-k_ruthenia_DESC;Emikenanian
-k_sapmi_DESC;Dasucian
-k_sardinia_DESC;Tagavanian
-k_saruhan_DESC;Erahiman
-k_saxon_DESC;Taasurean
-k_saxony_DESC;Rusendan
-k_scotland_DESC;Sicyejuan
-k_serbia_DESC;Keyeagan
-k_sibir_DESC;Nawavanian
-k_sicily_DESC;Ecivalanian
-k_sindh_DESC;Sanevojan
-k_songhay_DESC;Tagevojan
-k_spanish_galicia_DESC;Tamilyan
-k_swabia_DESC;Amuwean
-k_swabia_otto_DESC;Qopakinan
-k_sweden_DESC;Dawakkanian
-k_syria_DESC;Rumannan
-k_tamilakam_DESC;Burarcuan
-k_taurica_DESC;Ralunanian
-k_tekke_DESC;Wotamanan
-k_telingana_DESC;Barairan
-k_thrace_DESC;Labrian
-k_thuringia_otto_DESC;Wopudanian
-k_trebizond_DESC;Nesimonan
-k_trinacria_DESC;Alopamasan
-k_turkestan_DESC;Wawurean
-k_valencia_DESC;Sahiman
-k_venice_DESC;Nizacoban
-k_vladimir_DESC;Totonan
-k_volga_bulgaria_DESC;Nalenanian
-k_wales_DESC;Everanehan
-k_xixia_DESC;Azacoban
-k_yarlung_DESC;Wopaniain
-k_yemen_DESC;Lauliogan
-k_zhetysu_DESC;Rawuwean
-d_abyssinian_band_DESC;Ebeneka Bandan
-d_alan_band_DESC;Revevi Bandan
-d_breton_band_DESC;Bacali Bandan
-d_breton_company_DESC;Nanit Company
-d_bulgarian_band_DESC;Kesesar Bandan
-d_bulgarian_company_DESC;Sopeph Company
-d_catalan_band_DESC;Kagael Bandan
-d_catalan_company_DESC;Ranuin Company
-d_company_of_st_george_DESC;Company Of Qinethan
-d_cuman_band_DESC;Nohibah Bandan
-d_cuman_company_DESC;Teinohn Company
-d_finnish_band_DESC;Wiateh Bandan
-d_frisian_navy_DESC;Datatka Navyan
-d_genoese_navy_DESC;Keysali Navyan
-d_ghanan_band_DESC;Kogitta Bandan
-d_ghilman_DESC;Qeenaugan
-d_great_company_DESC;Keteth Company
-d_hanseatic_navy_DESC;Tazaira Navyan
-d_irish_band_DESC;Aheenine Bandan
-d_lappish_band_DESC;Tadelen Bandan
-d_lithuanian_band_DESC;Elikitar Bandan
-d_little_hat_company_DESC;Nitita Company
-d_lombard_band_DESC;Regaman Bandan
-d_maghreb_corsairs_DESC;Bawafa Corsairsan
-d_mamluks_DESC;Byasadej Mamluksan
-d_navarrese_company_DESC;Ereinaud Company
-d_nubian_band_DESC;Qaila Bandan
-d_pecheneg_band_DESC;Sereuta Bandan
-d_pecheneg_company_DESC;Toghuwe Company
-d_rose_company_DESC;Nyeuta Company
-d_rus_band_DESC;Belaka Bandan
-d_rus_company_DESC;Asopaman Company
-d_sardinian_band_DESC;Birita Company
-d_sardinian_company_DESC;Lalura Company
-d_saxon_band_DESC;Wamigel Bandan
-d_scottish_band_DESC;Renair Bandan
-d_shiite_bedouin_company_DESC;Davita Company
-d_shiite_berber_company_DESC;Ecekaljo Company
-d_shiite_cuman_company_DESC;Qadena Company
-d_shiite_turkic_company_DESC;Tanily Company
-d_star_company_DESC;Dyeer Company
-d_sunni_bedouin_company_DESC;Waild Company
-d_sunni_berber_company_DESC;Qenuna Company
-d_sunni_cuman_company_DESC;Rarura Company
-d_sunni_turkic_company_DESC;Etrayla Company
-d_swiss_band_DESC;Martian Bandan
-d_swiss_company_DESC;Martian Company
-d_turkic_band_DESC;Versian Bandan
-d_turkic_company_DESC;Versian Company
-d_varangian_guard_DESC;Seatempest Guardan
-d_venetian_navy_DESC;Tesish Navyan
-d_victual_brothers_DESC;Ebenoa Brothersan
-d_white_company_DESC;The Red Company
-d_guiyi_DESC;Lunnaran
-d_luxembourg_DESC;Dinerroan
-e_russian_empire_DESC;Lemindanian
-k_liao_DESC;Ropuwean
-d_burtas_DESC;Kenutaran
-d_esfahan_DESC;Tenucian
-d_hamadan_DESC;Sorgilan
-d_kermanshah_DESC;Rataugan
-d_tigris_DESC;Walgan
-d_aztec_reformed_DESC;Pakalan
-d_baltic_pagan_reformed_DESC;Kanatkanian
-d_bon_reformed_DESC;Mekhalanian
-d_finnish_pagan_reformed_DESC;Martianan
-d_jewish_DESC;Trutheran
-d_norse_pagan_reformed_DESC;Borealisan
-d_slavic_pagan_reformed_DESC;Kanendan
-d_tengri_pagan_reformed_DESC;Pharaohan
-d_west_african_pagan_reformed_DESC;Jeddakan
-d_zoroastrian_DESC;Scientific
-d_zun_pagan_reformed_DESC;Soliusan
-d_manichean_DESC;Prophesized
-d_persian_caravan_guards_DESC;Wamal Caravan Guard
-d_silk_road_sentinels_DESC;Celestial Road Sentinels
-d_turkic_guard_DESC;Versian Guardan
-d_papal_guards_DESC;Holy Terra Guardan
-d_qarmatian_DESC;Ecalpan
-d_shiite_DESC;Altered
-d_sunni_DESC;Terraformed
-e_bulgaria_DESC;Amusephan
-e_chagatai_DESC;Tivuitan
-e_china_west_governor_DESC;Celestian
-e_cordoba_DESC;Abotofiain
-e_golden_horde_DESC;Titanium
-e_il-khanate_DESC;Qilofiain
-e_lechczechrus_DESC;Amaxicanian
-e_mexikha_DESC;Spacer
-e_mongol_empire_DESC;Cetinese
-e_nicaea_DESC;Riostinan
-e_outremer_DESC;Tekitaran
-e_pirates_DESC;Daminanian
-e_rebels_DESC;Qinoaldan
-e_shiite_DESC;Altered
-e_sunni_DESC;Terraformed
-e_timurids_DESC;Nilalisan
-k_antioch_DESC;Bokoryan
-k_sakya_trizin_DESC;Nomildanian
-k_switzerland_DESC;Qiigelan
-d_abbasid_DESC;Wopasan
-d_arabia_felix_DESC;Kilofiain
-d_arabs_DESC;Qazulanian
-d_assassin_DESC;Rilundan
-d_balearic_DESC;Raralanan
-d_belgrade_DESC;Ebaletan
-d_bergen_DESC;Kijyulanian
-d_bordeaux_DESC;Abotintan
-d_braganza_DESC;Raroanan
-d_butrinto_DESC;Sojarahan
-d_campania_DESC;Bijyulanian
-d_catalonia_DESC;Abotesaran
-d_chaldea_DESC;Tijiusan
-d_cumberland_DESC;Qieritanian
-d_curonian_DESC;Kojintan
-d_danes_DESC;Dojitanian
-d_don_DESC;Rohiusan
-d_dorostotum_DESC;Kodiusan
-d_dregovichi_DESC;Rubarian
-d_drevlians_DESC;Lyimian
-d_el_rif_DESC;Sunaoan
-d_el-arish_DESC;Lieroanan
-d_erzerum_DESC;Kijiusan
-d_estonia_DESC;Daciusan
-d_galatia_DESC;Koharahan
-d_geats_DESC;Ebijyulanian
-d_georgia_DESC;Koroplukan
-d_glomacze_DESC;Timuwean
-d_hellas_DESC;Amomonan
-d_ikonion_DESC;Wunaoan
-d_ilmenians_DESC;Taryulanian
-d_ingers_DESC;Qetaulan
-d_kajaneborg_DESC;Kotiusan
-d_kappadokia_DESC;Dojetan
-d_karnten_DESC;Sokesaran
-d_kexholm_DESC;Rodarahan
-d_khazars_DESC;Kokaoan
-d_kimak_DESC;Tierian
-d_kipchak_DESC;Dekalyan
-d_kirghiz_DESC;Raralyan
-d_kirkuk_DESC;Wyaian
-d_krakow_DESC;Wojonanian
-d_kryvians_DESC;Waloanan
-d_laodikeia_DESC;Rotoanan
-d_lendians_DESC;Dijoanan
-d_lettigalians_DESC;Karaoan
-d_luristan_DESC;Ryigavian
-d_lut_DESC;Rijailoan
-d_lykia_DESC;Balomonan
-d_mar_DESC;Selosesan
-d_meryas_DESC;Keinitanian
-d_meshcheras_DESC;Kalarahan
-d_milano_DESC;Totiusan
-d_muromians_DESC;Lijavanan
-d_nikomedeia_DESC;Dijayahan
-d_obotrites_DESC;Lorutkanian
-d_oxford_DESC;Kivefran
-d_pechenegs_DESC;Kyinaulan
-d_peloponnese_DESC;Toumenanian
-d_pressburg_DESC;Sunoanan
-d_pronsk_DESC;Loanan
-d_pruthenians_DESC;Syulanian
-d_qom_DESC;Egetavanan
-d_radimichi_DESC;Qitacoban
-d_romagna_DESC;Bijahtuan
-d_salamanca_DESC;Narahtuan
-d_sames_DESC;Kubarian
-d_sami_DESC;Boritanian
-d_sandomiersk_DESC;Kijavian
-d_satakunta_DESC;Nieraoan
-d_severians_DESC;Delintan
-d_shiraz_DESC;Boniain
-d_sinope_DESC;Lotonanian
-d_slovakia_DESC;Bokiusan
-d_sorbs_DESC;Lodenanian
-d_sweden_DESC;Dojavian
-d_swiss_DESC;Bubesaran
-d_tavasts_DESC;Rariusan
-d_thessalia_DESC;Rireutanian
-d_varna_DESC;Toanan
-d_veps_DESC;Ryatuan
-d_vlachs_DESC;Wojintan
-d_volga_DESC;Rijaulan
-d_votes_DESC;Nyinavian
-d_vyatichi_DESC;Esojarahan
-d_wielkopolska_DESC;Kyayan
-d_zara_DESC;Qarunaian
-d_zaragoza_DESC;Lohunaian
-d_zemigalians_DESC;Rojaoan
-e_latin_empire_DESC;Ebirutaran
-d_amalfi_DESC;Dasijahan
-d_pechina_DESC;Kosiain
-d_ragusa_DESC;Lenaryan
-e_seljuk_turks_DESC;New Edenian
-k_almohad_DESC;Nalpan
-k_al-murabitids_DESC;Qalisan
-k_avaria_DESC;Wosoryan
-k_beni_helal_DESC;Layarakan
-k_bosnia_DESC;Qayapuran
-k_fatimids_DESC;Ryagiusan
-k_hammadid_DESC;Qaaqokiain
-k_kafsid_DESC;Kudtiain
-k_lombardy_DESC;Doitephan
-k_marinid_DESC;Qudacoban
-k_pechenegs_DESC;Tagendan
-k_zenata_DESC;Teelaryan
-k_zirid_DESC;Tosaryan
-k_ziyanids_DESC;Doitoryan
-d_fraticelli_DESC;Wingan
-d_hurufi_DESC;New Terraformed
-d_ibadi_DESC;Original Terraformed
-d_yazidi_DESC;Pre Terraformed
+;e_bengal_DESC;Qaaqokiain;;;;;;;;;;;;;x
+;e_deccan_DESC;Kudtiain;;;;;;;;;;;;;x
+;e_india_DESC;Layarakan;;;;;;;;;;;;;x
+;e_rajastan_DESC;Ryagiusan;;;;;;;;;;;;;x
+;e_tibet_DESC;Cerberus Dorsanian;;;;;;;;;;;;;x
+;d_african_large_DESC;Teelaryan;;;;;;;;;;;;;x
+;d_african_low_DESC;Doitephan;;;;;;;;;;;;;x
+;d_african_massive_DESC;Qayapuran;;;;;;;;;;;;;x
+;d_african_mid_DESC;Tosaryan;;;;;;;;;;;;;x
+;d_african_mid_low_1_DESC;Doitoryan;;;;;;;;;;;;;x
+;d_african_mid_low_2_DESC;Wosoryan;;;;;;;;;;;;;x
+;d_african_tiny_DESC;Dasijahan;;;;;;;;;;;;;x
+;d_scholae_palatinae_DESC;Kosiain;;;;;;;;;;;;;x
+;d_bodpa_low_DESC;Evasokiain;;;;;;;;;;;;;x
+;d_han_junks_DESC;Ehanian;;;;;;;;;;;;;x
+;d_han_large_DESC;Borardinan;;;;;;;;;;;;;x
+;d_han_low_DESC;Beloan;;;;;;;;;;;;;x
+;d_han_massive_DESC;Lenaryan;;;;;;;;;;;;;x
+;d_han_mid_DESC;Balarakan;;;;;;;;;;;;;x
+;d_han_mid_low_DESC;Wosokiain;;;;;;;;;;;;;x
+;d_han_tiny_1_DESC;Wingan;;;;;;;;;;;;;x
+;d_han_tiny_2_DESC;Seryanian;;;;;;;;;;;;;x
+;d_jurchen_band_DESC;Wosanoson Bandan;;;;;;;;;;;;;x
+;d_jurchen_corsairs_DESC;Rilalan Corsairsan;;;;;;;;;;;;;x
+;d_outlaws_of_the_marsh_DESC;Outlaws of the Arctican;;;;;;;;;;;;;x
+;d_tangut_low_DESC;Qayanosan;;;;;;;;;;;;;x
+;d_treasure_fleet_DESC;Leoruk Fleetan;;;;;;;;;;;;;x
+;b_naberezhnye_DESC;Wakukan;;;;;;;;;;;;;x
+;e_abyssinia_DESC;Runundan;;;;;;;;;;;;;x
+;e_arabia_DESC;Tilalanian;;;;;;;;;;;;;x
+;e_britannia_DESC;Sobiusan;;;;;;;;;;;;;x
+;e_byzantium_DESC;Todukan;;;;;;;;;;;;;x
+;e_carpathia_DESC;Neraulanian;;;;;;;;;;;;;x
+;e_france_DESC;Albanian;;;;;;;;;;;;;x
+;e_germany_DESC;Tempian;;;;;;;;;;;;;x
+;e_hre_DESC;Holy Terran Empirean;;;;;;;;;;;;;x
+;e_idel_ural_DESC;Mariner;;;;;;;;;;;;;x
+;e_italy_DESC;Baulanian;;;;;;;;;;;;;x
+;e_kanem_DESC;Tinudanian;;;;;;;;;;;;;x
+;e_maghreb_DESC;Ryuan;;;;;;;;;;;;;x
+;e_mali_DESC;Nazieluan;;;;;;;;;;;;;x
+;e_persia_DESC;Daedaliain;;;;;;;;;;;;;x
+;e_pontic_steppe_DESC;Kurujuan;;;;;;;;;;;;;x
+;e_roman_empire_DESC;Terran Empirean;;;;;;;;;;;;;x
+;e_russia_DESC;Rorudean;;;;;;;;;;;;;x
+;e_scandinavia_DESC;Rerarakan;;;;;;;;;;;;;x
+;e_spain_DESC;Ascraeian;;;;;;;;;;;;;x
+;e_tartaria_DESC;Tilaulanian;;;;;;;;;;;;;x
+;e_turkestan_DESC;Dazunean;;;;;;;;;;;;;x
+;e_wendish_empire_DESC;Eroukhan;;;;;;;;;;;;;x
+;d_army_light_DESC;Army of Lightan;;;;;;;;;;;;;x
+;d_ashokas_chosen_DESC;Waaqarak's Chosenan;;;;;;;;;;;;;x
+;d_bektashi_DESC;Ramdan;;;;;;;;;;;;;x
+;d_bulls_rishabha_DESC;Ascakanian;;;;;;;;;;;;;x
+;d_chosen_perkunas_DESC;Chosen;;;;;;;;;;;;;x
+;d_dralhas_children_DESC;Children;;;;;;;;;;;;;x
+;d_followers_arjuna_DESC;Kayajahan;;;;;;;;;;;;;x
+;d_haruriyyah_DESC;Lohongean;;;;;;;;;;;;;x
+;d_hashshashin_DESC;Of the Third Eye;;;;;;;;;;;;;x
+;d_holy_sepulchre_DESC;Qoramdan;;;;;;;;;;;;;x
+;d_huitzilopochtli_DESC;Baaqoryan;;;;;;;;;;;;;x
+;d_immortals_DESC;Immortalsan;;;;;;;;;;;;;x
+;d_jomsvikings_DESC;Jomspiratesan;;;;;;;;;;;;;x
+;d_knights_calatrava_DESC;Knights of Souan;;;;;;;;;;;;;x
+;d_knights_hospitaler_DESC;Knights Bayanaeran;;;;;;;;;;;;;x
+;d_knights_santiago_DESC;Knights of Qosyanian;;;;;;;;;;;;;x
+;d_knights_templar_DESC;Knights Qundaran;;;;;;;;;;;;;x
+;d_livonian_order_DESC;Nared Order;;;;;;;;;;;;;x
+;d_myrmidons_DESC;Saint Kinanian;;;;;;;;;;;;;x
+;d_saint_addai_DESC;Saint Nibashian;;;;;;;;;;;;;x
+;d_saint_anthony_DESC;Saint Roringan;;;;;;;;;;;;;x
+;d_sky_lords_DESC;Star Lords;;;;;;;;;;;;;x
+;d_sons_kaleva_DESC;Sons of Tayakia;;;;;;;;;;;;;x
+;d_spirit_guardians_DESC;Spirit Guardiansan;;;;;;;;;;;;;x
+;d_teutonic_order_DESC;Derelmo Order;;;;;;;;;;;;;x
+;d_warriors_perun_DESC;Diloukh Warriorsan;;;;;;;;;;;;;x
+;d_zealots_DESC;Zealotsan;;;;;;;;;;;;;x
+;d_zun_warriors_DESC;Solar Guardan;;;;;;;;;;;;;x
+;k_teutonic_state_DESC;Esaa Statean;;;;;;;;;;;;;x
+;d_bengal_band_DESC;Qobinko Bandan;;;;;;;;;;;;;x
+;d_bengal_company_DESC;Qijah Company;;;;;;;;;;;;;x
+;d_marathi_band_DESC;Ekoita Bandan;;;;;;;;;;;;;x
+;d_marathi_company_DESC;Raaqacob Company;;;;;;;;;;;;;x
+;d_rajput_band_DESC;Teelius Bandan;;;;;;;;;;;;;x
+;d_rajput_company_DESC;Qaasinie Company;;;;;;;;;;;;;x
+;d_tamil_band_DESC;Abenory Bandan;;;;;;;;;;;;;x
+;d_abakan_DESC;Kasoryan;;;;;;;;;;;;;x
+;d_abkhazia_DESC;Kuisanian;;;;;;;;;;;;;x
+;d_abruzzo_DESC;Boitiusan;;;;;;;;;;;;;x
+;d_abydos_DESC;Dalughan;;;;;;;;;;;;;x
+;d_achaia_DESC;Ranieluan;;;;;;;;;;;;;x
+;d_adrar_DESC;Karyan;;;;;;;;;;;;;x
+;d_adrianopolis_DESC;Arodunean;;;;;;;;;;;;;x
+;d_aegean_islands_DESC;Loracoban;;;;;;;;;;;;;x
+;d_afar_DESC;Budanosan;;;;;;;;;;;;;x
+;d_agder_DESC;Qobiusan;;;;;;;;;;;;;x
+;d_air_DESC;Qohongean;;;;;;;;;;;;;x
+;d_ajmer_DESC;Ridiselan;;;;;;;;;;;;;x
+;d_akara_dasarna_DESC;Najugean;;;;;;;;;;;;;x
+;d_alania_DESC;Qingan;;;;;;;;;;;;;x
+;d_albany_DESC;Wilyanian;;;;;;;;;;;;;x
+;d_aleppo_DESC;Terelmoan;;;;;;;;;;;;;x
+;d_alexandria_DESC;Teledan;;;;;;;;;;;;;x
+;d_algarve_DESC;Tamdan;;;;;;;;;;;;;x
+;d_alger_DESC;Kakundan;;;;;;;;;;;;;x
+;d_alsace_DESC;Roanertan;;;;;;;;;;;;;x
+;d_altay_DESC;Lelelmoan;;;;;;;;;;;;;x
+;d_amman_DESC;Dodundanian;;;;;;;;;;;;;x
+;d_anartta_DESC;Kiatanian;;;;;;;;;;;;;x
+;d_anatolia_DESC;Robarakan;;;;;;;;;;;;;x
+;d_ancona_DESC;Esobakanian;;;;;;;;;;;;;x
+;d_angria_DESC;Edhineloan;;;;;;;;;;;;;x
+;d_anjou_DESC;Aqokiain;;;;;;;;;;;;;x
+;d_antioch_DESC;Kasanosan;;;;;;;;;;;;;x
+;d_anupa_DESC;Sudapuran;;;;;;;;;;;;;x
+;d_apulia_DESC;Quisanian;;;;;;;;;;;;;x
+;d_aqtobe_DESC;Tenapuran;;;;;;;;;;;;;x
+;d_aquitaine_DESC;Reringan;;;;;;;;;;;;;x
+;d_arabia_petrae_DESC;Ahakundanian;;;;;;;;;;;;;x
+;d_aragon_DESC;Karakan;;;;;;;;;;;;;x
+;d_armenia_DESC;Berertan;;;;;;;;;;;;;x
+;d_armenia_minor_DESC;Ehakingan;;;;;;;;;;;;;x
+;d_armeniacon_DESC;Ageoralanian;;;;;;;;;;;;;x
+;d_ascalon_DESC;Nerelmoan;;;;;;;;;;;;;x
+;d_asturias_DESC;Sosukan;;;;;;;;;;;;;x
+;d_aswan_DESC;Welingan;;;;;;;;;;;;;x
+;d_asyut_DESC;Tiboukhan;;;;;;;;;;;;;x
+;d_athens_DESC;Qobacoban;;;;;;;;;;;;;x
+;d_atyrau_DESC;Tuisukan;;;;;;;;;;;;;x
+;d_auvergne_DESC;Rayarakan;;;;;;;;;;;;;x
+;d_axum_DESC;Keyfertan;;;;;;;;;;;;;x
+;d_azerbaijan_DESC;Waroryan;;;;;;;;;;;;;x
+;d_azov_DESC;Dosanosan;;;;;;;;;;;;;x
+;d_badajoz_DESC;Kayanosan;;;;;;;;;;;;;x
+;d_baden_DESC;Borindan;;;;;;;;;;;;;x
+;d_baghdad_DESC;Baviyean;;;;;;;;;;;;;x
+;d_balata_DESC;Roboryan;;;;;;;;;;;;;x
+;d_balkh_DESC;Wasakanian;;;;;;;;;;;;;x
+;d_baluchistan_DESC;Taaqoryan;;;;;;;;;;;;;x
+;d_bambuk_DESC;Tiughan;;;;;;;;;;;;;x
+;d_bandja_DESC;Botujuan;;;;;;;;;;;;;x
+;d_barcelona_DESC;Tinodanian;;;;;;;;;;;;;x
+;d_barkul_DESC;Rorunean;;;;;;;;;;;;;x
+;d_bashkirs_DESC;Wosoukhan;;;;;;;;;;;;;x
+;d_basra_DESC;Budinkoan;;;;;;;;;;;;;x
+;d_bavaria_DESC;Rasethan;;;;;;;;;;;;;x
+;d_baygal_DESC;Relelmoan;;;;;;;;;;;;;x
+;d_bedford_DESC;Weroukhan;;;;;;;;;;;;;x
+;d_beja_DESC;Keroukhan;;;;;;;;;;;;;x
+;d_beloozero_DESC;Roralanian;;;;;;;;;;;;;x
+;d_benevento_DESC;Bibonnuan;;;;;;;;;;;;;x
+;d_bergslagen_DESC;Dilelmoan;;;;;;;;;;;;;x
+;d_berry_DESC;Raisan;;;;;;;;;;;;;x
+;d_beshbaliq_DESC;Wodanan;;;;;;;;;;;;;x
+;d_bessarabia_DESC;Teothanian;;;;;;;;;;;;;x
+;d_bhakkar_DESC;Delaulanian;;;;;;;;;;;;;x
+;d_bhutan_DESC;Badacoban;;;;;;;;;;;;;x
+;d_bjarmia_DESC;Raryan;;;;;;;;;;;;;x
+;d_bornu_DESC;Qiniusan;;;;;;;;;;;;;x
+;d_bosnia_DESC;Loitanian;;;;;;;;;;;;;x
+;d_bourbon_DESC;Teryanian;;;;;;;;;;;;;x
+;d_brabant_DESC;Qacoban;;;;;;;;;;;;;x
+;d_brandenburg_DESC;Turujuan;;;;;;;;;;;;;x
+;d_bremen_DESC;Ehudanian;;;;;;;;;;;;;x
+;d_brittany_DESC;Enazaisan;;;;;;;;;;;;;x
+;d_brunswick_DESC;Kosacoban;;;;;;;;;;;;;x
+;d_bucellarian_DESC;Teloan;;;;;;;;;;;;;x
+;d_bulgar_DESC;Teringan;;;;;;;;;;;;;x
+;d_burgundy_DESC;Ludephan;;;;;;;;;;;;;x
+;d_cairo_DESC;Ribundan;;;;;;;;;;;;;x
+;d_calabria_DESC;Ehakukan;;;;;;;;;;;;;x
+;d_canterbury_DESC;Adhinakanian;;;;;;;;;;;;;x
+;d_cappadocia_DESC;Rodanian;;;;;;;;;;;;;x
+;d_capua_DESC;Kosapuran;;;;;;;;;;;;;x
+;d_carinthia_DESC;Bilalanian;;;;;;;;;;;;;x
+;d_carniola_DESC;Seramdan;;;;;;;;;;;;;x
+;d_caspian_steppe_DESC;Qayananian;;;;;;;;;;;;;x
+;d_castilla_DESC;Kiniusan;;;;;;;;;;;;;x
+;d_cephalonia_DESC;Neelakanian;;;;;;;;;;;;;x
+;d_champagne_DESC;Kenokiain;;;;;;;;;;;;;x
+;d_charsianon_DESC;Sodalanian;;;;;;;;;;;;;x
+;d_chera_nadu_DESC;Qoaningan;;;;;;;;;;;;;x
+;d_cheremisa_DESC;Silaulanian;;;;;;;;;;;;;x
+;d_chernigov_DESC;Karakanian;;;;;;;;;;;;;x
+;d_cherson_DESC;Selmoan;;;;;;;;;;;;;x
+;d_cherven_cities_DESC;Qeshoan;;;;;;;;;;;;;x
+;d_chola_nadu_DESC;Raulanian;;;;;;;;;;;;;x
+;d_chuy_DESC;Rerukan;;;;;;;;;;;;;x
+;d_cibyrrhaeot_DESC;Kinakanian;;;;;;;;;;;;;x
+;d_coloneia_DESC;Nudaryan;;;;;;;;;;;;;x
+;d_connacht_DESC;Kaaqacoban;;;;;;;;;;;;;x
+;d_cordoba_DESC;Tayankoan;;;;;;;;;;;;;x
+;d_cornwall_DESC;Kibingan;;;;;;;;;;;;;x
+;d_corsica_DESC;Esuan;;;;;;;;;;;;;x
+;d_courland_DESC;Ashsusan;;;;;;;;;;;;;x
+;d_crimea_DESC;Werashian;;;;;;;;;;;;;x
+;d_croatia_DESC;Kiomiran;;;;;;;;;;;;;x
+;d_cumbria_DESC;Egeoralanian;;;;;;;;;;;;;x
+;d_cyprus_DESC;Dadundanian;;;;;;;;;;;;;x
+;d_cyrenaica_DESC;Werosan;;;;;;;;;;;;;x
+;d_dadhipadra_DESC;Amosonnuan;;;;;;;;;;;;;x
+;d_dahala_DESC;Bosonnuan;;;;;;;;;;;;;x
+;d_daksina_kosala_DESC;Silukan;;;;;;;;;;;;;x
+;d_dalmatia_DESC;Evelalanian;;;;;;;;;;;;;x
+;d_damascus_DESC;Rodundanian;;;;;;;;;;;;;x
+;d_damietta_DESC;Nunonnuan;;;;;;;;;;;;;x
+;d_damot_DESC;Roanundan;;;;;;;;;;;;;x
+;d_dandakaranya_DESC;Nakundan;;;;;;;;;;;;;x
+;d_dauphine_DESC;Roriagedan;;;;;;;;;;;;;x
+;d_dege_DESC;Lundan;;;;;;;;;;;;;x
+;d_deheubarth_DESC;Kerertan;;;;;;;;;;;;;x
+;d_derbent_DESC;Bamdan;;;;;;;;;;;;;x
+;d_devagiri_DESC;Raolan;;;;;;;;;;;;;x
+;d_dihistan_DESC;Wagerkanan;;;;;;;;;;;;;x
+;d_dioclea_DESC;Dorounan;;;;;;;;;;;;;x
+;d_durham_palatine_DESC;Daraudan;;;;;;;;;;;;;x
+;d_dyrrachion_DESC;Nudehranian;;;;;;;;;;;;;x
+;d_edessa_DESC;Berehranian;;;;;;;;;;;;;x
+;d_emba_DESC;Sisonsean;;;;;;;;;;;;;x
+;d_epirus_DESC;Kabehranian;;;;;;;;;;;;;x
+;d_esthonia_DESC;Koranuan;;;;;;;;;;;;;x
+;d_esztergom_DESC;Terehranian;;;;;;;;;;;;;x
+;d_faiyum_DESC;Atilanian;;;;;;;;;;;;;x
+;d_fars_DESC;Rireletan;;;;;;;;;;;;;x
+;d_ferghana_DESC;Tingian;;;;;;;;;;;;;x
+;d_ferrara_DESC;Tilonsean;;;;;;;;;;;;;x
+;d_fes_DESC;Telukaran;;;;;;;;;;;;;x
+;d_fezzan_DESC;Logilanian;;;;;;;;;;;;;x
+;d_finland_DESC;Woreran;;;;;;;;;;;;;x
+;d_finnmark_DESC;Baytickan;;;;;;;;;;;;;x
+;d_flanders_DESC;Tagildanian;;;;;;;;;;;;;x
+;d_franche_comte_DESC;Wodanian;;;;;;;;;;;;;x
+;d_franconia_DESC;Titabian;;;;;;;;;;;;;x
+;d_friuli_DESC;Ekrouranian;;;;;;;;;;;;;x
+;d_galich_DESC;Lurayan;;;;;;;;;;;;;x
+;d_galicia_DESC;Ragurayan;;;;;;;;;;;;;x
+;d_galilee_DESC;Tabian;;;;;;;;;;;;;x
+;d_galloway_DESC;Qitiananian;;;;;;;;;;;;;x
+;d_gandhara_DESC;Rabian;;;;;;;;;;;;;x
+;d_gangavadi_DESC;Ninnasan;;;;;;;;;;;;;x
+;d_gascogne_DESC;Larunan;;;;;;;;;;;;;x
+;d_gauda_DESC;Qanadan;;;;;;;;;;;;;x
+;d_gelre_DESC;Nadan;;;;;;;;;;;;;x
+;d_genoa_DESC;Bitanian;;;;;;;;;;;;;x
+;d_ghana_DESC;Tanildanian;;;;;;;;;;;;;x
+;d_gilan_DESC;Kanickan;;;;;;;;;;;;;x
+;d_gloucester_DESC;Ricabanian;;;;;;;;;;;;;x
+;d_gobi_altay_DESC;Litildanian;;;;;;;;;;;;;x
+;d_gojjam_DESC;Kaytadan;;;;;;;;;;;;;x
+;d_gondar_DESC;Radan;;;;;;;;;;;;;x
+;d_gorkha_DESC;Wagabian;;;;;;;;;;;;;x
+;d_gotland_DESC;Biananian;;;;;;;;;;;;;x
+;d_granada_DESC;Ritabian;;;;;;;;;;;;;x
+;d_greater_poland_DESC;Rarunan;;;;;;;;;;;;;x
+;d_gurjara_mandala_DESC;Nisabian;;;;;;;;;;;;;x
+;d_gurma_DESC;Turayan;;;;;;;;;;;;;x
+;d_gwent_DESC;Enitanian;;;;;;;;;;;;;x
+;d_gwynedd_DESC;Akouranian;;;;;;;;;;;;;x
+;d_hadramut_DESC;Ditabanian;;;;;;;;;;;;;x
+;d_hampshire_DESC;Qagembanian;;;;;;;;;;;;;x
+;d_harer_DESC;Ranembanian;;;;;;;;;;;;;x
+;d_haritanaka_DESC;Ekurayan;;;;;;;;;;;;;x
+;d_hausaland_DESC;Kildanian;;;;;;;;;;;;;x
+;d_hayya_DESC;Etiananian;;;;;;;;;;;;;x
+;d_herat_DESC;Lagembanian;;;;;;;;;;;;;x
+;d_hereford_DESC;Qurayan;;;;;;;;;;;;;x
+;d_hesse_DESC;Witabanian;;;;;;;;;;;;;x
+;d_hlynov_DESC;Atassian;;;;;;;;;;;;;x
+;d_holland_DESC;Taganderan;;;;;;;;;;;;;x
+;d_holstein_DESC;Banian;;;;;;;;;;;;;x
+;d_iceland_DESC;Anitabian;;;;;;;;;;;;;x
+;d_ikh_bogd_DESC;Buvvenan;;;;;;;;;;;;;x
+;d_ili_DESC;Biatanian;;;;;;;;;;;;;x
+;d_irtysh_DESC;Seorgean;;;;;;;;;;;;;x
+;d_ishim_DESC;Agurayan;;;;;;;;;;;;;x
+;d_itil_DESC;Binnasan;;;;;;;;;;;;;x
+;d_jamtland_DESC;Nitassian;;;;;;;;;;;;;x
+;d_jangladesh_DESC;Ahanabanian;;;;;;;;;;;;;x
+;d_jazira_DESC;Ritarunan;;;;;;;;;;;;;x
+;d_jejakabhukti_DESC;Landeran;;;;;;;;;;;;;x
+;d_jerid_DESC;Sicouranian;;;;;;;;;;;;;x
+;d_jerusalem_DESC;Atalteran;;;;;;;;;;;;;x
+;d_jharkand_DESC;Rodouranian;;;;;;;;;;;;;x
+;d_jibal_DESC;Ticurayan;;;;;;;;;;;;;x
+;d_jiuquan_DESC;Nisickan;;;;;;;;;;;;;x
+;d_juyan_DESC;Amabian;;;;;;;;;;;;;x
+;d_kabul_DESC;Lodickan;;;;;;;;;;;;;x
+;d_kabylia_DESC;Wagadan;;;;;;;;;;;;;x
+;d_kakheti_DESC;Amicickan;;;;;;;;;;;;;x
+;d_kalinga_DESC;Kaytickan;;;;;;;;;;;;;x
+;d_kalyani_DESC;Sanembanian;;;;;;;;;;;;;x
+;d_kamarupanagara_DESC;Akiatanian;;;;;;;;;;;;;x
+;d_kanem_DESC;Nalraoan;;;;;;;;;;;;;x
+;d_kanyakubja_DESC;Rinnasan;;;;;;;;;;;;;x
+;d_kara_khorum_DESC;Qitassian;;;;;;;;;;;;;x
+;d_karachev_DESC;Randeran;;;;;;;;;;;;;x
+;d_karashar_DESC;Eniturayan;;;;;;;;;;;;;x
+;d_karelia_DESC;Sassian;;;;;;;;;;;;;x
+;d_kargopol_DESC;Nerukaran;;;;;;;;;;;;;x
+;d_kartli_DESC;Qileccanian;;;;;;;;;;;;;x
+;d_karvuna_DESC;Takunean;;;;;;;;;;;;;x
+;d_kashgar_DESC;Weofaacan;;;;;;;;;;;;;x
+;d_kashmir_DESC;Kaketanian;;;;;;;;;;;;;x
+;d_kasi_DESC;Ahakukaran;;;;;;;;;;;;;x
+;d_kathmandu_DESC;Toboran;;;;;;;;;;;;;x
+;d_kazakh_DESC;Tyegiman;;;;;;;;;;;;;x
+;d_kazan_DESC;Kilokopan;;;;;;;;;;;;;x
+;d_kebbi_DESC;Qitokopan;;;;;;;;;;;;;x
+;d_kerman_DESC;Sakabbanian;;;;;;;;;;;;;x
+;d_khangai_DESC;Litoplukan;;;;;;;;;;;;;x
+;d_khiva_DESC;Relingan;;;;;;;;;;;;;x
+;d_khorasan_DESC;Rokopan;;;;;;;;;;;;;x
+;d_khotan_DESC;Lunkanian;;;;;;;;;;;;;x
+;d_khozistan_DESC;Egiman;;;;;;;;;;;;;x
+;d_khuttal_DESC;Wiletanian;;;;;;;;;;;;;x
+;d_kiev_DESC;Ratannanian;;;;;;;;;;;;;x
+;d_kola_DESC;Turiatan;;;;;;;;;;;;;x
+;d_koln_DESC;Qurabahuan;;;;;;;;;;;;;x
+;d_komi_DESC;Nakanian;;;;;;;;;;;;;x
+;d_konkana_DESC;Waoudan;;;;;;;;;;;;;x
+;d_krete_DESC;Saliyanian;;;;;;;;;;;;;x
+;d_kumul_DESC;Sarannanian;;;;;;;;;;;;;x
+;d_kurdistan_DESC;Dakanian;;;;;;;;;;;;;x
+;d_kuru_DESC;Keminaian;;;;;;;;;;;;;x
+;d_kuyavia_DESC;Kyananian;;;;;;;;;;;;;x
+;d_ladakh_DESC;Sudannanian;;;;;;;;;;;;;x
+;d_lahore_DESC;Qerudhanian;;;;;;;;;;;;;x
+;d_lancaster_DESC;Dofran;;;;;;;;;;;;;x
+;d_lanka_DESC;Werunkanian;;;;;;;;;;;;;x
+;d_lata_DESC;Welutasan;;;;;;;;;;;;;x
+;d_latgale_DESC;Deudielan;;;;;;;;;;;;;x
+;d_latium_DESC;Bevartan;;;;;;;;;;;;;x
+;d_lausitz_DESC;Nolavian;;;;;;;;;;;;;x
+;d_leinster_DESC;Ruceyan;;;;;;;;;;;;;x
+;d_leon_DESC;Nondanian;;;;;;;;;;;;;x
+;d_lesser_poland_DESC;Lulattanan;;;;;;;;;;;;;x
+;d_lhasa_DESC;Baylanian;;;;;;;;;;;;;x
+;d_lithuanians_DESC;Naerartan;;;;;;;;;;;;;x
+;d_livonia_DESC;Wodalanian;;;;;;;;;;;;;x
+;d_loire_DESC;Rehabian;;;;;;;;;;;;;x
+;d_lombardia_DESC;Rireccoan;;;;;;;;;;;;;x
+;d_lothian_DESC;Dudeccoan;;;;;;;;;;;;;x
+;d_lower_lorraine_DESC;Raseccoan;;;;;;;;;;;;;x
+;d_mafaza_DESC;Dexurayan;;;;;;;;;;;;;x
+;d_magadha_DESC;Tasomoan;;;;;;;;;;;;;x
+;d_mainz_DESC;Tainuan;;;;;;;;;;;;;x
+;d_mali_DESC;Qureccoan;;;;;;;;;;;;;x
+;d_mallorca_DESC;Teyan;;;;;;;;;;;;;x
+;d_maris_DESC;Danjarean;;;;;;;;;;;;;x
+;d_marrakech_DESC;Esritanian;;;;;;;;;;;;;x
+;d_maru_DESC;Rurarean;;;;;;;;;;;;;x
+;d_mathura_DESC;Qicukpoan;;;;;;;;;;;;;x
+;d_mazandaran_DESC;Warahadan;;;;;;;;;;;;;x
+;d_mazovia_DESC;Walahranian;;;;;;;;;;;;;x
+;d_meath_DESC;Qeliatanian;;;;;;;;;;;;;x
+;d_mecklemburg_DESC;Sikengan;;;;;;;;;;;;;x
+;d_medapata_DESC;Avajiatanian;;;;;;;;;;;;;x
+;d_medina_DESC;Salosesan;;;;;;;;;;;;;x
+;d_meissen_DESC;Danjeran;;;;;;;;;;;;;x
+;d_merv_DESC;Tamoladan;;;;;;;;;;;;;x
+;d_mesopotamia_DESC;Balitanian;;;;;;;;;;;;;x
+;d_minsk_DESC;Rallahan;;;;;;;;;;;;;x
+;d_modena_DESC;Bamyan;;;;;;;;;;;;;x
+;d_moldau_DESC;Walaacan;;;;;;;;;;;;;x
+;d_moray_DESC;Kashiran;;;;;;;;;;;;;x
+;d_mordvins_DESC;Akugaacan;;;;;;;;;;;;;x
+;d_moskva_DESC;Sopilipan;;;;;;;;;;;;;x
+;d_mosul_DESC;Nalaelan;;;;;;;;;;;;;x
+;d_mudar_DESC;Kataelan;;;;;;;;;;;;;x
+;d_multan_DESC;Ratigaran;;;;;;;;;;;;;x
+;d_munster_DESC;Katigaran;;;;;;;;;;;;;x
+;d_munster_germany_DESC;Lilodanian;;;;;;;;;;;;;x
+;d_murcia_DESC;Wakaulan;;;;;;;;;;;;;x
+;d_murom_DESC;Kadalpan;;;;;;;;;;;;;x
+;d_mzab_DESC;Datundan;;;;;;;;;;;;;x
+;d_nadia_DESC;Warillean;;;;;;;;;;;;;x
+;d_nagchu_DESC;Dunochan;;;;;;;;;;;;;x
+;d_nagormo_DESC;Rinaian;;;;;;;;;;;;;x
+;d_nangqen_DESC;Ehecaulan;;;;;;;;;;;;;x
+;d_nasikya_DESC;Akariliain;;;;;;;;;;;;;x
+;d_navarra_DESC;Decennanian;;;;;;;;;;;;;x
+;d_nefoud_DESC;Waneahan;;;;;;;;;;;;;x
+;d_ngari_DESC;Nareyanian;;;;;;;;;;;;;x
+;d_nikaea_DESC;Wusunyanian;;;;;;;;;;;;;x
+;d_nobatia_DESC;Aharasan;;;;;;;;;;;;;x
+;d_nordgau_DESC;Taraluan;;;;;;;;;;;;;x
+;d_norfolk_DESC;Adatogeran;;;;;;;;;;;;;x
+;d_normandy_DESC;Ehakaniain;;;;;;;;;;;;;x
+;d_norrland_DESC;Luroladan;;;;;;;;;;;;;x
+;d_northumberland_DESC;Ekuroladan;;;;;;;;;;;;;x
+;d_novgorod_DESC;Daneahan;;;;;;;;;;;;;x
+;d_novgorod-seversk_DESC;Nimadeyan;;;;;;;;;;;;;x
+;d_novosil_DESC;Rata-Vanian;;;;;;;;;;;;;x
+;d_nubia_DESC;Kacalean;;;;;;;;;;;;;x
+;d_nulambavadi_DESC;Dapa-Vanian;;;;;;;;;;;;;x
+;d_nyingchi_DESC;Kapaluan;;;;;;;;;;;;;x
+;d_nyitra_DESC;Wapaluan;;;;;;;;;;;;;x
+;d_ob_DESC;Dasedeyan;;;;;;;;;;;;;x
+;d_ohrid_DESC;Kacinean;;;;;;;;;;;;;x
+;d_oltenia_DESC;Dasaluan;;;;;;;;;;;;;x
+;d_om_DESC;Bapa-Vanian;;;;;;;;;;;;;x
+;d_oman_DESC;Qeahan;;;;;;;;;;;;;x
+;d_oppland_DESC;Kaneahan;;;;;;;;;;;;;x
+;d_optimatoi_DESC;Taviranian;;;;;;;;;;;;;x
+;d_orkney_DESC;Katedeyan;;;;;;;;;;;;;x
+;d_orleans_DESC;Tecunaian;;;;;;;;;;;;;x
+;d_ostergotland_DESC;Sareyanian;;;;;;;;;;;;;x
+;d_osterreich_DESC;Nilanian;;;;;;;;;;;;;x
+;d_ostlandet_DESC;Akunoanan;;;;;;;;;;;;;x
+;d_ostrobothnia_DESC;Tecaluan;;;;;;;;;;;;;x
+;d_otuken_DESC;Kaluan;;;;;;;;;;;;;x
+;d_oultrejourdain_DESC;Kuniranian;;;;;;;;;;;;;x
+;d_palmyra_DESC;Taraulan;;;;;;;;;;;;;x
+;d_pamir_DESC;Kedrikan;;;;;;;;;;;;;x
+;d_pandya_nadu_DESC;Tecelboan;;;;;;;;;;;;;x
+;d_paphlagonia_DESC;Taraniain;;;;;;;;;;;;;x
+;d_para_lauhitya_DESC;Ravophiain;;;;;;;;;;;;;x
+;d_paraetonium_DESC;Kavaluan;;;;;;;;;;;;;x
+;d_pechora_DESC;Kianan;;;;;;;;;;;;;x
+;d_pecs_DESC;Dadanderan;;;;;;;;;;;;;x
+;d_penthievre_DESC;Kadeyanian;;;;;;;;;;;;;x
+;d_pereyaslavl_DESC;Tuniliain;;;;;;;;;;;;;x
+;d_perm_DESC;Aheciranian;;;;;;;;;;;;;x
+;d_pest_DESC;Rugyaban;;;;;;;;;;;;;x
+;d_picardie_DESC;Nopitanian;;;;;;;;;;;;;x
+;d_pisa_DESC;Tegadayan;;;;;;;;;;;;;x
+;d_poitou_DESC;Kecelboan;;;;;;;;;;;;;x
+;d_polotsk_DESC;Tatochan;;;;;;;;;;;;;x
+;d_pomeralia_DESC;Qacaccoan;;;;;;;;;;;;;x
+;d_pommerania_DESC;Katennanian;;;;;;;;;;;;;x
+;d_porto_DESC;Tunundan;;;;;;;;;;;;;x
+;d_powys_DESC;Tanykanian;;;;;;;;;;;;;x
+;d_provence_DESC;Wara-Vanian;;;;;;;;;;;;;x
+;d_prussia_DESC;Ra-Vanian;;;;;;;;;;;;;x
+;d_pskov_DESC;Taluan;;;;;;;;;;;;;x
+;d_purang_DESC;Tayanran;;;;;;;;;;;;;x
+;d_qamdo_DESC;Narenran;;;;;;;;;;;;;x
+;d_qinghai_DESC;Watesan;;;;;;;;;;;;;x
+;d_racakonda_DESC;Wunadlan;;;;;;;;;;;;;x
+;d_raetia_DESC;Naylanian;;;;;;;;;;;;;x
+;d_raichur_doab_DESC;Rasianan;;;;;;;;;;;;;x
+;d_rashka_DESC;Deahan;;;;;;;;;;;;;x
+;d_ratanpur_DESC;Duninaian;;;;;;;;;;;;;x
+;d_rattapadi_DESC;Nadeyanian;;;;;;;;;;;;;x
+;d_rhine_DESC;Amusunaian;;;;;;;;;;;;;x
+;d_rostov_DESC;Kusiranian;;;;;;;;;;;;;x
+;d_rugen_DESC;Raraulan;;;;;;;;;;;;;x
+;d_ryazan_DESC;Kuninaian;;;;;;;;;;;;;x
+;d_sakala_DESC;Ryegykanian;;;;;;;;;;;;;x
+;d_sakmara_DESC;Negushan;;;;;;;;;;;;;x
+;d_salerno_DESC;Ecyiatanian;;;;;;;;;;;;;x
+;d_salzburg_DESC;Womyhoan;;;;;;;;;;;;;x
+;d_samarkand_DESC;Kyiain;;;;;;;;;;;;;x
+;d_samarra_DESC;Waredeyan;;;;;;;;;;;;;x
+;d_samogitia_DESC;Toukasan;;;;;;;;;;;;;x
+;d_samos_DESC;Doukoanan;;;;;;;;;;;;;x
+;d_samoyed_DESC;Savianan;;;;;;;;;;;;;x
+;d_sanaa_DESC;Najashan;;;;;;;;;;;;;x
+;d_sapmi_DESC;Wajaelan;;;;;;;;;;;;;x
+;d_sardinia_DESC;Elyaian;;;;;;;;;;;;;x
+;d_sarkel_DESC;Latigaran;;;;;;;;;;;;;x
+;d_saryupara_DESC;Ejayagaran;;;;;;;;;;;;;x
+;d_saurashtra_DESC;Kacilipan;;;;;;;;;;;;;x
+;d_sauvira_DESC;Najekpoan;;;;;;;;;;;;;x
+;d_savoie_DESC;Bilasan;;;;;;;;;;;;;x
+;d_savonia_DESC;Ekuraacan;;;;;;;;;;;;;x
+;d_saxony_DESC;Babaacan;;;;;;;;;;;;;x
+;d_semien_DESC;Bishuan;;;;;;;;;;;;;x
+;d_sennar_DESC;Setannanian;;;;;;;;;;;;;x
+;d_sevilla_DESC;Qajaulan;;;;;;;;;;;;;x
+;d_shewa_DESC;Enalillean;;;;;;;;;;;;;x
+;d_shigatse_DESC;Wuniranian;;;;;;;;;;;;;x
+;d_sibir_DESC;Rateyanian;;;;;;;;;;;;;x
+;d_sicily_DESC;Kariliain;;;;;;;;;;;;;x
+;d_sijilmasa_DESC;Biranian;;;;;;;;;;;;;x
+;d_silesia_DESC;Nacaulan;;;;;;;;;;;;;x
+;d_sinai_DESC;Lunochan;;;;;;;;;;;;;x
+;d_sinhala_DESC;Esrelmoan;;;;;;;;;;;;;x
+;d_sistan_DESC;Nuderan;;;;;;;;;;;;;x
+;d_sjaelland_DESC;Tameran;;;;;;;;;;;;;x
+;d_skane_DESC;Qarisanian;;;;;;;;;;;;;x
+;d_slavonia_DESC;Elakenran;;;;;;;;;;;;;x
+;d_slesvig_DESC;Tilipan;;;;;;;;;;;;;x
+;d_smaland_DESC;Latoisean;;;;;;;;;;;;;x
+;d_smolensk_DESC;Runaacan;;;;;;;;;;;;;x
+;d_socotra_DESC;Bayagaran;;;;;;;;;;;;;x
+;d_somerset_DESC;Topusbuan;;;;;;;;;;;;;x
+;d_songhay_DESC;Tagahilan;;;;;;;;;;;;;x
+;d_sous_DESC;Kopaccoan;;;;;;;;;;;;;x
+;d_spoleto_DESC;Tusbuan;;;;;;;;;;;;;x
+;d_stravani_DESC;Rarinaian;;;;;;;;;;;;;x
+;d_strymon_DESC;Raidean;;;;;;;;;;;;;x
+;d_styria_DESC;Sissiean;;;;;;;;;;;;;x
+;d_suhma_DESC;Savaluan;;;;;;;;;;;;;x
+;d_sumparu_DESC;Sopalanian;;;;;;;;;;;;;x
+;d_susa_DESC;Wyyanian;;;;;;;;;;;;;x
+;d_sutiya_DESC;Nodanian;;;;;;;;;;;;;x
+;d_swabia_DESC;Botyhoan;;;;;;;;;;;;;x
+;d_syr_darya_DESC;Qitanian;;;;;;;;;;;;;x
+;d_syrmia_DESC;Tahilan;;;;;;;;;;;;;x
+;d_syrte_DESC;Kalalpan;;;;;;;;;;;;;x
+;d_tabriz_DESC;Qeinitanian;;;;;;;;;;;;;x
+;d_tagant_DESC;Laelan;;;;;;;;;;;;;x
+;d_tahert_DESC;Tasasan;;;;;;;;;;;;;x
+;d_taizz_DESC;Nanoanan;;;;;;;;;;;;;x
+;d_tangiers_DESC;Kaladayan;;;;;;;;;;;;;x
+;d_tao_DESC;Evahiman;;;;;;;;;;;;;x
+;d_tarbagatai_DESC;Bopailanian;;;;;;;;;;;;;x
+;d_temes_DESC;Qajigaran;;;;;;;;;;;;;x
+;d_the_isles_DESC;Nardisan;;;;;;;;;;;;;x
+;d_thessalonika_DESC;Kodeahan;;;;;;;;;;;;;x
+;d_thrace_DESC;Tagaylanian;;;;;;;;;;;;;x
+;d_thracesia_DESC;Rijoryan;;;;;;;;;;;;;x
+;d_thurgau_DESC;Qeorgean;;;;;;;;;;;;;x
+;d_thuringia_DESC;Emaramyan;;;;;;;;;;;;;x
+;d_timbuktu_DESC;Qunisanian;;;;;;;;;;;;;x
+;d_tioharad_DESC;Risanian;;;;;;;;;;;;;x
+;d_tirabhukti_DESC;Rosaylanian;;;;;;;;;;;;;x
+;d_tlemcen_DESC;Amarahadan;;;;;;;;;;;;;x
+;d_tobol_DESC;Sakusbuan;;;;;;;;;;;;;x
+;d_toledo_DESC;Wuritanian;;;;;;;;;;;;;x
+;d_tondai_nadu_DESC;Tyeran;;;;;;;;;;;;;x
+;d_tosali_DESC;Nunoryan;;;;;;;;;;;;;x
+;d_toscana_DESC;Duukpoan;;;;;;;;;;;;;x
+;d_toulouse_DESC;Rikitanian;;;;;;;;;;;;;x
+;d_transylvania_DESC;Tikalan;;;;;;;;;;;;;x
+;d_trebizond_DESC;Welabanian;;;;;;;;;;;;;x
+;d_trier_DESC;Wecasan;;;;;;;;;;;;;x
+;d_trigarta_DESC;Wanianan;;;;;;;;;;;;;x
+;d_tripoli_DESC;Boryan;;;;;;;;;;;;;x
+;d_tripolitania_DESC;Qetinean;;;;;;;;;;;;;x
+;d_trondelag_DESC;Sopunean;;;;;;;;;;;;;x
+;d_tunis_DESC;Rophiain;;;;;;;;;;;;;x
+;d_turgay_DESC;Ratalean;;;;;;;;;;;;;x
+;d_turkestan_DESC;Eharaccoan;;;;;;;;;;;;;x
+;d_turnovo_DESC;Runianan;;;;;;;;;;;;;x
+;d_turov_DESC;Qashiran;;;;;;;;;;;;;x
+;d_tver_DESC;Nyudan;;;;;;;;;;;;;x
+;d_tyrol_DESC;Nelosesan;;;;;;;;;;;;;x
+;d_ubagan_DESC;Qaelan;;;;;;;;;;;;;x
+;d_udayagiri_DESC;Ricitanian;;;;;;;;;;;;;x
+;d_ulster_DESC;Daladayan;;;;;;;;;;;;;x
+;d_ungvar_DESC;Lacochan;;;;;;;;;;;;;x
+;d_upper_burgundy_DESC;Sodancoan;;;;;;;;;;;;;x
+;d_upper_lorraine_DESC;Balillean;;;;;;;;;;;;;x
+;d_uppland_DESC;Adokesaran;;;;;;;;;;;;;x
+;d_ural_DESC;Mariner;;;;;;;;;;;;;x
+;d_ustug_DESC;Neigiman;;;;;;;;;;;;;x
+;d_usturt_DESC;Tenuwean;;;;;;;;;;;;;x
+;d_uttaranchal_DESC;Rilyan;;;;;;;;;;;;;x
+;d_uvs_DESC;Dopaniain;;;;;;;;;;;;;x
+;d_valencia_DESC;Senakinan;;;;;;;;;;;;;x
+;d_valois_DESC;Qeinaran;;;;;;;;;;;;;x
+;d_vanga_DESC;Tagaudan;;;;;;;;;;;;;x
+;d_varendra_DESC;Qagannan;;;;;;;;;;;;;x
+;d_vastergotland_DESC;Saruranian;;;;;;;;;;;;;x
+;d_vasyugan_DESC;Akinekanian;;;;;;;;;;;;;x
+;d_vengi_DESC;Lunanian;;;;;;;;;;;;;x
+;d_venice_DESC;Dirundanian;;;;;;;;;;;;;x
+;d_verona_DESC;Lenanian;;;;;;;;;;;;;x
+;d_vestlandet_DESC;Lilenanian;;;;;;;;;;;;;x
+;d_vidharba_DESC;Sopahiman;;;;;;;;;;;;;x
+;d_vidin_DESC;Kegamasan;;;;;;;;;;;;;x
+;d_vladimir_DESC;Sotaniain;;;;;;;;;;;;;x
+;d_vodamayutja_DESC;Biruinan;;;;;;;;;;;;;x
+;d_volhynia_DESC;Nucoryan;;;;;;;;;;;;;x
+;d_votyaki_DESC;Kanehan;;;;;;;;;;;;;x
+;d_wadai_DESC;Delaudan;;;;;;;;;;;;;x
+;d_wag_DESC;Bolpan;;;;;;;;;;;;;x
+;d_wallachia_DESC;Kinolpan;;;;;;;;;;;;;x
+;d_warangal_DESC;Natindanian;;;;;;;;;;;;;x
+;d_western_isles_DESC;Tokilyan;;;;;;;;;;;;;x
+;d_wild_fields_DESC;Kanethan;;;;;;;;;;;;;x
+;d_yaik_DESC;Wawilyan;;;;;;;;;;;;;x
+;d_yarlung_DESC;Byarellanian;;;;;;;;;;;;;x
+;d_yaroslavl_DESC;Salinderan;;;;;;;;;;;;;x
+;d_yatenga_DESC;Ririman;;;;;;;;;;;;;x
+;d_yatviags_DESC;Kabrilyan;;;;;;;;;;;;;x
+;d_york_DESC;Asaelan;;;;;;;;;;;;;x
+;d_yugra_DESC;Elaracoban;;;;;;;;;;;;;x
+;d_zabulistan_DESC;Emekilyan;;;;;;;;;;;;;x
+;d_zavarot_DESC;Lereeran;;;;;;;;;;;;;x
+;d_zhetysu_DESC;Everolpan;;;;;;;;;;;;;x
+;d_zyriane_DESC;Diincian;;;;;;;;;;;;;x
+;k_abyssinia_DESC;Ekadelenan;;;;;;;;;;;;;x
+;k_afghanistan_DESC;Elikethan;;;;;;;;;;;;;x
+;k_africa_DESC;Nilolanian;;;;;;;;;;;;;x
+;k_alania_DESC;Ligelan;;;;;;;;;;;;;x
+;k_amalfi_DESC;Tarudanian;;;;;;;;;;;;;x
+;k_anatolia_DESC;Beinanian;;;;;;;;;;;;;x
+;k_andalusia_DESC;Rurudanian;;;;;;;;;;;;;x
+;k_andhra_DESC;Wigelan;;;;;;;;;;;;;x
+;k_aquitaine_DESC;Saraniain;;;;;;;;;;;;;x
+;k_arabia_DESC;Qikilyan;;;;;;;;;;;;;x
+;k_aragon_DESC;Rorakinan;;;;;;;;;;;;;x
+;k_armenia_DESC;Dagekanian;;;;;;;;;;;;;x
+;k_asturias_DESC;Wokodekan;;;;;;;;;;;;;x
+;k_austria_DESC;Tasyuchian;;;;;;;;;;;;;x
+;k_aydin_DESC;Deysakanian;;;;;;;;;;;;;x
+;k_badajoz_DESC;Lenamanan;;;;;;;;;;;;;x
+;k_baluchistan_DESC;Nusaykanian;;;;;;;;;;;;;x
+;k_bavaria_DESC;Ebenitanian;;;;;;;;;;;;;x
+;k_bengal_DESC;Satatkanian;;;;;;;;;;;;;x
+;k_bihar_DESC;Busonan;;;;;;;;;;;;;x
+;k_bohemia_DESC;Rikacoban;;;;;;;;;;;;;x
+;k_brittany_DESC;Topakinan;;;;;;;;;;;;;x
+;k_bulgaria_DESC;Ehemyanan;;;;;;;;;;;;;x
+;k_burgundy_DESC;Turudanian;;;;;;;;;;;;;x
+;k_byzantium_DESC;Taroryan;;;;;;;;;;;;;x
+;k_candar_DESC;Eidarakan;;;;;;;;;;;;;x
+;k_carinthia_DESC;Kokairanian;;;;;;;;;;;;;x
+;k_castille_DESC;Danernean;;;;;;;;;;;;;x
+;k_chernigov_DESC;Aghudanian;;;;;;;;;;;;;x
+;k_crimea_DESC;Rarenkanian;;;;;;;;;;;;;x
+;k_croatia_DESC;Eyuanian;;;;;;;;;;;;;x
+;k_cuman_DESC;Lekilyan;;;;;;;;;;;;;x
+;k_cyprus_DESC;Noghephan;;;;;;;;;;;;;x
+;k_dacia_DESC;Benarcuan;;;;;;;;;;;;;x
+;k_daylam_DESC;Keniman;;;;;;;;;;;;;x
+;k_delhi_DESC;Taulurean;;;;;;;;;;;;;x
+;k_denmark_DESC;Kyasadejan;;;;;;;;;;;;;x
+;k_eastern_marches_DESC;Rasostan;;;;;;;;;;;;;x
+;k_egypt_DESC;Serroan;;;;;;;;;;;;;x
+;k_england_DESC;Wavislanian;;;;;;;;;;;;;x
+;k_epirus_DESC;Elaroryan;;;;;;;;;;;;;x
+;k_eretnid_DESC;Takechaian;;;;;;;;;;;;;x
+;k_estonia_DESC;Kemendan;;;;;;;;;;;;;x
+;k_finland_DESC;Likaganian;;;;;;;;;;;;;x
+;k_france_DESC;Outer Albanian;;;;;;;;;;;;;x
+;k_franconia_DESC;Duuliogan;;;;;;;;;;;;;x
+;k_franconia_otto_DESC;Wawethan;;;;;;;;;;;;;x
+;k_frisia_DESC;Senalgan;;;;;;;;;;;;;x
+;k_galicia-volhynia_DESC;Kounityanian;;;;;;;;;;;;;x
+;k_genoa_DESC;Sunanian;;;;;;;;;;;;;x
+;k_georgia_DESC;Tulalanian;;;;;;;;;;;;;x
+;k_germany_DESC;Tempian;;;;;;;;;;;;;x
+;k_germiyan_DESC;Seilalian;;;;;;;;;;;;;x
+;k_ghana_DESC;Sumunanian;;;;;;;;;;;;;x
+;k_gondwana_DESC;Tusasanian;;;;;;;;;;;;;x
+;k_guge_DESC;Apataran;;;;;;;;;;;;;x
+;k_gujarat_DESC;Nukosan;;;;;;;;;;;;;x
+;k_hansa_DESC;Kirutaran;;;;;;;;;;;;;x
+;k_hausaland_DESC;Qalafanian;;;;;;;;;;;;;x
+;k_hungary_DESC;Banuwean;;;;;;;;;;;;;x
+;k_iraq_DESC;Tautan;;;;;;;;;;;;;x
+;k_ireland_DESC;Samanian;;;;;;;;;;;;;x
+;k_israel_DESC;Rethan;;;;;;;;;;;;;x
+;k_italy_DESC;Raylanian;;;;;;;;;;;;;x
+;k_jerusalem_DESC;Wireutanian;;;;;;;;;;;;;x
+;k_kamarupa_DESC;Dopudanian;;;;;;;;;;;;;x
+;k_kanem_DESC;Agawethan;;;;;;;;;;;;;x
+;k_karaman_DESC;Lauronanian;;;;;;;;;;;;;x
+;k_karnata_DESC;Eghephan;;;;;;;;;;;;;x
+;k_kashmir_DESC;Ragaudan;;;;;;;;;;;;;x
+;k_kham_DESC;Rubimonan;;;;;;;;;;;;;x
+;k_khazaria_DESC;Basircan;;;;;;;;;;;;;x
+;k_khiva_DESC;Riniman;;;;;;;;;;;;;x
+;k_khorasan_DESC;Selethan;;;;;;;;;;;;;x
+;k_khotan_DESC;Qelitanian;;;;;;;;;;;;;x
+;k_kosala_DESC;Bicyejuan;;;;;;;;;;;;;x
+;k_lanka_DESC;Egernean;;;;;;;;;;;;;x
+;k_leon_DESC;Darcuan;;;;;;;;;;;;;x
+;k_lithuania_DESC;Kanudrdan;;;;;;;;;;;;;x
+;k_lotharingia_DESC;Keudoryan;;;;;;;;;;;;;x
+;k_magyar_DESC;Lenibanan;;;;;;;;;;;;;x
+;k_maharastra_DESC;Karudanian;;;;;;;;;;;;;x
+;k_mali_DESC;Talekanian;;;;;;;;;;;;;x
+;k_malwa_DESC;Sanaltanian;;;;;;;;;;;;;x
+;k_mauretania_DESC;Warannan;;;;;;;;;;;;;x
+;k_mentese_DESC;Qaruwean;;;;;;;;;;;;;x
+;k_mesopotamia_DESC;Dagesaran;;;;;;;;;;;;;x
+;k_mongolia_DESC;Akirodekan;;;;;;;;;;;;;x
+;k_moravia_DESC;Enaatkanian;;;;;;;;;;;;;x
+;k_naples_DESC;Returanian;;;;;;;;;;;;;x
+;k_navarra_DESC;Lahiman;;;;;;;;;;;;;x
+;k_nenets_DESC;Qukiogan;;;;;;;;;;;;;x
+;k_nepal_DESC;Weneeran;;;;;;;;;;;;;x
+;k_norway_DESC;Abarelenan;;;;;;;;;;;;;x
+;k_nubia_DESC;Sikevojan;;;;;;;;;;;;;x
+;k_orissa_DESC;Qalihan;;;;;;;;;;;;;x
+;k_ottoman_DESC;Quribanan;;;;;;;;;;;;;x
+;k_papacy_DESC;Atiruephan;;;;;;;;;;;;;x
+;k_perm_DESC;Larislanian;;;;;;;;;;;;;x
+;k_persia_DESC;Qeiruranian;;;;;;;;;;;;;x
+;k_pisa_DESC;Toracoban;;;;;;;;;;;;;x
+;k_poland_DESC;Wanindanian;;;;;;;;;;;;;x
+;k_pomerania_DESC;Noctis Labyrinthusan;;;;;;;;;;;;;x
+;k_portugal_DESC;Baramanan;;;;;;;;;;;;;x
+;k_punjab_DESC;Ewalanehan;;;;;;;;;;;;;x
+;k_rajputana_DESC;Amakyejuan;;;;;;;;;;;;;x
+;k_romagna_DESC;Betakkanian;;;;;;;;;;;;;x
+;k_rum_DESC;Lotalihan;;;;;;;;;;;;;x
+;k_rus_DESC;Boghudanian;;;;;;;;;;;;;x
+;k_ruthenia_DESC;Emikenanian;;;;;;;;;;;;;x
+;k_sapmi_DESC;Dasucian;;;;;;;;;;;;;x
+;k_sardinia_DESC;Tagavanian;;;;;;;;;;;;;x
+;k_saruhan_DESC;Erahiman;;;;;;;;;;;;;x
+;k_saxon_DESC;Taasurean;;;;;;;;;;;;;x
+;k_saxony_DESC;Rusendan;;;;;;;;;;;;;x
+;k_scotland_DESC;Sicyejuan;;;;;;;;;;;;;x
+;k_serbia_DESC;Keyeagan;;;;;;;;;;;;;x
+;k_sibir_DESC;Nawavanian;;;;;;;;;;;;;x
+;k_sicily_DESC;Ecivalanian;;;;;;;;;;;;;x
+;k_sindh_DESC;Sanevojan;;;;;;;;;;;;;x
+;k_songhay_DESC;Tagevojan;;;;;;;;;;;;;x
+;k_spanish_galicia_DESC;Tamilyan;;;;;;;;;;;;;x
+;k_swabia_DESC;Amuwean;;;;;;;;;;;;;x
+;k_swabia_otto_DESC;Qopakinan;;;;;;;;;;;;;x
+;k_sweden_DESC;Dawakkanian;;;;;;;;;;;;;x
+;k_syria_DESC;Rumannan;;;;;;;;;;;;;x
+;k_tamilakam_DESC;Burarcuan;;;;;;;;;;;;;x
+;k_taurica_DESC;Ralunanian;;;;;;;;;;;;;x
+;k_tekke_DESC;Wotamanan;;;;;;;;;;;;;x
+;k_telingana_DESC;Barairan;;;;;;;;;;;;;x
+;k_thrace_DESC;Labrian;;;;;;;;;;;;;x
+;k_thuringia_otto_DESC;Wopudanian;;;;;;;;;;;;;x
+;k_trebizond_DESC;Nesimonan;;;;;;;;;;;;;x
+;k_trinacria_DESC;Alopamasan;;;;;;;;;;;;;x
+;k_turkestan_DESC;Wawurean;;;;;;;;;;;;;x
+;k_valencia_DESC;Sahiman;;;;;;;;;;;;;x
+;k_venice_DESC;Nizacoban;;;;;;;;;;;;;x
+;k_vladimir_DESC;Totonan;;;;;;;;;;;;;x
+;k_volga_bulgaria_DESC;Nalenanian;;;;;;;;;;;;;x
+;k_wales_DESC;Everanehan;;;;;;;;;;;;;x
+;k_xixia_DESC;Azacoban;;;;;;;;;;;;;x
+;k_yarlung_DESC;Wopaniain;;;;;;;;;;;;;x
+;k_yemen_DESC;Lauliogan;;;;;;;;;;;;;x
+;k_zhetysu_DESC;Rawuwean;;;;;;;;;;;;;x
+;d_abyssinian_band_DESC;Ebeneka Bandan;;;;;;;;;;;;;x
+;d_alan_band_DESC;Revevi Bandan;;;;;;;;;;;;;x
+;d_breton_band_DESC;Bacali Bandan;;;;;;;;;;;;;x
+;d_breton_company_DESC;Nanit Company;;;;;;;;;;;;;x
+;d_bulgarian_band_DESC;Kesesar Bandan;;;;;;;;;;;;;x
+;d_bulgarian_company_DESC;Sopeph Company;;;;;;;;;;;;;x
+;d_catalan_band_DESC;Kagael Bandan;;;;;;;;;;;;;x
+;d_catalan_company_DESC;Ranuin Company;;;;;;;;;;;;;x
+;d_company_of_st_george_DESC;Company Of Qinethan;;;;;;;;;;;;;x
+;d_cuman_band_DESC;Nohibah Bandan;;;;;;;;;;;;;x
+;d_cuman_company_DESC;Teinohn Company;;;;;;;;;;;;;x
+;d_finnish_band_DESC;Wiateh Bandan;;;;;;;;;;;;;x
+;d_frisian_navy_DESC;Datatka Navyan;;;;;;;;;;;;;x
+;d_genoese_navy_DESC;Keysali Navyan;;;;;;;;;;;;;x
+;d_ghanan_band_DESC;Kogitta Bandan;;;;;;;;;;;;;x
+;d_ghilman_DESC;Qeenaugan;;;;;;;;;;;;;x
+;d_great_company_DESC;Keteth Company;;;;;;;;;;;;;x
+;d_hanseatic_navy_DESC;Tazaira Navyan;;;;;;;;;;;;;x
+;d_irish_band_DESC;Aheenine Bandan;;;;;;;;;;;;;x
+;d_lappish_band_DESC;Tadelen Bandan;;;;;;;;;;;;;x
+;d_lithuanian_band_DESC;Elikitar Bandan;;;;;;;;;;;;;x
+;d_little_hat_company_DESC;Nitita Company;;;;;;;;;;;;;x
+;d_lombard_band_DESC;Regaman Bandan;;;;;;;;;;;;;x
+;d_maghreb_corsairs_DESC;Bawafa Corsairsan;;;;;;;;;;;;;x
+;d_mamluks_DESC;Byasadej Mamluksan;;;;;;;;;;;;;x
+;d_navarrese_company_DESC;Ereinaud Company;;;;;;;;;;;;;x
+;d_nubian_band_DESC;Qaila Bandan;;;;;;;;;;;;;x
+;d_pecheneg_band_DESC;Sereuta Bandan;;;;;;;;;;;;;x
+;d_pecheneg_company_DESC;Toghuwe Company;;;;;;;;;;;;;x
+;d_rose_company_DESC;Nyeuta Company;;;;;;;;;;;;;x
+;d_rus_band_DESC;Belaka Bandan;;;;;;;;;;;;;x
+;d_rus_company_DESC;Asopaman Company;;;;;;;;;;;;;x
+;d_sardinian_band_DESC;Birita Company;;;;;;;;;;;;;x
+;d_sardinian_company_DESC;Lalura Company;;;;;;;;;;;;;x
+;d_saxon_band_DESC;Wamigel Bandan;;;;;;;;;;;;;x
+;d_scottish_band_DESC;Renair Bandan;;;;;;;;;;;;;x
+;d_shiite_bedouin_company_DESC;Davita Company;;;;;;;;;;;;;x
+;d_shiite_berber_company_DESC;Ecekaljo Company;;;;;;;;;;;;;x
+;d_shiite_cuman_company_DESC;Qadena Company;;;;;;;;;;;;;x
+;d_shiite_turkic_company_DESC;Tanily Company;;;;;;;;;;;;;x
+;d_star_company_DESC;Dyeer Company;;;;;;;;;;;;;x
+;d_sunni_bedouin_company_DESC;Waild Company;;;;;;;;;;;;;x
+;d_sunni_berber_company_DESC;Qenuna Company;;;;;;;;;;;;;x
+;d_sunni_cuman_company_DESC;Rarura Company;;;;;;;;;;;;;x
+;d_sunni_turkic_company_DESC;Etrayla Company;;;;;;;;;;;;;x
+;d_swiss_band_DESC;Martian Bandan;;;;;;;;;;;;;x
+;d_swiss_company_DESC;Martian Company;;;;;;;;;;;;;x
+;d_turkic_band_DESC;Versian Bandan;;;;;;;;;;;;;x
+;d_turkic_company_DESC;Versian Company;;;;;;;;;;;;;x
+;d_varangian_guard_DESC;Seatempest Guardan;;;;;;;;;;;;;x
+;d_venetian_navy_DESC;Tesish Navyan;;;;;;;;;;;;;x
+;d_victual_brothers_DESC;Ebenoa Brothersan;;;;;;;;;;;;;x
+;d_white_company_DESC;The Red Company;;;;;;;;;;;;;x
+;d_guiyi_DESC;Lunnaran;;;;;;;;;;;;;x
+;d_luxembourg_DESC;Dinerroan;;;;;;;;;;;;;x
+;e_russian_empire_DESC;Lemindanian;;;;;;;;;;;;;x
+;k_liao_DESC;Ropuwean;;;;;;;;;;;;;x
+;d_burtas_DESC;Kenutaran;;;;;;;;;;;;;x
+;d_esfahan_DESC;Tenucian;;;;;;;;;;;;;x
+;d_hamadan_DESC;Sorgilan;;;;;;;;;;;;;x
+;d_kermanshah_DESC;Rataugan;;;;;;;;;;;;;x
+;d_tigris_DESC;Walgan;;;;;;;;;;;;;x
+;d_aztec_reformed_DESC;Pakalan;;;;;;;;;;;;;x
+;d_baltic_pagan_reformed_DESC;Kanatkanian;;;;;;;;;;;;;x
+;d_bon_reformed_DESC;Mekhalanian;;;;;;;;;;;;;x
+;d_finnish_pagan_reformed_DESC;Martianan;;;;;;;;;;;;;x
+;d_jewish_DESC;Trutheran;;;;;;;;;;;;;x
+;d_norse_pagan_reformed_DESC;Borealisan;;;;;;;;;;;;;x
+;d_slavic_pagan_reformed_DESC;Kanendan;;;;;;;;;;;;;x
+;d_tengri_pagan_reformed_DESC;Pharaohan;;;;;;;;;;;;;x
+;d_west_african_pagan_reformed_DESC;Jeddakan;;;;;;;;;;;;;x
+;d_zoroastrian_DESC;Scientific;;;;;;;;;;;;;x
+;d_zun_pagan_reformed_DESC;Soliusan;;;;;;;;;;;;;x
+;d_manichean_DESC;Prophesized;;;;;;;;;;;;;x
+;d_persian_caravan_guards_DESC;Wamal Caravan Guard;;;;;;;;;;;;;x
+;d_silk_road_sentinels_DESC;Celestial Road Sentinels;;;;;;;;;;;;;x
+;d_turkic_guard_DESC;Versian Guardan;;;;;;;;;;;;;x
+;d_papal_guards_DESC;Holy Terra Guardan;;;;;;;;;;;;;x
+;d_qarmatian_DESC;Ecalpan;;;;;;;;;;;;;x
+;d_shiite_DESC;Altered;;;;;;;;;;;;;x
+;d_sunni_DESC;Terraformed;;;;;;;;;;;;;x
+;e_bulgaria_DESC;Amusephan;;;;;;;;;;;;;x
+;e_chagatai_DESC;Tivuitan;;;;;;;;;;;;;x
+;e_china_west_governor_DESC;Celestian;;;;;;;;;;;;;x
+;e_cordoba_DESC;Abotofiain;;;;;;;;;;;;;x
+;e_golden_horde_DESC;Titanium;;;;;;;;;;;;;x
+;e_il-khanate_DESC;Qilofiain;;;;;;;;;;;;;x
+;e_lechczechrus_DESC;Amaxicanian;;;;;;;;;;;;;x
+;e_mexikha_DESC;Spacer;;;;;;;;;;;;;x
+;e_mongol_empire_DESC;Cetinese;;;;;;;;;;;;;x
+;e_nicaea_DESC;Riostinan;;;;;;;;;;;;;x
+;e_outremer_DESC;Tekitaran;;;;;;;;;;;;;x
+;e_pirates_DESC;Daminanian;;;;;;;;;;;;;x
+;e_rebels_DESC;Qinoaldan;;;;;;;;;;;;;x
+;e_shiite_DESC;Altered;;;;;;;;;;;;;x
+;e_sunni_DESC;Terraformed;;;;;;;;;;;;;x
+;e_timurids_DESC;Nilalisan;;;;;;;;;;;;;x
+;k_antioch_DESC;Bokoryan;;;;;;;;;;;;;x
+;k_sakya_trizin_DESC;Nomildanian;;;;;;;;;;;;;x
+;k_switzerland_DESC;Qiigelan;;;;;;;;;;;;;x
+;d_abbasid_DESC;Wopasan;;;;;;;;;;;;;x
+;d_arabia_felix_DESC;Kilofiain;;;;;;;;;;;;;x
+;d_arabs_DESC;Qazulanian;;;;;;;;;;;;;x
+;d_assassin_DESC;Rilundan;;;;;;;;;;;;;x
+;d_balearic_DESC;Raralanan;;;;;;;;;;;;;x
+;d_belgrade_DESC;Ebaletan;;;;;;;;;;;;;x
+;d_bergen_DESC;Kijyulanian;;;;;;;;;;;;;x
+;d_bordeaux_DESC;Abotintan;;;;;;;;;;;;;x
+;d_braganza_DESC;Raroanan;;;;;;;;;;;;;x
+;d_butrinto_DESC;Sojarahan;;;;;;;;;;;;;x
+;d_campania_DESC;Bijyulanian;;;;;;;;;;;;;x
+;d_catalonia_DESC;Abotesaran;;;;;;;;;;;;;x
+;d_chaldea_DESC;Tijiusan;;;;;;;;;;;;;x
+;d_cumberland_DESC;Qieritanian;;;;;;;;;;;;;x
+;d_curonian_DESC;Kojintan;;;;;;;;;;;;;x
+;d_danes_DESC;Dojitanian;;;;;;;;;;;;;x
+;d_don_DESC;Rohiusan;;;;;;;;;;;;;x
+;d_dorostotum_DESC;Kodiusan;;;;;;;;;;;;;x
+;d_dregovichi_DESC;Rubarian;;;;;;;;;;;;;x
+;d_drevlians_DESC;Lyimian;;;;;;;;;;;;;x
+;d_el_rif_DESC;Sunaoan;;;;;;;;;;;;;x
+;d_el-arish_DESC;Lieroanan;;;;;;;;;;;;;x
+;d_erzerum_DESC;Kijiusan;;;;;;;;;;;;;x
+;d_estonia_DESC;Daciusan;;;;;;;;;;;;;x
+;d_galatia_DESC;Koharahan;;;;;;;;;;;;;x
+;d_geats_DESC;Ebijyulanian;;;;;;;;;;;;;x
+;d_georgia_DESC;Koroplukan;;;;;;;;;;;;;x
+;d_glomacze_DESC;Timuwean;;;;;;;;;;;;;x
+;d_hellas_DESC;Amomonan;;;;;;;;;;;;;x
+;d_ikonion_DESC;Wunaoan;;;;;;;;;;;;;x
+;d_ilmenians_DESC;Taryulanian;;;;;;;;;;;;;x
+;d_ingers_DESC;Qetaulan;;;;;;;;;;;;;x
+;d_kajaneborg_DESC;Kotiusan;;;;;;;;;;;;;x
+;d_kappadokia_DESC;Dojetan;;;;;;;;;;;;;x
+;d_karnten_DESC;Sokesaran;;;;;;;;;;;;;x
+;d_kexholm_DESC;Rodarahan;;;;;;;;;;;;;x
+;d_khazars_DESC;Kokaoan;;;;;;;;;;;;;x
+;d_kimak_DESC;Tierian;;;;;;;;;;;;;x
+;d_kipchak_DESC;Dekalyan;;;;;;;;;;;;;x
+;d_kirghiz_DESC;Raralyan;;;;;;;;;;;;;x
+;d_kirkuk_DESC;Wyaian;;;;;;;;;;;;;x
+;d_krakow_DESC;Wojonanian;;;;;;;;;;;;;x
+;d_kryvians_DESC;Waloanan;;;;;;;;;;;;;x
+;d_laodikeia_DESC;Rotoanan;;;;;;;;;;;;;x
+;d_lendians_DESC;Dijoanan;;;;;;;;;;;;;x
+;d_lettigalians_DESC;Karaoan;;;;;;;;;;;;;x
+;d_luristan_DESC;Ryigavian;;;;;;;;;;;;;x
+;d_lut_DESC;Rijailoan;;;;;;;;;;;;;x
+;d_lykia_DESC;Balomonan;;;;;;;;;;;;;x
+;d_mar_DESC;Selosesan;;;;;;;;;;;;;x
+;d_meryas_DESC;Keinitanian;;;;;;;;;;;;;x
+;d_meshcheras_DESC;Kalarahan;;;;;;;;;;;;;x
+;d_milano_DESC;Totiusan;;;;;;;;;;;;;x
+;d_muromians_DESC;Lijavanan;;;;;;;;;;;;;x
+;d_nikomedeia_DESC;Dijayahan;;;;;;;;;;;;;x
+;d_obotrites_DESC;Lorutkanian;;;;;;;;;;;;;x
+;d_oxford_DESC;Kivefran;;;;;;;;;;;;;x
+;d_pechenegs_DESC;Kyinaulan;;;;;;;;;;;;;x
+;d_peloponnese_DESC;Toumenanian;;;;;;;;;;;;;x
+;d_pressburg_DESC;Sunoanan;;;;;;;;;;;;;x
+;d_pronsk_DESC;Loanan;;;;;;;;;;;;;x
+;d_pruthenians_DESC;Syulanian;;;;;;;;;;;;;x
+;d_qom_DESC;Egetavanan;;;;;;;;;;;;;x
+;d_radimichi_DESC;Qitacoban;;;;;;;;;;;;;x
+;d_romagna_DESC;Bijahtuan;;;;;;;;;;;;;x
+;d_salamanca_DESC;Narahtuan;;;;;;;;;;;;;x
+;d_sames_DESC;Kubarian;;;;;;;;;;;;;x
+;d_sami_DESC;Boritanian;;;;;;;;;;;;;x
+;d_sandomiersk_DESC;Kijavian;;;;;;;;;;;;;x
+;d_satakunta_DESC;Nieraoan;;;;;;;;;;;;;x
+;d_severians_DESC;Delintan;;;;;;;;;;;;;x
+;d_shiraz_DESC;Boniain;;;;;;;;;;;;;x
+;d_sinope_DESC;Lotonanian;;;;;;;;;;;;;x
+;d_slovakia_DESC;Bokiusan;;;;;;;;;;;;;x
+;d_sorbs_DESC;Lodenanian;;;;;;;;;;;;;x
+;d_sweden_DESC;Dojavian;;;;;;;;;;;;;x
+;d_swiss_DESC;Bubesaran;;;;;;;;;;;;;x
+;d_tavasts_DESC;Rariusan;;;;;;;;;;;;;x
+;d_thessalia_DESC;Rireutanian;;;;;;;;;;;;;x
+;d_varna_DESC;Toanan;;;;;;;;;;;;;x
+;d_veps_DESC;Ryatuan;;;;;;;;;;;;;x
+;d_vlachs_DESC;Wojintan;;;;;;;;;;;;;x
+;d_volga_DESC;Rijaulan;;;;;;;;;;;;;x
+;d_votes_DESC;Nyinavian;;;;;;;;;;;;;x
+;d_vyatichi_DESC;Esojarahan;;;;;;;;;;;;;x
+;d_wielkopolska_DESC;Kyayan;;;;;;;;;;;;;x
+;d_zara_DESC;Qarunaian;;;;;;;;;;;;;x
+;d_zaragoza_DESC;Lohunaian;;;;;;;;;;;;;x
+;d_zemigalians_DESC;Rojaoan;;;;;;;;;;;;;x
+;e_latin_empire_DESC;Ebirutaran;;;;;;;;;;;;;x
+;d_amalfi_DESC;Dasijahan;;;;;;;;;;;;;x
+;d_pechina_DESC;Kosiain;;;;;;;;;;;;;x
+;d_ragusa_DESC;Lenaryan;;;;;;;;;;;;;x
+;e_seljuk_turks_DESC;New Edenian;;;;;;;;;;;;;x
+;k_almohad_DESC;Nalpan;;;;;;;;;;;;;x
+;k_al-murabitids_DESC;Qalisan;;;;;;;;;;;;;x
+;k_avaria_DESC;Wosoryan;;;;;;;;;;;;;x
+;k_beni_helal_DESC;Layarakan;;;;;;;;;;;;;x
+;k_bosnia_DESC;Qayapuran;;;;;;;;;;;;;x
+;k_fatimids_DESC;Ryagiusan;;;;;;;;;;;;;x
+;k_hammadid_DESC;Qaaqokiain;;;;;;;;;;;;;x
+;k_kafsid_DESC;Kudtiain;;;;;;;;;;;;;x
+;k_lombardy_DESC;Doitephan;;;;;;;;;;;;;x
+;k_marinid_DESC;Qudacoban;;;;;;;;;;;;;x
+;k_pechenegs_DESC;Tagendan;;;;;;;;;;;;;x
+;k_zenata_DESC;Teelaryan;;;;;;;;;;;;;x
+;k_zirid_DESC;Tosaryan;;;;;;;;;;;;;x
+;k_ziyanids_DESC;Doitoryan;;;;;;;;;;;;;x
+;d_fraticelli_DESC;Wingan;;;;;;;;;;;;;x
+;d_hurufi_DESC;New Terraformed;;;;;;;;;;;;;x
+;d_ibadi_DESC;Original Terraformed;;;;;;;;;;;;;x
+;d_yazidi_DESC;Pre Terraformed;;;;;;;;;;;;;x

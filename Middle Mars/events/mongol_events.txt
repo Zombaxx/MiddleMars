@@ -4489,10 +4489,10 @@ character_event = {
 	trigger = {
 		is_landed = yes
 		OR = {
-			culture = turkish
+			#culture = turkish
 			culture = cuman
-			culture = uyghur
-			culture = karluk
+			#culture = uyghur
+			#culture = karluk
 		}
 		NOT = {
 			has_game_rule = {
@@ -4508,8 +4508,8 @@ character_event = {
 						value = random
 					}
 				}
-				year = 965
-				NOT = { year = 985 }
+				year = 1080
+				NOT = { year = 1180 }
 			}
 			AND = {
 				has_game_rule = {
@@ -4543,7 +4543,7 @@ character_event = {
 			religion = messalian
 			age = 18
 			attributes = {
-				martial = 8
+				martial = 12
 				diplomacy = 4
 				stewardship = 5
 				intrigue = 4
@@ -4813,7 +4813,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.1
 								}
 								spawn_unit = {
 									province = PREVPREVPREVPREV
@@ -4823,7 +4823,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREVPREVPREVPREV
@@ -4833,7 +4833,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREVPREVPREVPREV
@@ -4843,7 +4843,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREVPREVPREVPREV
@@ -4853,7 +4853,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREVPREVPREVPREV
@@ -4863,7 +4863,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								war = {
 									target = PREV
@@ -5001,7 +5001,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREV
@@ -5011,7 +5011,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREV
@@ -5021,7 +5021,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREV
@@ -5031,7 +5031,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREV
@@ -5041,7 +5041,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 								spawn_unit = {
 									province = PREV
@@ -5051,7 +5051,7 @@ character_event = {
 									match_mult = 0.33
 									match_min = 500
 									match_max = 10000
-									attrition = 0.25
+									attrition = 0.15
 								}
 							}
 						}
@@ -7874,7 +7874,8 @@ narrative_event = {
 					}
 					health = 3
 					fertility = 85
-					religion="khurmazta"
+					religion="tengri_pagan"
+					secret_religion="khurmazta"
 					culture="tau_cetinese"
 					trait = full_cybernetic_conversion
 					trait = iaei_mk_ii
