@@ -10,6 +10,6 @@ b_kicohn = temple
 
 # Misc
 culture = alan
-religion = orthodox
+religion = catholic
 
 # History

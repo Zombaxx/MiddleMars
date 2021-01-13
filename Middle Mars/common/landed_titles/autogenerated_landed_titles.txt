@@ -2332,55 +2332,6 @@ e_tempe_terra = {
 				b_barony0154g = { }
 			}
 		}
-		d_ceraunia = {
-			color={ 182 113 105 }
-			color2={ 255 255 255 }
-			
-			capital = 178
-			
-			c_rudo = {
-				color={ 76 184 107 }
-				color2={ 255 255 255 }
-				
-				
-				b_rudo = { }
-				b_tuslo = { }
-				b_kimeir = { }
-				b_teymert = { }
-				b_kyoi = { }
-				b_qiran = { }
-				b_raduisa = { }
-				b_barony0148g = { }
-			}
-			c_duelle = {
-				color={ 120 236 15 }
-				color2={ 255 255 255 }
-				
-				
-				b_duelle = { }
-				b_keulami = { }
-				b_ragoriy = { }
-				b_bulia = { }
-				b_king = { }
-				b_eludedek = { }
-				b_winoras = { }
-				b_barony0174g = { }
-			}
-			c_borine = {
-				color={ 182 113 105 }
-				color2={ 255 255 255 }
-				
-				
-				b_borine = { }
-				b_roban = { }
-				b_qudedek = { }
-				b_ebernia = { }
-				b_wijelet = { }
-				b_nernudo = { }
-				b_eriobn = { }
-				b_barony0178g = { }
-			}
-		}
 		d_antoninus = {
 			color={ 164 147 93 }
 			color2={ 255 255 255 }
@@ -2492,6 +2443,35 @@ e_tempe_terra = {
 				b_ranaud = { }
 				b_barony0208g = { }
 			}
+			
+			c_rudo = {
+				color={ 76 184 107 }
+				color2={ 255 255 255 }
+				
+				
+				b_rudo = { }
+				b_tuslo = { }
+				b_kimeir = { }
+				b_teymert = { }
+				b_kyoi = { }
+				b_qiran = { }
+				b_raduisa = { }
+				b_barony0148g = { }
+			}
+			c_borine = {
+				color={ 182 113 105 }
+				color2={ 255 255 255 }
+				
+				
+				b_borine = { }
+				b_roban = { }
+				b_qudedek = { }
+				b_ebernia = { }
+				b_wijelet = { }
+				b_nernudo = { }
+				b_eriobn = { }
+				b_barony0178g = { }
+			}
 		}
 		d_zosimus = {
 			color={ 171 181 43 }
@@ -2526,6 +2506,20 @@ e_tempe_terra = {
 				b_saret = { }
 				b_somuwe = { }
 				b_barony0231g = { }
+			}
+			c_duelle = {
+				color={ 120 236 15 }
+				color2={ 255 255 255 }
+				
+				
+				b_duelle = { }
+				b_keulami = { }
+				b_ragoriy = { }
+				b_bulia = { }
+				b_king = { }
+				b_eludedek = { }
+				b_winoras = { }
+				b_barony0174g = { }
 			}
 		}
 		d_uranius = {

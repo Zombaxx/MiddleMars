@@ -11262,8 +11262,8 @@ b_rausld;Rausld;Rausld;Rausld;;Rausld;;;;;;;;;x
 b_bikse;Bikse;Bikse;Bikse;;Bikse;;;;;;;;;x
 b_tikitta;Tikitta;Tikitta;Tikitta;;Tikitta;;;;;;;;;x
 b_barony0930g;Barony0930g;Barony0930g;Barony0930g;;Barony0930g;;;;;;;;;x
-d_roj;Roj;Roj;Roj;;Roj;;;;;;;;;x
-d_roj_adj;Roj;Roj;Roj;;Roj;;;;;;;;;x
+d_roj;The Remnant;Remnant;Remnant;;Remnant;;;;;;;;;x
+d_roj_adj;Old Way;Old Way;Old Way;;Old Way;;;;;;;;;x
 c_eninivi_adj;Eninivi;Eninivi;Eninivi;;Eninivi;;;;;;;;;x
 b_eninivi;Eninivi;Eninivi;Eninivi;;Eninivi;;;;;;;;;x
 b_setenna;Setenna;Setenna;Setenna;;Setenna;;;;;;;;;x
@@ -19490,4 +19490,40 @@ b_qilija;Qilija;Qilija;Qilija;;Qilija;;;;;;;;;x
 b_kagomas;Kagomas;Kagomas;Kagomas;;Kagomas;;;;;;;;;x
 b_rikama;Rikama;Rikama;Rikama;;Rikama;;;;;;;;;x
 b_bikama;Bikama;Bikama;Bikama;;Bikama;;;;;;;;;x
-b_barony1761g;Barony1761g;Barony1761g;Barony1761g;;Barony1761g;;;;;;;;;x
+b_barony1761g;Ground 0;Ground 0;Ground 0;;Ground 0;;;;;;;;;x
+b_patrician_100170;the Republic;;;;;;;;;;;;;;x
+b_patrician_100171;the Republic;;;;;;;;;;;;;x
+b_patrician_100172;the Republic;;;;;;;;;;;;;x
+b_patrician_100173;the Republic;;;;;;;;;;;;;x
+b_patrician_100174;the Republic;;;;;;;;;;;;;x
+b_patrician_105830;the Republic;;;;;;;;;;;;;x
+b_patrician_105831;the Republic;;;;;;;;;;;;;x
+b_patrician_105832;the Republic;;;;;;;;;;;;;x
+b_patrician_105833;the Republic;;;;;;;;;;;;;x
+b_patrician_105834;the Republic;;;;;;;;;;;;;x
+b_patrician_109640;the Republic;;;;;;;;;;;;;x
+b_patrician_109641;the Republic;;;;;;;;;;;;;x
+b_patrician_109642;the Republic;;;;;;;;;;;;;x
+b_patrician_109643;the Republic;;;;;;;;;;;;;x
+b_patrician_109644;the Republic;;;;;;;;;;;;;x
+b_patrician_109310;the Republic;;;;;;;;;;;;;x
+b_patrician_109311;the Republic;;;;;;;;;;;;;x
+b_patrician_109312;the Republic;;;;;;;;;;;;;x
+b_patrician_109313;the Republic;;;;;;;;;;;;;x
+b_patrician_109314;the Republic;;;;;;;;;;;;;x
+b_patrician_112660;the Republic;;;;;;;;;;;;;x
+b_patrician_112661;the Republic;;;;;;;;;;;;;x
+b_patrician_112662;the Republic;;;;;;;;;;;;;x
+b_patrician_112663;the Republic;;;;;;;;;;;;;x
+b_patrician_112664;the Republic;;;;;;;;;;;;;x
+b_patrician_114660;the Republic;;;;;;;;;;;;;x
+b_patrician_114661;the Republic;;;;;;;;;;;;;x
+b_patrician_114662;the Republic;;;;;;;;;;;;;x
+b_patrician_114663;the Republic;;;;;;;;;;;;;x
+b_patrician_114664;the Republic;;;;;;;;;;;;;x
+b_patrician_117590;the Republic;;;;;;;;;;;;;x
+b_patrician_117591;the Republic;;;;;;;;;;;;;x
+b_patrician_117592;the Republic;;;;;;;;;;;;;x
+b_patrician_117593;the Republic;;;;;;;;;;;;;x
+b_patrician_117594;the Republic;;;;;;;;;;;;;x
+

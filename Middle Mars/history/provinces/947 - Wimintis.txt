@@ -4,12 +4,12 @@
 title = c_wimintis
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_wimintis = city
 b_laluall = temple
 
 # Misc
-culture = alan
-religion = orthodox
+culture = nubian
+religion = west_african_pagan
 
 # History

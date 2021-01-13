@@ -40,22 +40,6 @@ bm_middle_mars = {
 		}
 	}
 	selectable_character = {
-		id = 111585 # Abdul-Aziz II of Noachis Terra
-		age = 38
-		name = ERA_CHAR_NAME_111585
-		title = e_noachis_terra
-		title_name = e_noachis_terra
-		
-		character = {
-			dna = vekzbwluvsc
-			properties = nlu0d00
-			religion="sunni"
-			culture="andalusian_arabic"
-			government111580= feudal_government
-			dynasty=102260
-		}
-	}
-	selectable_character = {
 		id = 104895 # Alvar II of Valles Varineris
 		age = 31
 		name = ERA_CHAR_NAME_104895
@@ -69,22 +53,6 @@ bm_middle_mars = {
 			culture="basque"
 			government = feudal_government
 			dynasty=104890
-		}
-	}
-	selectable_character = {
-		id = 111905 # Elupuyan Fangzhi of Promethei Terra
-		age = 19
-		name = ERA_CHAR_NAME_111905
-		title = k_promethei_terra
-		title_name = k_promethei_terra
-		
-		character = {
-			dna = drvzzvggwpm
-			properties = ai0bia00000000bb00000000000000000000l00
-			religion="taoist"
-			culture="han"
-			government = feudal_government
-			dynasty=111900
 		}
 	}
 	selectable_character = {
@@ -102,6 +70,79 @@ bm_middle_mars = {
 			culture="coptic"
 			government = feudal_government
 			dynasty=117620
+		}
+	}
+}
+
+bm_argyre = {
+	name = "BM_ARGYRE_ERA"
+	desc = "BM_ARGYRE_ERA_INFO"
+	date = 1066.9.15
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+
+	selectable_character = {
+		id = 111585 # Abdul-Aziz II of Noachis Terra
+		age = 38
+		name = ERA_CHAR_NAME_111585
+		title = e_noachis_terra
+		title_name = e_noachis_terra
+		
+		character = {
+			dna = vekzbwluvsc
+			properties = nlu0d00
+			religion="sunni"
+			culture="andalusian_arabic"
+			government111580= feudal_government
+			dynasty=102260
+		}
+	}
+	selectable_character = {
+		id = 108175 # Emir Bermudo of Qaxualis 
+		age = 24
+		name = ERA_CHAR_NAME_108175
+		title = d_qaxualis
+		title_name = d_qaxualis
+		
+		character = {
+			dna = xcneimxegvs 
+			properties = eh0ced0000
+			religion="catholic"
+			culture="castillan"
+			government = feudal_government
+			dynasty=108170
+		}
+	}
+	selectable_character = {
+		id = 218625 # CEO Jak of the Remnant
+		age = 24
+		name = ERA_CHAR_NAME_218625
+		title = b_patrician_109312
+		title_name = d_roj
+		
+		character = {
+			dna = xcneimxegvs 
+			properties = ed0emk0000000
+			religion="catholic"
+			culture="alan"
+			government = merchant_republic
+			dynasty=109312
+		}
+	}
+	selectable_character = {
+		id = 111905 # Elupuyan Fangzhi of Promethei Terra
+		age = 19
+		name = ERA_CHAR_NAME_111905
+		title = k_promethei_terra
+		title_name = k_promethei_terra
+		
+		character = {
+			dna = drvzzvggwpm
+			properties = ai0bia00000000bb00000000000000000000l00
+			religion="taoist"
+			culture="han"
+			government = feudal_government
+			dynasty=111900
 		}
 	}
 }
