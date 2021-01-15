@@ -1,3 +1,65 @@
+########################################################
+# NEW MINOR TITLES
+# ########################################################
+
+title_mistress = {
+	dignity = 0.1
+	grant_limit = 1
+	show_as_title = yes
+	revoke_allowed = yes
+	opinion_effect = 10
+	
+	monthly_salary = 0.80
+	monthly_prestige = 0.01
+	
+	allowed_to_hold = {
+		is_adult = yes
+		AND = {
+			is_married = no
+			is_female = yes
+			prisoner = no
+		}
+	}
+
+	allowed_to_grant = {
+		NOT = {
+			culture_group = north_germanic
+			culture_group = west_germanic
+			culture_group = west_germanic
+			culture = hausa
+			culture = han
+			religion = jewish
+			religion_group = pagan_group 
+		}
+		AND = {
+			age = 16
+			is_feudal = yes
+			primary_title = { higher_tier_than = COUNT }
+		}
+	}
+	
+	gain_effect = {
+	add_lover = FROM
+	FROM = {
+			spouse = {
+					opinion = {
+						who = FROM
+						modifier = opinion_hate
+						years = 20
+					}
+				}
+			}
+	}
+	lose_effect = {
+	remove_lover = FROM
+	}
+	
+	ai_will_do = {
+			factor = 0.1
+	}
+	
+	message = no
+}
 title_grand_judge = {
 	show_as_title = yes
 	realm_in_name = no

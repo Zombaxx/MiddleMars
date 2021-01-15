@@ -167,8 +167,6 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		max_consorts = 1 # Can take concubines
-		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
@@ -552,10 +550,6 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		female_temple_holders = yes
-		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-
-		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
@@ -748,7 +742,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		#intermarry = sunni
@@ -780,7 +774,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		intermarry = sunni
@@ -824,7 +818,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -865,7 +859,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -896,7 +890,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -920,13 +914,13 @@ muslim = {
 		scripture_name = THE_KORAN
 		priest_title = MULLAH
 		
-		high_god_name = ALTERED
+		high_god_name = GOD_ALLAH
 		
 		god_names = {
-			ALTERED IBLIS GOD_ALLAH 
+			GOD_ALLAH GOD_THE_GREATEST
 		}
 		evil_god_names = {
-			 GOD_THE_GREATEST UNALTERED SHAYTAN
+			IBLIS SHAYTAN
 		}
 		
 		can_call_crusade = yes
@@ -937,7 +931,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -968,7 +962,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -1000,7 +994,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -1033,7 +1027,7 @@ muslim = {
 
 		landed_kin_prestige_bonus = no
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = no
 		peace_prestige_loss = yes # Lose Prestige while at peace
 		raised_vassal_opinion_loss = no
@@ -2224,7 +2218,7 @@ pagan_group = {
 		high_god_name = GOD_SANGPO_BUMTRI
 		
 		god_names = {
-			GOD_SHENLA_OKAR #GOD_YESHE_WALMO GOD_ZHANG_ZHUNG_MERI GOD_DRALHA_YESI GOD_SHINJE GOD_AMNYE_MACHEN GOD_ADI GOD_SHERAB_CHAMMA
+			GOD_SHENLA_OKAR GOD_YESHE_WALMO GOD_ZHANG_ZHUNG_MERI GOD_DRALHA_YESI GOD_SHINJE GOD_AMNYE_MACHEN GOD_ADI GOD_SHERAB_CHAMMA
 		}
 		
 		evil_god_names = {
@@ -2803,14 +2797,10 @@ indian_group = {
 			stewardship = 2
 		}
 
-		female_temple_holders = yes
-		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-
-
 		has_heir_designation = yes
 		can_grant_divorce = yes
 		priests_can_inherit = no
-		#max_consorts = 3
+		max_consorts = 3
 		
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		

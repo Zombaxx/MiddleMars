@@ -36,23 +36,21 @@ ca_reformed_civil_service_desc;A steady and unrelenting eye on the administrativ
 ca_infrastructure_program;Infrastructure Program;x
 ca_infrastructure_program_desc;Publicly funded program to advance the realm's infrastructure and invest in its upkeep.;x
 ca_economic_analysis;Economic Analysis;x
-ca_economic_analysis_desc;The economy is not some simple chart you learn in a textbook, it is organic, ever changing. Thus, we will always need analysts to pore over the data and fundamentals alike to discover and study new and existing economic problems and their solutions.;x
+ca_economic_analysis_desc;The economy is not some simple chart you learn in a book, it is organic, ever changing. Thus, we will always need analysts to pore over the data and fundamentals alike to discover and study new and existing economic problems and their solutions.;x
 ca_secret_lair;Secret Lair;x
 ca_secret_lair_desc;In this hidden abode, a schemer builds his shadowy empire of secrets, contacts, and lies. In this sanctum of intrigue and guile, anything goes in the mad quest to dominate the world and shape it according to one's own twisted vision.;x
 ca_underground_location;Underground Location;x
 ca_underground_location_desc;Nobody knew where the secret lair was located, but rumors have surfaced that the shadowy headquarters is secreted away deep underground, perhaps in a cave system or under a volcano, far from the reaches of any who would breach its defenses.;x
-ca_self_destruct;Self Destruct;x
-ca_self_destruct_desc;The owner of this lair takes no prisoners - and certainly won't be taken one himself! This system can be activated if anyone gets too close to breaching the perimeter, devastating the invaders while the mad genius behind it escapes via a secret passage.;x
 ca_shadowy_contacts;Shadowy Contacts;x
 ca_shadowy_contacts_desc;Rumors abound of a networks that spreads across the continent...men who, by hook or crook, now serve the sovereign of this abode. Their influence together gives him incredible reach, and the ability to touch just about anyone who strikes his fancy.;x
 ca_exotic_pets;Exotic Pets;x
-ca_exotic_pets_desc;Some men still have dogs. Others...others have fluffy white cats on their laps while schools of piranhas swim in miniature moats across their office. Some men want to see the world burn...in style.;x
+ca_exotic_pets_desc;Some men still have dogs. Others...others have fluffy white cats on their laps while schools of piranhas swim in moats across their land. Some men want to see the world burn...in style.;x
 ca_research_facility;Research Facility;x
 ca_research_facility_desc;This complex exists for the furtherance of human knowledge, from the theoretical to the applied, from pushing the frontiers of science towards the forbidden to instructing the youth, this facility sees it all.;x
 ca_research_library;Research Library;x
-ca_research_library_desc;In a world shaped by atom bombs, it is absurd for men to re-invent the wheel. Instead, they have access to a vast library, paper and electronic, touching on every field of scientific inquiry. Here, our knowledge will be immune to decay.;x
+ca_research_library_desc;In order to advance our people as a society it is necessary for us to store and spread this knowledge amongst one another.;x
 ca_public_schools;Scholarship Programs;x
-ca_public_schools_desc;All of society must have access to a college education. Only then will we be wise enough to conquer ignorance.;x
+ca_public_schools_desc;All of society must have access to a an education. Only then will we be wise enough to conquer ignorance.;x
 ca_doctoral_program;Doctoral Program;x
 ca_doctoral_program_desc;Our most gifted students should not have to settle for a common degree in their desired field, nor should they be taught by those with only that paltry qualification. Instead, we should offer them a chance at advanced degrees and more knowledge than ever.;x
 ca_medical_wing;Medical Wing;x

@@ -133,7 +133,6 @@ phd_mathematics = {
 }
 mech_pilot = {
 	cached = yes	
-	general_opinion = 10
 	ambition_opinion = -10 # Against those they want something from
 	ai_ambition = 75
 

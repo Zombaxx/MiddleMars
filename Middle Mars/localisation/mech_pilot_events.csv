@@ -13,11 +13,11 @@ acquire_mech_license_desc;Acquire Mech Piloting License;;;;;;;;;;;;x
 piloting_license;This person is authorized to purchase mech suits.;;;;;;;;;;;;;x
 mech_pilot;Pilot License;;;;;;;;;;;;x
 mech_pilot_desc;This character is authorized to pilot a personalized Mech Suit;;;;;;;;;;;;x
-buy_mech_suit;Purchase your own Combat Mech;;;;;;;;;;;;;x
-buy_mech_suit_desc;Purchase your own Combat Mech Suit;;;;;;;;;;;;;x
-buy_black_mech_suit;Purchase a Mech Suit;;;;;;;;;;;;;x
-buy_black_mech_suit_desc;Look for a Spacer Trader to buy a Mech Suit on the black market;;;;;;;;;;;;;x
-buy_super_mech_suit;Purchase an Advanced Mech Suit;;;;;;;;;;;;;x
+buy_mech_suit;Purchase a Zhao Ranger;;;;;;;;;;;;;x
+buy_mech_suit_desc;Purchase a standard Combat Mech Suit;;;;;;;;;;;;;x
+buy_black_mech_suit;Purchase a Red Fighter;;;;;;;;;;;;;x
+buy_black_mech_suit_desc;Purchase a lower end Combat Mech Suit;;;;;;;;;;;;;x
+buy_super_mech_suit;Purchase an AP-6 Striker;;;;;;;;;;;;;x
 buy_super_mech_suit_desc;Consult your Marshall about purchasing a high end Mech Suit;;;;;;;;;;;;;x
 EVTDESCbuy_mech.1;You have purchased a piloting license and are now authorized to pilot a Combat Mech Suit. Be careful!;;;;;;;;;;;;;x
 EVTbuy_mech.1;This is good.;;;;;;;;;;;;;x

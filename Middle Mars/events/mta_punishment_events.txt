@@ -259,11 +259,6 @@ character_event = {
 
 	is_triggered_only = yes
 
-	#Cancel
-	option = {
-		name = "mta.3.z"
-	}
-
 	#Impaling
 	option = {
 		name = "mta.3.o"

@@ -1940,7 +1940,6 @@ character_event = {
             }
         }
         new_character = {
-			add_trait = spacer_physiology
             save_event_target_as = new_found_lover
             add_lover = ROOT
         }
@@ -4377,72 +4376,13 @@ character_event = {
 	
 		create_character = {
 			random_traits = yes
-			trait = full_cybernetic_conversion
-			age = 1342
 			dynasty = actually_culture
-			religion = khurmazta
-			culture = tau_cetinese
+			religion = taoist
+			culture = han
             historical = yes
-			attributes = {
-				diplomacy = 5
-				learning = 5
-				stewardship = 5
-				intrigue = 5
-				martial = 5
-			}
 		}
 	
 		new_character = {
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = lunatic }
-					}
-					random_list = {
-						64 = { }
-						33 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						25 = { }
-						75 = { add_trait = damaged_cybernetics }
-					}
-					random_list = {
-						25 = { }
-						20 = { add_trait = clone }
-						15 = { add_trait = vat_born }
-						20 = { add_trait = gmo }
-						20 = { 
-							add_trait = clone 
-							add_trait = cloning_defects
-						}
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 			set_character_flag = originated_from_chinese_court
             set_character_flag = no_court_invites
 			set_character_flag = ignore_refund
@@ -4927,7 +4867,6 @@ character_event = {
                     }
                 }
                 new_character = {
-			add_trait = spacer_physiology
                     #Education & other basic stuff
                     save_event_target_as = chinese_administrator
                     save_event_target_as = chinese_refugee
@@ -5157,7 +5096,6 @@ character_event = {
                     }
                 }
                 new_character = {
-			add_trait = spacer_physiology
                     #Education & other basic stuff
                     save_event_target_as = chinese_master_engineer
                     save_event_target_as = chinese_refugee
@@ -5385,7 +5323,6 @@ character_event = {
                     }
                 }
                 new_character = {
-			add_trait = spacer_physiology
                     #Education & other basic stuff
                     save_event_target_as = chinese_strategist
                     save_event_target_as = chinese_refugee
@@ -5668,7 +5605,6 @@ character_event = {
                     }
                 }
                 new_character = {
-			add_trait = spacer_physiology
                     #Education & other basic stuff
                     save_event_target_as = chinese_doctor
                     save_event_target_as = chinese_refugee
@@ -6242,7 +6178,6 @@ character_event = { # Traveling Teacher
 			}
 		}
 		new_character = {
-			add_trait = spacer_physiology
 			remove_trait = slow
 			remove_trait = imbecile
 			remove_trait = dull
@@ -6599,7 +6534,6 @@ character_event = { # Radhanite Merchant
 				}
 			}
 			new_character = {
-			add_trait = spacer_physiology
 				remove_trait = slow
 				remove_trait = imbecile
 				remove_trait = dull

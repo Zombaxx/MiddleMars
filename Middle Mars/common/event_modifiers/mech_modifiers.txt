@@ -118,22 +118,9 @@ angry_troops = {
 	global_revolt_risk = 0.35	
 	icon = 98
 }
-wedding = {
-icon = 39
-}
-holding_ball = {
-	vassal_opinion = 10
-	#monthly_character_prestige = -1
-    global_revolt_risk = -0.025
-	icon = 7
-}
-ball_timer = { icon = 1 }
-lavish_wedding = {
-	vassal_opinion = 10
-	global_revolt_risk = -0.025
-	icon = 7
-}
-medium_wedding = {
-	vassal_opinion = 5
-	icon = 7
+double_paid_troops = {
+	general_opinion = 10
+	levy_reinforce_rate = 0.25
+	global_revolt_risk = -0.05	
+	icon = 97
 }

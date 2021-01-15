@@ -8,3 +8,4 @@ paid_troops_poorly;Poorly Compensated Soldiers;;;;;;;;;;;;x
 paid_troops_poorly_desc;This character withheld payment from their soldiers.;;;;;;;;;;;;x
 angry_troops;Did Not Pay Soldiers;;;;;;;;;;;;x
 angry_troops_desc;This character did not properly pay their troops after war. It has made them quite unpopular.;;;;;;;;;;;;x
+double_paid_troops;Doubled Soldiers' Pay;;;;;;;;;;;;;;x

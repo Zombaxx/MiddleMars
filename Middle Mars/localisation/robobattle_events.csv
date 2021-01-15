@@ -5,12 +5,15 @@ robobattle_events.9;
 EVTDESCrobobattle_events.9;You meet another Mech Suit pilot on the battlefield. You notice they are moving towards you to engage...;;;;;;;;;;;;;x
 EVTNAMErobobattle_events.9;Mecha Duel;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.9;Slip away from the battlefield;;;;;;;;;;;;;x
+roboscared.1;You avoid meeting the enemy's mech on the battlefield. This can be seen as cowardly;;;;;;;;;;;;;x
 EVTOPTBrobobattle_events.9;May fortune be on my side;;;;;;;;;;;;;x
+roboofffense.1;Manuever your Mech Suit to meet your opponent in battle;;;;;;;;;;;;;x
 robobattle_events.10;
 EVTNAMErobobattle_events.10;Retreat...;;;;;;;;;;;;;x
-EVTDESCrobobattle_events.10;It was a close battle, but your opponent has bested you in combat. Your allies manage to rescue you and tow your Mech Suit before the enemy could finish you off, but you'll need time to heal after a fight like this.;;;;;;;;;;;;;x
+EVTDESCrobobattle_events.10;It was a close battle, but your opponent's Mech Suit has bested your suit in combat. Your allies manage to rescue you and tow your Mech Suit before the enemy could finish you off, but you'll need time to heal after a fight like this.;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.10;I'll get them next time...;;;;;;;;;;;;;x
 robobattle_events.11;
 EVTNAMErobobattle_events.11;Decisive Victory;;;;;;;;;;;;;x
-EVTDESCrobobattle_events.11;With great skill and tact, you and your Mech Suit managed to defeat your opponent. Unfortunately, they retreated before you could finish them off.;;;;;;;;;;;;;x
+EVTDESCrobobattle_events.11;With great skill and tact, you and your Mech Suit defeat your opponent and smash their mech suit. Unfortunately, they managed to retreat with their life before you could finish them off.;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.11;Flee, coward!;;;;;;;;;;;;;x
+

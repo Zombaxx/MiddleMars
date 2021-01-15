@@ -3,17 +3,16 @@ heavy_worlder = {
 	opposites =  {
 		spacer_physiology
 	}
-	enatic = yes
-	inherit_chance = 75
-	both_parent_has_trait_inherit_chance = 100
+	inherit_chance = 33
+	both_parent_has_trait_inherit_chance = 75
 	random = no
 	
 	combat_rating = 30	
-	health = +1.5
+	health = +4
 	global_tax_modifier = 0.1
 	same_opinion = 15
-	catholic_opinion = 20
-	christian_opinion = 10
+	catholic_opinion = 10
+	christian_opinion = 5
 	taoist_opinion = 5
 	hindu_opinion = 5
 	ruler_designer_cost = 25
@@ -34,8 +33,8 @@ spacer_physiology = {
 	opposites =  {
 		heavy_worlder
 	}	
-	inherit_chance = 45
-	both_parent_has_trait_inherit_chance = 85	
+	inherit_chance = 25
+	both_parent_has_trait_inherit_chance = 75	
 	random = no
 	command_modifier = {
 		siege = -0.1
@@ -92,11 +91,11 @@ organic_wifi = { #BiFi
 }
 cat_splice = {
 	enatic = yes
-	inherit_chance = 33
-	both_parent_has_trait_inherit_chance = 85
+	inherit_chance = 25
+	both_parent_has_trait_inherit_chance = 66
 	random = no
 
-	taoist_opinion = 10
+	bio_directionist_opinion = 10
 	intrigue = 5
 	combat_rating = 15
 	same_opinion = 10

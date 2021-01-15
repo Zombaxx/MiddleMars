@@ -24,20 +24,7 @@ opinion_supported_war_effort = {
 	months = 36
 
 }
-opinion_recent_marriage = {
-	opinion = 0
-}
-opinion_attending_wedding = {
-	opinion = 0
-}
-opinion_large_dowry = {
-	opinion = 10
-	months = 48
-}
-opinion_small_dowry = {
-	opinion = -15
-	months = 48
-}
-opinion_raised_to_nobility = {
-	opinion = 50
+opinion_executed_kinsman = {
+	opinion = -50
+	months = 2400
 }

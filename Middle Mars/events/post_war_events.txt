@@ -59,7 +59,7 @@ namespace = roytroops
 			custom_tooltip = { text = paytroops2 }
 			prestige = -30
 			scaled_wealth = -0.15
-			add_character_modifier = { modifier = paid_troops_poorly duration = 120}
+			add_character_modifier = { modifier = paid_troops_poorly duration = 90}
 			clr_character_flag = fighting_war
 		}
 		option = { 
@@ -83,7 +83,7 @@ namespace = roytroops
 				chance = 15
 				add_trait = greedy
 			}
-			add_character_modifier = { modifier = angry_troops duration = 190}
+			add_character_modifier = { modifier = angry_troops duration = 120}
 			clr_character_flag = fighting_war
 		}
 		option = { 
@@ -95,7 +95,7 @@ namespace = roytroops
 				chance = 15
 				add_trait = charitable
 			}
-			add_character_modifier = { modifier = paid_troops duration = 190}
+			add_character_modifier = { modifier = double_paid_troops duration = 190}
 			clr_character_flag = fighting_war
 
 		}

@@ -1,0 +1,81 @@
+decisions = {
+	visit_brothel = {
+		potential = {
+			age = 14
+			is_female = no
+		}
+		allow = {
+			in_command = no
+			NOT = { has_character_modifier = visited_brothel }
+			age = 14
+			prisoner = no
+
+			NOT = { trait = incapable }
+			NOT = { trait = homosexual }
+			NOT = { trait = honorable }
+			NOT = { trait = celibate }
+			NOT = { 
+				OR = { 
+					trait = wildling 
+					culture = wildling 
+				} 
+			}
+		}
+		effect = { 
+			hidden_tooltip = {
+				add_character_modifier = {
+					name = visited_brothel
+					duration = 1
+					hidden = yes
+				}
+				character_event = { id = brothel.0 } 
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0 
+		}
+	}		
+#do it with a washerwoman		
+	bed_washerwoman = {
+		potential = {
+			age = 14
+            is_female = no
+		}
+		allow = {
+			in_command = yes
+			NOT = { has_character_modifier = bedded_washerwoman }
+            age = 14
+			prisoner = no
+
+            NOT = { trait = incapable }
+            NOT = { trait = homosexual }
+            NOT = { trait = honorable }
+            NOT = { trait = celibate }
+			NOT = { 
+				OR = { 
+					trait = wildling 
+					culture = wildling } 
+			}
+		}
+		effect = { 
+			hidden_tooltip = {
+				add_character_modifier = {
+					name = bedded_washerwoman
+					duration = 1
+					hidden = yes
+				}
+				character_event = { id = brothel.11 }  
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0 
+		}
+	}		
+}   
+	

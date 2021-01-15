@@ -17,7 +17,6 @@ powerful_vassal_takeover_war = {
   	is_permanent = yes
 
   	can_use_gui = {
-		FROM = { has_character_modifier = vassals_outraged }
 		ROOT = { independent = no }
 	}
 	can_use = { 
@@ -115,7 +114,7 @@ powerful_vassal_takeover_war = {
 	defender_ai_defeat_worth = { factor = 100 }
 
 	ai_will_do = { 
-		factor = 1 
+		factor = 0.2 
 		modifier = {
 			factor = 5 # ambitious rulers eager to grab power
 			FROM = { trait = ambitious }
@@ -132,19 +131,17 @@ powerful_vassal_takeover_war = {
 			}
 		}	
 		modifier = {
-			factor = 1.5 # get this infidel tyrant outta here!
+			factor = 1.5 # get this infidel outta here!
 			FROM = { NOT = { religion = ROOT } }
 		}
 		modifier = {
-			factor = 1.5 # get this foreign tyrant outta here!
+			factor = 1.5 # get this foreigner outta here!
 			FROM = { NOT = { culture = ROOT } }
 		}	
 		modifier = {
 			factor = 2
 			FROM = { 
 				OR = { 
-					trait = just 
-					trait = honest
 					trait = proud
 					trait = deceitful
 				}

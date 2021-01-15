@@ -3698,7 +3698,7 @@ offmap_decisions = {
 			show_only_failed_conditions = yes
 			FROM = {
 				show_scope_change = no
-				has_offmap_currency = { offmap = offmap_china value = 500 }
+				has_offmap_currency = { offmap = offmap_china value = 750 }
 				prisoner = no
 				NOT = { trait = incapable }
 				is_inaccessible_trigger = no
@@ -3747,56 +3747,46 @@ offmap_decisions = {
 
 				add_offmap_currency = {
 					offmap = offmap_china
-					value = -500
+					value = -750
 				}
 				custom_tooltip = { text = chinese_artifact_effect_tt }
 				random_list = {
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = iaei_mk_i
-								trait = iaei_mk_iI
-								trait = iaei_mk_iii
 							}
 						}
 						add_trait = iaei_mk_i
 					}
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = odin_mk_i
-								trait = odin_mk_ii
-								trait = odin_mk_iii
 							}
 						}
 						add_trait = odin_mk_i
 					}
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = pci_mk_i
-								trait = pci_mk_ii
-								trait = pci_mk_iii
 							}
 						}
 						add_trait = pci_mk_i
 					}
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = pluto_mk_i
-								trait = pluto_mk_ii
-								trait = pluto_mk_iii
 							}
 						}
 						add_trait = pluto_mk_i
 					}
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = thoth_mk_i
-								trait = thoth_mk_ii
-								trait = thoth_mk_iii
 							}
 							offmap_china = {
 								offmap_prev_ruler = {
@@ -3813,13 +3803,11 @@ offmap_decisions = {
 					}
 					10 = {
 						trigger = {
-							NOR = {
+							NOT = {
 								trait = iaei_mk_ii
-								trait = iaei_mk_iii
 							}
 						}
 						add_trait = iaei_mk_ii
-						remove_trait = iaei_mk_i
 					}
 					10 = {
 						trigger = {
@@ -3918,206 +3906,12 @@ offmap_decisions = {
 			factor = 1
 			
 			modifier = {
-				factor = 0.2 # slow down
+				factor = 0.1 # slow down
 			}
 			modifier = {
 				factor = 0.1
 				NOT = {
 					trait = greedy
-				}
-			}
-		}
-	}
-	
-	chinese_clone = {
-		only_playable = yes
-		button_name = offmap_boons
-		ai_check_interval = 60
-
-		from_potential = {
-			has_dlc = "Jade Dragon"
-			mercenary = no
-			holy_order = no
-			is_landed = yes
-		}
-
-		potential = {
-			is_offmap_tag = offmap_china
-		}
-	
-		allow = {
-			show_only_failed_conditions = yes
-			FROM = {
-				show_scope_change = no
-				has_offmap_currency = { offmap = offmap_china value = 750 }
-				prisoner = no
-				NOT = { trait = incapable }
-				is_inaccessible_trigger = no
-			}
-			china_offmap_boon_decisions_enabled_trigger = yes
-			custom_tooltip = {
-				text = chinese_artifact_has_all_tt
-				hidden_tooltip = {
-					FROM = {
-						NAND = {
-							has_artifact = chinese_artwork
-							has_artifact = chinese_calligraphy
-							has_artifact = chinese_sculpture
-							has_artifact = chinese_ceremonial_robes
-							OR = {
-								has_artifact = chinese_prev_emperor_sculpture
-								offmap_china = {
-									offmap_prev_ruler = {
-										always = no
-									}
-								}
-							}
-							has_artifact = chinese_arm_protector
-							has_artifact = chinese_serpent_spear
-							has_artifact = chinese_ji
-							has_artifact = chinese_crossbow
-							has_artifact = chinese_bronze_sculpture
-							has_artifact = chinese_book_health
-							has_artifact = chinese_book_law
-							has_artifact = chinese_book_history
-							has_artifact = chinese_book_economy
-							has_artifact = chinese_painting_of_glitterhoof
-							has_artifact = chinese_tapestry
-							has_artifact = chinese_tapestry_grand
-						}
-					}
-				}
-			}
-		}
-
-		effect = {
-			FROM = {
-				show_scope_change = no
-				
-				sound_effect = china_grace_spend
-
-				add_offmap_currency = {
-					offmap = offmap_china
-					value = -750
-				}
-				custom_tooltip = { text = chinese_artifact_effect_tt }
-				character_event = { id = clone.0 }
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-			
-			modifier = {
-				factor = 0.2 # slow down
-			}
-			modifier = {
-				factor = 0.1
-				NOR = {
-					trait = genius
-					trait = quick
-					trait = strong
-					trait = attractive
-					trait = agile
-					trait = tall
-					trait = heavy_worlder
-				}
-			}
-		}
-	}
-
-	chinese_vatborn = {
-		only_playable = yes
-		button_name = offmap_boons
-		ai_check_interval = 60
-
-		from_potential = {
-			has_dlc = "Jade Dragon"
-			mercenary = no
-			holy_order = no
-			is_landed = yes
-		}
-
-		potential = {
-			is_offmap_tag = offmap_china
-		}
-	
-		allow = {
-			show_only_failed_conditions = yes
-			FROM = {
-				show_scope_change = no
-				has_offmap_currency = { offmap = offmap_china value = 1500 }
-				prisoner = no
-				NOT = { trait = incapable }
-				is_inaccessible_trigger = no
-			}
-			china_offmap_boon_decisions_enabled_trigger = yes
-			custom_tooltip = {
-				text = chinese_artifact_has_all_tt
-				hidden_tooltip = {
-					FROM = {
-						NAND = {
-							has_artifact = chinese_artwork
-							has_artifact = chinese_calligraphy
-							has_artifact = chinese_sculpture
-							has_artifact = chinese_ceremonial_robes
-							OR = {
-								has_artifact = chinese_prev_emperor_sculpture
-								offmap_china = {
-									offmap_prev_ruler = {
-										always = no
-									}
-								}
-							}
-							has_artifact = chinese_arm_protector
-							has_artifact = chinese_serpent_spear
-							has_artifact = chinese_ji
-							has_artifact = chinese_crossbow
-							has_artifact = chinese_bronze_sculpture
-							has_artifact = chinese_book_health
-							has_artifact = chinese_book_law
-							has_artifact = chinese_book_history
-							has_artifact = chinese_book_economy
-							has_artifact = chinese_painting_of_glitterhoof
-							has_artifact = chinese_tapestry
-							has_artifact = chinese_tapestry_grand
-						}
-					}
-				}
-			}
-		}
-
-		effect = {
-			FROM = {
-				show_scope_change = no
-				
-				sound_effect = china_grace_spend
-
-				add_offmap_currency = {
-					offmap = offmap_china
-					value = -1500
-				}
-				custom_tooltip = { text = chinese_artifact_effect_tt }
-				character_event = { id = clone.110 }
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-			
-			modifier = {
-				factor = 0.3 # slow down
-			}
-			modifier = {
-				factor = 0.1
-				NOR = {
-					trait = genius
-					trait = quick
-					trait = strong
-					trait = attractive
-					trait = agile
-					trait = tall
-					trait = heavy_worlder
 				}
 			}
 		}

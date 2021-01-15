@@ -125,6 +125,7 @@ castle = {
 		potential = {	
 			FROM = {
 			OR = {	
+				culture = ethiopian
 				religion = taoist
 				religion = tengri_pagan	
 				}	
