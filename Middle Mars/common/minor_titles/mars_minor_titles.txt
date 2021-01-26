@@ -14,6 +14,7 @@ title_mistress = {
 	
 	allowed_to_hold = {
 		is_adult = yes
+		is_ruler = no
 		AND = {
 			is_married = no
 			is_female = yes
@@ -74,12 +75,10 @@ title_grand_judge = {
 	}
 	
 	allowed_to_grant = {
-		OR = {
 			capital_holding = {
 				has_building = ca_high_court
 			}
 		}
-	}
 	
 	grant_limit = 1
 	gain_effect = {
@@ -87,6 +86,46 @@ title_grand_judge = {
 	}
 	lose_effect = {
 	}
+	message = yes
+}
+title_sarc_blacksmith = {
+	dignity = 0.5
+	realm_in_name = yes
+	grant_limit = 1
+	opinion_effect = 5
+	attribute = stewardship
+	
+	monthly_salary = 1.00
+	monthly_prestige = 0.45
+	
+	allowed_to_hold = {
+		is_adult = yes
+		is_landed = no
+		NOT = { trait = incapable }
+		is_female = no
+	}
+	
+	allowed_to_grant = {
+		capital_holding = {
+			OR = {
+		has_building = ct_f_blacksmith
+		has_building = ca_f_blacksmith }
+		}
+	}
+	
+	revoke_trigger = {
+		custom_tooltip = {
+			text = BUSYCRAFTING
+			NOT = { has_character_flag = crafting }
+		}
+	}
+	
+	gain_effect = {
+		prestige = 20
+	}
+	lose_effect = {
+	}
+	
 	message = yes
 }
 

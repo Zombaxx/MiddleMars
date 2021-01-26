@@ -28,3 +28,9 @@ opinion_executed_kinsman = {
 	opinion = -50
 	months = 2400
 }
+training_yard_pos = {
+	opinion = 20
+}
+training_yard_neg = {
+	opinion = -10
+}

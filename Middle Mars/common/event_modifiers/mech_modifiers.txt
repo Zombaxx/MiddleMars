@@ -95,7 +95,10 @@ going_to_school = {
 college_educated = {
 	prestige = 1
 	icon = 2
-	hidden = yes
+}
+studying_real_hard = {
+	learning = 1
+	icon = 2
 }
 mta_awaiting_execution = {
 	icon = 1
@@ -123,4 +126,15 @@ double_paid_troops = {
 	levy_reinforce_rate = 0.25
 	global_revolt_risk = -0.05	
 	icon = 97
+}
+sarc_renowned_blacksmith = {
+	icon = 18
+	martial = 1
+	learning = 1
+	stewardship = 1
+	monthly_character_prestige = 0.10
+}
+ca_chapel_2_learning = {
+	learning = 1
+	icon = 3
 }

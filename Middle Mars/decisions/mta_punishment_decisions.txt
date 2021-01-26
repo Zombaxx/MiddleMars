@@ -34,13 +34,13 @@ targetted_decisions = {
 
 				mother = {
 					opinion = {
-						modifier = opinion_executed_kinsman
+						modifier = opinion_executed_child
 						who = FROM
 					}
 				}
 				father = {
 					opinion = {
-						modifier = opinion_executed_kinsman
+						modifier = opinion_executed_child
 						who = FROM
 					}
 				}
@@ -65,13 +65,13 @@ targetted_decisions = {
 					}
 					any_sibling = {
 						opinion = {
-							modifier = opinion_executed_kinsman
+							modifier = opinion_killed_close_kin
 							who = FROM
 						}
 					}
 					any_dynasty_member = {
 						opinion = {
-							modifier = opinion_executed_kinsman
+							modifier = opinion_killed_close_kin
 							who = FROM
 						}
 					}
@@ -122,6 +122,58 @@ targetted_decisions = {
 			FROM = { #The one doing the mutilation
 				save_event_target_as = mta_mutilation_from
 				character_event = { id = "mta.2" }
+			}
+			hidden_tooltip = {
+				ROOT = {
+					opinion = {
+						modifier = opinion_mutilated_me
+						who = FROM
+					}
+				}
+				mother = {
+					opinion = {
+						modifier = opinion_mutilated_close_kin
+						who = FROM
+					}
+				}
+				father = {
+					opinion = {
+						modifier = opinion_mutilated_close_kin
+						who = FROM
+					}
+				}
+				spouse = {
+					opinion = {
+						modifier = opinion_mutilated_close_kin
+						who = FROM
+					}
+				}
+				any_child = {
+					opinion = {
+						modifier = opinion_mutilated_close_kin
+						who = FROM
+					}
+				}
+				if = {
+					limit = {
+						FROM = {
+							NOT = { dynasty = ROOT }
+							NOT = { sibling = ROOT }
+						}
+					}
+					any_sibling = {
+						opinion = {
+							modifier = opinion_mutilated_family
+							who = FROM
+						}
+					}
+					any_dynasty_member = {
+						opinion = {
+							modifier = opinion_mutilated_family
+							who = FROM
+						}
+					}
+				}
 			}
 		}
 		

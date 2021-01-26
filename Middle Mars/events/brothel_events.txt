@@ -460,6 +460,9 @@ namespace = brothel
 		is_triggered_only = yes
 
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN2"
 
 		create_character = {
@@ -613,6 +616,9 @@ namespace = brothel
 		}	
 		
 		option = {
+		ai_chance = { 	
+			factor = 40
+			}
 		name = "EVTBASTARDBORN3"
 
 		piety = -50
@@ -627,6 +633,9 @@ namespace = brothel
 		}	
 
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN4"
 
 		random = {
@@ -796,6 +805,9 @@ namespace = brothel
 		}
 		
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN5"
 
 		wealth = -50
@@ -816,6 +828,9 @@ namespace = brothel
 		is_triggered_only = yes
 
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN2"
 
 		create_character = {
@@ -970,6 +985,9 @@ namespace = brothel
 		}
 
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN3"
 
 		piety = -50
@@ -984,6 +1002,9 @@ namespace = brothel
 		}	
 
 		option = {
+		ai_chance = { 	
+			factor = 40
+			}
 		name = "EVTBASTARDBORN4"
 		
 		random = {
@@ -1153,6 +1174,9 @@ namespace = brothel
 		}
 		
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "EVTBASTARDBORN5"
 
 		wealth = -50
@@ -1188,6 +1212,9 @@ namespace = brothel
 		}		
 
 		option = {
+		ai_chance = { 	
+			factor = 90
+			}
 		name = "EVTRUNFROMWHORE" 
 		
 		random = {
@@ -1234,6 +1261,9 @@ namespace = brothel
 		is_triggered_only = yes
 		
 		option = {
+		ai_chance = { 	
+			factor = 20
+			}
 		name = "ACCEPTBASTARD"
 		
 		create_character = {
@@ -1389,6 +1419,9 @@ namespace = brothel
 			}
 			
 			option = {
+		ai_chance = { 	
+			factor = 80
+			}
 			name = "IGNOREBASTARD"
 			
 			piety = -50
@@ -1405,6 +1438,9 @@ character_event = {
 		is_triggered_only = yes
 		
 		option = {
+		ai_chance = { 	
+			factor = 60
+			}
 		name = "ACCEPTBASTARD"
 		
 		create_character = {

@@ -675,14 +675,9 @@ succ_feudal_elective = {
 				}
 
 				NOT = { government = theocratic_feudal_government }
-				NAND = { #Uses kingsmoot
-					higher_tier_than = DUKE
-					government = feudal_government
-				}
 			}
 			OR = {
 				is_landless_type_title = no
-				#is_tribal_type_title = yes
 				temporary = yes
 				holder_scope = {
 					demesne_size = 1
@@ -711,7 +706,7 @@ succ_feudal_elective = {
 			}
 		}
 		default_selection = {
-			factor = 0
+			factor = 0.5
 		}
 		ai_will_do = {
 			factor = 1

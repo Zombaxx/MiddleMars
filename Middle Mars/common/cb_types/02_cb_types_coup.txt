@@ -117,11 +117,11 @@ powerful_vassal_takeover_war = {
 		factor = 0.2 
 		modifier = {
 			factor = 5 # ambitious rulers eager to grab power
-			FROM = { trait = ambitious }
+			ROOT = { trait = ambitious }
 		}
 		modifier = {
 			factor = 0 # cowards and cripples need not apply
-			FROM = { 
+			ROOT = { 
 				OR = { 
 					trait = craven 
 					trait = incapable
@@ -140,7 +140,7 @@ powerful_vassal_takeover_war = {
 		}	
 		modifier = {
 			factor = 2
-			FROM = { 
+			ROOT = { 
 				OR = { 
 					trait = proud
 					trait = deceitful

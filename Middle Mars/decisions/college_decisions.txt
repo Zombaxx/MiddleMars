@@ -16,9 +16,6 @@ decisions = {
 		effect = {
 			character_event = { id = college_school_events.10 } 
 		}
-		revoke_allowed = {
-			always = no
-		}
 		ai_will_do = {
 			factor = 0
 		}

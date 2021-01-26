@@ -7,8 +7,8 @@ bs_history = {
 }
 bs_politics = {
 	diplomacy = 2
-	stewardship = 2
-	intrigue = 1
+	stewardship = 1
+	intrigue = 2
 }
 bs_psychology = {
 	diplomacy = 1
@@ -34,6 +34,7 @@ bs_art = {
 }
 bs_literature = {
 	diplomacy = 2
+	intrigue = 1
 	learning = 3
 }
 bs_communications = {
@@ -58,7 +59,9 @@ bs_cosmology = {
 	learning = 4
 }
 bs_philosophy = {
+	diplomacy = 1
 	learning = 5
+	learning = 2
 }
 bs_mathematics = {
 	stewardship = 2

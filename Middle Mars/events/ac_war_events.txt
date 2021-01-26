@@ -63,10 +63,10 @@ character_event = {
 	option = {
 		name = EVTOPTCAc.6666
 		trigger = { 
-			OR = {
+		OR = {
+			trait = cruel
 			trait = arbitrary
 			trait = ruthless
-			trait = cruel
 			}
 		}
 		custom_tooltip = { text = TOOLTIPEVTOPTArobosiege.3 }
@@ -181,7 +181,7 @@ character_event = {
 			}
 		}
 		scaled_wealth = 0.1
-		FROM = { scaled_wealth = -0.1 }
+		FROM = { scaled_wealth = -0.15 }
 	}
 	option = {
 		name = EVTOPTCAc.7777

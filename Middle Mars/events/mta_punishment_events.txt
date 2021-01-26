@@ -10,10 +10,6 @@ character_event = {
 	
 	is_triggered_only = yes
 
-	#Cancel
-	option = {
-		name = "mta.2.z"
-	}
 
 	#Disfigurement
 	option = {
@@ -240,10 +236,12 @@ character_event = {
 			add_trait = eunuch
 			jailor_mutilate_effect = yes
 		}
-		
-		#event_target:mta_mutilation_from = { save_event_target_as = remove_prison_reason_effect_accuser }
-		#event_target:mta_mutilation_root = { save_event_target_as = remove_prison_reason_effect_accused }
-		#event_target:mta_mutilation_from = { remove_opinions_with_prison_reason_effect = yes }
+		FROM = {
+			opinion = {
+				modifier = opinion_castrated_me
+				who = ROOT
+			}
+		}
 	}
 	
 }

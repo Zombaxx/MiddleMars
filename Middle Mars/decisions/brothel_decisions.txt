@@ -9,16 +9,14 @@ decisions = {
 			NOT = { has_character_modifier = visited_brothel }
 			age = 14
 			prisoner = no
-
 			NOT = { trait = incapable }
 			NOT = { trait = homosexual }
-			NOT = { trait = honorable }
 			NOT = { trait = celibate }
-			NOT = { 
-				OR = { 
-					trait = wildling 
-					culture = wildling 
-				} 
+			NOT = { trait = chaste }
+			capital_scope = { 
+				OR = {
+				has_building = ct_f_brothel
+				has_building = ca_brothel }
 			}
 		}
 		effect = { 
@@ -35,30 +33,39 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 0 
+			factor = 1 
+			modifier = {
+				factor = 0.5
+			}
+			modifier = {
+				factor = 0.05
+				is_married = yes
+			}
+			modifier = {
+				factor = 2
+				trait = lustful
+			}
+			modifier = {
+				factor = 0
+				trait = honest
+			}
 		}
 	}		
-#do it with a washerwoman		
+#do it with a camp follower (at war)		
 	bed_washerwoman = {
 		potential = {
 			age = 14
-            is_female = no
+            		is_female = no
 		}
 		allow = {
 			in_command = yes
 			NOT = { has_character_modifier = bedded_washerwoman }
-            age = 14
+           		age = 14
 			prisoner = no
-
-            NOT = { trait = incapable }
-            NOT = { trait = homosexual }
-            NOT = { trait = honorable }
-            NOT = { trait = celibate }
-			NOT = { 
-				OR = { 
-					trait = wildling 
-					culture = wildling } 
-			}
+           	 	NOT = { trait = incapable }
+            		NOT = { trait = homosexual }
+            		NOT = { trait = chaste }
+            		NOT = { trait = celibate }
 		}
 		effect = { 
 			hidden_tooltip = {
@@ -74,7 +81,18 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 0 
+			factor = 1 
+			modifier = {
+				factor = 0.25
+			}
+			modifier = {
+				factor = 2
+				trait = lustful
+			}
+			modifier = {
+				factor = 0.05
+				is_married = yes
+			}
 		}
 	}		
 }   
