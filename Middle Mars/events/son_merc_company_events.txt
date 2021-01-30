@@ -34,10 +34,22 @@ character_event = {
 		prestige = -25
 	}
 	option = { # Allow
-		name = EVTOPTBson_merc_company.1
+		name = EVTOPTB_TOG_3110
 		random_independent_ruler = {
 			limit = {
-			mercenary = yes
+				primary_title = {
+					OR = {
+						title = d_south_alba_band
+						title = d_acheron_band
+						title = d_noctis_fossae_band
+						title = d_valles_marineris_band
+						title = d_xanthe_terra_band
+						title = d_duzul_band
+						title = d_tael_band
+						title = d_karork_band
+						title = d_gigas_sulci_band
+					}
+				}	
 			}
 			FROM = {
 				move_character = PREV

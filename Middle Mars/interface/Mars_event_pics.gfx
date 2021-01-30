@@ -9,8 +9,7 @@ spriteTypes = {
 		name = "GFX_roy_draft"
 		texturefile = "gfx\\event_pictures\roy_draft.dds"
 		allwaystransparent = yes
-	}
-	
+	}	
 	spriteType = {
 		name = "GFX_mech_fight"
 		texturefile = "gfx\\event_pictures\mech_fight.dds"

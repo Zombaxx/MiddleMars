@@ -1,13 +1,43 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 steal_spouse_title_dec;Steal Spouse's Title;;;;;;;;;;;;;x
 steal_spouse_title_dec_desc;I shall gather some loyal men to help me take my wife's title.;;;;;;;;;;;;;x
-EVTDESCsteal_spouse_title.1;I have gathered enough support form my loyal followers to try and take control of my wife's title! My men have [From.Capital.GetName] surrounded, but she has meekly surrendered.;;;;;;;;;;;;;x
-opinion_stolen_title;Usurped My Title!;;;x
+EVTDESCsteal_spouse_title.1;I have gathered enough support form my loyal followers to try and take control of my wife's title!;;;;;;;;;;;;;x
 EVTOPTAsteal_spouse_title.1;A woman is unfit to rule these lands!;;;;;;;;;;;;;x
-TOOLTIPEVTOPTAsteal_spouse_title.1;Take your wife's title and have her rejoin your court, where she belongs.;;;x
+EVTOPTBsteal_spouse_title.1;On second thoughts I shall leave her be...;;;;;;;;;;;;;x
 EVTOPTCsteal_spouse_title.1;On second thoughts I shall leave her be...;;;;;;;;;;;;;x
-son_merc_company_dec;Send [Root.GetTitledFirstName] to train with a Mercenary Company;;;;;;;;;;;;;x
-son_merc_company_dec_desc;Send your son to train with a mercenary company for some years and hope they return as a hardened soldier.;;;;;;;;;;;;;x
-EVTDESCson_merc_company.1;You have decided to send your son to a mercenary company to train. His belongs are packed, are you sure you want him to go?;;;;;;;;;;;;;x
-EVTOPTBson_merc_company.1;I hope he returns a great man!;;;x
-EVTOPTAson_merc_company.1;On second thought no, he shall remain with me.;;;;;;;;;;;;;x
+son_merc_company_dec;Send [Root.GetTitledFirstName] to train with a Sellsword Company;;;;;;;;;;;;;x
+son_merc_company_dec_desc;Send your son to train with a Sellsword company for some years and hope they return as a hardened soldier.;;;;;;;;;;;;;x
+EVTDESCson_merc_company.1;You have decided to send your son to a mercenary company to train, are you sure?;;;;;;;;;;;;;x
+EVTOPTAson_merc_company.1;On second thoughts no, he shall remain with me.;;;;;;;;;;;;;x
+EVTDESCfaceless.103;You have discretely sent word to the [Root.GetAssassinsGuildName] Assassins Guild that you require their services. Soon they will reply...;;;;;;;;;;;;;x
+EVTDESCfaceless.6000;You agree to the bargain and take the coin which the [Root.GetAssassinsGuildName] left you to a local trader and say the secret words. The next evening the hooded man appears again. He asks you for the name.;;;;;;;;;;;;;x
+EVTDESCfaceless.7000;While standing on the balcony, a sudden shivering overcomes you. Something is wrong. You suddenly feel someone grip your throat from behind, leaving you unable to scream for help. Your assailant's mouth is right next to your ear when they whisper  'And now you are no more',  and it is the last thing you hear before they slice your neck open.;;;;;;;;;;;;;x
+plot_kill_assassins;Send for an Assassin;Envoyer un Navré;;;;;;;;;;;;x
+plot_kill_assassins_desc;If you are willing to pay a high price the [Root.GetAssassinsGuildName] Assassins Guild may kill [Root.PlotTarget.GetTitledFirstName] for you, leaving no trace of your involvement.;;;;;;;;;;;;;x
+d_assassins;The Assassins;;;;;;;;;;;;;x
+ASSASSIN_TITLE;Grand Master;;;;;;;;;;;;;x
+ASSASSIN_FOA;My Master;;;;;;;;;;;;;x
+found_assassins;Found an Assassins Guild;;;;;;;;;;;;;x
+found_assassins_desc;Found an Assassin Guild and name it as well as appoint a head assassin.;;;;;;;;;;;;;x
+TOOLTIPfaceless.1ASSASSIN;The Assassins will consider your request;Les Navrés vous réfléchir à votre requête.;;;;;;;;;;;;x
+assassin_gruop;Assassins;;;;;;;;;;;;;x
+assassins;Assassins;;;;;;;;;;;;;x
+assassins_DESC;Less a religion but more a set of rules that the Assassin Guild's members follow: to always remain hidden in the shadows and never bring danger to the guild.;;;;;;;;;;;;;x
+GOD_ASSASSIN;Assassin;;;;;;;;;;;;;x
+EVTDESCfound_assassins.1;What do you wish to call your Assassins Guild?;;;;;;;;;;;;;x
+EVTOPTAfound_assassins.1;More names;;;;;;;;;;;;;x
+EVTOPTBfound_assassins.1;The Black Daggers;;;;;;;;;;;;;x
+EVTOPTCfound_assassins.1;The Red Blades;;;;;;;;;;;;;x
+EVTOPTDfound_assassins.1;The Shadowsteps;;;;;;;;;;;;;x
+EVTOPTEfound_assassins.1;The Brotherhood of Darkness;;;;;;;;;;;;;x
+EVTOPTFfound_assassins.1;The Night Walkers;;;;;;;;;;;;;x
+EVTOPTGfound_assassins.1;The Midnight Phantoms;;;;;;;;;;;;;x
+EVTDESCfound_assassins.2;After amassing enough wealth and having made the right contacts you have finally managed to found your own Assassins Guild here in [Root.Capital.GetName] which you have decided to call the "[Root.GetAssassinsGuildName]". With this new guild people all over Westeros will be able to deal with their enemies for the right price. Not only that but the guild in turn pays taxes to you as their liege.;;;;;;;;;;;;;x
+EVTOPTAfound_assassins.2;This will be most profitable!;;;;;;;;;;;;;x
+TOOLTIPfound_assassins.2;It may be a good idea to give the [Root.GetAssassinsGuildName] a holding of their own to work out of.\n;;;;;;;;;;;;;x
+AssassinsGuild_black_daggers;Black Daggers;;;;;;;;;;;;;x
+AssassinsGuild_red_blades;Red Blades;;;;;;;;;;;;;x
+AssassinsGuild_shadowsteps;Shadowsteps;;;;;;;;;;;;;x
+AssassinsGuild_brotherhood_darkness;Brotherhood of Darkness;;;;;;;;;;;;;x
+AssassinsGuild_night_walkers;Night Walkers;;;;;;;;;;;;;x
+AssassinsGuild_midnight_phantoms;Midnight Phantoms;;;;;;;;;;;;;x

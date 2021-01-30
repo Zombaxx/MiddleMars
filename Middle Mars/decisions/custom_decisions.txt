@@ -63,3 +63,44 @@ targetted_decisions = {
 		}
 	}
 }
+
+decisions = {
+
+	steal_spouse_title_dec = {
+		is_high_prio = yes
+		only_rulers = yes
+		potential = {
+			is_ruler = yes
+			is_female = no
+			is_fedual = yes
+			prisoner = no
+			is_primary_war_attacker = no
+			is_primary_war_defender = no
+			age = 16
+			spouse = {
+				is_primary_war_attacker = no
+				is_primary_war_defender = no
+				is_female = yes
+				primary_title = { higher_tier_than = baron }
+				is_pregnant = no
+			}
+		}
+		allow = {
+			spouse = {
+				is_female = yes
+				primary_title = { higher_tier_than = baron }
+				is_pregnant = no
+			}
+		}
+		effect = {
+			character_event = { id = steal_spouse_title.1 }
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+}
