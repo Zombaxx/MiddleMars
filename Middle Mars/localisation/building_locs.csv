@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
 #Buildings
+ca_paved_roads;Paved Roads;;;x
+ca_paved_roads_desc;Paved roads facilitate easier travel. However, upkeep is expensive.;;;x
 ca_conference_center;Conference Center;x
 ca_conference_center_desc;A central conference center will provide our government with a location for holding high-level meetings, negotiations, and other get-togethers.;x
 ca_assembly_chamber;Assembly Chamber;x

@@ -4,7 +4,7 @@ powerful_vassal_takeover_war_desc;I am the more powerful ruler with the stronger
 
 CB_NAME_GRAND_INVASION;Grand Invasion!;;;;;;;;;;;;x
 grand_invasion_war_desc;God has ordained that I shall rule over as much of this land as I can take by force!;;;;;;;;;;;;x
-WAR_NAME_GRAND_INVASION;[Root.GetFirstName]'s Invasion of $SECOND_ADJ$;;;;;;;;;;;;x
+WAR_NAME_GRAND_INVASION;Invasion of $SECOND_ADJ$;;;;;;;;;;;;x
 
 CB_NAME_SHATTER_REALM;Destroy the [Title.GetFullBaseName]!;;;;;;;;;;;;x
 WAR_NAME_SHATTER_REALM;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ War;;;;;;;;;;;;;x

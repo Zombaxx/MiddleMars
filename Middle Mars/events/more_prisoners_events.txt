@@ -34,7 +34,6 @@ character_event = {
 						}
 						imprison = ROOT
 						opinion = { modifier = opinion_kidnapped who = ROOT years= 10 }
-						reverse_opinion = { modifier = declared_war who = ROOT years = 10 }
 					}
 				}
 			}

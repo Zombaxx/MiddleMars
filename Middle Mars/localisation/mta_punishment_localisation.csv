@@ -51,6 +51,7 @@ mta_REASON_RELIGION_GROUP;This option is available because you are §Y[Root.Relig
 mta_REASON_IS_NORSE_PAGAN;This option is available because you are §Y[norse_pagan.GetName]§!;;;;;;;;;x
 mta_REASON_IS_CHRISTIAN;This option is available because you are §Y[christian.GetGroupName]§!;;;;;;;;;x
 mta_REASON_IS_MUSLIM;This option is available because you are §Y[muslim.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_PETS;This option is available because you have §YExotic Pets§! in your capital.;;;;;;;;;x
 ### EVENTS ###
 #Specific Mutilation
 mta.2.desc;You order the jailor to drag [From.GetTitledFirstName] from [From.GetHerHis] cell while you methodically prepare your tools. No one crosses you unscathed and [From.GetFirstName] will become a living example of this. At least that's the plan, but who knows? You could... slip.;;;;;;;;;x

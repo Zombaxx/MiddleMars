@@ -632,7 +632,8 @@ castle = {
 	ca_chapel_2 = {
 		potential = {
 			OR = {
-				FROM = { 
+				FROM = {
+					religion_group = christian
 					OR = {
 						tier = KING
 						tier = EMPEROR
@@ -640,9 +641,6 @@ castle = {
 					capital_holding = {
 						title = FROMFROM
 					}
-				}
-				FROMFROM = {
-					has_building = ca_chapel_2
 				}
 			}
 		}

@@ -999,19 +999,71 @@ character_event = {
 		}
 	}
 	
-	#Feed to beasts
+	#Lion
 	option = {
-		name = "mta.3.1.b"
+		name = "mta.15.a"
 		trigger = {
 			capital_scope = {
 				has_building = ca_exotic_pets
 				}
 		}
-		tooltip_info_custom = mta_REASON_CULTURE
-		FROM = { save_event_target_as = kinslayer_target }
-		add_kinslayer_trait_effect = yes
-		mta_execution_opinion_effect = yes
-		character_event = { id = "mta.15" tooltip = "mta_feed_to_beasts_TT" }
+		tooltip_info_custom = mta_REASON_IS_PETS
+		FROM = {
+			death = {
+				death_reason = death_execution_lion
+				killer = ROOT
+			}
+		}
+	}
+	
+	#Bear
+	option = {
+		name = "mta.15.b"
+		trigger = {
+			capital_scope = {
+				has_building = ca_exotic_pets
+				}
+		}
+		tooltip_info_custom = mta_REASON_IS_PETS
+		FROM = {
+			death = {
+				death_reason = death_execution_bear
+				killer = ROOT
+			}
+		}
+	}
+	#Elephants
+	option = {
+		name = "mta.15.c"
+		trigger = {
+			capital_scope = {
+				has_building = ca_exotic_pets
+				}
+		}
+		tooltip_info_custom = mta_REASON_IS_PETS
+		FROM = {
+			death = {
+				death_reason = death_execution_elephants
+				killer = ROOT
+			}
+		}
+	}
+	
+	#Boar
+	option = {
+		name = "mta.15.d"
+		trigger = {
+			capital_scope = {
+				has_building = ca_exotic_pets
+				}
+		}
+		tooltip_info_custom = mta_REASON_IS_PETS
+		FROM = {
+			death = {
+				death_reason = death_execution_boar
+				killer = ROOT
+			}
+		}
 	}
 	
 	#Brazen bull

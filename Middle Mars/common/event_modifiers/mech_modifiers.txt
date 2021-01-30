@@ -138,3 +138,12 @@ ca_chapel_2_learning = {
 	learning = 1
 	icon = 3
 }
+utilize_weap = {
+	icon = 103
+	combat_rating = 10
+	command_modifier = {
+		morale_offence = 0.15
+		morale_defence = 0.15
+	}
+}
+

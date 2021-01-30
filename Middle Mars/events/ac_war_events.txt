@@ -69,7 +69,7 @@ character_event = {
 			trait = ruthless
 			}
 		}
-		custom_tooltip = { text = TOOLTIPEVTOPTArobosiege.3 }
+		tooltip_info_custom = TOOLTIPEVTOPTArobosiege.3 
 		prestige = 100
 		scaled_wealth = 1
 		character_event = { id = Ac.6668 }

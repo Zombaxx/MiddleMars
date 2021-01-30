@@ -1,4 +1,10 @@
 spriteTypes = {
+
+	spriteType = {
+		name = "GFX_roy_guns"
+		texturefile = "gfx\\event_pictures\roy_guns.dds"
+		allwaystransparent = yes
+	}
 	
 	spriteType = {
 		name = "GFX_mech_fight"

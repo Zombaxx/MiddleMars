@@ -1,7 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;x
 
 title_grand_judge;Grand Judge;;x
-title_grand_judge_desc;The Grand Judge arbitrates all high profile trials that happen in the capital. They can only be appointed by the top liege.;;;x
+title_grand_judge_desc;The Grand Judge arbitrates all high profile trials that happen in the capital. Once they are appointed, they serve for life.;;;x
 high_court_laws;High Court Laws;;;;;;;;;;;;x
 high_court_laws_desc;These laws define how fair or harsh miscreants in your realm are punished, and expands what a "miscreant" may happen to be.;;;;;;;;;;;;;x
 high_court_law_0;Free Speech;;;;;;;;;;;;;x

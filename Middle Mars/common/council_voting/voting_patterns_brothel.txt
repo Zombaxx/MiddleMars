@@ -1,0 +1,143 @@
+loyalist_pattern_for = {
+	icon = 3
+	pattern_type = for
+	
+	brothel_law_0 = { always = yes }
+	brothel_law_1 = { always = yes }
+}
+
+selfish_pattern_for = {
+	icon = 9
+	pattern_type = for
+	
+	brothel_law_1 = {
+		custom_tooltip = { text = glory_no_whores }
+		hidden_tooltip = {
+			NOT = { trait = proud }
+			NOT = { trait = just }
+			NOT = { trait = lustful }
+			OR = {
+				trait = kind
+				trait = honorable
+				trait = chaste
+			} 
+		}
+	}
+
+}
+
+selfish_pattern_against = {
+	icon = 9
+	pattern_type = against
+	
+	brothel_law_1 = { 
+		custom_tooltip = { text = pragmatist_yes }
+		hidden_tooltip = {
+			NOT = { trait = kind }
+			NOT = { trait = honorable }
+			NOT = { trait = chaste }
+			OR = {
+				trait = proud
+				trait = just
+				trait = lustful
+			}
+		}
+	}
+
+}
+
+pragmatist_pattern_for = {
+	icon = 6
+	pattern_type = for
+	
+	brothel_law_0 = { 
+		custom_tooltip = { text = pragmatist_yes }
+		hidden_tooltip = {
+			always = yes 
+		}
+	}
+
+	brothel_law_1 = {	
+		custom_tooltip = { text = glory_no_whores }
+		hidden_tooltip = {
+			opinion = {
+				who = liege
+				value = 40
+			}
+		}
+	}
+}
+
+pragmatist_pattern_against = {
+	icon = 6
+	pattern_type = against
+	
+	brothel_law_1 = {	
+		custom_tooltip = { text = pragmatist_yes }
+		hidden_tooltip = {
+			NOT = { trait = proud }
+			NOT = { trait = just }
+			NOT = { trait = lustful }
+			OR = {
+				trait = kind
+				trait = honorable
+				trait = chaste
+			}
+		} 
+	}
+}
+
+glory_hound_pattern_for = {
+	icon = 7
+	pattern_type = for
+	
+	brothel_law_1 = {	
+		custom_tooltip = { text = glory_no_whores }
+			liege = {
+				primary_title = { has_law = brothel_law_0 }				
+			}
+		}
+	}
+}
+
+glory_hound_pattern_against = {
+	icon = 7
+	pattern_type = against
+
+	brothel_law_0 = {	
+		custom_tooltip = { text = glory_no_whores }
+		hidden_tooltip = {
+			NOT = { trait = proud }
+			NOT = { trait = just }
+			NOT = { trait = lustful }
+			OR = {
+				trait = kind
+				trait = honorable
+				trait = chaste
+			} 
+		}
+	}
+}
+
+zealot_pattern_for = {
+	icon = 5
+	pattern_type = for
+	
+	brothel_law_1 = { 
+		custom_tooltip = { text = priest_no_whores }
+			always = yes				
+	}
+}
+
+zealot_pattern_against = {
+	icon = 5
+	pattern_type = against
+		
+	brothel_law_0 = { 
+		custom_tooltip = { text = priest_no_whores }
+		NOT = { trait = lustful }
+
+		}
+				
+	}
+}

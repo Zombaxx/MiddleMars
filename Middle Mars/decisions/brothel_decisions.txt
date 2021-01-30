@@ -5,6 +5,7 @@ decisions = {
 			is_female = no
 		}
 		allow = {
+			wealth = 35
 			in_command = no
 			NOT = { has_character_modifier = visited_brothel }
 			age = 14
@@ -13,6 +14,7 @@ decisions = {
 			NOT = { trait = homosexual }
 			NOT = { trait = celibate }
 			NOT = { trait = chaste }
+			crownlaw_title = { has_law = brothel_law_0 }
 			capital_scope = { 
 				OR = {
 				has_building = ct_f_brothel
@@ -20,6 +22,7 @@ decisions = {
 			}
 		}
 		effect = { 
+			wealth = -35
 			hidden_tooltip = {
 				add_character_modifier = {
 					name = visited_brothel
@@ -33,7 +36,7 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 1 
+			factor = 0.25 
 			modifier = {
 				factor = 0.5
 			}
@@ -81,12 +84,12 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 1 
+			factor = 0.15 
 			modifier = {
 				factor = 0.25
 			}
 			modifier = {
-				factor = 2
+				factor = 1
 				trait = lustful
 			}
 			modifier = {
