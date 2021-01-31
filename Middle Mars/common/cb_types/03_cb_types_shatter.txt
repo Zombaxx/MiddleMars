@@ -81,19 +81,6 @@ cb_shatter_war = {
 			prestige = 400
 			piety = 200
 			wealth = FROM
-			if = {
-				limit = {
-					has_nickname = no
-				}
-				random_list = {
-					10 = { give_nickname = nick_the_destroyer }
-					10 = { give_nickname = nick_the_glorious }
-					10 = { give_nickname = nick_the_bane_of_realmname }
-					10 = { give_nickname = nick_the_great }
-					10 = { give_nickname = nick_the_hammer }
-					10 = { give_nickname = nick_the_magnificent }
-					10 = { give_nickname = nick_the_defender }
-				}
 			}
 		}
 		

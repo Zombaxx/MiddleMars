@@ -269,7 +269,7 @@ hegemoniangfx = {
 	skin_tone = 1
 }
 noctiangfx = {
-	skin_tone = 3
+	skin_tone = 2
 }
 amenthiangfx = {
 	skin_tone = 2

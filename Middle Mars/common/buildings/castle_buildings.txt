@@ -134,6 +134,7 @@ castle = {
 		gold_cost = 200
 		build_time = 730
 		court_size_modifier = 1
+		global_winter_supply = 0.20
 		fort_level = 2
 		levy_reinforce_rate = 0.50
 		garrison_size = 0.15
@@ -178,6 +179,7 @@ castle = {
 		levy_reinforce_rate = 0.15
 		retinue_maintenence_cost = -0.25
 		garrison_size = 0.05
+		global_winter_supply = 0.10
 		land_morale = 0.15
 	}
 	ca_recruitment_office = {

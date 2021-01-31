@@ -42,7 +42,7 @@ laws = {
 				revoke_law = high_court_law_3
 			}
 		}
-		global_revolt_risk = -0.02
+		local_tax_modifier = 0.-05
 	}
 
 
@@ -95,8 +95,8 @@ laws = {
 				revoke_law = high_court_law_3
 			}
 		}
-		levy_reinforcement_rate = -0.15
-		local_tax_modifier = 0.-05
+		levy_reinforce_rate = -0.25
+		local_tax_modifier = -0.25
 		global_revolt_risk = -0.10
 	}
 	
@@ -147,8 +147,8 @@ laws = {
 				revoke_law = high_court_law_3
 			}
 		}
-		levy_reinforcement_rate = -0.30
-		local_tax_modifier = -0.15
+		levy_reinforce_rate = -0.35
+		local_tax_modifier = -0.35
 		global_revolt_risk = -0.20
 	}
 	
@@ -197,7 +197,7 @@ laws = {
 			}
 		}
 		levy_reinforcement_rate = -0.50
-		local_tax_modifier = -0.35
+		local_tax_modifier = -0.55
 		global_revolt_risk = -0.35
 	}
 }

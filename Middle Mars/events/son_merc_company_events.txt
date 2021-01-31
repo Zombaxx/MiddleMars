@@ -37,19 +37,7 @@ character_event = {
 		name = EVTOPTB_TOG_3110
 		random_independent_ruler = {
 			limit = {
-				primary_title = {
-					OR = {
-						title = d_south_alba_band
-						title = d_breton_band
-						title = d_zun_warriors
-						title = d_valles_marineris_band
-						title = d_catalan_company
-						title = d_duzul_band
-						title = d_nubian_band
-						title = d_karork_band
-						title = d_gigas_sulci_band
-					}
-				}	
+			mercenary = yes
 			}
 			FROM = {
 				move_character = PREV

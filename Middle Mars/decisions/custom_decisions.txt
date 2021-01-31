@@ -73,6 +73,11 @@ decisions = {
 		only_rulers = yes
 		potential = {
 			is_ruler = yes
+			OR = {
+				tier = DUKE
+				tier = KING
+				tier = EMPEROR
+			}
 			is_female = no
 			is_fedual = yes
 			prisoner = no
@@ -83,14 +88,16 @@ decisions = {
 				is_primary_war_attacker = no
 				is_primary_war_defender = no
 				is_female = yes
-				primary_title = { higher_tier_than = baron }
-				is_pregnant = no
 			}
 		}
 		allow = {
 			spouse = {
 				is_female = yes
-				primary_title = { higher_tier_than = baron }
+			OR = {
+				tier = BARON
+				tier = COUNT
+				tier = DUKE
+			}
 				is_pregnant = no
 			}
 		}

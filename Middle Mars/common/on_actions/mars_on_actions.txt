@@ -41,6 +41,8 @@ on_combat_pulse = {
 		roytroops.1
 	}
 	random_events = {
+		3500 = gunsword_events.01
+		3500 = gunsword_events.02
 		3000 = robobattle_events.92
 		3000 = robobattle_events.93
 		3000 = robobattle_events.94

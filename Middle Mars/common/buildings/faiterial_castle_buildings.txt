@@ -1,5 +1,52 @@
 castle = {
 
+	ca_arms_depot = {
+		desc = ca_arms_depot_desc
+		potential = {	
+			FROM = {	
+			OR = {
+					culture = han
+					religion = taoist
+				}	
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+			}	
+		}	
+		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 3  }
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = han
+					religion = taoist
+				}
+			}
+		} 
+		gold_cost = 70
+		build_time = 580
+		military_techpoints = 0.05
+		commander_limit = 2
+		global_supply_limit = 0.35
+		levy_reinforce_rate = 0.15
+		archers_offensive = 0.50
+		archers_defensive = 0.50
+		horse_archers_offensive = 0.50
+		horse_archers_defensive = 0.50
+		knights_offensive = 0.50
+		knights_defensive = 0.50
+		light_cavalry_offensive = 0.50
+		light_cavalry_defensive = 0.50
+		war_elephants_offensive = 0.05
+		war_elephants_defensive = 0.10
+		light_infantry_offensive = 0.50
+		heavy_infantry_defensive = 0.50
+		
+		
+		ai_creation_factor = 100
+		extra_tech_building_start = 100
+	
+	}
+
 	ca_f_blacksmith = {
 		desc = ca_f_blacksmith_desc
 		potential = {	

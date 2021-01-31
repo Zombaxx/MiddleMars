@@ -90,6 +90,7 @@ title_grand_judge = {
 	message = yes
 }
 title_sarc_blacksmith = {
+	is_high_prio = yes
 	dignity = 0.5
 	realm_in_name = yes
 	grant_limit = 1
