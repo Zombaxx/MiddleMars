@@ -9,8 +9,7 @@ namespace = royjudge
 		has_minor_title = grand_judge
 		NOT = { add_character_modifier = { modifier = made_ruling duration = 720 } }
 		employer = {
-			crownlaw_title = {
-			has_law = brothel_law_1
+			crownlaw_title = { has_law = brothel_law_1 }
 		}
 	}
 	immediate = {

@@ -222,15 +222,14 @@ character_event = {
 		set_character_flag = picked_degree
 		clr_character_flag = gone_college
 		remove_character_modifier = going_to_school
-			random_list = {
-				5 = { add_trait = phd_literature }
-				15 = { add_trait = phd_cosmology }
-				15 = { add_trait = phd_philosophy }
-				20 = { add_trait = phd_art }
-				20 = { add_trait = phd_psychology }
-				20 = { add_trait = phd_communications }
-				5 = { add_trait = phd_biology }
-			}
+		random_list = {
+			5 = { add_trait = phd_literature }
+			15 = { add_trait = phd_cosmology }
+			15 = { add_trait = phd_philosophy }
+			20 = { add_trait = phd_art }
+			20 = { add_trait = phd_psychology }
+			20 = { add_trait = phd_communications }
+			5 = { add_trait = phd_biology }
 		}
 	}
 }
