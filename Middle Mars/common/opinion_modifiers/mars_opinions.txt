@@ -34,3 +34,6 @@ training_yard_pos = {
 training_yard_neg = {
 	opinion = -10
 }
+overruled_me = {
+	opinion = -15
+}

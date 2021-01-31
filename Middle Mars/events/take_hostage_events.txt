@@ -209,6 +209,7 @@ character_event = {
 	option = {
 		name = EVTOPTAtake_hostage_events.9
 		FROM = {
+			hidden_tooltip = {
 			add_trait = wroth
 			random_list = {
 				10 = { add_trait = deceitful }
@@ -216,12 +217,14 @@ character_event = {
 				20 = { add_trait = envious }
 				20 = { add_trait = honest }
 				10 = { add_trait = proud }
+				}
 			}
 		}
 	}
 	option = {
 		name = EVTOPTBtake_hostage_events.9
 		FROM = {
+			hidden_tooltip = {
 			random_list = {
 				5 = { add_trait = trusting }
 				15 = { add_trait = diligent }
@@ -230,6 +233,7 @@ character_event = {
 				20 = { add_trait = envious }
 				20 = { add_trait = chaste }
 				5 = { add_trait = depressed }
+				}
 			}
 		}
 	}
