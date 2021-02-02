@@ -9,58 +9,21 @@ character_event = {
 	
 	option = {
 		name = "EVTOPTAsteal_spouse_title.1"
-		
-		trigger = {
-			spouse = {
-				NOT = {
-					higher_tier_than = ROOT
-				}
-			}
-		}
-		ROOT = {
-			spouse = {
+		custom_tooltip = { text = TOOLTIPEVTOPTAsteal_spouse_title.1 }
+		FROM = {
 				abdicate_to = ROOT
 				move_character = ROOT
-			}
 		}
-		spouse = {
+		FROM = {
 			opinion = {
-				modifier = opinion_dislike
+				modifier = opinion_stolen_title
 				who = ROOT
-			}
-		}
-	}
-	option = {
-		name = "EVTOPTBsteal_spouse_title.1"
-		
-		trigger = {
-			spouse = {
-				higher_tier_than = ROOT
-			}
-		}
-		spouse = {
-			opinion = {
-				modifier = opinion_irritated
-				who = ROOT
+				years = 5
 			}
 		}
 	}
 	option = {
 		name = "EVTOPTCsteal_spouse_title.1"
-		
-		trigger = {
-			spouse = {
-				NOT = {
-					higher_tier_than = ROOT
-				}
-			}
-		}
-		
-		spouse = {
-			opinion = {
-				modifier = opinion_irritated
-				who = ROOT
-			}
-		}
+
 	}
 }

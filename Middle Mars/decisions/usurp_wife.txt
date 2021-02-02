@@ -12,48 +12,51 @@
 #	
 
 targetted_decisions = {
-	son_merc_company_dec = {
+	steal_spouse_title_dec = {
 		only_playable = yes
-		ai_target_filter = dynasty
-		filter = dynasty
+		ai_target_filter = realm
+		filter = realm
 		from_potential = {
 			ai = no
 		}
 	
 		potential = {
-			age = 12
-			NOT = { age = 16 }
-			is_landed = no
-			in_command = no	
-			is_female = no
+			age = 16
+			is_landed = yes
+			war = no	
+			is_female = yes
 			prisoner = no
-			is_child_of = FROM 
-                	dynasty = FROM
-			host = { character = FROM }
-			NOT = {
-				has_character_flag = wants_varangian
-				has_character_flag = denied_varangian
-			}
+			spouse = { character = FROM }
 		}
 		allow = {
-			age = 12
-			NOT = { age = 16 }
-			is_landed = no
-			in_command = no	
-			is_female = no
+			age = 16
+			is_landed = yes
+			war = no
+			is_female = yes
 			prisoner = no
-			is_child_of = FROM 
-                	dynasty = FROM
-			host = { character = FROM }
+			spouse = { character = FROM }
 			NOT = {
-				has_character_flag = wants_varangian
-				has_character_flag = denied_varangian
+				trait = proud
+				trait = ambitious
+				martial = 15
+				}
+			NOT = { primary_title = { higher_tier_than = DUKE } }
+			FROM = {
+			OR = { 
+				trait = greedy
+				trait = arbitrary
+				trait = cruel
+				trait = proud
+				}
+			OR = {
+				tier = DUKE
+				tier = KING
+				tier = EMPEROR
+				}
 			}
 		}
 		effect = {
-			hidden_tooltip = {
-				character_event = { id = son_merc_company.0 }
-			}
+			FROM = { character_event = { id = steal_spouse_title.1 } }
 		}
 		revoke_allowed = {
 			always = no

@@ -23,6 +23,18 @@ targetted_decisions = {
 			opinion = { modifier = opinion_imprisoned who = FROM days = 3650 }
 			prisoner = no
 			set_character_flag = taken_hostage
+			mother = {
+				opinion = {
+					modifier = opinion_kidnap_child
+					who = FROM
+				}
+			}
+			father = {
+				opinion = {
+					modifier = opinion_kidnap_child
+					who = FROM
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 0

@@ -4,10 +4,7 @@ castle = {
 		desc = ca_arms_depot_desc
 		potential = {	
 			FROM = {	
-			OR = {
-					culture = han
-					religion = taoist
-				}	
+				culture = han
 				capital_holding = {	
 					title = FROMFROM	
 				}	
@@ -18,7 +15,6 @@ castle = {
 			ROOT = {
 				OR = {
 					culture = han
-					religion = taoist
 				}
 			}
 		} 
@@ -113,6 +109,13 @@ castle = {
 	}
 	ca_paved_roads= {
 		desc = ca_paved_roads_desc
+		potential = {	
+			FROM = {		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+			}	
+		}	
 		trigger = { TECH_CONSTRUCTION = 3  }
 		gold_cost = 65
 		build_time = 385

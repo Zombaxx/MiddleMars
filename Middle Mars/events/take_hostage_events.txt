@@ -67,10 +67,12 @@ character_event = {
 
 	option = {
 		name = EVTOPTAtake_hostage_events.2
+		FROMFROM = {
 		add_trait = gregarious
 		add_trait = diligent
 		add_friend = event_target:hostage_friend
 		clear_event_target = hostage_friend
+		}
 	}
 }
 character_event = {

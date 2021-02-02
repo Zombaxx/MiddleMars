@@ -28,7 +28,7 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "chinesegfx_KNIGHTS"
-		file = "gfx/models/armor.mesh"
+		file = "gfx/models/motorized.mesh"
 		scale = 15.00f
 	}
 	pdxmesh = {
