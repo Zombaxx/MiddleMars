@@ -9,8 +9,24 @@ on_chronicle_start = {
 		mod_group.0
 	}
 }
-on_yearly_pulse = {
+on_birth = {
 	events = {
+		slavery_mt_events.2
+	}
+}
+on_yearly_pulse = {
+	random_events = {
+		1000 = 0
+		100 = slavery_events.2
+		100 = slavery_events.21
+		100 = slavery_events.22
+		100 = slavery_events.23
+		100 = slavery_events.24
+		100 = slavery_events.25
+		100 = slavery_events.3
+	}
+	events = {
+		roy_slavery_events.5
 		charlawevents.4
 		high_court_events.4
 		college_school_events.111
@@ -24,6 +40,16 @@ on_bi_yearly_pulse = {
 		roycoup.0
 		going_school_events.0
 		take_hostage_events.0
+	}
+}
+on_five_year_pulse = {
+	events = {
+		suit_events.2
+	}
+}
+on_decade_pulse = {
+	events = {
+		slavery_mt_events.1
 	}
 }
 on_adulthood = {
@@ -41,8 +67,6 @@ on_combat_pulse = {
 		roytroops.1
 	}
 	random_events = {
-		3500 = gunsword_events.01
-		3500 = gunsword_events.02
 		3000 = robobattle_events.92
 		3000 = robobattle_events.93
 		3000 = robobattle_events.94
@@ -52,6 +76,7 @@ on_combat_pulse = {
 		3000 = robobattle_events.98
 		3000 = robobattle_events.99
 		3000 = robobattle_events.101
+		1500 = suit_events.0
 	}
 }
 on_siege_over_winner = {

@@ -1,37 +1,37 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_event_personal_library"
-		texturefile = "gfx/event_pictures_personal/event_personal_library.tga"
+		texturefile = "gfx/event_pictures/event_personal_library.dds"
 		allwaystransparent = yes
 	}		
 	spriteType = {
 		name = "GFX_event_poem"
-		texturefile = "gfx/event_pictures_personal/event_poem.tga"
+		texturefile = "gfx/event_pictures/event_poem.tga"
 		allwaystransparent = yes
 	}	
 	spriteType = {
 		name = "GFX_event_write"
-		texturefile = "gfx/event_pictures_personal/event_write.tga"
+		texturefile = "gfx/event_pictures/event_write.tga"
 		allwaystransparent = yes
 	}	
 	spriteType = {
 		name = "GFX_study_window"
-		texturefile = "gfx/event_pictures_personal/study_window.tga"
+		texturefile = "gfx/event_pictures/study_window.tga"
 		allwaystransparent = yes
 	}	
 	spriteType = {
 		name = "GFX_flying_machine"
-		texturefile = "gfx/event_pictures_personal/flying_machine.tga"
+		texturefile = "gfx/event_pictures/flying_machine.tga"
 		allwaystransparent = yes
 	}	
 	spriteType = {
 		name = "GFX_personal_secret_passage"
-		texturefile = "gfx/event_pictures_personal/event_personal_passage.tga"
+		texturefile = "gfx/event_pictures/event_personal_passage.tga"
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "GFX_personal_wine_cellar"
-		texturefile = "gfx/event_pictures_personal/event_personal_wine.tga"
+		texturefile = "gfx/event_pictures/event_personal_wine.tga"
 		allwaystransparent = yes
 	}
 	spriteType = {
@@ -52,7 +52,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_personal_training_yard"
-		texturefile = "gfx/event_pictures_personal/event_personal_training.tga"
+		texturefile = "gfx/event_pictures/event_personal_training.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {

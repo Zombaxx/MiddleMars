@@ -10,6 +10,7 @@ slots = {
 	ship = 1
 	ceremonial_torso = 1
 	mask = 1 
+	suit = 1
 }
 
 #############################
@@ -35,7 +36,7 @@ mech_suit = {
 	flags = { combat_weapon combat_tier_3 mecha_suit }
 	stacking = no
 	picture = "GFX_mech_suit"
-	slot = weapon
+	slot = suit
 }
 common_mech_suit = { 
 	cached = yes
@@ -55,7 +56,7 @@ common_mech_suit = {
 	flags = { combat_weapon combat_tier_2 mecha_suit }
 	stacking = no
 	picture = "GFX_common_mech_suit"
-	slot = weapon
+	slot = suit
 }
 super_mech_suit = { 
 	cached = yes
@@ -77,5 +78,5 @@ super_mech_suit = {
 	flags = { combat_weapon combat_tier_5 mecha_suit }
 	stacking = no
 	picture = "GFX_super_mech_suit"
-	slot = weapon
+	slot = suit
 }

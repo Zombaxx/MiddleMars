@@ -1,0 +1,17 @@
+title_knight = {
+	show_as_title = yes
+	realm_in_name = yes
+	revoke_allowed = no
+	
+	allowed_to_hold = {
+		trait = knight
+		is_female = no
+	}
+	
+	gain_effect = {
+		trait = knight
+	}
+	# lose_effect = { }
+
+	message = no
+}

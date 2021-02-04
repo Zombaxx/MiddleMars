@@ -605,19 +605,14 @@ castle = {
 	}
 	ca_chapel = {
 		potential = {
-			OR = {
-				FROM = {
-					religion_group = christian
-					OR = {
-						tier = KING
-						tier = EMPEROR
-					}
-					capital_holding = {
-						title = FROMFROM
-					}
+			FROM = {
+				religion_group = christian
+				OR = {
+					tier = KING
+					tier = EMPEROR
 				}
-				FROMFROM = {
-					has_building = ca_chapel
+				capital_holding = {
+						title = FROMFROM
 				}
 			}
 		}
@@ -632,20 +627,16 @@ castle = {
 		add_number_to_name = no
 	}
 	ca_chapel_2 = {
-		potential = {
+		potential = {	
+			FROM = {
 			OR = {
-				FROM = {
-					religion_group = christian
-					OR = {
-						tier = KING
-						tier = EMPEROR
-					}
-					capital_holding = {
-						title = FROMFROM
-					}
-				}
-			}
-		}
+				religion_group = christian
+				}		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+			}	
+		}	
 		trigger = { TECH_TEMPLE_CONSTRUCTION = 0 }
 		desc = ca_chapel_2_desc
 		gold_cost = 250

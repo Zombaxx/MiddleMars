@@ -1,0 +1,80 @@
+namespace = knightly
+
+#Character gets an event when they are made someone's squire
+character_event = {
+	id = knightly.001
+	desc = "161001_desc"
+	picture = GFX_evt_child_sword
+	is_triggered_only = yes
+	option = {
+		name = knightly.001.1
+		ai_chance = {
+			factor = 100
+		}
+		effect = {
+			add_trait = squire
+			prestige = 10
+		}
+	}
+}
+
+#Character gets an event when they are personally knighted
+character_event = {
+	id = knightly.002
+	desc = "161002_desc"
+	picture = GFX_event_knighthood1
+	is_triggered_only = yes
+	option = {
+		name = knightly.002.1
+		ai_chance = {
+			factor = 100
+		}
+		effect = {
+			add_trait = knight
+			remove_trait = squire
+			prestige = 50
+		}
+	}
+}
+
+#Character gets an event when they become an adult to convert squire into knight
+character_event = {
+	id = knightly.003
+	desc = "161003_desc"
+	picture = GFX_event_knighthood1
+	is_triggered_only = yes
+	trigger = {
+		trait = squire
+		age = 16
+	}
+	option = {
+		name = knightly.003.1
+		ai_chance = {
+			factor = 100
+		}
+		effect = {
+			remove_trait = squire
+			add_trait = knight
+			prestige = 100
+		}
+	}
+}
+
+#Character gets an event when they are arranged knighted
+character_event = {
+	id = knightly.004
+	desc = "161004_desc"
+	picture = GFX_event_knighthood1
+	is_triggered_only = yes
+	option = {
+		name = knightly.004.1
+		ai_chance = {
+			factor = 100
+		}
+		effect = {
+			add_trait = knight
+			remove_trait = squire
+			prestige = 50
+		}
+	}
+}
