@@ -85,6 +85,7 @@ slave_raid = {
 					}
 				}
 				OR = {
+					trait = trait_slaver
 					has_law = slavery_2
 					has_law = slavery_3
 				}
@@ -107,6 +108,7 @@ slave_raid = {
 					}
 				}
 				OR = {
+					trait = trait_slaver
 					has_law = slavery_2
 					has_law = slavery_3
 				}
@@ -263,11 +265,11 @@ anti_slavery = {
 	can_use_gui = {
 		ROOT = {
 			is_ruler = yes
-			higher_real_tier_than = DUKE
+			higher_real_tier_than = COUNT
+			NOT = { trait  = trait_slaver }
 			NOT = {
 				crownlaw_title = {
 					OR = {
-						has_law = slavery_1
 						has_law = slavery_2
 						has_law = slavery_3
 					}
@@ -279,10 +281,9 @@ anti_slavery = {
 	can_use = {
 		FROM = {
 			independent = yes
-			higher_real_tier_than = DUKE
+			higher_real_tier_than = COUNT
 			crownlaw_title = {
 				OR = {
-					has_law = slavery_1
 					has_law = slavery_2
 					has_law = slavery_3
 				}
@@ -302,23 +303,21 @@ anti_slavery = {
 	is_valid = {
 		ROOT = {
 			is_ruler = yes
-			higher_real_tier_than = DUKE
+			higher_real_tier_than = COUNT
 			NOT = {
 				crownlaw_title = {
 					OR = {
-						has_law = slavery_1
-						has_law = slavery_2
 						has_law = slavery_3
+						has_law = slavery_2
 					}
 				}
 			}
 		}
 		FROM = {
 			independent = yes
-			higher_real_tier_than = DUKE
+			higher_real_tier_than = COUNT
 			crownlaw_title = {
 				OR = {
-					has_law = slavery_1
 					has_law = slavery_2
 					has_law = slavery_3
 				}
@@ -347,14 +346,14 @@ anti_slavery = {
 						any_realm_province = {
 							limit = {
 								OR = {
-									has_province_modifier = slave_hold_1
-									has_province_modifier = slave_hold_2
-									has_province_modifier = slave_hold_3
+									has_building = ca_slave_hold_1
+									has_building = ca_slave_hold_2
+									has_building = ca_slave_hold_3
 								}
 							}
-							remove_province_modifier = slave_hold_1
-							remove_province_modifier = slave_hold_2
-							remove_province_modifier = slave_hold_3
+							remove_building = ca_slave_hold_1
+							remove_building = ca_slave_hold_2
+							remove_building = ca_slave_hold_3
 						}
 					}
 				}
@@ -368,14 +367,14 @@ anti_slavery = {
 						any_realm_province = {
 							limit = {
 								OR = {
-									has_province_modifier = slave_hold_1
-									has_province_modifier = slave_hold_2
-									has_province_modifier = slave_hold_3
+									has_building = ca_slave_hold_1
+									has_building = ca_slave_hold_2
+									has_building = ca_slave_hold_3
 								}
 							}
-							remove_province_modifier = slave_hold_1
-							remove_province_modifier = slave_hold_2
-							remove_province_modifier = slave_hold_3
+							remove_building = ca_slave_hold_1
+							remove_building = ca_slave_hold_2
+							remove_building = ca_slave_hold_3
 						}
 					}
 				}

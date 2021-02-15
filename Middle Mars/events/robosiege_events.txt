@@ -12,53 +12,6 @@ namespace = mechfl_siege
 
 ########################Start#########################
 
-###Use Mech Siege AI version###
-##		Working		##
-#AI triggered automatically
-
-character_event = {
-
-	id = mechfl_siege.296
-	desc = "EVTDESCmechfl_siege.2"
-	title = "EVTNAMEmechfl_siege.2"
-	is_triggered_only = yes
-	hide_window = yes
-	
-	trigger = {
-		has_artifact = mech_suit
-		in_siege = yes
-		siege = {
-		is_attacker = yes }
-		ai = yes
-		NOT = { trait = maimed }
-		NOT = { has_character_modifier = usedmech }
-	}
-
-	option = {
-		name = mechfl_siege.atk1
-		ai_chance = {factor = 100}
-		siege = {
-			enemy = {
-					morale = -0.3
-					troops = -0.3
-				}
-		}
-		if = {
-			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
-			random = {
-				chance = 10
-				add_trait = wounded
-			}
-				
-		}
-		
-		hidden_tooltip = {
-				add_character_modifier = { modifier = usedmech duration = 40}
-				}
-		} 
-}
-
-
 ###Use Mech Siege Combat###
 ##		Working		##
 #User triggered via decision menu
@@ -68,6 +21,7 @@ character_event = {
 	id = mechfl_siege.2
 	desc = "EVTDESCmechfl_siege.2"
 	title = "EVTNAMEmechfl_siege.2"
+	border = GFX_event_normal_frame_war
 	picture = GFX_mech_siege
 	is_triggered_only = yes
 
@@ -113,6 +67,7 @@ character_event = {
 		title = EVTNAMEmechfl_siege.oops4
 		desc = "EVTDESCmechfl_siege.oops4"
 		picture = GFX_mech_aftermath	
+		border = GFX_event_normal_frame_war
 		is_triggered_only = yes
 
 		option = { 

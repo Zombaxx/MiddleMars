@@ -29,7 +29,6 @@ character_event = {
 		}
 	}
 }
-
 character_event = {
 	id = roy_slavery_events.2
 	desc = EVTDESCroy_slavery_events.2
@@ -46,27 +45,27 @@ character_event = {
 			capital_scope = {
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_2
+						has_province_modifier = slave_host_2
 					}
-					remove_province_modifier = slave_hold_2
-					add_province_modifier = { modifier = slave_hold_3 duration = -1 }
+					remove_province_modifier = slave_host_2
+					add_province_modifier = { modifier = slave_host_3 duration = -1 }
 				}
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_1
+						has_province_modifier = slave_host_1
 					}
-					remove_province_modifier = slave_hold_1
-					add_province_modifier = { modifier = slave_hold_2 duration = -1 }
+					remove_province_modifier = slave_host_1
+					add_province_modifier = { modifier = slave_host_2 duration = -1 }
 				}
 				IF = {
 					limit = {
 						NOR = {
-							has_province_modifier = slave_hold_1
-							has_province_modifier = slave_hold_2
-							has_province_modifier = slave_hold_3
+							has_province_modifier = slave_host_1
+							has_province_modifier = slave_host_2
+							has_province_modifier = slave_host_3
 						}
 					}
-					add_province_modifier = { modifier = slave_hold_1 duration = -1 }
+					add_province_modifier = { modifier = slave_host_1 duration = -1 }
 				}
 			}
 			wealth = -300
@@ -90,23 +89,23 @@ character_event = {
 			capital_scope = {
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_3
+						has_province_modifier = slave_host_3
 					}
-					remove_province_modifier = slave_hold_3
-					add_province_modifier = { modifier = slave_hold_2 duration = -1 }
+					remove_province_modifier = slave_host_3
+					add_province_modifier = { modifier = slave_host_2 duration = -1 }
 				}
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_2
+						has_province_modifier = slave_host_2
 					}
-					remove_province_modifier = slave_hold_2
-					add_province_modifier = { modifier = slave_hold_1 duration = -1 }
+					remove_province_modifier = slave_host_2
+					add_province_modifier = { modifier = slave_host_1 duration = -1 }
 				}
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_1
+						has_province_modifier = slave_host_1
 					}
-					remove_province_modifier = slave_hold_1
+					remove_province_modifier = slave_host_1
 				}
 			}
 			wealth = 200
@@ -134,11 +133,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								OR = {
-									has_province_modifier = slave_hold_1
-									has_province_modifier = slave_hold_2
-									has_province_modifier = slave_hold_3
-								}
+									has_province_modifier = slave_host_1
 							}
 						}
 						spawn_unit = {
@@ -157,10 +152,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								OR = {
-									has_province_modifier = slave_hold_2
-									has_province_modifier = slave_hold_3
-								}
+								has_province_modifier = slave_host_2
 							}
 						}
 						spawn_unit = {
@@ -168,7 +160,7 @@ character_event = {
 							province = PREV
 							leader = none
 							troops = {
-								light_infantry = { 500 500 }
+								light_infantry = { 1000 1000 }
 							}
 							attrition = 1.0
 							maintenance_multiplier = 0.1
@@ -179,7 +171,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_province_modifier = slave_hold_3
+								has_province_modifier = slave_host_3
 							}
 						}
 						spawn_unit = {
@@ -187,7 +179,7 @@ character_event = {
 							province = PREV
 							leader = none
 							troops = {
-								light_infantry = { 500 500 }
+								light_infantry = { 1500 1500 }
 							}
 							attrition = 1.0
 							maintenance_multiplier = 0.1
@@ -203,7 +195,7 @@ character_event = {
 character_event = {
 	id = roy_slavery_events.5
 	desc = EVTDESCroy_slavery_events.5
-	picture = GFX_evt_slave_market
+	picture = GFX_evt_slavery
 	border = GFX_event_normal_frame_war
 	
 	is_triggered_only = yes
@@ -226,26 +218,27 @@ character_event = {
 			wealth = -200
 			remove_character_modifier = armedslaves
 			capital_scope = {
+				add_province_modifier = { name = freed_slaves duration = 720 }
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_3
+						has_province_modifier = slave_host_3
 					}
-					remove_province_modifier = slave_hold_3
-					add_province_modifier = { modifier = slave_hold_2 duration = -1 }
+					remove_province_modifier = slave_host_3
+					add_province_modifier = { modifier = slave_host_2 duration = -1 }
 				}
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_2
+						has_province_modifier = slave_host_2
 					}
-					remove_province_modifier = slave_hold_2
-					add_province_modifier = { modifier = slave_hold_1 duration = -1 }
+					remove_province_modifier = slave_host_2
+					add_province_modifier = { modifier = slave_host_1 duration = -1 }
 				}
 				IF = {
 					limit = {
-						has_province_modifier = slave_hold_1
+						has_province_modifier = slave_host_1
 					}
-					remove_province_modifier = slave_hold_1
+					remove_province_modifier = slave_host_1
+				}
 			}
 		}
 	}
-}

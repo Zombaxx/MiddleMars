@@ -3,13 +3,11 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			war = yes
-			crownlaw_title = {
 				OR = {
 					has_law = slavery_2
 					has_law = slavery_3
 				}
 			}
-		}
 		allow = {
 			NOT = { has_character_modifier = armedslaves }
 			OR = {
@@ -18,9 +16,9 @@ decisions = {
 			}
 			capital_scope = {
 				OR = {
-					has_province_modifier = slave_hold_1
-					has_province_modifier = slave_hold_2
-					has_province_modifier = slave_hold_3
+					has_province_modifier = slave_host_1
+					has_province_modifier = slave_host_2
+					has_province_modifier = slave_host_3
 				}
 			}
 		}
@@ -47,9 +45,17 @@ decisions = {
 		}
 		allow = {
 			wealth = 300
+			capital_scope = {
+				OR = {
+				has_building = ca_slave_hold_1
+				has_building = ca_slave_hold_2
+				has_building = ca_slave_hold_3
+				}
+			}
+
 			NOT = {
 				capital_scope = {
-					has_province_modifier = slave_hold_3
+					has_province_modifier = slave_host_3
 				}
 			}
 		}
@@ -79,16 +85,14 @@ decisions = {
 	sell_slaves = {
 		potential = {
 			war = no
-			crownlaw_title = {
-				has_law = slavery_3
-			}
+			is_ruler = yes
 		}
 		allow = {
 			capital_scope = {
 				OR = {
-					has_province_modifier = slave_hold_1
-					has_province_modifier = slave_hold_2
-					has_province_modifier = slave_hold_3
+					has_province_modifier = slave_host_1
+					has_province_modifier = slave_host_2
+					has_province_modifier = slave_host_3
 				}
 			}
 		}
@@ -114,11 +118,15 @@ decisions = {
 }
 targetted_decisions = {
 	enslave_prisoner = {
-		ai_target_filter = home_court
-		filter = home_court
+		ai_target_filter = court
+		filter = court
 		from_potential = {
 			is_ruler = yes
-			NOT = { crownlaw_title = { has_law = slavery_0 } }
+				OR = {
+					has_law = slavery_1
+					has_law = slavery_2
+					has_law = slavery_3
+				}
 		}
 		potential = {
 			prisoner = yes
@@ -351,14 +359,15 @@ targetted_decisions = {
 		}
 	}
 	sell_slave = {	#Sell a Slave
-		only_rulers = yes
-		filter = realm
-		ai_target_filter = realm
+		filter = court
+		ai_target_filter = court
 
 		from_potential = {
-			war = no
-			crownlaw_title = {
-					has_law = slavery_3
+			is_ruler = yes
+			OR = {
+			has_law = slavery_2
+			has_law = slavery_3
+			trait = trait_slaver
 			}
 		}
 		potential = {
@@ -385,14 +394,13 @@ targetted_decisions = {
 		}
 	}
 	rape_slave_dec = {
-		only_rulers = yes
-		filter = realm
-		ai_target_filter = realm
+		filter = court
+		ai_target_filter = court
 
 		from_potential = {
 			prisoner = no
 			is_female = no
-			
+			is_ruler = yes
 			NOT = {
 				has_character_flag = raping_slave
 			}

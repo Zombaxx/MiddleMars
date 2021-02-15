@@ -58,3 +58,11 @@ opinion_squired_me = {
 	years = 8
 	stacking = no
 }
+impressed_speech = {
+	opinion = 10
+	months = 24
+}
+commander_appreciated = {
+	opinion = 10
+	months = 24
+}

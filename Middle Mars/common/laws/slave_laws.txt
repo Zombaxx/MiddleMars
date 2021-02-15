@@ -3,7 +3,7 @@ law_groups = {
 		law_type = slavery
 	}
 }
-laws = {
+de_jure_laws = {
 	slavery_0 = { #No Slavery
 		group = slavery
 		show_as_title = yes

@@ -28,7 +28,6 @@ targetted_decisions = {
 			is_female = no
 			prisoner = no
 			is_child_of = FROM 
-                	dynasty = FROM
 			host = { character = FROM }
 			NOT = {
 				has_character_flag = wants_varangian
@@ -43,7 +42,6 @@ targetted_decisions = {
 			is_female = no
 			prisoner = no
 			is_child_of = FROM 
-                	dynasty = FROM
 			host = { character = FROM }
 			NOT = {
 				has_character_flag = wants_varangian
@@ -62,38 +60,37 @@ targetted_decisions = {
 			factor = 0
 		}
 	}
-}
-
-decisions = {
-
-	steal_spouse_title_dec = {
-		is_high_prio = yes
-		only_rulers = yes
-		potential = {
+	bro_merc_company_dec = {
+		only_playable = yes
+		ai_target_filter = dynasty
+		filter = dynasty
+		from_potential = {
+			is_adult = yes
 			is_ruler = yes
+		}
+	
+		potential = {
+			age = 12
+			NOT = { age = 16 }
+			is_landed = no
+			in_command = no	
 			is_female = no
-			is_fedual = yes
 			prisoner = no
-			is_primary_war_attacker = no
-			is_primary_war_defender = no
-			age = 16
-			spouse = {
-				is_primary_war_attacker = no
-				is_primary_war_defender = no
-				is_female = yes
-				primary_title = { higher_tier_than = baron }
-				is_pregnant = no
-			}
+			host = { character = FROM }
 		}
 		allow = {
-			spouse = {
-				is_female = yes
-				primary_title = { higher_tier_than = baron }
-				is_pregnant = no
-			}
+			age = 12
+			is_landed = no
+			in_command = no	
+			is_female = no
+			prisoner = no
+			is_primary_heir = no
+			host = { character = FROM }
 		}
 		effect = {
-			character_event = { id = steal_spouse_title.1 }
+			FROM = {
+				character_event = { id = son_merc_company.2 }
+			}
 		}
 		revoke_allowed = {
 			always = no
@@ -102,5 +99,4 @@ decisions = {
 			factor = 0
 		}
 	}
-	
 }

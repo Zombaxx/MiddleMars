@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+slavegood;This would benefit us all.;;;x
+slavebad;My religion does not permit slavery.;;;x
 custom_become_slave;[Root.GetFirstName] will become your slave;;;;;;;;;;;;;x
 slave_rebellion;Angry Slaves;;;x
 slave_rebellion_desc;The slaves in this province are upset. There is fear that some may organize a revolt.;;;x
@@ -31,20 +33,32 @@ opinion_lashed;Lashed me;;;;;;;;;;;;;x
 opinion_tortured;Tortured me;;;;;;;;;;;;;x
 opinion_brutally_tortured;Brutally Tortured me;;;;;;;;;;;;;x
 
+#Buildings
+ca_slave_hold_1;Slave Quarters;;;;;;;;;;;;;x
+ca_slave_hold_1_desc;A holding to host a small number of slaves.;;;;;;;;;;;;;x
+ca_slave_hold_2;Slave Quarters;;;;;;;;;;;;;x
+ca_slave_hold_2_desc;A holding to host a large number of slaves.;;;;;;;;;;;;;x
+ca_slave_hold_3;Slave Quarters;;;;;;;;;;;;;x
+ca_slave_hold_3_desc;A holding to host a massive number of slaves.;;;;;;;;;;;;;x
+
 #Modifiers
-slave_hold_1;Small Slavehold;;;;;;;;;;;;;x
-slave_hold_1_desc;A few slaves are working in this province.;;;;;;;;;;;;;x
-slave_hold_2;Large Slavehold;;;;;;;;;;;;;x
-slave_hold_2_desc;Many slaves are in this province.;;;;;;;;;;;;;x
-slave_hold_3;Massive Slavehold;;;;;;;;;;;;;x
-slave_hold_3_desc;Innumerable slaves are in this province.;;;;;;;;;;;;;x
+slave_host_1;Small Slavehold;;;;;;;;;;;;;x
+slave_host_1_desc;A few slaves are working in this province.;;;;;;;;;;;;;x
+slave_host_2;Large Slavehold;;;;;;;;;;;;;x
+slave_host_2_desc;Many slaves are in this province.;;;;;;;;;;;;;x
+slave_host_3;Massive Slavehold;;;;;;;;;;;;;x
+slave_host_3_desc;Innumerable slaves are in this province.;;;;;;;;;;;;;x
+
+freed_slaves;Freed Slaves;;;x
+freed_slaves_desc;A large number of the slaves of this province have been freed of their service.;;;x
 
 #Laws
 slavery_laws;Slavery Laws;;;;;;;;;;;;;x
+slavery_laws_desc;The practice of slavery can take many forms, and is widespread throughout the world, though it is forbidden by many religions and customs.;;;x
 slavery;Slavery Laws;;;;;;;;;;;;;x
 slavery_0;No Slavery;;;;;;;;;;;;;x
 slavery_0_desc;Slavery is outlawed in the Realm;;;;;;;;;;;;;x
-slavery_1;Indentured;;;;;;;;;;;;;x
+slavery_1;Indentured Servitude;;;;;;;;;;;;;x
 slavery_1_desc;Slavery is generally outlawed  in the Realm, but contract service is allowed.;;;;;;;;;;;;;x
 slavery_2;Thralldom;;;;;;;;;;;;;x
 slavery_2_desc;Slavery is permitted in the Realm, but offspring have the rights of Citizenship.;;;;;;;;;;;;;x
@@ -55,19 +69,17 @@ slavery_3_desc;Full Chattel Slavery is legal in the Realm.;;;;;;;;;;;;;x
 trait_slave;Slave;;;;;;;;;;;;;x
 trait_slave_desc;This character is a slave;;;;;;;;;;;;;x
 trait_slaver;Slave Owner;;;;;;;;;;;;;x
-trait_slaver_desc;This character owns slaves;;;;;;;;;;;;;x
+trait_slaver_desc;This character owns and trades slaves;;;;;;;;;;;;;x
 former_slave;Former Slave;;;x
 former_slave_desc;This character was once a slave, but, by either force of arms or their master's mercy, has now been set free.;;;x
 liberator;Liberator;;;x
 liberator_desc;This character is a fanatical opponent of the practice of slavery, seeking to eliminate it from the world by any means necessary.;;;x
 
 #Decisions
-slave_phone_home;Return to Master;;;;;;;;;;;;;x
-slave_phone_home_desc;Bring [Root.GetFirstName] back to [From.Capital.GetName];;;;;;;;;;;;;x
 enslave_prisoner;Enslave Prisoner;;;;;;;;;;;;;x
 enslave_prisoner_desc;Enslave [Root.GetFirstName];;;;;;;;;;;;;x
 arm_slaves;Arm the Slaves;;;;;;;;;;;;;x
-arm_slaves_desc;The war grows desperate, you can do the unthinkable and arm the Slaves.;;;;;;;;;;;;;x
+arm_slaves_desc;The war grows desperate, you can do the unthinkable and arm the slaves.;;;;;;;;;;;;;x
 buy_slaves;Buy a Host of Slaves;;;;;;;;;;;;;x
 buy_slaves_desc;Seek out a Slave trader and purchase a host of slaves to work in your capital;;;;;;;;;;;;;x
 sell_slaves;Sell a Host of Slaves;;;;;;;;;;;;;x

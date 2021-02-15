@@ -24,20 +24,7 @@ castle = {
 		commander_limit = 2
 		global_supply_limit = 0.35
 		levy_reinforce_rate = 0.15
-		archers_offensive = 0.50
-		archers_defensive = 0.50
-		horse_archers_offensive = 0.50
-		horse_archers_defensive = 0.50
-		knights_offensive = 0.50
-		knights_defensive = 0.50
-		light_cavalry_offensive = 0.50
-		light_cavalry_defensive = 0.50
-		war_elephants_offensive = 0.05
-		war_elephants_defensive = 0.10
-		light_infantry_offensive = 0.50
-		heavy_infantry_defensive = 0.50
-		
-		
+		riflemen_brigade = 1000
 		ai_creation_factor = 100
 		extra_tech_building_start = 100
 	
@@ -96,7 +83,7 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 0  }
-		is_active_trigger = { crownlaw_title = { has_law = brothel_law_0 } }
+		is_active_trigger = { has_law = brothel_law_0 } 
 		gold_cost = 75
 		build_time = 150
 		culture_techpoints = 0.2

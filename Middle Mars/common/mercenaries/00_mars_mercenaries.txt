@@ -45,4 +45,8 @@ generic_tiny_composition_1 = {
 	light_infantry = 360
 	pikemen = 80
 }
+generic_spacer_1_composition = {
+	levy_size = 1
+	riflemen_brigade = 1000
+}
 ### 

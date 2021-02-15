@@ -2,7 +2,7 @@ namespace = percas
 character_event = {
 id = percas.0
 desc = "EVTDESCPERCAS0"
-picture = GFX_event_personal_library
+picture = GFX_school_learn
 border = GFX_event_normal_frame_diplomacy
 
 only_rulers = yes
@@ -73,7 +73,7 @@ only_capable = yes
 character_event = {
 id = percas.1
 desc = "EVTDESCPERCAS1"
-picture = GFX_event_personal_library
+picture = GFX_school_learn
 border = GFX_event_normal_frame_religion
 
 only_rulers = yes

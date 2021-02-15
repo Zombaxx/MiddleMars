@@ -147,4 +147,10 @@ drafted_peasants = {
 	icon = 36
 	general_opinion = -3
 }
+good_pilot = {
+	icon = 109
+	martial = 2
+	general_opinion = 3
+}
+	
 

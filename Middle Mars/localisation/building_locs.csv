@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
 #Buildings
+ca_trade_center;Trade Hub;;;x
+ca_trade_center_desc;A center for trading goods between your people and the technologically advanced Spacers that neighbor you.;;;x
 ca_arms_depot;Rifle Manufactuary;;;x
 ca_arms_depot_desc;A building for mass producing firearms. These weapons give Spacers a tactical edge over the primitive cultures of Mars.;;;x
 ca_paved_roads;Paved Roads;;;x

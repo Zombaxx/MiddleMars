@@ -306,8 +306,6 @@ decisions = {
 			age = 14
 			prisoner = no
 			wealth = 600
-			NOT = { has_artifact = mech_suit }
-			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }

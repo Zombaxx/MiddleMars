@@ -1,7 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;x
 
 mechfl.299;
-EVTDESCmechfl.2;You enter your Mech Suit and connect your body to the machine's frame. "ALL SYSTEMS FUNCTIONAL", it says to you. "READY FOR COMBAT DEPLOYMENT";;;;;;;;;;;;;x
+EVTDESCmechfl.2;You enter your Mech Suit and connect your body to the machine's frame. "ALL SYSTEMS FUNCTIONAL", it says to you. "READY FOR COMBAT DEPLOYMENT". You have decided to launch yourself through the enemy lines in your Mech Suit. No man alone can withstand the onslaught of your machine!;;;;;;;;;;;;;x
 EVTNAMEmechfl.2;Combat Ready;;;;;;;;;;;;;x
 mechfl.atk1;I am become DEATH!;;;;;;;;;;;;;x
 mechfl.3;
@@ -31,7 +31,7 @@ EVTDESCmechfl.oops6;Bringing your Mech Suit to the front lines was a mistake. Yo
 mechfl.atk3;Charge!;;;;;;;;;;;;;x
 mechfl.atk4;"[Root.GetFirstName], Ready to engage!";;;;;;;;;;;;;x
 mechfl.def2;"STRIKER, initiate energy shield!";;;;;;;;;;;;;x
-EVTDESCmechfl.4;"STRIKER COMBAT SYSTEMS ONLINE'. You pull the cockpit closed as you prepare to enter the battlefield. Sweating, you clutch the controls and connect to the machine's frame;;;;;;;;;;;;;x
+EVTDESCmechfl.4;"STRIKER COMBAT SYSTEMS ONLINE'. You pull the cockpit closed as you prepare to enter the battlefield. Sweating, you clutch the controls and connect to the machine's frame.;;;;;;;;;;;;;x
 EVTDESCdestroymech.3;Your Mech Suit was damaged beyond repair in your last battle. Regretfully, you order your men to have it destroyed;;;;;;;;;;;;;x
 OPTAdestroymech.3;Damn it!;;;;;;;;;;;;;x
 

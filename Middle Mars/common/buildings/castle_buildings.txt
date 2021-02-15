@@ -31,7 +31,6 @@ castle = {
 		trigger = { TECH_CONSTRUCTION = 2 }
 		gold_cost = 100
 		build_time = 730
-		vassal_opinion = 5
 		court_size_modifier = 2
 		culture_techpoints = 0.10
 		ai_creation_factor = 90
@@ -43,7 +42,7 @@ castle = {
 		potential = {	
 			FROM = {
 			OR = {
-				religion = sunni
+				religion_group = muslim
 				religion = orthodox	
 				religion = taoist
 				religion = tengri_pagan	
@@ -376,25 +375,6 @@ castle = {
 		garrison_size = 0.25
 		fort_level = 1.5
 		}
-	ca_economic_analysis = {
-		desc = ca_economic_analysis_desc
-		potential = {	
-			FROM = {		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_TRADE_PRACTICES = 1 }
-		gold_cost = 120
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
-		add_number_to_name = no
-		economy_techpoints = 0.1
-		global_tax_modifier = -0.05
-		tax_income = 2
-	}
 	ca_secret_lair = {
 		desc = ca_secret_lair_desc
 		potential = {	
@@ -647,6 +627,31 @@ castle = {
 		extra_tech_building_start = 100
 		add_number_to_name = no
 		upgrades_from = ca_chapel
+	}
+	ca_trade_center = {
+		potential = {	
+			FROM = {
+			OR = {
+				culture_group = arabic
+				any_neighbor_independent_ruler = { religion = taoist }
+				}		
+				capital_holding = {	
+					title = FROMFROM	
+				}	
+			}	
+		}	
+		trigger = { TECH_CITY_CONSTRUCTION = 3 }
+		desc = ca_trade_center_desc
+		gold_cost = 200
+		build_time = 850
+		disease_defence = -0.25
+		military_techpoints = 0.5
+		economy_techpoints = 0.25	
+		culture_techpoints = 0.25
+		local_tax_modifier = 1.2
+		ai_creation_factor = 90
+		extra_tech_building_start = 100
+		add_number_to_name = no
 	}
 	ca_training_yard = {
 		potential = {
