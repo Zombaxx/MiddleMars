@@ -190,6 +190,10 @@ character_event = {
 		has_character_flag = taken_hostage
 		age = 12
 		NOT = { age = 15 }
+		NOR = {
+			trait = wroth
+			trait = ambitious
+		}
 	}
 
 	immediate = {

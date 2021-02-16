@@ -48,7 +48,6 @@ castle = {
 			ROOT = {
 			capital_scope = {
 				OR = {
-					has_province_modifier = slave_host_1
 					has_province_modifier = slave_host_2
 					has_province_modifier = slave_host_3
 					}
@@ -77,11 +76,7 @@ castle = {
 		is_active_trigger = {
 			ROOT = {
 			capital_scope = {
-				OR = {
-					has_province_modifier = slave_host_1
-					has_province_modifier = slave_host_2
-					has_province_modifier = slave_host_3
-					}
+				has_province_modifier = slave_host_3
 				}
 			}
 		} 		

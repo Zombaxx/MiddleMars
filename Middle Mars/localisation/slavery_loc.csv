@@ -42,6 +42,7 @@ ca_slave_hold_3;Slave Quarters;;;;;;;;;;;;;x
 ca_slave_hold_3_desc;A holding to host a massive number of slaves.;;;;;;;;;;;;;x
 
 #Modifiers
+boughtslaves;Traded Slaves;;;x
 slave_host_1;Small Slavehold;;;;;;;;;;;;;x
 slave_host_1_desc;A few slaves are working in this province.;;;;;;;;;;;;;x
 slave_host_2;Large Slavehold;;;;;;;;;;;;;x

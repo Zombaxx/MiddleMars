@@ -2,6 +2,7 @@ decisions = {
 	arm_slaves = {
 		is_high_prio = yes
 		potential = {
+			primary_title = { higher_tier_than = BARON }
 			war = yes
 				OR = {
 					has_law = slavery_2
@@ -16,9 +17,9 @@ decisions = {
 			}
 			capital_scope = {
 				OR = {
-					has_province_modifier = slave_host_1
-					has_province_modifier = slave_host_2
-					has_province_modifier = slave_host_3
+					has_building = ca_slave_hold_1
+					has_building = ca_slave_hold_2
+					has_building = ca_slave_hold_3
 				}
 			}
 		}
@@ -38,6 +39,8 @@ decisions = {
 	buy_slaves = {
 		is_high_prio = yes
 		potential = {
+			primary_title = { higher_tier_than = BARON }
+			is_ruler = yes
 			war = no
 			crownlaw_title = {
 				has_law = slavery_3
@@ -45,14 +48,7 @@ decisions = {
 		}
 		allow = {
 			wealth = 300
-			capital_scope = {
-				OR = {
-				has_building = ca_slave_hold_1
-				has_building = ca_slave_hold_2
-				has_building = ca_slave_hold_3
-				}
-			}
-
+			NOT = { has_character_modifier = boughtslaves }
 			NOT = {
 				capital_scope = {
 					has_province_modifier = slave_host_3
@@ -84,10 +80,14 @@ decisions = {
 	}
 	sell_slaves = {
 		potential = {
+			primary_title = { higher_tier_than = BARON }
 			war = no
-			is_ruler = yes
+			crownlaw_title = {
+				has_law = slavery_3
+			}
 		}
 		allow = {
+			NOT = { has_character_modifier = boughtslaves }
 			capital_scope = {
 				OR = {
 					has_province_modifier = slave_host_1

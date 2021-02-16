@@ -29,6 +29,7 @@ character_event = {
 		}
 	}
 }
+
 character_event = {
 	id = roy_slavery_events.2
 	desc = EVTDESCroy_slavery_events.2
@@ -42,6 +43,7 @@ character_event = {
 	}
 	option = { #More Slaves, Please
 		name = EVTOPTAroy_slavery_events.2
+			add_character_modifier = { modifier = boughtslaves duration = 1825 }
 			capital_scope = {
 				IF = {
 					limit = {
@@ -54,7 +56,7 @@ character_event = {
 					limit = {
 						has_province_modifier = slave_host_1
 					}
-					remove_province_modifier = slave_host_1
+					remove_province_modifier = slave_hold_1
 					add_province_modifier = { modifier = slave_host_2 duration = -1 }
 				}
 				IF = {
@@ -86,6 +88,7 @@ character_event = {
 	}
 	option = { #Less Slaves, Please
 		name = EVTOPTAroy_slavery_events.3
+			add_character_modifier = { modifier = boughtslaves duration = 1825 }
 			capital_scope = {
 				IF = {
 					limit = {
@@ -111,7 +114,6 @@ character_event = {
 			wealth = 200
 		}
 	}
-
 character_event = {
 	id = roy_slavery_events.4
 	desc = EVTDESCroy_slavery_events.4
@@ -133,7 +135,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-									has_province_modifier = slave_host_1
+									has_building = ca_slave_hold_1
 							}
 						}
 						spawn_unit = {
@@ -152,7 +154,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_province_modifier = slave_host_2
+								has_building = ca_slave_hold_2
 							}
 						}
 						spawn_unit = {
@@ -171,7 +173,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_province_modifier = slave_host_3
+								has_building = ca_slave_hold_3
 							}
 						}
 						spawn_unit = {
