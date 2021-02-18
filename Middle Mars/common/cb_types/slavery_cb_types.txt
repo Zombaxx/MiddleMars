@@ -21,6 +21,7 @@ slave_raid = {
 
 	can_use_gui = {
 		ROOT = {
+			mercenary = no
 			any_realm_province = {
 				OR = {
 					any_neighbor_province = {
@@ -70,8 +71,10 @@ slave_raid = {
 	can_use = {
 		FROM = {
 			independent = yes
+			mercenary = no
 		}
 		ROOT = {
+			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = BARON
 			crownlaw_title = {
@@ -95,6 +98,7 @@ slave_raid = {
 
 	is_valid = {
 		ROOT = {
+			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = BARON
 			crownlaw_title = {
@@ -115,6 +119,7 @@ slave_raid = {
 			}
 		}
 		FROM = {
+			mercenary = no
 			is_ruler = yes
 			independent = yes
 		}
@@ -264,6 +269,7 @@ anti_slavery = {
 
 	can_use_gui = {
 		ROOT = {
+			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = COUNT
 			NOT = { trait  = trait_slaver }
@@ -280,6 +286,7 @@ anti_slavery = {
 
 	can_use = {
 		FROM = {
+			mercenary = no
 			independent = yes
 			higher_real_tier_than = COUNT
 			crownlaw_title = {
@@ -302,6 +309,7 @@ anti_slavery = {
 
 	is_valid = {
 		ROOT = {
+			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = COUNT
 			NOT = {
@@ -314,6 +322,7 @@ anti_slavery = {
 			}
 		}
 		FROM = {
+			mercenary = no
 			independent = yes
 			higher_real_tier_than = COUNT
 			crownlaw_title = {

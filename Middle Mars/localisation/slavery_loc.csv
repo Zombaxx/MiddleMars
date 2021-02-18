@@ -36,19 +36,19 @@ opinion_brutally_tortured;Brutally Tortured me;;;;;;;;;;;;;x
 #Buildings
 ca_slave_hold_1;Slave Quarters;;;;;;;;;;;;;x
 ca_slave_hold_1_desc;A holding to host a small number of slaves.;;;;;;;;;;;;;x
-ca_slave_hold_2;Slave Quarters;;;;;;;;;;;;;x
+ca_slave_hold_2;Large Slave Quarters;;;;;;;;;;;;;x
 ca_slave_hold_2_desc;A holding to host a large number of slaves.;;;;;;;;;;;;;x
-ca_slave_hold_3;Slave Quarters;;;;;;;;;;;;;x
+ca_slave_hold_3;Massive Slave Quarters;;;;;;;;;;;;;x
 ca_slave_hold_3_desc;A holding to host a massive number of slaves.;;;;;;;;;;;;;x
 
 #Modifiers
 boughtslaves;Traded Slaves;;;x
-slave_host_1;Small Slavehold;;;;;;;;;;;;;x
-slave_host_1_desc;A few slaves are working in this province.;;;;;;;;;;;;;x
-slave_host_2;Large Slavehold;;;;;;;;;;;;;x
-slave_host_2_desc;Many slaves are in this province.;;;;;;;;;;;;;x
-slave_host_3;Massive Slavehold;;;;;;;;;;;;;x
-slave_host_3_desc;Innumerable slaves are in this province.;;;;;;;;;;;;;x
+slave_host_1;Small Slave Camp;;;;;;;;;;;;;x
+slave_host_1_desc;There are only a handful of slaves in this province, but enough to supplement the efforts of free laborers.;;;;;;;;;;;;;x
+slave_host_2;Large Slave Camp;;;;;;;;;;;;;x
+slave_host_2_desc;This province has many slave camps, which provide a large enough labor force to form a viable alternative to free servants.;;;;;;;;;;;;;x
+slave_host_3;Massive Slave Camp;;;;;;;;;;;;;x
+slave_host_3_desc;This province has a vast number of slave camps, and the majority of labor is preformed by slaves.;;;;;;;;;;;;;x
 
 freed_slaves;Freed Slaves;;;x
 freed_slaves_desc;A large number of the slaves of this province have been freed of their service.;;;x
