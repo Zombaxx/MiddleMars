@@ -10,6 +10,7 @@ slots = {
 	ship = 1
 	ceremonial_torso = 1
 	mask = 1 
+	suit = 1
 }
 
 #############################
@@ -24,8 +25,11 @@ mech_suit = {
 	global_tax_modifier = -0.5
 	martial = 5
 	command_modifier = {
-		morale_offence = 0.4
-		morale_defence = 0.4
+		morale_offence = 0.3
+		morale_defence = 0.3
+		damage = 0.30
+		siege = 0.35
+		speed = 0.25
 	}
 	quality = 3
 	active = {
@@ -35,7 +39,7 @@ mech_suit = {
 	flags = { combat_weapon combat_tier_3 mecha_suit }
 	stacking = no
 	picture = "GFX_mech_suit"
-	slot = weapon
+	slot = suit
 }
 common_mech_suit = { 
 	cached = yes
@@ -47,6 +51,9 @@ common_mech_suit = {
 	command_modifier = {
 		morale_offence = 0.15
 		morale_defence = 0.15
+		damage = 0.15
+		siege = 0.20
+		speed = 0.50
 	}
 	quality = 2
 	active = {
@@ -55,7 +62,7 @@ common_mech_suit = {
 	flags = { combat_weapon combat_tier_2 mecha_suit }
 	stacking = no
 	picture = "GFX_common_mech_suit"
-	slot = weapon
+	slot = suit
 }
 super_mech_suit = { 
 	cached = yes
@@ -67,6 +74,9 @@ super_mech_suit = {
 	command_modifier = {
 		morale_offence = 0.50
 		morale_defence = 0.50
+		damage = 0.50
+		siege = 0.50
+		speed = 0.35
 	}
 	quality = 5
 	active = {
@@ -77,5 +87,5 @@ super_mech_suit = {
 	flags = { combat_weapon combat_tier_5 mecha_suit }
 	stacking = no
 	picture = "GFX_super_mech_suit"
-	slot = weapon
+	slot = suit
 }

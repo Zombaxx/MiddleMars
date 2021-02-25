@@ -17,7 +17,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.1
 	desc = EVTDESCtake_hostage_events.1
-	picture = GFX_evt_council
+	picture = GFX_evt_child_reading
 	is_triggered_only = yes
 
 	option = {
@@ -39,11 +39,11 @@ character_event = {
 		name = EVTOPTBtake_hostage_events.1
 		hidden_tooltip = {
 			random_list = {
-				5 = { character_event = { id = take_hostage_events.2 days = 7 random = 7 } }
-				20 = { character_event = { id = take_hostage_events.3 days = 7 random = 7 } }
+				15 = { character_event = { id = take_hostage_events.2 days = 7 random = 7 } }
+				10 = { character_event = { id = take_hostage_events.3 days = 7 random = 7 } }
 				50 = { character_event = { id = take_hostage_events.4 days = 7 random = 7 } }
-				20 = { character_event = { id = take_hostage_events.5 days = 7 random = 7 } }
-				5 = { character_event = { id = take_hostage_events.6 days = 7 random = 7 } }
+				10 = { character_event = { id = take_hostage_events.5 days = 7 random = 7 } }
+				15 = { character_event = { id = take_hostage_events.6 days = 7 random = 7 } }
 			}
 		}
 	}
@@ -51,7 +51,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.2
 	desc = EVTDESCtake_hostage_events.2
-	picture = GFX_evt_council
+	picture = GFX_evt_children_talking
 	is_triggered_only = yes
 
 	immediate = {
@@ -78,7 +78,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.3
 	desc = EVTDESCtake_hostage_events.3
-	picture = GFX_evt_council
+	picture = GFX_evt_children_talking
 	is_triggered_only = yes
 
 	immediate = {
@@ -114,7 +114,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.4
 	desc = EVTDESCtake_hostage_events.4
-	picture = GFX_evt_council
+	picture = GFX_evt_child_reading
 	is_triggered_only = yes
 
 	option = {
@@ -124,7 +124,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.5
 	desc = EVTDESCtake_hostage_events.5
-	picture = GFX_evt_council
+	picture = GFX_evt_child_bully
 	is_triggered_only = yes
 
 	option = {
@@ -144,7 +144,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.6
 	desc = EVTDESCtake_hostage_events.6
-	picture = GFX_evt_council
+	picture = GFX_evt_child_sword
 	is_triggered_only = yes
 
 	immediate = {
@@ -162,8 +162,6 @@ character_event = {
 		name = EVTOPTAtake_hostage_events.6
 		FROMFROM = {
 			add_rival = event_target:hostage_enemy
-			add_trait = shy
-			add_trait = depressed
 			random = {
 				chance = 20
 				add_trait = wounded
@@ -192,10 +190,10 @@ character_event = {
 		has_character_flag = taken_hostage
 		age = 12
 		NOT = { age = 15 }
-	}
-
-	mean_time_to_happen = {
-		years = 3
+		NOR = {
+			trait = wroth
+			trait = ambitious
+		}
 	}
 
 	immediate = {
@@ -205,7 +203,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.9
 	desc = EVTDESCtake_hostage_events.9
-	picture = GFX_evt_council
+	picture = GFX_evt_guardian
 	is_triggered_only = yes
 
 	option = {

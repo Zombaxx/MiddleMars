@@ -4,6 +4,7 @@ character_event = {
 	border = "GFX_event_normal_frame_war"
 	desc = EVTDESCrobobattle_events.9
 	title = EVTNAMErobobattle_events.9
+	border = GFX_event_normal_frame_war
 	picture = GFX_mech_fight
 
 	is_triggered_only = yes
@@ -80,6 +81,7 @@ character_event = {
 		title = EVTNAMErobobattle_events.10
 		border = "GFX_event_normal_frame_war"
 		desc = "EVTDESCrobobattle_events.10"
+		border = GFX_event_normal_frame_war
 		picture = GFX_mech_aftermath
 	
 		is_triggered_only = yes
@@ -101,6 +103,7 @@ character_event = {
 		title = EVTNAMErobobattle_events.11
 		border = "GFX_event_normal_frame_war"
 		desc = "EVTDESCrobobattle_events.11"
+		border = GFX_event_normal_frame_war
 		picture = GFX_mech_aftermath
 	
 		is_triggered_only = yes
@@ -110,7 +113,7 @@ character_event = {
 		add_character_modifier = { recentmechbattle days = 40 }
 		event_target:roboduel = { 
 			add_trait = wounded
-			any_artifact = { 
+			random_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
 					is_artifact_active = yes }
 				unsafe_destroy_artifact = yes } }

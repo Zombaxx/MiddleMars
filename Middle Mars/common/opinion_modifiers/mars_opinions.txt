@@ -44,3 +44,25 @@ overruled_me = {
 opinion_stolen_title = {
 	opinion = -20
 }
+bestowed_mech_suit = {
+	opinion = 50
+}
+opinion_knighted_me = {
+	opinion = 25
+	years = 20
+	stacking = no
+}
+
+opinion_squired_me = {
+	opinion = 15
+	years = 8
+	stacking = no
+}
+impressed_speech = {
+	opinion = 10
+	months = 24
+}
+commander_appreciated = {
+	opinion = 10
+	months = 24
+}

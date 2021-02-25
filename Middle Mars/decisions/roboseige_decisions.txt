@@ -2,7 +2,6 @@ decisions = {
 
 	use_mech_siege_dec = {
 		is_high_prio = yes
-		ai = no #ai decides via event
 		potential = { 
 			has_artifact = mech_suit
 			siege = {
@@ -32,7 +31,6 @@ decisions = {
 
 	use_comm_mech_siege_dec = {
 		is_high_prio = yes
-		ai = no #ai decides via event
 		potential = { 
 			has_artifact = common_mech_suit
 			siege = {
@@ -61,7 +59,6 @@ decisions = {
 
 	use_super_mech_siege_dec = {
 		is_high_prio = yes
-		ai = no #ai decides via event
 		potential = { 
 			has_artifact = super_mech_suit
 			siege = {

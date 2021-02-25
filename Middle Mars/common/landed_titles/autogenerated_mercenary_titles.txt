@@ -20,7 +20,7 @@ d_south_alba_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = old_frankish_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_cyane_fossae_band = {
 	color={ 69 6 88 }
@@ -44,7 +44,7 @@ d_cyane_fossae_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = portuguese_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_west_alba_band = {
 	color={ 162 52 90 }
@@ -68,7 +68,7 @@ d_west_alba_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = portuguese_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_north_alba_band = {
 	color={ 63 91 81 }
@@ -92,7 +92,7 @@ d_north_alba_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = german_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_ascuris_band = {
 	color={ 219 88 47 }
@@ -116,7 +116,7 @@ d_ascuris_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = old_frankish_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_acheron_band = {
 	color={ 134 212 38 }
@@ -140,7 +140,7 @@ d_acheron_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = old_frankish_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_olympica_fossae_band = {
 	color={ 215 99 29 }
@@ -164,7 +164,7 @@ d_olympica_fossae_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = portuguese_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_baphyras_islands_band = {
 	color={ 67 21 10 }
@@ -188,7 +188,7 @@ d_baphyras_islands_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = old_saxon_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_uranius_band = {
 	color={ 118 37 3 }
@@ -212,7 +212,7 @@ d_uranius_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = old_saxon_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_ceraunius_fossae_band = {
 	color={ 195 190 21 }
@@ -236,7 +236,7 @@ d_ceraunius_fossae_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = portuguese_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_tempe_terra_band = {
 	color={ 208 123 33 }
@@ -260,7 +260,7 @@ d_tempe_terra_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = norse_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_olyumpus_mons_band = {
 	color={ 89 45 87 }
@@ -284,7 +284,7 @@ d_olyumpus_mons_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = greek_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_levuti_band = {
 	color={ 218 240 95 }
@@ -308,7 +308,7 @@ d_levuti_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = assyrian_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_kayduna_band = {
 	color={ 243 210 50 }
@@ -332,7 +332,7 @@ d_kayduna_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kirghiz_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_tharsis_tholus_band = {
 	color={ 86 102 57 }
@@ -356,7 +356,7 @@ d_tharsis_tholus_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = ethiopian_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_gigas_sulci_band = {
 	color={ 235 121 33 }
@@ -380,7 +380,7 @@ d_gigas_sulci_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = crimean_gothic_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_wukath_band = {
 	color={ 85 94 93 }
@@ -404,7 +404,7 @@ d_wukath_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = crimean_gothic_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_ripac_band = {
 	color={ 165 166 119 }
@@ -428,7 +428,7 @@ d_ripac_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kirghiz_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_noctis_fossae_band = {
 	color={ 241 236 25 }
@@ -452,7 +452,7 @@ d_noctis_fossae_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = hausa_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_tharsis_montes_band = {
 	color={ 107 133 98 }
@@ -476,7 +476,7 @@ d_tharsis_montes_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kirghiz_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_biblis_tholus_band = {
 	color={ 152 217 34 }
@@ -500,7 +500,7 @@ d_biblis_tholus_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = persian_band_composition
+	mercenary_type = generic_low_composition
 }
 d_oudemans_band = {
 	color={ 215 40 34 }
@@ -548,7 +548,7 @@ d_tithonium_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = catalan_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_rirek_band = {
 	color={ 123 139 68 }
@@ -572,7 +572,7 @@ d_rirek_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = persian_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_valles_marineris_band = {
 	color={ 104 129 76 }
@@ -596,7 +596,7 @@ d_valles_marineris_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = basque_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_abduan_band = {
 	color={ 187 58 29 }
@@ -620,7 +620,7 @@ d_abduan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kurdish_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_icaria_planum_band = {
 	color={ 204 104 52 }
@@ -668,7 +668,7 @@ d_claritas_rupes_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = hausa_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_seted_band = {
 	color={ 159 0 120 }
@@ -716,7 +716,7 @@ d_rumyuan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kurdish_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_aguoja_band = {
 	color={ 94 106 63 }
@@ -740,7 +740,7 @@ d_aguoja_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kurdish_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_south_marineris_band = {
 	color={ 122 45 122 }
@@ -764,7 +764,7 @@ d_south_marineris_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = catalan_band_composition
+	mercenary_type = generic_mid_composition
 }
 d_diegawa_band = {
 	color={ 219 213 11 }
@@ -788,7 +788,7 @@ d_diegawa_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_solis_planum_band = {
 	color={ 176 150 59 }
@@ -812,7 +812,7 @@ d_solis_planum_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = hausa_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_aonia_terra_band = {
 	color={ 182 226 6 }
@@ -884,7 +884,7 @@ d_xanthe_terra_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = basque_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_torah_band = {
 	color={ 71 123 116 }
@@ -932,7 +932,7 @@ d_sabozin_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = hausa_band_composition
+	mercenary_type = generic_low_1_composition
 }
 d_bakh_band = {
 	color={ 74 144 20 }
@@ -956,7 +956,7 @@ d_bakh_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = kurdish_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_rahala_band = {
 	color={ 71 229 45 }
@@ -980,7 +980,7 @@ d_rahala_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = persian_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_argentea_planum_band = {
 	color={ 113 215 93 }
@@ -1028,7 +1028,7 @@ d_aurorae_planum_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = basque_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_terra_sirenum_band = {
 	color={ 189 60 122 }
@@ -1076,7 +1076,7 @@ d_nereidum_montes_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = castillan_band_composition
+	mercenary_type = generic_low_composition
 }
 d_ropilda_band = {
 	color={ 91 236 81 }
@@ -1172,7 +1172,7 @@ d_ryaquke_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_bosporos_planum_band = {
 	color={ 151 107 57 }
@@ -1196,7 +1196,7 @@ d_bosporos_planum_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = castillan_band_composition
+	mercenary_type = generic_low_composition
 }
 d_sizoj_band = {
 	color={ 222 173 95 }
@@ -1220,7 +1220,7 @@ d_sizoj_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = castillan_band_composition
+	mercenary_type = generic_low_composition
 }
 d_todan_band = {
 	color={ 99 209 110 }
@@ -1244,7 +1244,7 @@ d_todan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_argyre_islands_band = {
 	color={ 115 147 117 }
@@ -1340,7 +1340,7 @@ d_tael_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_planum_australe_band = {
 	color={ 199 112 46 }
@@ -1388,7 +1388,7 @@ d_scopuli_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = bodpa_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_daloses_band = {
 	color={ 167 32 104 }
@@ -1460,7 +1460,7 @@ d_rumew_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_seinavi_band = {
 	color={ 211 43 101 }
@@ -1484,7 +1484,7 @@ d_seinavi_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_wahed_band = {
 	color={ 145 248 25 }
@@ -1508,7 +1508,7 @@ d_wahed_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_kaudlan_band = {
 	color={ 111 214 60 }
@@ -1532,7 +1532,7 @@ d_kaudlan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_ranida_band = {
 	color={ 116 119 65 }
@@ -1580,7 +1580,7 @@ d_ebieguke_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = bodpa_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_nohuone_band = {
 	color={ 103 50 1 }
@@ -1604,7 +1604,7 @@ d_nohuone_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_renulk_band = {
 	color={ 156 204 99 }
@@ -1628,7 +1628,7 @@ d_renulk_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_tirita_band = {
 	color={ 190 154 95 }
@@ -1748,7 +1748,7 @@ d_nalosye_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_qudrd_band = {
 	color={ 237 139 56 }
@@ -1772,7 +1772,7 @@ d_qudrd_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = andalusian_arabic_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_ekarille_band = {
 	color={ 174 182 56 }
@@ -1796,7 +1796,7 @@ d_ekarille_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_promethei_terra_band = {
 	color={ 80 97 10 }
@@ -1820,7 +1820,7 @@ d_promethei_terra_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = han_band_composition
+	mercenary_type = generic_spacer_1_composition
 }
 d_tahaa_band = {
 	color={ 183 66 23 }
@@ -1844,7 +1844,7 @@ d_tahaa_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = levantine_arabic_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_wadiga_band = {
 	color={ 129 113 2 }
@@ -1868,7 +1868,7 @@ d_wadiga_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = rajput_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_wahina_band = {
 	color={ 124 177 82 }
@@ -1892,7 +1892,7 @@ d_wahina_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = rajput_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_rihan_band = {
 	color={ 100 40 98 }
@@ -1916,7 +1916,7 @@ d_rihan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = visigothic_band_composition
+	mercenary_type = generic_mid_composition_1
 }
 d_linipa_band = {
 	color={ 91 159 6 }
@@ -1940,7 +1940,7 @@ d_linipa_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_taregin_band = {
 	color={ 168 82 42 }
@@ -1988,7 +1988,7 @@ d_akorgil_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_rigsi_band = {
 	color={ 145 65 21 }
@@ -2012,7 +2012,7 @@ d_rigsi_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = rajput_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_tohipa_band = {
 	color={ 111 168 42 }
@@ -2060,7 +2060,7 @@ d_edudrd_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = rajput_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_runapo_band = {
 	color={ 230 99 35 }
@@ -2252,7 +2252,7 @@ d_lasajan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = levantine_arabic_band_composition
+	mercenary_type = generic_low_composition_1
 }
 d_najisa_band = {
 	color={ 192 244 28 }
@@ -2300,7 +2300,7 @@ d_qahera_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = rajput_band_composition
+	mercenary_type = generic_tiny_composition_1
 }
 d_ekiraja_band = {
 	color={ 149 141 13 }
@@ -2348,7 +2348,7 @@ d_rodandi_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
+	mercenary_type = generic_massive_composition
 }
 d_sumuone_band = {
 	color={ 112 167 102 }

@@ -1,0 +1,30 @@
+active_mercs = {
+	icon = 1
+	vassal_opinion = -5
+	local_tax_modifier = -0.45
+}
+tributary_timer = {
+	icon = 4
+}
+give_speech = {
+	icon = 29
+}
+inspired_faithfuls = {
+	icon = 17
+	local_revolt_risk = -0.03
+	levy_reinforce_rate = 0.15
+}
+revered_military = {
+	icon = 13
+	levy_reinforce_rate = 0.25
+}
+despise_immigrants = {
+	icon = 29
+	local_revolt_risk = -0.05
+	local_tax_modifier = -0.45
+}
+strong_ruler = {
+	icon = 18
+	levy_reinforce_rate = 0.35
+	local_revolt_risk = -0.10
+}

@@ -1,0 +1,132 @@
+namespace = suit_events
+#Inform Red Fighter given
+character_event = {
+	id = suit_events.1
+	desc = "EVTDESCsuit_events.1"
+	border = GFX_event_normal_frame_war
+	picture = GFX_mech_hangar 
+	
+	is_triggered_only = yes
+	show_from_from = yes
+	
+	option = {
+		name = EVTOPTAsuit_events.1
+		event_target:dragon_egg_to_transfer = {
+			transfer_artifact = { from = FROMFROM to = ROOT }
+		}	
+	}
+}
+#Piloting Mech Suit harms body
+character_event = {
+	id = suit_events.0
+	title = EVTTITsuit_events.0
+	desc = "EVTDESCsuit_events"
+	picture = GFX_mech_fight
+	border = GFX_event_normal_frame_war
+	only_playable = yes
+		
+
+	is_triggered_only = yes
+		
+	trigger = {
+		in_command = yes
+		in_battle = yes
+		NOT = { has_character_modifier = good_pilot }
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+			has_artifact = super_mech_suit
+		}
+	}
+	option = { 
+	name = "EVTOPTAsuit_events.0" 
+		trigger = { 
+			NOR = {
+				trait = spacer_physiology  
+				trait = heavy_worlder
+				trait = strong
+				trait = genius
+			}
+		} 
+		custom_tooltip = { text = suitevt1 }
+		prestige = 25
+		health = -0.5
+		add_character_modifier = { modifier = good_pilot duration = 720}
+		}
+
+	option = { 
+	name = "EVTOPTBsuit_events.0"
+		trigger = { 
+			OR = {
+				trait = spacer_physiology  
+				trait = heavy_worlder
+			}
+		} 
+		custom_tooltip = { text = suitevt2 }
+		prestige = 25
+		change_martial = 1
+		add_character_modifier = { modifier = good_pilot duration = 720}
+		}
+	option = { 
+	name = "EVTOPTCsuit_events.0" 
+		trigger = { 
+			NOR = {
+				trait = spacer_physiology  
+				trait = heavy_worlder
+			}
+			OR = {
+				trait = strong
+				trait = genius
+			}
+		} 
+		custom_tooltip = { text = suitevt3 }
+		prestige = 25
+		health = 0.5
+		add_character_modifier = { modifier = good_pilot duration = 720}
+		}
+}
+#Spacer Emperor gets free STRIKER after a few years
+character_event = {
+	id = suit_events.2
+	desc = "EVTDESCsuit_events.2"
+	picture = GFX_mech_hangar
+	border = GFX_event_normal_frame_war
+	only_playable = yes
+		
+
+	is_triggered_only = yes
+		
+	war = no
+
+	trigger = {
+		in_command = no
+		tier = EMPEROR
+		religion = taoist
+		martial = 12
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+		}
+		NOT = { has_artifact = super_mech_suit }
+		NOT = {
+			trait = incapable
+			trait = infirm
+			trait = inbred
+			trait = imbecile
+		}
+
+	}
+
+	option = { 
+	name = "EVTOPTAsuit_events.2" 
+		custom_tooltip = { text = suitevt3 }
+		prestige = 105
+		random_artifact = { 
+			limit = { has_artifact_flag = mecha_suit
+				is_artifact_active = yes }
+			unsafe_destroy_artifact = yes 
+				}
+			add_artifact = super_mech_suit 
+			}
+		}
+

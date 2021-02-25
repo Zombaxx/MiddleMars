@@ -34,7 +34,7 @@ character_event = {
 		prestige = -25
 	}
 	option = { # Allow
-		name = EVTOPTB_TOG_3110
+		name = EVTOPTBson_merc_company.1
 		random_independent_ruler = {
 			limit = {
 				primary_title = {
@@ -62,5 +62,36 @@ character_event = {
 			}
 		}
 		prestige = 25
+	}
+}
+character_event = {
+	id = son_merc_company.2
+	desc = EVTDESCson_merc_company.2
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+	
+	option = { # Deny
+		name = EVTOPTAson_merc_company.2
+		FROM = {
+			opinion = {
+				modifier = opinion_very_disappointed
+				years = 1
+				who = ROOT
+			}
+		}
+		prestige = -25
+	}
+	option = { # Allow
+		name = EVTOPTBson_merc_company.2
+		random_independent_ruler = {
+			limit = { mercenary = yes }
+			FROM = {
+				move_character = PREV
+			}
+		}
+		prestige = 25
+		wealth = 50
 	}
 }

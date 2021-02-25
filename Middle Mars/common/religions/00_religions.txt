@@ -115,8 +115,9 @@ christian = {
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
-		religious_clothing_head = 0
-		religious_clothing_priest = 1
+		has_heir_designation = yes
+		peace_piety_gain = 1.0
+		women_can_take_consorts = yes
 
 		intermarry = catholic
 		intermarry = orthodox
@@ -172,6 +173,10 @@ christian = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
+		has_heir_designation = yes
+		allow_viking_invasion = yes
+		aggression = 2
+		raised_vassal_opinion_loss = no
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -214,6 +219,11 @@ christian = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		
+		ignores_defensive_attrition = yes
+		has_heir_designation = yes
+		feminist = yes
+		aggression = 2
+
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -246,6 +256,14 @@ christian = {
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+		ai_convert_same_group = 2
+		ai_convert_other_group = 2
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		max_wives = 3
+		matrilineal_marriages = no
+		female_temple_holders = no
+		uses_jizya_tax = yes
 		
 		intermarry = catholic
 		intermarry = orthodox
@@ -746,7 +764,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		#intermarry = sunni
@@ -778,7 +796,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		intermarry = sunni
@@ -822,7 +840,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -863,7 +881,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -894,7 +912,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -935,7 +953,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -966,7 +984,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -998,7 +1016,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -1031,7 +1049,7 @@ muslim = {
 
 		landed_kin_prestige_bonus = no
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = no
 		peace_prestige_loss = yes # Lose Prestige while at peace
 		raised_vassal_opinion_loss = no

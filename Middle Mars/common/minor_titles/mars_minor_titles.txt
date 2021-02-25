@@ -23,6 +23,7 @@ title_mistress = {
 	}
 
 	allowed_to_grant = {
+		NOT = { trait = trait_slave }
 		NOT = {
 			culture_group = north_germanic
 			culture_group = central_germanic
@@ -61,6 +62,7 @@ title_mistress = {
 	message = no
 }
 title_grand_judge = {
+	is_high_prio = yes
 	show_as_title = yes
 	realm_in_name = no
 	opinion_effect = 10
@@ -72,6 +74,7 @@ title_grand_judge = {
 	allowed_to_hold = {
 		is_landed = no
 		learning = 12
+		NOT = { trait = trait_slave }
 	}
 	
 	allowed_to_grant = {

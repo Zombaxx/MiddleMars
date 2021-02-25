@@ -5,6 +5,7 @@ decisions = {
 			is_female = no
 		}
 		allow = {
+			NOT = { trait = trait_slave }
 			wealth = 35
 			in_command = no
 			NOT = { has_character_modifier = visited_brothel }

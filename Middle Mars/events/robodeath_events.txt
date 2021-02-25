@@ -113,6 +113,7 @@ character_event = {
 	id = mechfl.2
 	desc = "EVTDESCmechfl.2"
 	title = "EVTNAMEmechfl.2"
+	border = GFX_event_normal_frame_war
 	picture = GFX_mech_fight
 	is_triggered_only = yes
 
@@ -194,6 +195,7 @@ character_event = {
 	id = mechfl.3
 	desc = "EVTDESCmechfl.3"
 	title = "EVTNAMEmechfl.3"
+	border = GFX_event_normal_frame_war
 	picture = GFX_mech_defend
 	is_triggered_only = yes
 	
@@ -246,6 +248,8 @@ character_event = {
 	character_event = {
 		id = mechfl.oops4
 		title = EVTNAMEmechfl.oops4
+		border = GFX_event_normal_frame_war
+		picture = GFX_mech_aftermath
 		desc = "EVTDESCmechfl.oops4"
 	
 		is_triggered_only = yes

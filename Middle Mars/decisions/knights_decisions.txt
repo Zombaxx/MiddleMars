@@ -1,0 +1,178 @@
+# filter = [self/court/home_court/vassals/sub_realm/realm/dynasty/all] ('self' MUST be set for decisions targetting only the taker, the other filter types can be set to lessen CPU load)
+# ai_target_filter = [self/court/home_court/vassals/sub_realm/realm/dynasty/all] (which characters for which the AI evaluates the decision.)
+#	court: all characters in the AI's host court, including prisoners, and characters currently away (wards, prisoners, etc)
+#	home_court: all characters in the AI's home court, including prisoners, and characters currently away (wards, prisoners, etc)
+#	vassals: direct vassal rulers of the AI's employer
+#	sub_realm: all characters below the AI's employer
+#	realm: all characters in the same top realm as the AI
+#	dynasty: all members of the same dynasty
+#	all: all living characters (Avoid if possible. VERY CPU-HEAVY!)
+#	
+
+targetted_decisions = {
+	knight_character = {
+		ai_target_filter = realm
+		filter = realm
+		from_potential = {
+			trait = knight
+			prestige = 100
+		}
+		potential = {
+			religion_group = christian
+			is_female = no
+			age = 16
+			NOT = {
+				trait = knight
+			}	
+		}
+		allow = {
+			age = 16
+			religion_group = christian
+			is_female = no
+			martial = 15
+			show_only_failed_conditions = yes
+		}
+		effect = {
+			FROM = {
+				prestige = -75
+			}
+			ROOT = {
+				character_event = {
+					id = knightly.0002
+				}
+			}
+		}
+	}
+	take_squire = {
+		ai_target_filter = court
+		filter = court
+		
+		from_potential = {
+			trait = knight
+			is_female = no
+		}
+		potential = {
+			educator = {
+				character = FROM
+				}
+			is_female = no
+			NOT = {
+				trait = knight
+			}
+			NOT = {
+				trait = squire
+			}
+		}
+		allow = {
+			religion_group = christian
+			show_only_failed_conditions = yes
+			age = 8
+
+			FROM = {
+				trait = knight
+			}
+		}
+		effect = {		
+			FROM = {
+				prestige = -20
+			}
+			ROOT = {
+				character_event = {
+					id = knightly.0001
+				}
+			}
+		}
+	}
+	arrange_knighthood = {
+		ai_target_filter = realm
+		filter = realm
+		from_potential = {
+			is_ruler = yes
+			ai = no
+		}
+		
+		potential = {
+			is_female = no
+			religion_group = christian
+			age = 16
+			NOT = {
+				trait = knight
+			}
+		}
+		allow = {
+			age = 16
+			religion_group = christian
+			martial = 12
+			show_only_failed_conditions = yes
+			FROM = { wealth = 100 }
+		}
+		effect = {
+			FROM = {
+				wealth = -100
+			}
+			ROOT = {
+				character_event = {
+					id = knightly.0004
+				}
+			}
+		}
+		
+	}
+	buy_knighthood = {
+		ai_target_filter = none
+		filter = dynasty_including_me
+		from_potential = {
+			is_ruler = yes
+			ai = no
+		}
+		potential = {
+			is_female = no
+			age = 16
+			religion_group = christian
+			NOT = {
+				trait = knight
+			}
+		}
+		allow = {
+			age = 16
+			religion_group = christian
+			wealth = 150
+		}
+		effect = {
+			add_trait = knight
+			remove_trait = squire
+			FROM = {
+				wealth = -150
+				prestige = -150
+			}
+		}
+	}
+	knight_squire = {
+		ai_target_filter = court
+		filter = court
+		from_potential = {
+			prestige = 25
+			OR = {
+				is_ruler = yes
+				trait = knight
+			}
+		}
+		potential = {
+			religion_group = christian
+			is_female = no
+			age = 16
+			trait = squire
+		}
+		allow = {
+			religion_group = christian
+			age = 16
+		}
+		effect = {
+			ROOT = {
+				character_event = {
+					id = knightly.0003
+				}
+			}
+		}
+	}
+}

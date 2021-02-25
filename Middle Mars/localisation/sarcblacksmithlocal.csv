@@ -1,3 +1,4 @@
+blacksmith_experience;Blacksmith Experience;;;x
 title_sarc_blacksmith;Blacksmith;;;;;;;;;;;;;x
 title_sarc_blacksmith_desc;A title given to someone to make them the court's blacksmith. Give someone this title to be able to forge weapons and armor for your treasury;;;;;;;;;;;;;x
 forge_weapons_sarc;Forge Weapon;;;;;;;;;;;;;x
@@ -9,7 +10,7 @@ BLCKSMTHEVNT100_desc;Your liege, [Liege.GetBestName], has asked for your service
 BLCKSMTHEVNT100_opt;Well first I'll need [Liege.GetBestName]'s specifications.;;;;;;;;;;;;;x
 BLCKSMTHEVNT101_desc;Your blacksmith has asked you for specifications on the weapon you requested. First, what type of weapon do you want?;;;;;;;;;;;;;x
 BLCKSMTHEVNT101_optSword;A sword, to strike fear into my enemies.;;;;;;;;;;;;;x
-BLCKSMTHEVNT101_optScimitar;A scimitar, to strike fear into my enemies.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optScim;A scimitar, to strike fear into my enemies.;;;;;;;;;;;;;x
 BLCKSMTHEVNT101_optMace;A mace, to strike through my enemies' armor.;;;;;;;;;;;;;x
 BLCKSMTHEVNT101_optAxe;An axe, to make short work of enemies' defenses.;;;;;;;;;;;;;x
 BLCKSMTHEVNT101_optOther;More options;;;;;;;;;;;;;x

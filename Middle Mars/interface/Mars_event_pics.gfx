@@ -9,7 +9,8 @@ spriteTypes = {
 		name = "GFX_roy_draft"
 		texturefile = "gfx\\event_pictures\roy_draft.dds"
 		allwaystransparent = yes
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_mech_fight"
 		texturefile = "gfx\\event_pictures\mech_fight.dds"
@@ -48,7 +49,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_event_personal_library"
-		texturefile = "gfx/event_pictures_personal/event_personal_library.tga"
+		texturefile = "gfx/event_pictures/event_personal_library.tga"
 		allwaystransparent = yes
 	}		
 	spriteType = {
@@ -99,7 +100,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_personal_training_yard"
-		texturefile = "gfx/event_pictures_personal/event_personal_training.tga"
+		texturefile = "gfx/event_pictures/event_personal_training.tga"
 		allwaystransparent = yes
 	}
 	spriteType = {

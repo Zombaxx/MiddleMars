@@ -138,12 +138,19 @@ ca_chapel_2_learning = {
 	learning = 1
 	icon = 3
 }
-utilize_weap = {
-	icon = 103
-	combat_rating = 10
-	command_modifier = {
-		morale_offence = 0.15
-		morale_defence = 0.15
-	}
+war_draft = {
+	icon = 36
+	levy_reinforce_rate = -0.75
+	local_revolt_risk = 0.03
 }
+drafted_peasants = {
+	icon = 36
+	general_opinion = -3
+}
+good_pilot = {
+	icon = 109
+	martial = 2
+	general_opinion = 3
+}
+	
 
