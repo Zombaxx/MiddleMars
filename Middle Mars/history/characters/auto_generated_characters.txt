@@ -11374,7 +11374,7 @@
 	}
 }
 100785 = {
-	name = "John"
+	name = "Roy"
 	dynasty = 100780
 	culture = "german"
 	religion = "catholic"

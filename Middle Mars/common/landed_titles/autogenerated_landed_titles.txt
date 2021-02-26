@@ -3287,6 +3287,34 @@ e_olyumpus_mons = {
 				b_aderaide = { }
 				b_barony0292g = { }
 			}
+			c_dohiban = {
+				color={ 243 210 50 }
+				color2={ 255 255 255 }
+				
+				
+				b_dohiban = { }
+				b_lyusira = { }
+				b_sikoch = { }
+				b_wahijah = { }
+				b_aflillel = { }
+				b_qutunai = { }
+				b_eseike = { }
+				b_barony0265g = { }
+			}
+			c_nyilija = {
+				color={ 218 240 95 }
+				color2={ 255 255 255 }
+				
+				
+				b_nyilija = { }
+				b_tazazi = { }
+				b_kibazi = { }
+				b_razazi = { }
+				b_kidampa = { }
+				b_lyad = { }
+				b_ryasahat = { }
+				b_barony0261g = { }
+			}			
 		}
 		d_gaia = {
 			color={ 217 189 92 }
@@ -3374,6 +3402,20 @@ e_olyumpus_mons = {
 				b_dilayah = { }
 				b_alucaca = { }
 				b_barony0327g = { }
+			}
+			c_sahaster = {
+				color={ 85 94 93 }
+				color2={ 255 255 255 }
+				
+				
+				b_sahaster = { }
+				b_ratibad = { }
+				b_tutoch = { }
+				b_tir = { }
+				b_anunuju = { }
+				b_sanira = { }
+				b_danelbo = { }
+				b_barony0330g = { }
 			}
 		}
 		d_hoplite = {
@@ -4078,166 +4120,6 @@ e_olyumpus_mons = {
 				b_nopila = { }
 				b_qeonija = { }
 				b_barony0226g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_datta = {
-	color={ 218 240 95 }
-	color2={ 255 255 255 }
-	
-	capital = 261
-	
-	culture = assyrian
-	
-	k_levuti = {
-		color={ 218 240 95 }
-		color2={ 255 255 255 }
-		
-		capital = 261
-		
-		culture = assyrian
-		
-		d_kinnunes = {
-			color={ 218 240 95 }
-			color2={ 255 255 255 }
-			
-			capital = 261
-			
-			c_nyilija = {
-				color={ 218 240 95 }
-				color2={ 255 255 255 }
-				
-				
-				b_nyilija = { }
-				b_tazazi = { }
-				b_kibazi = { }
-				b_razazi = { }
-				b_kidampa = { }
-				b_lyad = { }
-				b_ryasahat = { }
-				b_barony0261g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_neomna = {
-	color={ 243 210 50 }
-	color2={ 255 255 255 }
-	
-	capital = 265
-	
-	culture = kirghiz
-	
-	k_kayduna = {
-		color={ 243 210 50 }
-		color2={ 255 255 255 }
-		
-		capital = 265
-		
-		culture = kirghiz
-		
-		d_karuti = {
-			color={ 243 210 50 }
-			color2={ 255 255 255 }
-			
-			capital = 265
-			
-			c_dohiban = {
-				color={ 243 210 50 }
-				color2={ 255 255 255 }
-				
-				
-				b_dohiban = { }
-				b_lyusira = { }
-				b_sikoch = { }
-				b_wahijah = { }
-				b_aflillel = { }
-				b_qutunai = { }
-				b_eseike = { }
-				b_barony0265g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_dijasia = {
-	color={ 85 94 93 }
-	color2={ 255 255 255 }
-	
-	capital = 330
-	
-	culture = crimean_gothic
-	
-	k_wukath = {
-		color={ 85 94 93 }
-		color2={ 255 255 255 }
-		
-		capital = 330
-		
-		culture = crimean_gothic
-		
-		d_tamafa = {
-			color={ 85 94 93 }
-			color2={ 255 255 255 }
-			
-			capital = 330
-			
-			c_sahaster = {
-				color={ 85 94 93 }
-				color2={ 255 255 255 }
-				
-				
-				b_sahaster = { }
-				b_ratibad = { }
-				b_tutoch = { }
-				b_tir = { }
-				b_anunuju = { }
-				b_sanira = { }
-				b_danelbo = { }
-				b_barony0330g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_kijus = {
-	color={ 165 166 119 }
-	color2={ 255 255 255 }
-	
-	capital = 376
-	
-	culture = kirghiz
-	
-	k_ripac = {
-		color={ 165 166 119 }
-		color2={ 255 255 255 }
-		
-		capital = 376
-		
-		culture = kirghiz
-		
-		d_raripac = {
-			color={ 165 166 119 }
-			color2={ 255 255 255 }
-			
-			capital = 376
-			
-			c_asususa = {
-				color={ 165 166 119 }
-				color2={ 255 255 255 }
-				
-				
-				b_asususa = { }
-				b_rehre = { }
-				b_sitram = { }
-				b_dator = { }
-				b_wuloman = { }
-				b_wardis = { }
-				b_rorigar = { }
-				b_barony0376g = { }
 			}
 		}
 	}
@@ -6921,6 +6803,20 @@ e_tharsis_montes = {
 				b_egivaula = { }
 				b_barony0381g = { }
 			}
+			c_asususa = {
+				color={ 165 166 119 }
+				color2={ 255 255 255 }
+				
+				
+				b_asususa = { }
+				b_rehre = { }
+				b_sitram = { }
+				b_dator = { }
+				b_wuloman = { }
+				b_wardis = { }
+				b_rorigar = { }
+				b_barony0376g = { }
+			}
 		}
 	}
 	purple_born_heirs = yes
@@ -7256,6 +7152,55 @@ e_daedalia_planum = {
 				b_todam = { }
 				b_kepampa = { }
 				b_barony0545g = { }
+			}
+		}
+		d_dugua = {
+			color={ 219 104 22 }
+			color2={ 255 255 255 }
+			
+			capital = 531
+			
+			c_sarutuq = {
+				color={ 164 92 18 }
+				color2={ 255 255 255 }
+				
+				
+				b_sarutuq = { }
+				b_wojim = { }
+				b_lebeka = { }
+				b_bofed = { }
+				b_buwinn = { }
+				b_nusert = { }
+				b_koseinn = { }
+				b_barony0523g = { }
+			}
+			c_adomihal = {
+				color={ 219 104 22 }
+				color2={ 255 255 255 }
+				
+				
+				b_adomihal = { }
+				b_sedakk = { }
+				b_bomuno = { }
+				b_bizaslan = { }
+				b_teirupo = { }
+				b_tilkas = { }
+				b_sizolam = { }
+				b_barony0531g = { }
+			}
+			c_tareya = {
+				color={ 187 58 29 }
+				color2={ 255 255 255 }
+				
+				
+				b_tareya = { }
+				b_buwadevi = { }
+				b_emaluji = { }
+				b_ruwuji = { }
+				b_sohata = { }
+				b_atinuji = { }
+				b_quwadevi = { }
+				b_barony0512g = { }
 			}
 		}
 	}
@@ -8316,6 +8261,20 @@ e_valles_marineris = {
 				b_turozia = { }
 				b_barony0583g = { }
 			}
+			c_tasoete = {
+				color={ 219 213 11 }
+				color2={ 255 255 255 }
+				
+				
+				b_tasoete = { }
+				b_dokevna = { }
+				b_rayah = { }
+				b_katsi = { }
+				b_enohala = { }
+				b_wade = { }
+				b_runa = { }
+				b_barony0580g = { }
+			}
 		}
 		d_ebawyuan = {
 			color={ 232 188 70 }
@@ -8975,6 +8934,42 @@ e_valles_marineris = {
 				b_barony0876g = { }
 			}
 		}
+		d_rani = {
+			color={ 156 105 49 }
+			color2={ 255 255 255 }
+			
+			capital = 880
+			
+			c_ralijah = {
+				color={ 156 105 49 }
+				color2={ 255 255 255 }
+				
+				
+				b_ralijah = { }
+				b_waremma = { }
+				b_kelomas = { }
+				b_kekacon = { }
+				b_rara = { }
+				b_qimost = { }
+				b_tena = { }
+				b_barony0880g = { }
+			}
+			c_kogiam = {
+				color={ 220 223 81 }
+				color2={ 255 255 255 }
+				
+				
+				b_kogiam = { }
+				b_tireyao = { }
+				b_saluo = { }
+				b_sawassa = { }
+				b_dakha = { }
+				b_ekaman = { }
+				b_emoraran = { }
+				b_barony0891g = { }
+			}
+		}
+	}
 	}
 	k_valles_marineris = {
 		color={ 104 129 76 }
@@ -9317,100 +9312,6 @@ e_valles_marineris = {
 	}
 	purple_born_heirs = yes
 }
-e_wamucha = {
-	color={ 187 58 29 }
-	color2={ 255 255 255 }
-	
-	capital = 512
-	
-	culture = kurdish
-	
-	k_abduan = {
-		color={ 187 58 29 }
-		color2={ 255 255 255 }
-		
-		capital = 512
-		
-		culture = kurdish
-		
-		d_rohurna = {
-			color={ 187 58 29 }
-			color2={ 255 255 255 }
-			
-			capital = 512
-			
-			c_tareya = {
-				color={ 187 58 29 }
-				color2={ 255 255 255 }
-				
-				
-				b_tareya = { }
-				b_buwadevi = { }
-				b_emaluji = { }
-				b_ruwuji = { }
-				b_sohata = { }
-				b_atinuji = { }
-				b_quwadevi = { }
-				b_barony0512g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_lamurna = {
-	color={ 219 104 22 }
-	color2={ 255 255 255 }
-	
-	capital = 531
-	
-	culture = kurdish
-	
-	k_rumyuan = {
-		color={ 219 104 22 }
-		color2={ 255 255 255 }
-		
-		capital = 531
-		
-		culture = kurdish
-		
-		d_dugua = {
-			color={ 219 104 22 }
-			color2={ 255 255 255 }
-			
-			capital = 531
-			
-			c_sarutuq = {
-				color={ 164 92 18 }
-				color2={ 255 255 255 }
-				
-				
-				b_sarutuq = { }
-				b_wojim = { }
-				b_lebeka = { }
-				b_bofed = { }
-				b_buwinn = { }
-				b_nusert = { }
-				b_koseinn = { }
-				b_barony0523g = { }
-			}
-			c_adomihal = {
-				color={ 219 104 22 }
-				color2={ 255 255 255 }
-				
-				
-				b_adomihal = { }
-				b_sedakk = { }
-				b_bomuno = { }
-				b_bizaslan = { }
-				b_teirupo = { }
-				b_tilkas = { }
-				b_sizolam = { }
-				b_barony0531g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_solis_planum = {
 	color={ 122 45 122 }
 	color2={ 255 255 255 }
@@ -9418,7 +9319,7 @@ e_solis_planum = {
 	capital = 554
 	
 	culture = catalan
-	
+
 	k_oudemans = {
 		color={ 215 40 34 }
 		color2={ 255 255 255 }
@@ -9699,7 +9600,28 @@ e_solis_planum = {
 		capital = 587
 		
 		culture = hausa
-		
+
+		d_danyuan = {
+			color={ 79 206 125 }
+			color2={ 255 255 255 }
+			
+			capital = 626
+			
+			c_deirim = {
+				color={ 79 206 125 }
+				color2={ 255 255 255 }
+				
+				
+				b_deirim = { }
+				b_seph = { }
+				b_tarta = { }
+				b_runami = { }
+				b_tyasarus = { }
+				b_nivakpo = { }
+				b_ranaba = { }
+				b_barony0626g = { }
+			}
+		}		
 		d_solas = {
 			color={ 176 36 100 }
 			color2={ 255 255 255 }
@@ -10746,46 +10668,6 @@ e_solis_planum = {
 				b_rumoa = { }
 				b_renida = { }
 				b_barony0554g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_avalena = {
-	color={ 219 213 11 }
-	color2={ 255 255 255 }
-	
-	capital = 580
-	
-	culture = nahuatl
-	
-	k_diegawa = {
-		color={ 219 213 11 }
-		color2={ 255 255 255 }
-		
-		capital = 580
-		
-		culture = nahuatl
-		
-		d_luke = {
-			color={ 219 213 11 }
-			color2={ 255 255 255 }
-			
-			capital = 580
-			
-			c_tasoete = {
-				color={ 219 213 11 }
-				color2={ 255 255 255 }
-				
-				
-				b_tasoete = { }
-				b_dokevna = { }
-				b_rayah = { }
-				b_katsi = { }
-				b_enohala = { }
-				b_wade = { }
-				b_runa = { }
-				b_barony0580g = { }
 			}
 		}
 	}
@@ -12459,46 +12341,7 @@ e_logah = {
 	}
 	purple_born_heirs = yes
 }
-e_rabolon = {
-	color={ 79 206 125 }
-	color2={ 255 255 255 }
-	
-	capital = 626
-	
-	culture = hausa
-	
-	k_sabozin = {
-		color={ 79 206 125 }
-		color2={ 255 255 255 }
-		
-		capital = 626
-		
-		culture = hausa
-		
-		d_danyuan = {
-			color={ 79 206 125 }
-			color2={ 255 255 255 }
-			
-			capital = 626
-			
-			c_deirim = {
-				color={ 79 206 125 }
-				color2={ 255 255 255 }
-				
-				
-				b_deirim = { }
-				b_seph = { }
-				b_tarta = { }
-				b_runami = { }
-				b_tyasarus = { }
-				b_nivakpo = { }
-				b_ranaba = { }
-				b_barony0626g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
+
 e_terra_sirenum = {
 	color={ 189 60 122 }
 	color2={ 255 255 255 }
@@ -13682,86 +13525,6 @@ e_terra_sirenum = {
 	}
 	purple_born_heirs = yes
 }
-e_qarimha = {
-	color={ 156 105 49 }
-	color2={ 255 255 255 }
-	
-	capital = 880
-	
-	culture = alan
-	
-	k_duzul = {
-		color={ 156 105 49 }
-		color2={ 255 255 255 }
-		
-		capital = 880
-		
-		culture = alan
-		
-		d_rani = {
-			color={ 156 105 49 }
-			color2={ 255 255 255 }
-			
-			capital = 880
-			
-			c_ralijah = {
-				color={ 156 105 49 }
-				color2={ 255 255 255 }
-				
-				
-				b_ralijah = { }
-				b_waremma = { }
-				b_kelomas = { }
-				b_kekacon = { }
-				b_rara = { }
-				b_qimost = { }
-				b_tena = { }
-				b_barony0880g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_tyaqani = {
-	color={ 220 223 81 }
-	color2={ 255 255 255 }
-	
-	capital = 891
-	
-	culture = nahuatl
-	
-	k_ryaquke = {
-		color={ 220 223 81 }
-		color2={ 255 255 255 }
-		
-		capital = 891
-		
-		culture = nahuatl
-		
-		d_renes = {
-			color={ 220 223 81 }
-			color2={ 255 255 255 }
-			
-			capital = 891
-			
-			c_kogiam = {
-				color={ 220 223 81 }
-				color2={ 255 255 255 }
-				
-				
-				b_kogiam = { }
-				b_tireyao = { }
-				b_saluo = { }
-				b_sawassa = { }
-				b_dakha = { }
-				b_ekaman = { }
-				b_emoraran = { }
-				b_barony0891g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_west_argyre = {
 	color={ 151 107 57 }
 	color2={ 255 255 255 }
@@ -14710,6 +14473,20 @@ e_west_argyre = {
 				b_tivilof = { }
 				b_risard = { }
 				b_barony0964g = { }
+			}
+			c_lahyan = {
+				color={ 77 37 113 }
+				color2={ 255 255 255 }
+				
+				
+				b_lahyan = { }
+				b_ebepes = { }
+				b_eresha = { }
+				b_teirapa = { }
+				b_sihogai = { }
+				b_nohoth = { }
+				b_wadilge = { }
+				b_barony0966g = { }
 			}
 		}
 		d_galle = {
@@ -15905,12 +15682,12 @@ e_terra_cimmeria = {
 				b_barony0911g = { }
 			}
 		}
-		d_edavana = {
-			color={ 109 103 83 }
+		d_tekinio = {
+			color={ 226 99 83 }
 			color2={ 255 255 255 }
 			
-			capital = 1143
-			
+			capital = 1137
+
 			c_lalabha = {
 				color={ 109 103 83 }
 				color2={ 255 255 255 }
@@ -15924,6 +15701,20 @@ e_terra_cimmeria = {
 				b_rimish = { }
 				b_ranuis = { }
 				b_barony1143g = { }
+			}
+			c_senya = {
+				color={ 226 99 83 }
+				color2={ 255 255 255 }
+				
+				
+				b_senya = { }
+				b_qiuniruz = { }
+				b_tawyal = { }
+				b_qemenxiu = { }
+				b_lubolun = { }
+				b_selulad = { }
+				b_wemenxiu = { }
+				b_barony1137g = { }
 			}
 		}
 		d_tukeir = {
@@ -16044,6 +15835,20 @@ e_terra_cimmeria = {
 				b_tananka = { }
 				b_barony1320g = { }
 			}
+			c_esamin = {
+				color={ 145 65 21 }
+				color2={ 255 255 255 }
+				
+				
+				b_esamin = { }
+				b_saors = { }
+				b_lelunai = { }
+				b_rahas = { }
+				b_teonika = { }
+				b_kokunduz = { }
+				b_dabalgi = { }
+				b_barony1273g = { }
+			}
 		}
 		d_wailm = {
 			color={ 129 113 2 }
@@ -16078,6 +15883,20 @@ e_terra_cimmeria = {
 				b_bosania = { }
 				b_lananeh = { }
 				b_barony1208g = { }
+			}
+			c_tavka = {
+				color={ 124 177 82 }
+				color2={ 255 255 255 }
+				
+				
+				b_tavka = { }
+				b_evelocic = { }
+				b_qeluno = { }
+				b_arahti = { }
+				b_tenilof = { }
+				b_toseria = { }
+				b_lanofan = { }
+				b_barony1222g = { }
 			}
 		}
 	}
@@ -16465,86 +16284,6 @@ e_terra_cimmeria = {
 				b_ralamis = { }
 				b_qadapa = { }
 				b_barony0908g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_tavaus = {
-	color={ 77 37 113 }
-	color2={ 255 255 255 }
-	
-	capital = 966
-	
-	culture = pecheneg
-	
-	k_qeodor = {
-		color={ 77 37 113 }
-		color2={ 255 255 255 }
-		
-		capital = 966
-		
-		culture = pecheneg
-		
-		d_qoza = {
-			color={ 77 37 113 }
-			color2={ 255 255 255 }
-			
-			capital = 966
-			
-			c_lahyan = {
-				color={ 77 37 113 }
-				color2={ 255 255 255 }
-				
-				
-				b_lahyan = { }
-				b_ebepes = { }
-				b_eresha = { }
-				b_teirapa = { }
-				b_sihogai = { }
-				b_nohoth = { }
-				b_wadilge = { }
-				b_barony0966g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_wopali = {
-	color={ 105 193 23 }
-	color2={ 255 255 255 }
-	
-	capital = 967
-	
-	culture = nahuatl
-	
-	k_tael = {
-		color={ 105 193 23 }
-		color2={ 255 255 255 }
-		
-		capital = 967
-		
-		culture = nahuatl
-		
-		d_sopael = {
-			color={ 105 193 23 }
-			color2={ 255 255 255 }
-			
-			capital = 967
-			
-			c_kurtai = {
-				color={ 105 193 23 }
-				color2={ 255 255 255 }
-				
-				
-				b_kurtai = { }
-				b_tataly = { }
-				b_qelamis = { }
-				b_qajilo = { }
-				b_kajula = { }
-				b_dasilo = { }
-				b_walula = { }
-				b_barony0967g = { }
 			}
 		}
 	}
@@ -17145,6 +16884,20 @@ e_planum_australe = {
 				b_warumna = { }
 				b_barony0992g = { }
 			}
+			c_kurtai = {
+				color={ 105 193 23 }
+				color2={ 255 255 255 }
+				
+				
+				b_kurtai = { }
+				b_tataly = { }
+				b_qelamis = { }
+				b_qajilo = { }
+				b_kajula = { }
+				b_dasilo = { }
+				b_walula = { }
+				b_barony0967g = { }
+			}
 		}
 	}
 	k_qeoan = {
@@ -17741,6 +17494,21 @@ e_planum_australe = {
 				b_evasubb = { }
 				b_barony1253g = { }
 			}
+			c_nanodia = {
+				color={ 91 159 6 }
+				color2={ 255 255 255 }
+				
+				holy_site = messalian
+				
+				b_nanodia = { }
+				b_berahtu = { }
+				b_taakudo = { }
+				b_tekiana = { }
+				b_ahenurd = { }
+				b_wabacob = { }
+				b_dainila = { }
+				b_barony1250g = { }
+			}
 		}
 		d_ruzoja = {
 			color={ 80 97 10 }
@@ -17789,6 +17557,41 @@ e_planum_australe = {
 				b_napabba = { }
 				b_tapidena = { }
 				b_barony1190g = { }
+			}
+		}
+		d_ekayada = {
+			color={ 91 139 53 }
+			color2={ 255 255 255 }
+			
+			capital = 1281
+			
+			c_dareva = {
+				color={ 91 139 53 }
+				color2={ 255 255 255 }
+				
+				
+				b_dareva = { }
+				b_nubey = { }
+				b_raul = { }
+				b_sasusi = { }
+				b_dyatokey = { }
+				b_etrigel = { }
+				b_tenyad = { }
+				b_barony1281g = { }
+			}
+			c_telaoge = {
+				color={ 212 232 28 }
+				color2={ 255 255 255 }
+				
+				
+				b_telaoge = { }
+				b_tumamis = { }
+				b_eraloa = { }
+				b_ekalain = { }
+				b_eshanan = { }
+				b_kimesar = { }
+				b_wanusulk = { }
+				b_barony1272g = { }
 			}
 		}
 	}
@@ -18235,46 +18038,6 @@ e_planum_australe = {
 	}
 	purple_born_heirs = yes
 }
-e_kaday = {
-	color={ 145 248 25 }
-	color2={ 255 255 255 }
-	
-	capital = 1020
-	
-	culture = nahuatl
-	
-	k_wahed = {
-		color={ 145 248 25 }
-		color2={ 255 255 255 }
-		
-		capital = 1020
-		
-		culture = nahuatl
-		
-		d_aradilii = {
-			color={ 145 248 25 }
-			color2={ 255 255 255 }
-			
-			capital = 1020
-			
-			c_secusi = {
-				color={ 145 248 25 }
-				color2={ 255 255 255 }
-				
-				
-				b_secusi = { }
-				b_dilinga = { }
-				b_nocic = { }
-				b_tigilda = { }
-				b_seripal = { }
-				b_tataz = { }
-				b_kigaz = { }
-				b_barony1020g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_ravamm = {
 	color={ 111 214 60 }
 	color2={ 255 255 255 }
@@ -18324,6 +18087,20 @@ e_ravamm = {
 				b_lunime = { }
 				b_amubessa = { }
 				b_barony1031g = { }
+			}
+			c_secusi = {
+				color={ 145 248 25 }
+				color2={ 255 255 255 }
+				
+				
+				b_secusi = { }
+				b_dilinga = { }
+				b_nocic = { }
+				b_tigilda = { }
+				b_seripal = { }
+				b_tataz = { }
+				b_kigaz = { }
+				b_barony1020g = { }
 			}
 		}
 	}
@@ -18406,46 +18183,6 @@ e_barahim = {
 				b_lilira = { }
 				b_nuhesar = { }
 				b_barony1060g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_ronuwe = {
-	color={ 226 99 83 }
-	color2={ 255 255 255 }
-	
-	capital = 1137
-	
-	culture = nahuatl
-	
-	k_nalosye = {
-		color={ 226 99 83 }
-		color2={ 255 255 255 }
-		
-		capital = 1137
-		
-		culture = nahuatl
-		
-		d_tekinio = {
-			color={ 226 99 83 }
-			color2={ 255 255 255 }
-			
-			capital = 1137
-			
-			c_senya = {
-				color={ 226 99 83 }
-				color2={ 255 255 255 }
-				
-				
-				b_senya = { }
-				b_qiuniruz = { }
-				b_tawyal = { }
-				b_qemenxiu = { }
-				b_lubolun = { }
-				b_selulad = { }
-				b_wemenxiu = { }
-				b_barony1137g = { }
 			}
 		}
 	}
@@ -19831,46 +19568,6 @@ e_noachis_terra = {
 	}
 	purple_born_heirs = yes
 }
-e_raod = {
-	color={ 124 177 82 }
-	color2={ 255 255 255 }
-	
-	capital = 1222
-	
-	culture = rajput
-	
-	k_wahina = {
-		color={ 124 177 82 }
-		color2={ 255 255 255 }
-		
-		capital = 1222
-		
-		culture = rajput
-		
-		d_lyaud = {
-			color={ 124 177 82 }
-			color2={ 255 255 255 }
-			
-			capital = 1222
-			
-			c_tavka = {
-				color={ 124 177 82 }
-				color2={ 255 255 255 }
-				
-				
-				b_tavka = { }
-				b_evelocic = { }
-				b_qeluno = { }
-				b_arahti = { }
-				b_tenilof = { }
-				b_toseria = { }
-				b_lanofan = { }
-				b_barony1222g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_elysian_island = {
 	color={ 100 40 98 }
 	color2={ 255 255 255 }
@@ -20681,127 +20378,6 @@ e_elysian_island = {
 	}
 	purple_born_heirs = yes
 }
-e_kinipa = {
-	color={ 91 159 6 }
-	color2={ 255 255 255 }
-	
-	capital = 1250
-	
-	culture = nahuatl
-	
-	k_linipa = {
-		color={ 91 159 6 }
-		color2={ 255 255 255 }
-		
-		capital = 1250
-		
-		culture = nahuatl
-		
-		d_nadecca = {
-			color={ 91 159 6 }
-			color2={ 255 255 255 }
-			
-			capital = 1250
-			
-			c_nanodia = {
-				color={ 91 159 6 }
-				color2={ 255 255 255 }
-				
-				holy_site = messalian
-				
-				b_nanodia = { }
-				b_berahtu = { }
-				b_taakudo = { }
-				b_tekiana = { }
-				b_ahenurd = { }
-				b_wabacob = { }
-				b_dainila = { }
-				b_barony1250g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_ariami = {
-	color={ 212 232 28 }
-	color2={ 255 255 255 }
-	
-	capital = 1272
-	
-	culture = nahuatl
-	
-	k_akorgil = {
-		color={ 212 232 28 }
-		color2={ 255 255 255 }
-		
-		capital = 1272
-		
-		culture = nahuatl
-		
-		d_sakayada = {
-			color={ 212 232 28 }
-			color2={ 255 255 255 }
-			
-			capital = 1272
-			
-			c_telaoge = {
-				color={ 212 232 28 }
-				color2={ 255 255 255 }
-				
-				
-				b_telaoge = { }
-				b_tumamis = { }
-				b_eraloa = { }
-				b_ekalain = { }
-				b_eshanan = { }
-				b_kimesar = { }
-				b_wanusulk = { }
-				b_barony1272g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_araa = {
-	color={ 145 65 21 }
-	color2={ 255 255 255 }
-	
-	capital = 1273
-	
-	culture = rajput
-	
-	k_rigsi = {
-		color={ 145 65 21 }
-		color2={ 255 255 255 }
-		
-		capital = 1273
-		
-		culture = rajput
-		
-		d_wonik = {
-			color={ 145 65 21 }
-			color2={ 255 255 255 }
-			
-			capital = 1273
-			
-			c_esamin = {
-				color={ 145 65 21 }
-				color2={ 255 255 255 }
-				
-				
-				b_esamin = { }
-				b_saors = { }
-				b_lelunai = { }
-				b_rahas = { }
-				b_teonika = { }
-				b_kokunduz = { }
-				b_dabalgi = { }
-				b_barony1273g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_tagazi = {
 	color={ 111 168 42 }
 	color2={ 255 255 255 }
@@ -20851,86 +20427,6 @@ e_tagazi = {
 				b_tadarya = { }
 				b_kimunka = { }
 				b_barony1275g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_qadaret = {
-	color={ 91 139 53 }
-	color2={ 255 255 255 }
-	
-	capital = 1281
-	
-	culture = rajput
-	
-	k_edudrd = {
-		color={ 91 139 53 }
-		color2={ 255 255 255 }
-		
-		capital = 1281
-		
-		culture = rajput
-		
-		d_ekayada = {
-			color={ 91 139 53 }
-			color2={ 255 255 255 }
-			
-			capital = 1281
-			
-			c_dareva = {
-				color={ 91 139 53 }
-				color2={ 255 255 255 }
-				
-				
-				b_dareva = { }
-				b_nubey = { }
-				b_raul = { }
-				b_sasusi = { }
-				b_dyatokey = { }
-				b_etrigel = { }
-				b_tenyad = { }
-				b_barony1281g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_nie = {
-	color={ 143 247 80 }
-	color2={ 255 255 255 }
-	
-	capital = 1338
-	
-	culture = bolghar
-	
-	k_kakaret = {
-		color={ 143 247 80 }
-		color2={ 255 255 255 }
-		
-		capital = 1338
-		
-		culture = bolghar
-		
-		d_takaret = {
-			color={ 143 247 80 }
-			color2={ 255 255 255 }
-			
-			capital = 1338
-			
-			c_semuno = {
-				color={ 143 247 80 }
-				color2={ 255 255 255 }
-				
-				
-				b_semuno = { }
-				b_enulay = { }
-				b_saisessa = { }
-				b_sinula = { }
-				b_tosgi = { }
-				b_emalemir = { }
-				b_tupijah = { }
-				b_barony1338g = { }
 			}
 		}
 	}
@@ -21631,6 +21127,20 @@ e_hellas = {
 				b_rutiban = { }
 				b_barony1313g = { }
 			}
+			c_semuno = {
+				color={ 143 247 80 }
+				color2={ 255 255 255 }
+				
+				
+				b_semuno = { }
+				b_enulay = { }
+				b_saisessa = { }
+				b_sinula = { }
+				b_tosgi = { }
+				b_emalemir = { }
+				b_tupijah = { }
+				b_barony1338g = { }
+			}
 		}
 		d_riteka = {
 			color={ 230 99 35 }
@@ -22164,6 +21674,20 @@ e_hellas = {
 				b_aritaha = { }
 				b_tyusia = { }
 				b_barony1391g = { }
+			}
+			c_kyaca = {
+				color={ 80 102 21 }
+				color2={ 255 255 255 }
+				
+				
+				b_kyaca = { }
+				b_taneer = { }
+				b_ragim = { }
+				b_eraleth = { }
+				b_rann = { }
+				b_tareuta = { }
+				b_qalusbu = { }
+				b_barony1383g = { }
 			}
 		}
 		d_qorava = {
@@ -24055,166 +23579,6 @@ e_hesperia_planum = {
 	}
 	purple_born_heirs = yes
 }
-e_tawina = {
-	color={ 80 102 21 }
-	color2={ 255 255 255 }
-	
-	capital = 1383
-	
-	culture = levantine_arabic
-	
-	k_lasajan = {
-		color={ 80 102 21 }
-		color2={ 255 255 255 }
-		
-		capital = 1383
-		
-		culture = levantine_arabic
-		
-		d_qadobos = {
-			color={ 80 102 21 }
-			color2={ 255 255 255 }
-			
-			capital = 1383
-			
-			c_kyaca = {
-				color={ 80 102 21 }
-				color2={ 255 255 255 }
-				
-				
-				b_kyaca = { }
-				b_taneer = { }
-				b_ragim = { }
-				b_eraleth = { }
-				b_rann = { }
-				b_tareuta = { }
-				b_qalusbu = { }
-				b_barony1383g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_kareba = {
-	color={ 149 141 13 }
-	color2={ 255 255 255 }
-	
-	capital = 1464
-	
-	culture = panjabi
-	
-	k_ekiraja = {
-		color={ 149 141 13 }
-		color2={ 255 255 255 }
-		
-		capital = 1464
-		
-		culture = panjabi
-		
-		d_kelura = {
-			color={ 149 141 13 }
-			color2={ 255 255 255 }
-			
-			capital = 1464
-			
-			c_ranorz = {
-				color={ 149 141 13 }
-				color2={ 255 255 255 }
-				
-				
-				b_ranorz = { }
-				b_lanoto = { }
-				b_wucing = { }
-				b_wonins = { }
-				b_nilia = { }
-				b_dyanall = { }
-				b_asemijah = { }
-				b_barony1464g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_dakourou = {
-	color={ 173 152 102 }
-	color2={ 255 255 255 }
-	
-	capital = 1467
-	
-	culture = nahuatl
-	
-	k_rodandi = {
-		color={ 173 152 102 }
-		color2={ 255 255 255 }
-		
-		capital = 1467
-		
-		culture = nahuatl
-		
-		d_tabduida = {
-			color={ 173 152 102 }
-			color2={ 255 255 255 }
-			
-			capital = 1467
-			
-			c_rizuatl = {
-				color={ 173 152 102 }
-				color2={ 255 255 255 }
-				
-				
-				b_rizuatl = { }
-				b_kapene = { }
-				b_qyaoskim = { }
-				b_darerin = { }
-				b_qegund = { }
-				b_asund = { }
-				b_asalusha = { }
-				b_barony1467g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_ekarandi = {
-	color={ 112 167 102 }
-	color2={ 255 255 255 }
-	
-	capital = 1469
-	
-	culture = gujurati
-	
-	k_sumuone = {
-		color={ 112 167 102 }
-		color2={ 255 255 255 }
-		
-		capital = 1469
-		
-		culture = gujurati
-		
-		d_ekumasia = {
-			color={ 112 167 102 }
-			color2={ 255 255 255 }
-			
-			capital = 1469
-			
-			c_ragui = {
-				color={ 112 167 102 }
-				color2={ 255 255 255 }
-				
-				
-				b_ragui = { }
-				b_revasus = { }
-				b_naaz = { }
-				b_lorijah = { }
-				b_enarezo = { }
-				b_ryaraise = { }
-				b_bavudo = { }
-				b_barony1469g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
 e_liris_valles = {
 	color={ 122 71 33 }
 	color2={ 255 255 255 }
@@ -25203,6 +24567,20 @@ e_liris_valles = {
 				b_lukanna = { }
 				b_basoka = { }
 				b_barony1481g = { }
+			}
+			c_qedand = {
+				color={ 69 101 83 }
+				color2={ 255 255 255 }
+				
+				
+				b_qedand = { }
+				b_kuall = { }
+				b_suluk = { }
+				b_ehecine = { }
+				b_tisander = { }
+				b_netim = { }
+				b_wianine = { }
+				b_barony1506g = { }
 			}
 		}
 	}
@@ -26283,6 +25661,41 @@ e_tyrrhena_terra = {
 				b_rahsa = { }
 				b_ehuituge = { }
 				b_barony1517g = { }
+			}
+			c_qiline = {
+				color={ 179 47 59 }
+				color2={ 255 255 255 }
+				
+				
+				b_qiline = { }
+				b_rieguis = { }
+				b_bibisii = { }
+				b_ramsam = { }
+				b_bantha = { }
+				b_raratur = { }
+				b_qa = { }
+				b_barony1544g = { }
+			}
+		}
+		d_kelura = {
+			color={ 149 141 13 }
+			color2={ 255 255 255 }
+			
+			capital = 1464
+			
+			c_ranorz = {
+				color={ 149 141 13 }
+				color2={ 255 255 255 }
+				
+				
+				b_ranorz = { }
+				b_lanoto = { }
+				b_wucing = { }
+				b_wonins = { }
+				b_nilia = { }
+				b_dyanall = { }
+				b_asemijah = { }
+				b_barony1464g = { }
 			}
 		}
 	}
@@ -27480,6 +26893,34 @@ e_tyrrhena_terra = {
 				b_keam = { }
 				b_barony1476g = { }
 			}
+			c_rizuatl = {
+				color={ 173 152 102 }
+				color2={ 255 255 255 }
+				
+				
+				b_rizuatl = { }
+				b_kapene = { }
+				b_qyaoskim = { }
+				b_darerin = { }
+				b_qegund = { }
+				b_asund = { }
+				b_asalusha = { }
+				b_barony1467g = { }
+			}
+			c_ragui = {
+				color={ 112 167 102 }
+				color2={ 255 255 255 }
+				
+				
+				b_ragui = { }
+				b_revasus = { }
+				b_naaz = { }
+				b_lorijah = { }
+				b_enarezo = { }
+				b_ryaraise = { }
+				b_bavudo = { }
+				b_barony1469g = { }
+			}
 		}
 		d_belina = {
 			color={ 182 194 58 }
@@ -27832,86 +27273,6 @@ e_tyrrhena_terra = {
 				b_kosasia = { }
 				b_nunibad = { }
 				b_barony1497g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_sanana = {
-	color={ 69 101 83 }
-	color2={ 255 255 255 }
-	
-	capital = 1506
-	
-	culture = afghan
-	
-	k_kurema = {
-		color={ 69 101 83 }
-		color2={ 255 255 255 }
-		
-		capital = 1506
-		
-		culture = afghan
-		
-		d_bulana = {
-			color={ 69 101 83 }
-			color2={ 255 255 255 }
-			
-			capital = 1506
-			
-			c_qedand = {
-				color={ 69 101 83 }
-				color2={ 255 255 255 }
-				
-				
-				b_qedand = { }
-				b_kuall = { }
-				b_suluk = { }
-				b_ehecine = { }
-				b_tisander = { }
-				b_netim = { }
-				b_wianine = { }
-				b_barony1506g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_banoda = {
-	color={ 179 47 59 }
-	color2={ 255 255 255 }
-	
-	capital = 1544
-	
-	culture = tamil
-	
-	k_sulapo = {
-		color={ 179 47 59 }
-		color2={ 255 255 255 }
-		
-		capital = 1544
-		
-		culture = tamil
-		
-		d_kyaytok = {
-			color={ 179 47 59 }
-			color2={ 255 255 255 }
-			
-			capital = 1544
-			
-			c_qiline = {
-				color={ 179 47 59 }
-				color2={ 255 255 255 }
-				
-				
-				b_qiline = { }
-				b_rieguis = { }
-				b_bibisii = { }
-				b_ramsam = { }
-				b_bantha = { }
-				b_raratur = { }
-				b_qa = { }
-				b_barony1544g = { }
 			}
 		}
 	}
