@@ -11,6 +11,6 @@ b_qurille = city
 
 # Misc
 culture = old_saxon
-religion = norse_pagan
+religion = catholic
 
 # History

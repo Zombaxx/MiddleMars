@@ -1,0 +1,19 @@
+name = "Western Revolt"
+
+casus_belli = {
+	actor = 104895
+	recipient = 103775
+	casus_belli=claim
+	landed_title=e_noctis_fossae
+	date=1065.1.1
+}
+
+1065.1.1 = {
+	add_attacker = 104895
+	add_defender = 103775
+}
+
+1067.11.1 = {
+	rem_attacker = 104895
+	rem_defender = 103775
+}

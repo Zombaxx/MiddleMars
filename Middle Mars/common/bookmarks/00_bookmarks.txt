@@ -47,12 +47,29 @@ bm_middle_mars = {
 		title_name = e_valles_marineris
 		
 		character = {
+			female = yes
 			dna = cagfktibaal
 			properties = fj0dcd000000
-			religion="hellenic_pagan"
+			religion="orthodox"
 			culture="basque"
 			government = feudal_government
 			dynasty=104890
+		}
+	}
+	selectable_character = {
+		id = 102225 # Ragnarr of Tempe Terra
+		age = 24
+		name = ERA_CHAR_NAME_102225
+		title = k_tempe_terra
+		title_name = k_tempe_terra
+		
+		character = {
+			dna = tadlfmffyba
+			properties = elo0ac00
+			religion="norse_pagan"
+			culture="norse"
+			government = tribal
+			dynasty=102220
 		}
 	}
 	selectable_character = {

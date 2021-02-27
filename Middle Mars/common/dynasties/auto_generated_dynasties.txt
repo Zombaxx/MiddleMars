@@ -1119,7 +1119,7 @@
 	religion="orthodox"
 }
 102220={
-	name="af Bumanda"
+	name="af Valheim"
 	culture="norse"
 	religion="norse_pagan"
 }

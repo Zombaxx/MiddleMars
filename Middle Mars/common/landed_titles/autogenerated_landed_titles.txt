@@ -2951,8 +2951,8 @@ e_tempe_terra = {
 				color={ 208 123 33 }
 				color2={ 255 255 255 }
 				
-				holy_site = norse_pagan
-				holy_site = norse_pagan_reformed
+				#holy_site = norse_pagan
+				#holy_site = norse_pagan_reformed
 				
 				b_bumanda = {
 				dynasty_title_names = no
@@ -8970,7 +8970,6 @@ e_valles_marineris = {
 			}
 		}
 	}
-	}
 	k_valles_marineris = {
 		color={ 104 129 76 }
 		color2={ 255 255 255 }
@@ -8989,7 +8988,8 @@ e_valles_marineris = {
 				color={ 76 139 69 }
 				color2={ 255 255 255 }
 				
-				
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				b_abhaseya = { }
 				b_lifiog = { }
 				b_regiog = { }
@@ -12212,75 +12212,6 @@ e_aonia_terra = {
 			}
 		}
 	}
-	purple_born_heirs = yes
-}
-e_qanisam = {
-	color={ 196 97 92 }
-	color2={ 255 255 255 }
-	
-	capital = 589
-	
-	culture = russian
-	
-	k_datisam = {
-		color={ 196 97 92 }
-		color2={ 255 255 255 }
-		
-		capital = 589
-		
-		culture = russian
-		
-		d_kibanna = {
-			color={ 196 97 92 }
-			color2={ 255 255 255 }
-			
-			capital = 589
-			
-			c_ecleva = {
-				color={ 156 50 6 }
-				color2={ 255 255 255 }
-				
-				
-				b_ecleva = { }
-				b_degegs = { }
-				b_riloja = { }
-				b_kutorka = { }
-				b_kelegs = { }
-				b_segosz = { }
-				b_teupegen = { }
-				b_barony0585g = { }
-			}
-			c_loruraq = {
-				color={ 196 97 92 }
-				color2={ 255 255 255 }
-				
-				holy_site = shiite
-				holy_site = west_african_pagan
-				holy_site = west_african_pagan_reformed
-				
-				b_loruraq = {
-				dynasty_title_names = no
-				}
-				b_katoth = { }
-				b_qatapa = { }
-				b_qoroth = { }
-				b_qorerne = { }
-				b_rarqan = { }
-				b_kerapa = { }
-				b_barony0589g = { }
-			}
-		}
-	}
-	purple_born_heirs = yes
-}
-e_logah = {
-	color={ 71 123 116 }
-	color2={ 255 255 255 }
-	
-	capital = 619
-	
-	culture = russian
-	
 	k_torah = {
 		color={ 71 123 116 }
 		color2={ 255 255 255 }
@@ -12293,7 +12224,7 @@ e_logah = {
 			color={ 71 123 116 }
 			color2={ 255 255 255 }
 			
-			capital = 619
+			capital = 608
 			
 			c_qarala = {
 				color={ 69 91 96 }
@@ -12336,6 +12267,46 @@ e_logah = {
 				b_tyoura = { }
 				b_keleuta = { }
 				b_barony0619g = { }
+			}
+		}
+		d_kibanna = {
+			color={ 196 97 92 }
+			color2={ 255 255 255 }
+			
+			capital = 589
+			
+			c_ecleva = {
+				color={ 156 50 6 }
+				color2={ 255 255 255 }
+				
+				
+				b_ecleva = { }
+				b_degegs = { }
+				b_riloja = { }
+				b_kutorka = { }
+				b_kelegs = { }
+				b_segosz = { }
+				b_teupegen = { }
+				b_barony0585g = { }
+			}
+			c_loruraq = {
+				color={ 196 97 92 }
+				color2={ 255 255 255 }
+				
+				holy_site = shiite
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				
+				b_loruraq = {
+				dynasty_title_names = no
+				}
+				b_katoth = { }
+				b_qatapa = { }
+				b_qoroth = { }
+				b_qorerne = { }
+				b_rarqan = { }
+				b_kerapa = { }
+				b_barony0589g = { }
 			}
 		}
 	}
