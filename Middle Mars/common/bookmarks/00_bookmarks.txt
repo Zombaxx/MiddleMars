@@ -29,6 +29,7 @@ bm_middle_mars = {
 		name = ERA_CHAR_NAME_102265
 		title = d_olympus_mons
 		title_name = d_olympus_mons
+		dlc = "The Old Gods"
 		
 		character = {
 			dna = zpabrsaohdv
@@ -62,6 +63,7 @@ bm_middle_mars = {
 		name = ERA_CHAR_NAME_102225
 		title = k_tempe_terra
 		title_name = k_tempe_terra
+		dlc = "The Old Gods"
 		
 		character = {
 			dna = tadlfmffyba
@@ -104,6 +106,7 @@ bm_argyre = {
 		name = ERA_CHAR_NAME_111585
 		title = e_noachis_terra
 		title_name = e_noachis_terra
+		dlc = "The Sword of Islam"
 		
 		character = {
 			dna = vekzbwluvsc
@@ -152,6 +155,7 @@ bm_argyre = {
 		name = ERA_CHAR_NAME_111905
 		title = k_promethei_terra
 		title_name = k_promethei_terra
+		dlc = "Jade Dragon"
 		
 		character = {
 			dna = drvzzvggwpm
