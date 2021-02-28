@@ -17,9 +17,9 @@ decisions = {
 			}
 			capital_scope = {
 				OR = {
-					has_building = ca_slave_hold_1
-					has_building = ca_slave_hold_2
-					has_building = ca_slave_hold_3
+					has_province_modifier = slave_host_1
+					has_province_modifier = slave_host_2
+					has_province_modifier = slave_host_3
 				}
 			}
 		}

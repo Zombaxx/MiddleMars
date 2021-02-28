@@ -56,7 +56,7 @@ character_event = {
 					limit = {
 						has_province_modifier = slave_host_1
 					}
-					remove_province_modifier = slave_hold_1
+					remove_province_modifier = slave_host_1
 					add_province_modifier = { modifier = slave_host_2 duration = -1 }
 				}
 				IF = {
@@ -135,7 +135,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-									has_building = ca_slave_hold_1
+									has_province_modifier = slave_host_1
 							}
 						}
 						spawn_unit = {
@@ -154,7 +154,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_building = ca_slave_hold_2
+								has_building = has_province_modifier = slave_host_2
 							}
 						}
 						spawn_unit = {
@@ -173,7 +173,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_building = ca_slave_hold_3
+								has_province_modifier = slave_host_3
 							}
 						}
 						spawn_unit = {

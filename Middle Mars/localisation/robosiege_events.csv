@@ -12,4 +12,5 @@ mechfl_siege.atk1;"[Root.GetFirstName], ready for battle!";;;;;;;;;;;;;x
 TOOLTIPEVTOPTAmech_siege.1;Use your Mech Suit to assault this castle's walls;;;;;;;;;;;;;x
 mechflsiegeA.atk1;My troops can handle this by themselves, actually;;;;;;;;;;;;;x
 EVTNAMEmechfl_siege.oops4;Beaten Back;;;;;;;;;;;;;x
-EVTDESCmechfl_siege.oops4;Unfortunately, your assault ended in abject failure. Your enemy was well prepared to counter your Mech Suit, destroying it and badly injuring you. Your allies were able to drag you off of the battlefield...;;;;;;;;;;;;;x
+EVTDESCmechfl_siege.oops4;Unfortunately, your assault ended in abject failure. Your enemy was well prepared to counter your Mech Suit, destroying it and badly injuring you. Your allies were able to drag you off of the battlefield, but your Mech Suit lies in ruin...;;;;;;;;;;;;;x
+mechfl_siege.oops4;Curses!;;;x

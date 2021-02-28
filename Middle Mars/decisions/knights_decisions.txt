@@ -29,7 +29,7 @@ targetted_decisions = {
 			age = 16
 			religion_group = christian
 			is_female = no
-			martial = 15
+			martial = 12
 			show_only_failed_conditions = yes
 		}
 		effect = {
@@ -81,6 +81,9 @@ targetted_decisions = {
 					id = knightly.0001
 				}
 			}
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 	arrange_knighthood = {
@@ -146,6 +149,17 @@ targetted_decisions = {
 				prestige = -150
 			}
 		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0.02
+				NOT = { martial = 10 }
+			} 
+			modifier = {
+				factor = 0.25
+				NOT = { wealth = 200 }
+			} 
+		}
 	}
 	knight_squire = {
 		ai_target_filter = court
@@ -173,6 +187,9 @@ targetted_decisions = {
 					id = knightly.0003
 				}
 			}
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

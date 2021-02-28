@@ -59,7 +59,7 @@ castle = {
 		ai_creation_factor = 90	
 		extra_tech_building_start = 10
 		tax_income = 6
-		local_build_cost_modifier = -0.15
+		local_build_cost_modifier = -0.25
 	}
 	ca_slave_hold_3 = {
 		desc = ca_slave_hold_3_desc

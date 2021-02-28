@@ -75,7 +75,7 @@ character_event = {
 		option = { 
 		name = "mechfl_siege.oops4" 
 			add_trait = severely_injured
-			any_artifact = { 
+			random_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
 					is_artifact_active = yes }
 				unsafe_destroy_artifact = yes }
