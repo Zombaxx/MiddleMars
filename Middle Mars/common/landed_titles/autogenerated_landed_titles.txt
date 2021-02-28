@@ -1595,7 +1595,7 @@ e_alba_mons = {
 				b_kena = {
 				dynasty_title_names = no
 				}
-				b_eskeir = { }
+				b_eskeir = { pentarchy = yes }
 				b_konne = { }
 				b_suzodan = { }
 				b_lavava = { }
@@ -5408,7 +5408,7 @@ e_noctis_fossae = {
 				holy_site = orthodox
 				
 				b_kupine = { }
-				b_kesine = { }
+				b_kesine = { pentarchy = yes }
 				b_tonomon = { }
 				b_tesulia = { }
 				b_woniam = { }
@@ -6256,6 +6256,10 @@ e_tharsis_montes = {
 			c_tezude = {
 				color={ 65 222 72 }
 				color2={ 255 255 255 }
+
+				orthodox = 1000 # Crusade target weight
+				catholic = 1000 # Crusade target weight
+				zun_pagan_reformed = 1000
 				
 				holy_site = zun_pagan
 				holy_site = zun_pagan_reformed
@@ -6265,7 +6269,7 @@ e_tharsis_montes = {
 				b_tezude = {
 				dynasty_title_names = no
 				}
-				b_qida = { }
+				b_qida = { pentarchy = yes }
 				b_lohokha = { }
 				b_buenida = { }
 				b_binawma = { }
@@ -10619,6 +10623,10 @@ e_solis_planum = {
 			color={ 122 45 122 }
 			color2={ 255 255 255 }
 			
+			orthodox = 100 # Crusade target weight
+			catholic = 100 # Crusade target weight
+			west_african_pagan_reformed = 100
+			
 			capital = 554
 			
 			c_terna = {
@@ -10653,6 +10661,10 @@ e_solis_planum = {
 				color={ 122 45 122 }
 				color2={ 255 255 255 }
 				
+				orthodox = 250 # Crusade target weight
+				catholic = 250 # Crusade target weight
+				west_african_pagan_reformed = 250
+				
 				holy_site = west_african_pagan
 				holy_site = west_african_pagan_reformed
 				holy_site = jewish
@@ -10661,7 +10673,7 @@ e_solis_planum = {
 				b_risui = {
 				dynasty_title_names = no
 				}
-				b_qugacob = { }
+				b_qugacob = { pentarchy = yes }
 				b_sorunda = { }
 				b_selilal = { }
 				b_tatinda = { }
@@ -14193,7 +14205,7 @@ e_west_argyre = {
 				b_laning = {
 				dynasty_title_names = no
 				}
-				b_qainena = { }
+				b_qainena = { pentarchy = yes }
 				b_abhle = { }
 				b_baralka = { }
 				b_rilabba = { }

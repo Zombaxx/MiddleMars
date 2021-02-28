@@ -6710,7 +6710,7 @@ e_byzantium = {
 					turkish = "Kostantiniyye"
 				}
 				b_hagiasophia = {
-					pentarchy = yes
+					#pentarchy = yes
 					turkish = "Ayasofya"
 				}
 				b_galata = {
@@ -10843,7 +10843,7 @@ e_italy = {
 				old_saxon = Rom
 				
 				b_roma = {
-					pentarchy = yes
+					#pentarchy = yes
 					used_for_dynasty_names = no
 					
 					italian = Roma
@@ -33899,7 +33899,7 @@ e_arabia = {
 				andalusian_arabic = "al-Iskandariyya"
 				
 				b_alexandria = {
-					pentarchy = yes
+					#pentarchy = yes
 					coptic = "Rakote"
 					egyptian_arabic = "al-Iskandariyya"
 					bedouin_arabic = "al-Iskandariyya"
@@ -35071,7 +35071,7 @@ e_arabia = {
 					georgian = "Antipatris"
 				}
 				b_jerusalem = {
-					pentarchy = yes
+					#pentarchy = yes
 				}
 				b_nablus = {
 				}
@@ -35380,7 +35380,7 @@ e_arabia = {
 				#holy_site = monophysite
 				
 				b_antiocheia = {
-					pentarchy = yes
+					#pentarchy = yes
 				}
 				b_latakiah = {
 				}

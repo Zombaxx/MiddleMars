@@ -9595,6 +9595,7 @@ imperial_reconquest = {
 			independent = yes
 			OR = { 
 				religion_group = christian
+				religion_group = jewish_group
 				religion = hellenic_pagan
 				religion = hellenic_pagan_reformed
 				religion = west_african_pagan

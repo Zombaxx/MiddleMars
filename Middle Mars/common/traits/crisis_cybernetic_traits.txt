@@ -336,14 +336,14 @@ full_cybernetic_conversion = {
 	health = 10
 	catholic_opinion = 5
 	christian_opinion = 5
-	taoist_opinion = -25
-	khurmazta_opinion = 25
+	taoist_opinion = -50
+	khurmazta_opinion = 30
 	immortal = yes
 	general_opinion = 5
 	same_opinion = 50
 	fertility = -100
 	ruler_designer_cost = 20
-	combat_rating = 30
+	combat_rating = 40
 }
 damaged_cybernetics = {
 	is_health = yes
