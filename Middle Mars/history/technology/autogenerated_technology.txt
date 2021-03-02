@@ -68,7 +68,7 @@ technology = {
 		d_tempe_fossae
 	}
 	1066 = {
-		military = 2.0
+		military = 1.8
 		economy = 1.5
 		culture = 1.7
 	}

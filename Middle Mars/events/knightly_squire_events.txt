@@ -1,6 +1,6 @@
 namespace = knightly
 
-#Character gets an event when they are made someone's squire
+#Taking a squire
 character_event = {
 	id = knightly.001
 	desc = "161001_desc"
@@ -11,14 +11,18 @@ character_event = {
 		ai_chance = {
 			factor = 100
 		}
-		effect = {
+		FROM = {
 			add_trait = squire
 			prestige = 10
+			opinion = {
+				modifier = opinion_squired_me
+				who = ROOT
+			}
 		}
 	}
 }
 
-#Character gets an event when they are personally knighted
+#Knighting a character
 character_event = {
 	id = knightly.002
 	desc = "161002_desc"
@@ -29,15 +33,18 @@ character_event = {
 		ai_chance = {
 			factor = 100
 		}
-		effect = {
+		FROM = {
 			add_trait = knight
-			remove_trait = squire
-			prestige = 50
+			prestige = 100
+			opinion = {
+				modifier = opinion_knighted_me
+				who = ROOT
+			}
 		}
 	}
 }
 
-#Character gets an event when they become an adult to convert squire into knight
+#Knighting a squire
 character_event = {
 	id = knightly.003
 	desc = "161003_desc"
@@ -52,15 +59,19 @@ character_event = {
 		ai_chance = {
 			factor = 100
 		}
-		effect = {
+		FROM = {
 			remove_trait = squire
 			add_trait = knight
 			prestige = 100
+			opinion = {
+				modifier = opinion_knighted_me
+				who = ROOT
+			}
 		}
 	}
 }
 
-#Character gets an event when they are arranged knighted
+#Arranging Knighthood
 character_event = {
 	id = knightly.004
 	desc = "161004_desc"
@@ -71,10 +82,64 @@ character_event = {
 		ai_chance = {
 			factor = 100
 		}
-		effect = {
+		FROM = {
 			add_trait = knight
 			remove_trait = squire
-			prestige = 50
+			prestige = 100
 		}
+	}
+}
+
+#Knighted after battle
+character_event = {
+	id = knightly.005
+	desc = "161005_desc"
+	picture = GFX_event_knighthood1
+	is_triggered_only = yes
+		
+	trigger = {
+		in_command = yes
+		in_battle = yes
+		religion_group = christian
+		martial = 10
+		NOT = { trait = knight }
+		NOT = {
+			OR = {
+				trait = craven
+				trait = infirm
+				trait = inbred
+			}
+		}
+	}
+
+	option = {
+		name = knightly.005.1
+		ai_chance = {
+			factor = 100
+		}
+		ROOT = {
+			add_trait = knight
+			prestige = 150
+		}
+	}
+}
+
+#That's "Sir" to you, ma'am!
+character_event = {
+	id = knightly.006
+	hide_window = yes
+
+	is_triggered_only = yes
+		
+	trigger = {
+		trait = knight
+		NOT = {
+			has_minor_title = title_knight
+		}
+	}
+
+	option = {
+		name = knightly.006.1
+		give_minor_title = title_knight
 	}
 }

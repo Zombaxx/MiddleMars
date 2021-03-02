@@ -15,35 +15,3 @@ character_event = {
 		}
 	}
 }
-#Remove Slave Host If No Slavery Laws	
-character_event = {
-	id = slavery.2
-	hide_window = yes
-	only_playable = yes
-		
-	is_triggered_only = yes
-
-	trigger = {
-		capital_scope = {
-			OR = {
-				has_province_modifier = slave_host_1
-				has_province_modifier = slave_host_2
-				has_province_modifier = slave_host_3
-			}
-		}
-		NOT = {
-			OR = {
-				has_law = slavery_2
-				has_law = slavery_3
-			}
-		}
-	}
-
-		option = { 
-		name = "EVTOPTAslavery.2" 
-			remove_province_modifier = slave_host_1
-			remove_province_modifier = slave_host_2
-			remove_province_modifier = slave_host_3
-
-		}
-}

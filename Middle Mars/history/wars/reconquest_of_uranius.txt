@@ -1,0 +1,19 @@
+name = "Reconquest of Uranius"
+
+casus_belli = {
+	actor = 102225
+	recipient = 102085
+	casus_belli=religious
+	landed_title=k_uranius
+	date=1063.1.1
+}
+
+1063.1.1 = {
+	add_attacker = 102225
+	add_defender = 102085
+}
+
+1065.2.1 = {
+	rem_attacker = 102225
+	rem_defender = 102085
+}

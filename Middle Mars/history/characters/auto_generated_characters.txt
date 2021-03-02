@@ -11374,7 +11374,7 @@
 	}
 }
 100785 = {
-	name = "John"
+	name = "Roy"
 	dynasty = 100780
 	culture = "german"
 	religion = "catholic"
@@ -19617,7 +19617,7 @@
 	name = "Philipp"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -19634,7 +19634,7 @@
 	name = "Bertold"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101350
 	995.1.1={
 		birth="995.1.1"
@@ -19647,7 +19647,7 @@
 	name = "Juries"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101351
 	1020.1.1={
 		birth="1020.1.1"
@@ -19663,7 +19663,7 @@
 	name = "Mathias"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101351
 	1021.1.1={
 		birth="1021.1.1"
@@ -19692,7 +19692,7 @@
 	name = "Gelder"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101352
 	mother = 101354
 	1046.1.1={
@@ -19707,7 +19707,7 @@
 	female = yes
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101352
 	mother = 101354
 	1050.1.1={
@@ -19722,7 +19722,7 @@
 	female = yes
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101352
 	mother = 101354
 	1055.1.1={
@@ -19737,7 +19737,7 @@
 	female = yes
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101353
 	1041.1.1={
 		birth="1041.1.1"
@@ -19750,7 +19750,7 @@
 	name = "Withgils"
 	dynasty = 101350
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101353
 	1046.1.1={
 		birth="1046.1.1"
@@ -20634,7 +20634,7 @@
 	name = "Liawizo"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	trait = elusive_shadow
 	intrigue = 10
 	trait = one_eyed
@@ -20653,7 +20653,7 @@
 	name = "Unwan"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101420
 	963.1.1={
 		birth="963.1.1"
@@ -20666,7 +20666,7 @@
 	name = "Liudger"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101421
 	1002.1.1={
 		birth="1002.1.1"
@@ -20682,7 +20682,7 @@
 	name = "Hermann"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101421
 	1007.1.1={
 		birth="1007.1.1"
@@ -20711,7 +20711,7 @@
 	name = "Hans"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101422
 	mother = 101424
 	1037.1.1={
@@ -20725,7 +20725,7 @@
 	name = "Widukind"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101422
 	mother = 101424
 	1042.1.1={
@@ -20740,7 +20740,7 @@
 	female = yes
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101422
 	mother = 101424
 	1045.1.1={
@@ -20754,7 +20754,7 @@
 	name = "Arnold"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101423
 	1033.1.1={
 		birth="1033.1.1"
@@ -20767,7 +20767,7 @@
 	name = "Asig"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "norse_pagan"
+	religion = "catholic"
 	father = 101423
 	1037.1.1={
 		birth="1037.1.1"
@@ -32252,7 +32252,7 @@
 	}
 }
 102222 = {
-	name = "Bengt"
+	name = "Sigurd"
 	dynasty = 102220
 	culture = "norse"
 	religion = "norse_pagan"
@@ -32297,7 +32297,7 @@
 	}
 }
 102225 = {
-	name = "Dan"
+	name = "Ragnarr"
 	dynasty = 102220
 	culture = "norse"
 	religion = "norse_pagan"
@@ -32326,7 +32326,7 @@
 	}
 }
 102227 = {
-	name = "Starkaðr"
+	name = "Rollo"
 	dynasty = 102220
 	culture = "norse"
 	religion = "norse_pagan"
@@ -54481,6 +54481,8 @@
 	religion = "messalian"
 	trait = heavy_worlder
 	trait = quick
+	trait = ambitious
+	martial = 10
 	father = 1037151
 	mother = 1037152
 	1051.1.1={
@@ -71756,10 +71758,11 @@
 	}
 }
 104895 = {
-	name = "Alvar"
+	name = "Oceania"
 	dynasty = 104890
 	culture = "basque"
 	religion = "orthodox"
+	female = yes
 	father = 104892
 	mother = 104894
 	1035.1.1={

@@ -36,11 +36,14 @@ targetted_decisions = {
 			FROM = {
 				prestige = -75
 			}
-			ROOT = {
+			FROM = {
 				character_event = {
 					id = knightly.0002
 				}
 			}
+		}
+		ai_will_do = {
+			factor = 0
 		}
 	}
 	take_squire = {
@@ -76,7 +79,7 @@ targetted_decisions = {
 			FROM = {
 				prestige = -20
 			}
-			ROOT = {
+			FROM = {
 				character_event = {
 					id = knightly.0001
 				}
@@ -86,12 +89,12 @@ targetted_decisions = {
 			factor = 1
 		}
 	}
+
 	arrange_knighthood = {
-		ai_target_filter = realm
-		filter = realm
+		ai_target_filter = self
+		filter = self
 		from_potential = {
 			is_ruler = yes
-			ai = no
 		}
 		
 		potential = {
@@ -107,23 +110,30 @@ targetted_decisions = {
 			religion_group = christian
 			martial = 12
 			show_only_failed_conditions = yes
-			FROM = { wealth = 100 }
+			FROM = { wealth = 50 }
 		}
 		effect = {
 			FROM = {
-				wealth = -100
+				wealth = -50
 			}
-			ROOT = {
+			FROM = {
 				character_event = {
 					id = knightly.0004
 				}
 			}
 		}
-		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0.25
+				NOT = { wealth = 100 }
+			} 
+		}
 	}
+		
 	buy_knighthood = {
-		ai_target_filter = none
-		filter = dynasty_including_me
+		ai_target_filter = self
+		filter = self
 		from_potential = {
 			is_ruler = yes
 			ai = no
@@ -156,7 +166,18 @@ targetted_decisions = {
 				NOT = { martial = 10 }
 			} 
 			modifier = {
-				factor = 0.25
+				factor = 0.001
+				trait = honest
+			} 
+			modifier = {
+				factor = 1.2
+				OR = {
+				trait = craven
+				trait = greedy
+				}
+			} 
+			modifier = {
+				factor = 0.01
 				NOT = { wealth = 200 }
 			} 
 		}
@@ -182,7 +203,7 @@ targetted_decisions = {
 			age = 16
 		}
 		effect = {
-			ROOT = {
+			FROM = {
 				character_event = {
 					id = knightly.0003
 				}

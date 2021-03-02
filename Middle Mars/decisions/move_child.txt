@@ -1,7 +1,7 @@
 targetted_decisions = {
 	bring_child_to_court = {
 		only_playable = yes
-		filter = dynasty
+		filter = all
 		ai_target_filter = dynasty
 
 		from_potential = {

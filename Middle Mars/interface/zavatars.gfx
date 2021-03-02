@@ -16,7 +16,7 @@ objectTypes = {
 		scale = 750.00f
 	}
 	pdxmesh = {
-		name = "westerngfx_artillery_unit"
+		name = "westerngfx_artillery_regiment"
 		file = "gfx/models/artillery.mesh"
 		scale = 750.00f
 	}

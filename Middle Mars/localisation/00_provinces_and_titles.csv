@@ -586,7 +586,7 @@ PROV585;Ecleva;Ecleva;Ecleva;;Ecleva;;;;;;;;;x
 PROV586;Terakrim;Terakrim;Terakrim;;Terakrim;;;;;;;;;x
 PROV587;Esiruall;Esiruall;Esiruall;;Esiruall;;;;;;;;;x
 PROV588;Sugike;Sugike;Sugike;;Sugike;;;;;;;;;x
-PROV589;Loruraq;Loruraq;Loruraq;;Loruraq;;;;;;;;;x
+PROV589;Warrego Valles;Warrego Valles;Warrego Valles;;Warrego Valles;;;;;;;;;x
 PROV590;Kamold;Kamold;Kamold;;Kamold;;;;;;;;;x
 PROV591;Byasapa;Byasapa;Byasapa;;Byasapa;;;;;;;;;x
 PROV592;Seleah;Seleah;Seleah;;Seleah;;;;;;;;;x
@@ -7916,11 +7916,11 @@ e_qanisam;Qanisam;Qanisam;Qanisam;;Qanisam;;;;;;;;;x
 e_qanisam_adj;Qanisam;Qanisam;Qanisam;;Qanisam;;;;;;;;;x
 k_datisam;Datisam;Datisam;Datisam;;Datisam;;;;;;;;;x
 k_datisam_adj;Datisam;Datisam;Datisam;;Datisam;;;;;;;;;x
-d_kibanna;Kibanna;Kibanna;Kibanna;;Kibanna;;;;;;;;;x
-d_kibanna_adj;Kibanna;Kibanna;Kibanna;;Kibanna;;;;;;;;;x
-c_loruraq_adj;Loruraq;Loruraq;Loruraq;;Loruraq;;;;;;;;;x
-b_loruraq;Loruraq;Loruraq;Loruraq;;Loruraq;;;;;;;;;x
-b_katoth;Katoth;Katoth;Katoth;;Katoth;;;;;;;;;x
+d_kibanna;Warrego Valles;Kibanna;Kibanna;;Kibanna;;;;;;;;;x
+d_kibanna_adj;Warregon;Kibanna;Kibanna;;Kibanna;;;;;;;;;x
+c_loruraq_adj;Warregon;Warregon;Warregon;;Warregon;;;;;;;;;x
+b_loruraq;Warrego Pass;Warrego Pass;Warrego Pass;;Warrego Pass;;;;;;;;;x
+b_katoth;Thaumasia Pass;Katoth;Katoth;;Katoth;;;;;;;;;x
 b_qatapa;Qatapa;Qatapa;Qatapa;;Qatapa;;;;;;;;;x
 b_qoroth;Qoroth;Qoroth;Qoroth;;Qoroth;;;;;;;;;x
 b_qorerne;Qorerne;Qorerne;Qorerne;;Qorerne;;;;;;;;;x
@@ -8206,8 +8206,8 @@ b_dimaig;Dimaig;Dimaig;Dimaig;;Dimaig;;;;;;;;;x
 b_barony0618g;Barony0618g;Barony0618g;Barony0618g;;Barony0618g;;;;;;;;;x
 e_logah;Logah;Logah;Logah;;Logah;;;;;;;;;x
 e_logah_adj;Logah;Logah;Logah;;Logah;;;;;;;;;x
-k_torah;Torah;Torah;Torah;;Torah;;;;;;;;;x
-k_torah_adj;Torah;Torah;Torah;;Torah;;;;;;;;;x
+k_torah;Thaumasia Pass;Thaumasia Pass;Thaumasia Pass;;Thaumasia Pass;;;;;;;;;x
+k_torah_adj;Thaumasion;Thaumasion;Thaumasion;;Thaumasion;;;;;;;;;x
 d_noraimur;Noraimur;Noraimur;Noraimur;;Noraimur;;;;;;;;;x
 d_noraimur_adj;Noraimur;Noraimur;Noraimur;;Noraimur;;;;;;;;;x
 c_sinala_adj;Sinala;Sinala;Sinala;;Sinala;;;;;;;;;x
@@ -8995,8 +8995,8 @@ b_losyana;Losyana;Losyana;Losyana;;Losyana;;;;;;;;;x
 b_kayaraq;Kayaraq;Kayaraq;Kayaraq;;Kayaraq;;;;;;;;;x
 b_tyao;Tyao;Tyao;Tyao;;Tyao;;;;;;;;;x
 b_barony0699g;Barony0699g;Barony0699g;Barony0699g;;Barony0699g;;;;;;;;;x
-d_edosz;Edosz;Edosz;Edosz;;Edosz;;;;;;;;;x
-d_edosz_adj;Edosz;Edosz;Edosz;;Edosz;;;;;;;;;x
+d_edosz;Thaumasia Planum;Thaumasia Planum;Thaumasia Planum;;Thaumasia Planum;;;;;;;;;x
+d_edosz_adj;Thaumasian;Thaumasian;Thaumasian;;Thaumasian;;;;;;;;;x
 c_arela_adj;Arela;Arela;Arela;;Arela;;;;;;;;;x
 b_arela;Arela;Arela;Arela;;Arela;;;;;;;;;x
 b_teaqar;Teaqar;Teaqar;Teaqar;;Teaqar;;;;;;;;;x

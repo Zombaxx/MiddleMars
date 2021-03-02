@@ -29,6 +29,7 @@ bm_middle_mars = {
 		name = ERA_CHAR_NAME_102265
 		title = d_olympus_mons
 		title_name = d_olympus_mons
+		dlc = "The Old Gods"
 		
 		character = {
 			dna = zpabrsaohdv
@@ -47,12 +48,30 @@ bm_middle_mars = {
 		title_name = e_valles_marineris
 		
 		character = {
+			female = yes
 			dna = cagfktibaal
 			properties = fj0dcd000000
-			religion="hellenic_pagan"
+			religion="orthodox"
 			culture="basque"
 			government = feudal_government
 			dynasty=104890
+		}
+	}
+	selectable_character = {
+		id = 102225 # Ragnarr of Tempe Terra
+		age = 24
+		name = ERA_CHAR_NAME_102225
+		title = k_tempe_terra
+		title_name = k_tempe_terra
+		dlc = "The Old Gods"
+		
+		character = {
+			dna = tadlfmffyba
+			properties = elo0ac00
+			religion="norse_pagan"
+			culture="norse"
+			government = tribal
+			dynasty=102220
 		}
 	}
 	selectable_character = {
@@ -87,6 +106,7 @@ bm_argyre = {
 		name = ERA_CHAR_NAME_111585
 		title = e_noachis_terra
 		title_name = e_noachis_terra
+		dlc = "The Sword of Islam"
 		
 		character = {
 			dna = vekzbwluvsc
@@ -135,6 +155,7 @@ bm_argyre = {
 		name = ERA_CHAR_NAME_111905
 		title = k_promethei_terra
 		title_name = k_promethei_terra
+		dlc = "Jade Dragon"
 		
 		character = {
 			dna = drvzzvggwpm

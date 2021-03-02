@@ -187,6 +187,14 @@ baron_tau_cetinese;Officer;;;;;;;;;;;;;x
 baron_title_ruler_consort_tau_cetinese;Mr. Officer;;;;;;;;;;;;x
 baron_title_ruler_consort_female_tau_cetinese;Mrs. Officer;;;;;;;;;;;;;x
 
+nomadic_king_tau_cetinese;General;General;General;;General;;;;;;;;;x
+nomadic_emperor_tau_cetinese;Great Leader;Great Leader;Great Leader;;Great Leader;;;;;;;;;x
+nomadic_empire_tau_cetinese;Horde;Khaganat;Khaganat;;Khaganato;;;;;;;;;x
+nomadic_empire_of_tau_cetinese;Horde of;Khaganat de;Großkhanat von;;Kaganato de;;;;;;;;;x
+nomadic_kingdom_tau_cetinese;Horde;Khanat;Khanat;;Kanato;;;;;;;;;x
+nomadic_kingdom_of;Horde of;Kanat de;Khanat von;;Kanato de;;;;;;;;;x
+
+
 #emperor;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
 #king;King;Roi;König;;Rey;;;;;;;;;x
 #duke;Duke;Duc;Herzog;;Duque;;;;;;;;;x

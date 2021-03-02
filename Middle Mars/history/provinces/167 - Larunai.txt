@@ -12,6 +12,6 @@ b_lagoriy = castle
 
 # Misc
 culture = german
-religion = norse_pagan
+religion = catholic
 
 # History
