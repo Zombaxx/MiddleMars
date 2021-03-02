@@ -11596,7 +11596,7 @@
 	}
 }
 100800 = {
-	name = "Gerold"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
 	religion = "catholic"
@@ -11614,7 +11614,7 @@
 	}
 }
 100801 = {
-	name = "Maurifi"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
 	religion = "catholic"
@@ -11622,18 +11622,23 @@
 	978.1.1={
 		birth="978.1.1"
 	}
+	1000.1.1={
+		prestige = -25000
+		religion = fraticelli
+	}
 	1026.1.1={
 		death="1026.1.1"
 	}
 }
 100802 = {
-	name = "Sunno"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100801
 	1005.1.1={
 		birth="1005.1.1"
+		prestige = -15000
 	}
 	1025.1.1={
 		add_spouse = 100804
@@ -11646,20 +11651,21 @@
 	name = "Segoin"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100801
 	1008.1.1={
 		birth="1008.1.1"
 	}
-	1050.1.1={
-		death="1050.1.1"
+	1067.1.1={
+		death="1067.1.1"
 	}
 }
 100804 = {
 	name = "Arsindis"
 	female = yes
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
+	prestige = -2000
 	1009.1.1={
 		birth="1009.1.1"
 		effect={ dynasty = father_bastard }
@@ -11672,10 +11678,11 @@
 	}
 }
 100805 = {
-	name = "Eberulf"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
+	trait = content
 	father = 100802
 	mother = 100804
 	1030.1.1={
@@ -11689,9 +11696,12 @@
 	name = "Ragnald"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100802
 	mother = 100804
+	trait = content
+	trait = twin
+	prestige = -2000
 	1034.1.1={
 		birth="1034.1.1"
 	}
@@ -11699,14 +11709,32 @@
 		death="1092.1.1"
 	}
 }
+100806 = {
+	name = "Gerold"
+	dynasty = 100800
+	culture = "old_frankish"
+	religion = "fraticelli"
+	father = 100802
+	mother = 100804
+	trait = content
+	trait = twin
+	prestige = -2000
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1092.1.1={
+		death="1091.1.1"
+	}
+}
 100807 = {
 	name = "Audovera"
 	female = yes
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100802
 	mother = 100804
+	prestige = -2000
 	1035.1.1={
 		birth="1035.1.1"
 	}
@@ -11719,8 +11747,9 @@
 	female = yes
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100803
+	prestige = -2000
 	1030.1.1={
 		birth="1030.1.1"
 	}
@@ -11732,8 +11761,9 @@
 	name = "Merogais"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100803
+	prestige = -2000
 	1033.1.1={
 		birth="1033.1.1"
 	}
@@ -54491,6 +54521,7 @@
 	
 	1065.1.1 = {
 		effect = {
+			e_alba_mons = { add_claim = ROOT }
 			k_south_alba = { add_claim = ROOT }
 			k_north_alba = { add_claim = ROOT }
 			k_ceraunius_fossae = { add_claim = ROOT }
