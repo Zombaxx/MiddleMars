@@ -3006,6 +3006,12 @@
 	946.1.1={
 		birth="946.1.1"
 	}
+	987.1.1 = {
+		create_bloodline = {
+			type = athelstan
+			has_dlc = "Holy Fury"
+		}
+	}
 	1007.1.1={
 		death="1007.1.1"
 	}
@@ -11608,6 +11614,13 @@
 	trait = strong
 	946.1.1={
 		birth="946.1.1"
+	}
+	978.1.1 = {
+		birth=yes
+		create_bloodline = {
+			type = merovingian
+			has_dlc = "Holy Fury"
+		}
 	}
 	1014.1.1={
 		death="1014.1.1"
@@ -32918,6 +32931,11 @@
 	1039.1.1={
 		birth="1039.1.1"
 	}
+	1066.1.1={
+		create_bloodline = {
+			type = alexander_bloodline_01
+		}
+	}
 	1081.1.1={
 		death="1081.1.1"
 	}
@@ -39115,8 +39133,39 @@
 	947.1.1={
 		birth="947.1.1"
 	}
+	967.1.1={
+		add_spouse=6836
+		give_nickname = nick_lodbrok
+		create_bloodline = {
+			type = ragnarr_lodbrok
+			has_dlc = "Holy Fury"
+		}
+	}
 	1031.1.1={
 		death="1031.1.1"
+	}
+}
+6836 = {
+	name="Aslaug" # Aka Kraka or Randalin
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	diplomacy = 7
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait=fair
+	trait=quick
+	trait=zealous
+	trait=temperate
+	trait=mystic
+	trait=midas_touched
+	947.1.1={
+		birth=yes
+	}
+	999.1.1={
+		death=yes
 	}
 }
 102691 = {
@@ -71725,6 +71774,13 @@
 	trait = strong
 	946.1.1={
 		birth="946.1.1"
+	}
+	966.9.27={
+		give_nickname = nick_the_restorer
+		create_bloodline = {
+			type = garcia
+			has_dlc = "Holy Fury"
+		}
 	}
 	1021.1.1={
 		death="1021.1.1"
@@ -245650,7 +245706,7 @@
 	}
 }
 116725 = {
-	name = "Sohanpal"
+	name = "Ashoka"
 	dynasty = 116720
 	culture = "hindustani"
 	religion = "hindu"
@@ -245658,6 +245714,12 @@
 	mother = 116724
 	1032.1.1={
 		birth="1032.1.1"
+	}
+	1066.1.1 = {
+		create_bloodline = {
+			type = ashoka_bloodline_01
+			has_dlc = "Holy Fury"
+		}
 	}
 	1103.1.1={
 		death="1103.1.1"
