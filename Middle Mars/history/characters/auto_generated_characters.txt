@@ -11615,7 +11615,7 @@
 	946.1.1={
 		birth="946.1.1"
 	}
-	978.1.1 = {
+	977.1.1 = {
 		birth=yes
 		create_bloodline = {
 			type = merovingian
@@ -11722,7 +11722,7 @@
 		death="1092.1.1"
 	}
 }
-100806 = {
+1008061 = {
 	name = "Gerold"
 	dynasty = 100800
 	culture = "old_frankish"
