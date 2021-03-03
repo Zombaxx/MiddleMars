@@ -200,6 +200,7 @@ targetted_decisions = {
 		}
 		allow = {
 			religion_group = christian
+			trait = squire
 			age = 16
 		}
 		effect = {

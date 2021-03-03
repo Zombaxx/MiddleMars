@@ -34,6 +34,7 @@ character_event = {
 			factor = 100
 		}
 		FROM = {
+			give_minor_title = title_knight
 			add_trait = knight
 			prestige = 100
 			opinion = {
@@ -61,6 +62,7 @@ character_event = {
 		}
 		FROM = {
 			remove_trait = squire
+			give_minor_title = title_knight
 			add_trait = knight
 			prestige = 100
 			opinion = {
@@ -84,6 +86,7 @@ character_event = {
 		}
 		FROM = {
 			add_trait = knight
+			give_minor_title = title_knight
 			remove_trait = squire
 			prestige = 100
 		}
@@ -118,6 +121,7 @@ character_event = {
 			factor = 100
 		}
 		ROOT = {
+			give_minor_title = title_knight
 			add_trait = knight
 			prestige = 150
 		}

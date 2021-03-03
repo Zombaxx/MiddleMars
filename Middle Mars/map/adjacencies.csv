@@ -1,6 +1,10 @@
 From;To;Type;Through;-1;-1;-1;-1;Comment
 134;124;sea;1789;-1;-1;-1;-1;Province0134-Province0124
 176;151;sea;1800;-1;-1;-1;-1;Province0176-Province0151
+308;261;sea;292;-1;-1;-1;-1;Poynting Pass
+341;388;sea;388;-1;-1;-1;-1;Arsia Sulci
+412;388;sea;388;-1;-1;-1;-1;Arsia Valle
+412;388;sea;409;-1;-1;-1;-1;Oti Fossae
 545;523;sea;1859;-1;-1;-1;-1;Province0545-Province0523
 577;574;sea;1865;-1;-1;-1;-1;Province0577-Province0574
 583;580;sea;1870;-1;-1;-1;-1;Province0583-Province0580
