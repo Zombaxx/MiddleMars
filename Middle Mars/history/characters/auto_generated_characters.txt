@@ -3006,6 +3006,12 @@
 	946.1.1={
 		birth="946.1.1"
 	}
+	987.1.1 = {
+		create_bloodline = {
+			type = athelstan
+			has_dlc = "Holy Fury"
+		}
+	}
 	1007.1.1={
 		death="1007.1.1"
 	}
@@ -11596,7 +11602,7 @@
 	}
 }
 100800 = {
-	name = "Gerold"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
 	religion = "catholic"
@@ -11609,12 +11615,19 @@
 	946.1.1={
 		birth="946.1.1"
 	}
+	978.1.1 = {
+		birth=yes
+		create_bloodline = {
+			type = merovingian
+			has_dlc = "Holy Fury"
+		}
+	}
 	1014.1.1={
 		death="1014.1.1"
 	}
 }
 100801 = {
-	name = "Maurifi"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
 	religion = "catholic"
@@ -11622,18 +11635,23 @@
 	978.1.1={
 		birth="978.1.1"
 	}
+	1000.1.1={
+		prestige = -25000
+		religion = fraticelli
+	}
 	1026.1.1={
 		death="1026.1.1"
 	}
 }
 100802 = {
-	name = "Sunno"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100801
 	1005.1.1={
 		birth="1005.1.1"
+		prestige = -15000
 	}
 	1025.1.1={
 		add_spouse = 100804
@@ -11646,20 +11664,21 @@
 	name = "Segoin"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100801
 	1008.1.1={
 		birth="1008.1.1"
 	}
-	1050.1.1={
-		death="1050.1.1"
+	1067.1.1={
+		death="1067.1.1"
 	}
 }
 100804 = {
 	name = "Arsindis"
 	female = yes
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
+	prestige = -2000
 	1009.1.1={
 		birth="1009.1.1"
 		effect={ dynasty = father_bastard }
@@ -11672,10 +11691,11 @@
 	}
 }
 100805 = {
-	name = "Eberulf"
+	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
+	trait = content
 	father = 100802
 	mother = 100804
 	1030.1.1={
@@ -11689,9 +11709,12 @@
 	name = "Ragnald"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100802
 	mother = 100804
+	trait = content
+	trait = twin
+	prestige = -2000
 	1034.1.1={
 		birth="1034.1.1"
 	}
@@ -11699,14 +11722,32 @@
 		death="1092.1.1"
 	}
 }
+100806 = {
+	name = "Gerold"
+	dynasty = 100800
+	culture = "old_frankish"
+	religion = "fraticelli"
+	father = 100802
+	mother = 100804
+	trait = content
+	trait = twin
+	prestige = -2000
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1092.1.1={
+		death="1091.1.1"
+	}
+}
 100807 = {
 	name = "Audovera"
 	female = yes
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100802
 	mother = 100804
+	prestige = -2000
 	1035.1.1={
 		birth="1035.1.1"
 	}
@@ -11719,8 +11760,9 @@
 	female = yes
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100803
+	prestige = -2000
 	1030.1.1={
 		birth="1030.1.1"
 	}
@@ -11732,8 +11774,9 @@
 	name = "Merogais"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "fraticelli"
 	father = 100803
+	prestige = -2000
 	1033.1.1={
 		birth="1033.1.1"
 	}
@@ -32888,6 +32931,11 @@
 	1039.1.1={
 		birth="1039.1.1"
 	}
+	1066.1.1={
+		create_bloodline = {
+			type = alexander_bloodline_01
+		}
+	}
 	1081.1.1={
 		death="1081.1.1"
 	}
@@ -39085,8 +39133,39 @@
 	947.1.1={
 		birth="947.1.1"
 	}
+	967.1.1={
+		add_spouse=6836
+		give_nickname = nick_lodbrok
+		create_bloodline = {
+			type = ragnarr_lodbrok
+			has_dlc = "Holy Fury"
+		}
+	}
 	1031.1.1={
 		death="1031.1.1"
+	}
+}
+6836 = {
+	name="Aslaug" # Aka Kraka or Randalin
+	female=yes
+	religion="norse_pagan"
+	culture="norse"
+	diplomacy = 7
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait=fair
+	trait=quick
+	trait=zealous
+	trait=temperate
+	trait=mystic
+	trait=midas_touched
+	947.1.1={
+		birth=yes
+	}
+	999.1.1={
+		death=yes
 	}
 }
 102691 = {
@@ -54491,6 +54570,7 @@
 	
 	1065.1.1 = {
 		effect = {
+			e_alba_mons = { add_claim = ROOT }
 			k_south_alba = { add_claim = ROOT }
 			k_north_alba = { add_claim = ROOT }
 			k_ceraunius_fossae = { add_claim = ROOT }
@@ -71694,6 +71774,13 @@
 	trait = strong
 	946.1.1={
 		birth="946.1.1"
+	}
+	966.9.27={
+		give_nickname = nick_the_restorer
+		create_bloodline = {
+			type = garcia
+			has_dlc = "Holy Fury"
+		}
 	}
 	1021.1.1={
 		death="1021.1.1"
@@ -245619,7 +245706,7 @@
 	}
 }
 116725 = {
-	name = "Sohanpal"
+	name = "Ashoka"
 	dynasty = 116720
 	culture = "hindustani"
 	religion = "hindu"
@@ -245627,6 +245714,12 @@
 	mother = 116724
 	1032.1.1={
 		birth="1032.1.1"
+	}
+	1066.1.1 = {
+		create_bloodline = {
+			type = ashoka_bloodline_01
+			has_dlc = "Holy Fury"
+		}
 	}
 	1103.1.1={
 		death="1103.1.1"
