@@ -196,7 +196,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_history
-		}
+	}
 	option = {
 		name = EVTOPTBcollege_school_events.9
 		custom_tooltip = { text = TOOLTIPEVTOPTBcollege_school_events.9 }
@@ -205,7 +205,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_politics
-		}
+	}
 	option = {
 		name = EVTOPTCcollege_school_events.9
 		custom_tooltip = { text = TOOLTIPEVTOPTCcollege_school_events.9 }
@@ -213,7 +213,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_economics
-		}
+	}
 	option = {
 		name = EVTOPTDcollege_school_events.9
 		custom_tooltip = { text = TOOLTIPEVTOPTDcollege_school_events.9 }
@@ -221,7 +221,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_philosophy
-		}
+	}
 	option = {
 		name = EVTOPTEcollege_school_events.9
 		custom_tooltip = { text = TOOLTIPEVTOPTEcollege_school_events.9 }
@@ -229,8 +229,8 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_literature
-		}
 	}
+
 }
 character_event = {
 	id = college_school_events.1011

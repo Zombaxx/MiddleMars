@@ -11616,7 +11616,6 @@
 		birth="946.1.1"
 	}
 	977.1.1 = {
-		birth=yes
 		create_bloodline = {
 			type = merovingian
 			has_dlc = "Holy Fury"
