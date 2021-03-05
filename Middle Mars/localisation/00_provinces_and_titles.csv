@@ -27,7 +27,7 @@ PROV26;Teonie;Teonie;Teonie;;Teonie;;;;;;;;;x
 PROV27;Tonaham;Tonaham;Tonaham;;Tonaham;;;;;;;;;x
 PROV28;Qyasema;Qyasema;Qyasema;;Qyasema;;;;;;;;;x
 PROV29;Wanuko;Wanuko;Wanuko;;Wanuko;;;;;;;;;x
-PROV30;Kena;Kena;Kena;;Kena;;;;;;;;;x
+PROV30;Upper Alba;Upper Alba;Upper Alba;;Upper Alba;;;;;;;;;x
 PROV31;Qenaran;Qenaran;Qenaran;;Qenaran;;;;;;;;;x
 PROV32;Tadinat;Tadinat;Tadinat;;Tadinat;;;;;;;;;x
 PROV33;Raladan;Raladan;Raladan;;Raladan;;;;;;;;;x
@@ -57,7 +57,7 @@ PROV56;Karuin;Karuin;Karuin;;Karuin;;;;;;;;;x
 PROV57;Noanius;Noanius;Noanius;;Noanius;;;;;;;;;x
 PROV58;Karahar;Karahar;Karahar;;Karahar;;;;;;;;;x
 PROV59;Qevassa;Qevassa;Qevassa;;Qevassa;;;;;;;;;x
-PROV60;Nukipac;Nukipac;Nukipac;;Nukipac;;;;;;;;;x
+PROV60;Camelot;Nukipac;Nukipac;;Nukipac;;;;;;;;;x
 PROV61;Neneram;Neneram;Neneram;;Neneram;;;;;;;;;x
 PROV62;Rarolon;Rarolon;Rarolon;;Rarolon;;;;;;;;;x
 PROV63;Kalihan;Kalihan;Kalihan;;Kalihan;;;;;;;;;x
@@ -139,7 +139,7 @@ PROV138;Abelim;Abelim;Abelim;;Abelim;;;;;;;;;x
 PROV139;Ecotijah;Ecotijah;Ecotijah;;Ecotijah;;;;;;;;;x
 PROV140;Tinahad;Tinahad;Tinahad;;Tinahad;;;;;;;;;x
 PROV141;Kavohn;Kavohn;Kavohn;;Kavohn;;;;;;;;;x
-PROV142;Sana;Sana;Sana;;Sana;;;;;;;;;x
+PROV142;Ceraunia;Ceraunia;Ceraunia;;Ceraunia;;;;;;;;;x
 PROV143;Toisi;Toisi;Toisi;;Toisi;;;;;;;;;x
 PROV144;Eloreter;Eloreter;Eloreter;;Eloreter;;;;;;;;;x
 PROV145;Eferagan;Eferagan;Eferagan;;Eferagan;;;;;;;;;x
@@ -2423,8 +2423,8 @@ k_south_alba;North Alba;North Alba;North Alba;;North Alba;;;;;;;;;x
 k_south_alba_adj;North Alba;North Alba;North Alba;;North Alba;;;;;;;;;x
 d_south_alba;North Alba;North Alba;North Alba;;North Alba;;;;;;;;;x
 d_south_alba_adj;North Alba;North Alba;North Alba;;North Alba;;;;;;;;;x
-c_kena_adj;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
-b_kena;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
+c_kena_adj;Upper Alban;Upper Alban;Upper Alban;;Upper Alban;;;;;;;;;x
+b_kena;Alba;Alba;Alba;;Alba;;;;;;;;;x
 b_eskeir;Eskeir;Eskeir;Eskeir;;Eskeir;;;;;;;;;x
 b_konne;Konne;Konne;Konne;;Konne;;;;;;;;;x
 b_suzodan;Suzodan;Suzodan;Suzodan;;Suzodan;;;;;;;;;x
@@ -2711,8 +2711,8 @@ b_agutar;Agutar;Agutar;Agutar;;Agutar;;;;;;;;;x
 b_barony0059g;Barony0059g;Barony0059g;Barony0059g;;Barony0059g;;;;;;;;;x
 d_camelot;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
 d_camelot_adj;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
-c_nukipac_adj;Nukipac;Nukipac;Nukipac;;Nukipac;;;;;;;;;x
-b_nukipac;Nukipac;Nukipac;Nukipac;;Nukipac;;;;;;;;;x
+c_nukipac_adj;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
+b_nukipac;Camelot;Camelot;Camelot;;Camelot;;;;;;;;;x
 b_baath;Baath;Baath;Baath;;Baath;;;;;;;;;x
 b_emahork;Emahork;Emahork;Emahork;;Emahork;;;;;;;;;x
 b_binahad;Binahad;Binahad;Binahad;;Binahad;;;;;;;;;x
@@ -3435,8 +3435,8 @@ b_duzniq;Duzniq;Duzniq;Duzniq;;Duzniq;;;;;;;;;x
 b_rifaqar;Rifaqar;Rifaqar;Rifaqar;;Rifaqar;;;;;;;;;x
 b_qekiel;Qekiel;Qekiel;Qekiel;;Qekiel;;;;;;;;;x
 b_barony0133g;Barony0133g;Barony0133g;Barony0133g;;Barony0133g;;;;;;;;;x
-d_uranius_tholus;Uranius Tholus;Uranius Tholus;Uranius Tholus;;Uranius Tholus;;;;;;;;;x
-d_uranius_tholus_adj;Uranius Tholus;Uranius Tholus;Uranius Tholus;;Uranius Tholus;;;;;;;;;x
+d_uranius_tholus;Ceraunius Tholus;Ceraunius Tholus;Ceraunius Tholus;;Ceraunius Tholus;;;;;;;;;x
+d_uranius_tholus_adj;Ceraunian;Ceraunian;Ceraunian;;;;;;;;;;;x
 c_edoja_adj;Edoja;Edoja;Edoja;;Edoja;;;;;;;;;x
 b_edoja;Edoja;Edoja;Edoja;;Edoja;;;;;;;;;x
 b_betatha;Betatha;Betatha;Betatha;;Betatha;;;;;;;;;x
@@ -3511,12 +3511,12 @@ b_kerasia;Kerasia;Kerasia;Kerasia;;Kerasia;;;;;;;;;x
 b_rakoda;Rakoda;Rakoda;Rakoda;;Rakoda;;;;;;;;;x
 b_teveka;Teveka;Teveka;Teveka;;Teveka;;;;;;;;;x
 b_barony0141g;Barony0141g;Barony0141g;Barony0141g;;Barony0141g;;;;;;;;;x
-k_uranius;Uranius;Uranius;Uranius;;Uranius;;;;;;;;;x
-k_uranius_adj;Uranius;Uranius;Uranius;;Uranius;;;;;;;;;x
-d_uranius;Uranius;Uranius;Uranius;;Uranius;;;;;;;;;x
-d_uranius_adj;Uranius;Uranius;Uranius;;Uranius;;;;;;;;;x
-c_sana_adj;Sana;Sana;Sana;;Sana;;;;;;;;;x
-b_sana;Sana;Sana;Sana;;Sana;;;;;;;;;x
+k_uranius;Ceraunia;Ceraunia;Ceraunia;;Ceraunia;;;;;;;;;x
+k_uranius_adj;Ceraunian;Ceraunian;Ceraunian;;Ceraunian;;;;;;;;;x
+d_uranius;Ceraunius;Ceraunius;Ceraunius;;Ceraunius;;;;;;;;;x
+d_uranius_adj;Ceraunian;Ceraunian;Ceraunian;;Ceraunian;;;;;;;;;x
+c_sana_adj;Ceraunian;Ceraunian;Ceraunian;;Ceraunian;;;;;;;;;x
+b_sana;Ceraunius Tholus;Ceraunius Tholus;Ceraunius Tholus;;Ceraunia Tholus;;;;;;;;;x
 b_asuducho;Asuducho;Asuducho;Asuducho;;Asuducho;;;;;;;;;x
 b_nanodis;Nanodis;Nanodis;Nanodis;;Nanodis;;;;;;;;;x
 b_nagija;Nagija;Nagija;Nagija;;Nagija;;;;;;;;;x
@@ -3613,8 +3613,8 @@ b_wabdavak;Wabdavak;Wabdavak;Wabdavak;;Wabdavak;;;;;;;;;x
 b_nenude;Nenude;Nenude;Nenude;;Nenude;;;;;;;;;x
 b_kabyan;Kabyan;Kabyan;Kabyan;;Kabyan;;;;;;;;;x
 b_barony0151g;Barony0151g;Barony0151g;Barony0151g;;Barony0151g;;;;;;;;;x
-d_ceraunius_tholus;Ceraunius Tholus;Ceraunius Tholus;Ceraunius Tholus;;Ceraunius Tholus;;;;;;;;;x
-d_ceraunius_tholus_adj;Ceraunius Tholus;Ceraunius Tholus;Ceraunius Tholus;;Ceraunius Tholus;;;;;;;;;x
+d_ceraunius_tholus;Urania;Urania;Urania;;Urania;;;;;;;;;x
+d_ceraunius_tholus_adj;Uranian;Uranian;Uranian;;Uranian;;;;;;;;;x
 c_etanila_adj;Etanila;Etanila;Etanila;;Etanila;;;;;;;;;x
 b_etanila;Etanila;Etanila;Etanila;;Etanila;;;;;;;;;x
 b_laloa;Laloa;Laloa;Laloa;;Laloa;;;;;;;;;x
@@ -3861,8 +3861,8 @@ b_tagert;Tagert;Tagert;Tagert;;Tagert;;;;;;;;;x
 b_soralan;Soralan;Soralan;Soralan;;Soralan;;;;;;;;;x
 b_rawick;Rawick;Rawick;Rawick;;Rawick;;;;;;;;;x
 b_barony0177g;Barony0177g;Barony0177g;Barony0177g;;Barony0177g;;;;;;;;;x
-d_ceraunia;Ceraunia;Ceraunia;Ceraunia;;Ceraunia;;;;;;;;;x
-d_ceraunia_adj;Ceraunia;Ceraunia;Ceraunia;;Ceraunia;;;;;;;;;x
+d_ceraunia;Tharsia;Tharsia;Tharsia;;Tharsia;;;;;;;;;x
+d_ceraunia_adj;Tharsian;Tharsian;Tharsian;;Tharsian;;;;;;;;;x
 c_borine_adj;Borine;Borine;Borine;;Borine;;;;;;;;;x
 b_borine;Borine;Borine;Borine;;Borine;;;;;;;;;x
 b_roban;Roban;Roban;Roban;;Roban;;;;;;;;;x
