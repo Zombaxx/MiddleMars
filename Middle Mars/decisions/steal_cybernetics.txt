@@ -74,9 +74,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_iii
@@ -352,9 +366,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_iv
@@ -630,9 +658,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_v
@@ -908,9 +950,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_i
@@ -1182,9 +1238,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_ii
@@ -1456,9 +1526,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = hiver_implant
@@ -1730,9 +1814,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				95 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = incapable
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_skeleton
@@ -2000,9 +2098,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				98 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				1 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = incapable
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = full_cybernetic_conversion
@@ -2270,9 +2382,31 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
+				66 = {
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_i
@@ -2540,9 +2674,31 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
+				66 = {
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_ii
@@ -2810,9 +2966,31 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
+				66 = {
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_iii
@@ -3080,9 +3258,31 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
+				66 = {
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_iv
@@ -3350,9 +3550,31 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
+				66 = {
+					if = {
+						limit = { trait = one_eyed }
+						add_trait = blind
+					}
+					if = {
+						limit = { NOT = { trait = one_eyed } }
+						add_trait = one_eyed
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_v
@@ -3620,10 +3842,15 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
-			}
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+				}
+				66 = { add_trait one_handed }
+			}			
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_limb
 			FROM = { add_trait = cybernetic_limb }
@@ -3890,10 +4117,15 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
-			}
+			random_list = {
+				34 = { 
+			        death = {
+			        	death_reason = death_stolen_cybernetics
+			        	killer = FROM
+			        }
+				}
+				66 = { add_trait one_handed }
+			}			
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_leg
 			FROM = { add_trait = cybernetic_leg }
@@ -4160,9 +4392,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = damaged_cybernetics
@@ -4426,9 +4672,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_i
@@ -4692,9 +4952,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_ii
@@ -4958,9 +5232,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_iii
@@ -5224,9 +5512,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_iv
@@ -5490,9 +5792,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_v
@@ -5756,9 +6072,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_i
@@ -6022,9 +6352,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_ii
@@ -6288,9 +6632,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_iii
@@ -6554,9 +6912,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_iv
@@ -6820,9 +7192,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_v
@@ -7086,9 +7472,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_i
@@ -7352,9 +7752,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_ii
@@ -7618,9 +8032,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_iii
@@ -7884,9 +8312,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_iv
@@ -8150,9 +8592,23 @@ Targetted_decisions = {
 			}
 		}
 		effect = {
-			death = {
-				death_reason = death_stolen_cybernetics
-				killer = FROM
+			random_list = {
+				34 = {
+					death = {
+						death_reason = death_stolen_cybernetics
+						killer = FROM
+					}
+				}
+				66 = {
+					if = {
+					limit = {trait = infirm }
+						add_trait = incapable
+					}
+					if = {
+					limit = { NOT = { trait = infirm } }
+						add_trait = infirm
+					}
+				}
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_v

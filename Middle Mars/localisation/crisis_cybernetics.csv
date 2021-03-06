@@ -54,7 +54,7 @@ thoth_mk_iv_desc;The Thoth general-purpose information processor is a DNI-based 
 thoth_mk_v;Thoth Mk V;;;;;;;;;;;;x
 thoth_mk_v_desc;The Thoth general-purpose information processor is a DNI-based cybernetic implant designed as a basic upgrade to the host's intellectual capacities. The Thoth provides an optimized and easily-searchable information database to extend the host's memory access and capacity, as well as a lightweight but flexible processing unit that helps to improve neural processing throughput.;;;;;;;;;;;;x
 cybernetic_limb;Cybernetic Arm;;;;;;;;;;;;x
-cybernetic_limb_desc;Cybernetic Arm;;;;;;;;;;;;x
+cybernetic_limb_desc;One of this character's arms has been replaced with a cybernetic prosthetic.;;;;;;;;;;;;x
 #cybernetic_limb;[CyberneticLimbName];;;;;;;;;;;;x
 #cybernetic_limb_desc;[CyberneticLimbDesc];;;;;;;;;;;;x
 String_cybernetic_limb;Cybernetic Limb;;;;;;;;;;;;x
