@@ -3,6 +3,7 @@ Targetted_decisions = {
 	get_relative_genius_decision = {
 		filter = dynasty
 		ai_target_filter = dynasty
+		is_high_prio = yes
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
@@ -255,6 +256,7 @@ Targetted_decisions = {
 	get_relative_quick_decision = {
 		filter = dynasty
 		ai_target_filter = dynasty
+		is_high_prio = yes
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
@@ -489,6 +491,7 @@ Targetted_decisions = {
 	get_relative_strong_decision = {
 		filter = dynasty
 		ai_target_filter = dynasty
+		is_high_prio = yes
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
@@ -719,6 +722,7 @@ Targetted_decisions = {
 	get_relative_agile_decision = {
 		filter = dynasty
 		ai_target_filter = dynasty
+		is_high_prio = yes
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
