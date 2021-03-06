@@ -1,3 +1,4 @@
+DEATH_STOLEN_CYBERNETICS;died while their Cybernetics were removed at the order of $KILLER$;est mort[Get_E] dans les geôles de $KILLER$;starb im Kerker von $KILLER$;;murió en las mazmorras de $KILLER$;;;;;;;;;x
 get_prisoner_cybernetic_leg;Take Prisoner's Cybernetic Leg;;;;;;;;;;;;;x
 get_prisoner_cybernetic_limb;Take Prisoner's Cybernetic Arm;;;;;;;;;;;;;x
 get_prisoner_cybernetic_skeleton;Take Prisoner's Cybernetic Skeleton;;;;;;;;;;;;;x
