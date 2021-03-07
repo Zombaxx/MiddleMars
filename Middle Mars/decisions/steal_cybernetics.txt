@@ -2105,7 +2105,7 @@ Targetted_decisions = {
 						killer = FROM
 					}
 				}
-				1 = {
+				2 = {
 					if = {
 					limit = {trait = infirm }
 						add_trait = incapable
@@ -2118,7 +2118,7 @@ Targetted_decisions = {
 			}
 			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = full_cybernetic_conversion
-			FROM = { add_trait = full_cybernetic_conversion }
+			FROM = { add_trait = full_cybernetic_conversion set_graphical_culture = ROOT }
 			if = {
 				limit = { FROM { trait = infirm } }
 				FROM = { remove_trait = infirm }

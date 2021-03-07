@@ -582,10 +582,16 @@ almoravid = {
 }
 
 bayajidda_and_magajiva = {
-	combat_rating = 5
-	hausa_opinion = 5
+	combat_rating = 15
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.25
+	#hausa_opinion = 5
 	bloodline_effect_enatic_cognatic = 1
-	inheritance = matrilineal
+	bloodline_effect_crusade_lord = 1
+	saintly_cultural_bloodline = 1
+	bloodline_effect_great_heroes_appear = 1
+	#inheritance = matrilineal
+	inheritance = all_descendants
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_african_waves
 	flags = { historical_bloodline bloodline_enatic_cognatic }
@@ -730,6 +736,7 @@ otto = {
 	vassal_opinion = 5
 	combat_rating = 5
 	bloodline_effect_princely_elective_boon = 1
+	bloodline_effect_great_heroes_appear = 1
 	inheritance = patrilineal
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_lion
