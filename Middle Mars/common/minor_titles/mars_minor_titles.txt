@@ -177,6 +177,7 @@ title_cywizard = {
 		is_adult = yes
 
 		prisoner = no
+		NOT = { trait = trait_slave }
 		NOT = { trait = in_hiding }
 		NOT = { trait = incapable }
 	}
