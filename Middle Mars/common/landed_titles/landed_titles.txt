@@ -3826,6 +3826,7 @@ e_germany = {
 		d_saxony = {
 			color={ 70 70 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 257 # Brunswick
 
@@ -3941,7 +3942,8 @@ e_germany = {
 		d_brunswick = {
 			color={ 183 172 172 }
 			color2={ 255 255 255 }
-		allow = { always = no }
+		primary = no
+			allow = { always = no }
 			capital = 257 # Brunswick
 
 			allow = {
@@ -3960,7 +3962,8 @@ e_germany = {
 		d_bremen = {
 			color= { 190 201 210 }
 			color2= { 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 259 #Bremen
 
 			old_saxon = Heilanga
@@ -4041,7 +4044,8 @@ allow = { always = no }
 		d_angria = {
 			color={ 180 165 165 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1979 # Minden
 
 			c_osnabruck = {
@@ -4110,7 +4114,8 @@ allow = { always = no }
 		d_munster_germany = {
 			color={ 213 216 212 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 88 # Munster
 
 			old_saxon = Westfalia
@@ -4194,7 +4199,8 @@ allow = { always = no }
 		d_holland = {
 			color={ 235 80 30 }
 			color2={ 255 255 255 }
-		allow = { always = no }
+		primary = no
+			allow = { always = no }
 			capital = 80 #Holland
 			
 			culture = dutch
@@ -4290,6 +4296,7 @@ allow = { always = no }
 		d_gelre = {
 			color={ 200 100 25 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 83 #Gelre
 			
@@ -4397,6 +4404,7 @@ allow = { always = no }
 		d_brabant = {
 			color={ 200 100 60 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 117 #Brabant
 			
@@ -4469,6 +4477,7 @@ allow = { always = no }
 		d_upper_lorraine = {
 			color={ 90 90 125 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 127 #Lorraine		
 			c_lorraine = {
@@ -4555,6 +4564,7 @@ allow = { always = no }
 		d_lower_lorraine = {
 			color={ 144 144 177 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 115 #Luxembourg
 			
@@ -4646,7 +4656,8 @@ allow = { always = no }
 		d_trier = {
 			color={ 188 188 224 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 118 # Trier
 
 			c_trier = {
@@ -4707,6 +4718,7 @@ allow = { always = no }
 		d_koln = {
 			color={ 105 105 148 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 119 #Cologne
 			
@@ -4832,6 +4844,7 @@ allow = { always = no }
 		d_bavaria = {
 			color={ 128 121 121 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1700 # Regensburg
 			
@@ -4911,7 +4924,8 @@ allow = { always = no }
 		d_nordgau = {
 			color={ 57 57 70 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 314 # Nurnberg
 
 			c_nurnberg = {
@@ -4949,7 +4963,8 @@ allow = { always = no }
 		d_salzburg = {
 			color={ 180 190 200 }
 			color2= { 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 448 # Salzburg
 
 			c_salzburg = {
@@ -4993,6 +5008,7 @@ allow = { always = no }
 		d_osterreich = { 
 			color={ 191 182 182 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 449 #Österreich
 
@@ -5116,7 +5132,8 @@ allow = { always = no }
 		d_styria = {
 			color={ 150 140 140 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1693
 
 			german = "Steiermark"
@@ -5173,6 +5190,7 @@ allow = { always = no }
 		d_tyrol = {  
 			color={ 157 154 154 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 316 #Tirol
 		
@@ -5289,7 +5307,8 @@ allow = { always = no }
 		d_friuli = {
 			color = { 160 255 220 }
 			color2 = { 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 358 # Aquileia
 
 			c_aquileia = {
@@ -5365,7 +5384,8 @@ allow = { always = no }
 		d_carniola = {
 			color={ 150 200 230 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 457
 
 			croatian = "Kranj"
@@ -5457,6 +5477,7 @@ allow = { always = no }
 		d_carinthia = {
 			color={ 165 255 250 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 456 # Villach
 
@@ -5519,7 +5540,8 @@ allow = { always = no }
 		d_hesse = {
 			color={ 160 160 120 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1987 # Hesse
 
 			c_hesse = {
@@ -5563,7 +5585,8 @@ allow = { always = no }
 		d_thuringia = {
 			color={ 207 206 226 }
 			color2={ 255 255 255 }
-		allow = { always = no }
+		primary = no
+			allow = { always = no }
 			capital = 255 #Thuringen
 			
 			c_thuringen = {
@@ -5612,6 +5635,7 @@ allow = { always = no }
 		d_franconia = {
 			color={ 100 108 100 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 254 # Würzburg
 		
@@ -5690,7 +5714,8 @@ allow = { always = no }
 		d_rhine = {
 			color={ 105 135 105 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 123 # Mainz
 
 			c_pfalz = {
@@ -5735,6 +5760,7 @@ allow = { always = no }
 		d_baden = { 
 			color={ 115 109 109 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 125 #Baden
 		
@@ -5784,7 +5810,8 @@ allow = { always = no }
 		d_thurgau = {
 			color={ 180 220 203 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 248 # Thurgau
 
 			allow = {
@@ -5862,7 +5889,8 @@ allow = { always = no }
 		d_raetia = {
 			color={ 150 240 190 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 247 # Chur
 
 			allow = {
@@ -5943,6 +5971,7 @@ allow = { always = no }
 		d_swabia = {
 			color={ 206 203 203 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 249 #Schwaben
 			
@@ -6055,6 +6084,7 @@ allow = { always = no }
 		d_alsace = { 
 			color={ 150 150 195 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 134 #Sundgau
 		
@@ -6104,7 +6134,8 @@ allow = { always = no }
 		d_mainz = {
 			color={ 129 129 129 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 123 # Mainz
 
 			allow = {
@@ -6331,6 +6362,7 @@ e_byzantium = {
 		d_trebizond = {
 			color={ 125 160 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 678 # Trepezous
 			
@@ -6402,6 +6434,7 @@ e_byzantium = {
 		d_armeniacon = {
 			color={ 125 190 75 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 738 # Amisos
 			
@@ -6443,6 +6476,7 @@ e_byzantium = {
 		d_paphlagonia = {
 			color={ 230 180 98 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 751 # Paphlagonia
 			
@@ -6520,7 +6554,8 @@ e_byzantium = {
 		d_optimatoi = {
 			color={ 225 90 190 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 741 # Nikomedia
 
 			turkish = "Izmit"
@@ -6575,7 +6610,8 @@ allow = { always = no }
 		d_abydos = {
 			color={ 210 140 170 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 744 # Abydos
 
 			turkish = "Balakhisar"
@@ -6658,6 +6694,7 @@ allow = { always = no }
 		d_thrace = {
 			color={ 172 76 139 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 496 # Byzantion
 
@@ -6757,6 +6794,7 @@ allow = { always = no }
 		d_adrianopolis = {
 			color={ 213 74 165 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 494 # Adrianopolis
 			
@@ -6844,6 +6882,7 @@ allow = { always = no }
 		d_thessalonika = {
 			color={ 189 19 130 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 490 # Thessalonike
 			
@@ -6905,6 +6944,7 @@ allow = { always = no }
 		d_athens = {
 			color={ 206 66 158 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 475 # Thebes
 			
@@ -6991,6 +7031,7 @@ allow = { always = no }
 		d_achaia = {
 			color={ 190 29 134 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 481 # Korinthos
 			
@@ -7085,6 +7126,7 @@ allow = { always = no }
 		d_aegean_islands = {
 			color={ 104 8 103 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 484 # Naxos
 			
@@ -7149,6 +7191,7 @@ allow = { always = no }
 		d_krete = {
 			color={ 205 110 35 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 480 # Chandax
 			
@@ -7233,7 +7276,8 @@ allow = { always = no }
 		d_ohrid = {
 			color={ 150 30 70 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 471
 
 			greek = "Lychnidos"
@@ -7299,6 +7343,7 @@ allow = { always = no }
 		d_dyrrachion = {
 			color={ 137 27 99 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 470 # Dyrrachion
 
@@ -7349,6 +7394,7 @@ allow = { always = no }
 		d_epirus = {
 			color={ 134 63 109 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 473 # Arta
 			
@@ -7413,7 +7459,8 @@ allow = { always = no }
 		d_cephalonia = {
 			color={ 222 155 155 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 474
 
 			c_cephalonia = {
@@ -7484,6 +7531,7 @@ allow = { always = no }
 		d_nikaea = {
 			color={ 202 101 167 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 750 # Nikaea
 
@@ -7568,6 +7616,7 @@ allow = { always = no }
 		d_samos = {
 			color={ 115 55 100 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 486 # Samos
 			
@@ -7649,6 +7698,7 @@ allow = { always = no }
 		d_cibyrrhaeot = {
 			color={ 108 29 80 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 755 # Attaleia
 			
@@ -7728,6 +7778,7 @@ allow = { always = no }
 		d_anatolia = {
 			color={ 174 23 122 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 759 # Ikonion
 			
@@ -7786,6 +7837,7 @@ allow = { always = no }
 		d_thracesia = {
 			color={ 154 43 116 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 748 # Laodikeia
 			
@@ -7854,6 +7906,7 @@ allow = { always = no }
 		d_charsianon = {
 			color={ 237 58 198 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 737 # Kaisereia
 
@@ -7926,7 +7979,8 @@ allow = { always = no }
 		d_cappadocia = {
 			color={ 160 20 130 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 760
 
 			c_tyana = {
@@ -7962,7 +8016,8 @@ allow = { always = no }
 		d_bucellarian = {
 			color={ 234 157 207 }
 			color2={ 255 255 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 753
 
 			greek = "Boukellarion"
@@ -8003,6 +8058,7 @@ allow = { always = no }
 		d_armenia_minor = { # Cilicia in-game
 			color={ 214 140 190 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 761 # Tarsos
 			
@@ -8137,6 +8193,7 @@ allow = { always = no }
 		d_cyprus = {
 			color={ 239 109 163 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 757 # Famagusta
 			
@@ -8216,6 +8273,7 @@ allow = { always = no }
 		d_armenia = {
 			color={ 154 77 36 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 682 # Vaspurakan
 			
@@ -8306,6 +8364,7 @@ allow = { always = no }
 		d_mesopotamia = {
 			color={ 155 88 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 702 # Mesopotamia
 			
@@ -8379,6 +8438,7 @@ allow = { always = no }
 		d_edessa = {
 			color={ 182 110 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 699 # Edessa
 			
@@ -8451,6 +8511,7 @@ allow = { always = no }
 		d_coloneia = {
 			color={ 195 125 55 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 706 # Koloneia
 			
@@ -8514,6 +8575,7 @@ allow = { always = no }
 		d_vidin = {
 			color={ 122 103 58 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 506 # Vidin
 			
@@ -8574,6 +8636,7 @@ allow = { always = no }
 		d_turnovo = { # Moesia
 			color={ 197 39 154 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 499 # Tyrnovo
 			
@@ -8681,6 +8744,7 @@ allow = { always = no }
 		d_karvuna = {
 			color={ 227 79 190 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 509 # Karvuna
 			
@@ -8756,7 +8820,8 @@ allow = { always = no }
 		d_strymon = {
 			color={ 175 50 170 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 492
 
 			c_strymon = {
@@ -8807,6 +8872,7 @@ allow = { always = no }
 		d_rashka = {
 			color={ 168 135 57 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 502 # Rashka
 			
@@ -8926,6 +8992,7 @@ allow = { always = no }
 		d_dioclea = {
 			color={ 129 94 13 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 468 # Ragusa
 			
@@ -9027,6 +9094,7 @@ allow = { always = no }
 		d_slavonia = {
 			color={ 184 137 137 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 461 # Zagreb
 
@@ -9103,7 +9171,8 @@ allow = { always = no }
 		d_syrmia = {
 			color={ 170 140 115 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1968 # Syrmia
 
 			c_syrmia = {
@@ -9134,6 +9203,7 @@ allow = { always = no }
 		d_bosnia = {
 			color={ 194 115 115 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1971 # Vrhbosna
 	
@@ -9223,6 +9293,7 @@ allow = { always = no }
 		d_croatia = {
 			color={ 162 53 53 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 464 # Senj
 
@@ -9367,6 +9438,7 @@ allow = { always = no }
 		d_dalmatia = {
 			color={ 184 137 137 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 466 # Zachlumia
 			
@@ -9462,6 +9534,7 @@ allow = { always = no }
 		d_benevento = {
 			color = { 209 170 75 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 335 # Benevento
 			
@@ -9513,6 +9586,7 @@ allow = { always = no }
 			color2={ 255 255 255 }
 			
 			greek = "Neapolis"
+			primary = no
 			allow = { always = no }
 			capital = 851 # Capua
 			
@@ -9572,6 +9646,7 @@ allow = { always = no }
 			color2={ 255 255 255 }
 			
 			greek = "Longobardia"
+			primary = no
 			allow = { always = no }
 			capital = 347 # Apulia
 			
@@ -9653,7 +9728,8 @@ allow = { always = no }
 			color2={ 255 255 255 }
 
 			lombard = "Aprutium"
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 929 # Teramo
 
 			c_chieti = {
@@ -9699,6 +9775,7 @@ allow = { always = no }
 			color2={ 255 255 255 }
 			
 			greek = "Lukania"
+			primary = no
 			allow = { always = no }
 			capital = 336 # Salerno
 			
@@ -9775,6 +9852,7 @@ allow = { always = no }
 		d_calabria = {
 			color={ 170 142 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 338 # Reggio
 			
@@ -9838,6 +9916,7 @@ allow = { always = no }
 		d_sicily = {
 			color={ 155 254 86 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 340 # Palermo
 			
@@ -10051,6 +10130,7 @@ allow = { always = no }
 		d_kartli = {
 			color={ 234 119 119 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 679 # Kartli
 			
@@ -10103,7 +10183,8 @@ allow = { always = no }
 		d_tao = {
 			color={ 231 80 130 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 680 # Tao
 
 			c_tao = {
@@ -10161,7 +10242,8 @@ allow = { always = no }
 		d_kakheti = {
 			color={ 200 50 50 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 673 # Albania
 
 			c_kakheti = {
@@ -10237,6 +10319,7 @@ allow = { always = no }
 		d_abkhazia = {
 			color={ 255 173 196 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 601 # Imeretia
 			
@@ -10640,6 +10723,7 @@ e_italy = {
 		d_ferrara = {
 			color={ 244 180 130 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 351 # Ravenna
 			
@@ -10708,6 +10792,7 @@ e_italy = {
 		d_ancona = {
 			color={ 230 227 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 350 # Ancona
 			
@@ -10767,6 +10852,7 @@ e_italy = {
 		d_spoleto = {
 			color={ 217 182 153 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 349 # Spoleto
 
@@ -10805,6 +10891,7 @@ e_italy = {
 		d_latium = {
 			color={ 254 245 160 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 333 # Rome
 			
@@ -10950,6 +11037,7 @@ e_italy = {
 		d_verona = {
 			color={ 170 255 170 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 319 # Verona
 		
@@ -11020,6 +11108,7 @@ e_italy = {
 		d_susa = {
 			color={ 191 158 158 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 236 # Piemonte
 			
@@ -11101,7 +11190,8 @@ e_italy = {
 		
 		d_lombardia = {
 			color={ 200 133 222 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 235 # Lombardia
 
 			lombard = "Lombardy"
@@ -11229,6 +11319,7 @@ e_italy = {
 		d_genoa = {
 			color={ 244 141 120 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 233 # Genoa
 			
@@ -11267,6 +11358,7 @@ e_italy = {
 		d_modena = {
 			color={ 225 180 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 322 # Modena
 			
@@ -11316,6 +11408,7 @@ e_italy = {
 		d_toscana = {
 			color = { 222 186 25 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 328 # Firenze
 			
@@ -11422,6 +11515,7 @@ e_italy = {
 		d_pisa = {
 			color={ 196 192 140 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 327 # Pisa
 			
@@ -11483,7 +11577,8 @@ e_italy = {
 		}
 		
 		d_venice = {
-			color = { 34 137 126 }allow = { always = no }
+			color = { 34 137 126 }primary = no
+			allow = { always = no }
 			capital = 356 # Venice
 			
 			dignity = 10
@@ -11535,6 +11630,7 @@ e_italy = {
 			#catalan = "Sardenya"
 			#greek = "Sardhnia"
 			#italian = "Sardegna"
+			primary = no
 			allow = { always = no }
 			capital = 326 # Cagliari
 		
@@ -11675,6 +11771,7 @@ e_italy = {
 		d_corsica = {
 			color={ 210 233 278 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 324 # Corsica
 			
@@ -11777,6 +11874,7 @@ e_scandinavia = {
 		d_gotland = {
 			color = { 170 25 25 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 301 # Gotland
 			
@@ -11832,6 +11930,7 @@ e_scandinavia = {
 			norse_pagan_reformed = 500 # Crusade target weight
 			
 			dignity = 8
+			primary = no
 			allow = { always = no }
 			capital = 290 # Uppland
 			
@@ -11972,6 +12071,7 @@ e_scandinavia = {
 		d_ostergotland = {
 			color={ 44 20 169 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1701 # Vista
 			
@@ -12075,7 +12175,8 @@ e_scandinavia = {
 		}
 		d_vastergotland = {
 			color={ 46 30 205 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 297 # Västergötland
 			
 			swedish = "Västergötland"
@@ -12217,6 +12318,7 @@ e_scandinavia = {
 		d_norrland = {
 			color={ 50 50 160 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 285 # Hälsingland
 
@@ -12308,7 +12410,8 @@ e_scandinavia = {
 		}
 		d_bergslagen = { 
 			color={ 60 60 200 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 289 # Västmanland
 			
 			c_dalarna = {
@@ -12398,7 +12501,8 @@ e_scandinavia = {
 		}
 		d_smaland = {
 			color={ 60 40 255 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 931 # Möre
 			
 			norse = "Smáland"
@@ -12521,6 +12625,7 @@ e_scandinavia = {
 		d_tioharad = {
 			color={ 30 70 225 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 291 # Värend
 			
@@ -12625,7 +12730,8 @@ e_scandinavia = {
 		d_skane = {
 			color={ 210 2 2 }
 			color2={ 255 255 255 }
-		allow = { always = no }
+		primary = no
+			allow = { always = no }
 			capital = 303 # Skåne
 			
 			swedish = Skåne
@@ -12743,7 +12849,8 @@ e_scandinavia = {
 		}
 		d_sjaelland = {
 			color={ 206 57 57 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 266 # Sjaelland
 			
 			dignity = 8
@@ -12839,6 +12946,7 @@ e_scandinavia = {
 		d_slesvig = { # Jylland
 			color={ 224 74 74 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1684 # Åbosyssel
 						
@@ -12922,7 +13030,8 @@ e_scandinavia = {
 		d_holstein = {
 			color={ 172 112 112 }
 			color2={ 255 255 255 }
-		allow = { always = no }
+		primary = no
+			allow = { always = no }
 			capital = 263 #Holstein
 
 			old_saxon = Albingia
@@ -13030,6 +13139,7 @@ e_scandinavia = {
 		d_iceland = {
 			color={ 195 190 255 }
 			color2={ 220 220 220 }
+			primary = no
 			allow = { always = no }
 			capital = 1 # Vestisland
 			
@@ -13132,6 +13242,7 @@ e_scandinavia = {
 		d_orkney = {
 			color={ 106 140 225 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 36 # Orkney
 			
@@ -13324,7 +13435,8 @@ e_scandinavia = {
 		d_agder = {
 			color = { 140 100 200 }
 			color2 = { 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 268
 
 			norse = "Egðafylki"
@@ -13402,6 +13514,7 @@ allow = { always = no }
 		d_vestlandet = {
 			color={ 120 160 245 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 274 # Bergenhus
 			
@@ -13517,7 +13630,8 @@ allow = { always = no }
 		d_oppland = {
 			color={ 100 125 220 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 273
 
 			c_oppland = {
@@ -13610,6 +13724,7 @@ allow = { always = no }
 		d_ostlandet = {
 			color={ 80 120 215 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 272 # Akershus
 			
@@ -13700,6 +13815,7 @@ allow = { always = no }
 			#color={ 144 130 205 }
 			color={ 40 160 255 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 275 # Trondelag
 			
@@ -13784,6 +13900,7 @@ allow = { always = no }
 		d_jamtland = {
 			color={ 45 85 245 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 282 # Jamtland
 			
@@ -13875,6 +13992,7 @@ allow = { always = no }
 		d_karelia = {
 			color={ 155 135 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 388 # Karjala
 			
@@ -14057,6 +14175,7 @@ allow = { always = no }
 		d_finland = {
 			color={ 131 108 26 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 382 # Suomi
 			
@@ -14269,6 +14388,7 @@ allow = { always = no }
 		d_ostrobothnia = {		#New with HF
 			color={ 145 58 58 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 385 # Osterbotten
 			
@@ -14395,6 +14515,7 @@ allow = { always = no }
 		d_savonia = {		#New with HF
 			color={ 110 5 5 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 390 # Savolaks
 			
@@ -14558,6 +14679,7 @@ allow = { always = no }
 		d_sapmi = {
 			color={ 231 64 32 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 280 # Västerbotten
 			
@@ -14631,6 +14753,7 @@ allow = { always = no }
 		d_finnmark = {
 			color={ 200 80 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 391 # Nordland
 			
@@ -14684,7 +14807,8 @@ allow = { always = no }
 		
 		d_kola = {
 			color={ 230 70 15 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 386 # Kemi
 	
 			culture = lappish
@@ -14799,6 +14923,7 @@ allow = { always = no }
 		d_esthonia = {
 			color={ 150 75 75 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 378 # Kalevan
 			
@@ -14954,6 +15079,7 @@ allow = { always = no }
 		d_sakala = {		#New with HF
 			color={ 140 60 60 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 375 # Lettigaliens = Liivimaa
 			
@@ -15138,6 +15264,7 @@ e_wendish_empire = {
 		d_mazovia = {
 			color={ 125 46 36 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 529 # Plock
 			
@@ -15225,6 +15352,7 @@ e_wendish_empire = {
 		d_greater_poland = { 
 			color={ 140 13 13 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 431 # Poznanskie
 		
@@ -15337,6 +15465,7 @@ e_wendish_empire = {
 		d_silesia = {
 			color={ 169 35 75 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 435 # Upper Silesia
 		
@@ -15477,6 +15606,7 @@ e_wendish_empire = {
 		d_lesser_poland = { 
 			color={ 245 163 176 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 527 # Krakowskie
 
@@ -15601,6 +15731,7 @@ e_wendish_empire = {
 		d_kuyavia = { 
 			color={ 115 30 50 }		
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 428 # Kujawy
 		
@@ -15719,7 +15850,8 @@ e_wendish_empire = {
 		d_lausitz = {
 			color={ 160 135 145 }
 			color2={ 220 220 20 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 364 # Lausitz
 
 			c_lausitz = {
@@ -15801,6 +15933,7 @@ allow = { always = no }
 		d_mecklemburg = {
 			color={ 162 160 110 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 260 #mecklemburg
 			
@@ -15915,7 +16048,8 @@ allow = { always = no }
 		d_rugen = {
 			color= { 100 120 82 }
 			color2= { 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 304 #Rugen
 
 			pommeranian = Rana
@@ -16007,6 +16141,7 @@ allow = { always = no }
 		d_pommerania = {
 			color={ 111 143 51 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 366 # Stettin
 		
@@ -16087,6 +16222,7 @@ allow = { always = no }
 		d_pomeralia = {
 			color={ 95 135 77 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 368 # Danzig
 		
@@ -16189,6 +16325,7 @@ allow = { always = no }
 		d_brandenburg = {
 			color={ 121 121 121 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 365 #Brandenburg
 
@@ -16242,6 +16379,7 @@ allow = { always = no }
 		d_meissen = {
 			color={ 182 188 181 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 312 #Meissen
 
@@ -16318,6 +16456,7 @@ allow = { always = no }
 		d_prussia = {
 			color={ 200 100 100 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 370 # Marienburg
 			
@@ -16449,6 +16588,7 @@ allow = { always = no }
 		d_lithuanians = {
 			color={ 81 0 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 420 # Aukshayts
 			
@@ -16584,6 +16724,7 @@ allow = { always = no }
 		d_courland = { 
 			color={ 182 16 16 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 373 # Kurzeme
 			
@@ -16644,6 +16785,7 @@ allow = { always = no }
 		d_samogitia = {
 			color={ 150 70 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 421 # Samogitia
 			
@@ -16719,6 +16861,7 @@ allow = { always = no }
 		
 			color={ 165 70 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1594 # Jersika
 			
@@ -16838,6 +16981,7 @@ allow = { always = no }
 		d_livonia = {
 			color={ 110 50 50 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 375 # Liivimaa
 			
@@ -16948,6 +17092,7 @@ allow = { always = no }
 		d_yatviags = {
 			color={ 149 97 97 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 424 # Grodno
 			
@@ -17422,6 +17567,7 @@ e_russia = {
 		d_volhynia = {
 			color={ 204 155 121 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 535 # Vladimir Volynsky
 			
@@ -17532,6 +17678,7 @@ e_russia = {
 		d_galich = {
 			color={ 224 112 130 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 536 # Galich
 			
@@ -17644,6 +17791,7 @@ e_russia = {
 		d_cherven_cities = {
 			color={ 224 70 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1635 # Cherven
 			
@@ -17749,7 +17897,8 @@ e_russia = {
 			color={ 129 187 125 }
 			color2={ 255 255 255 }
 			
-			dignity = 10 # Counted as having 10 more counties than it doesallow = { always = no }
+			dignity = 10 # Counted as having 10 more counties than it doesprimary = no
+			allow = { always = no }
 			capital = 547 # Kiev
 			
 			norse = Könugarðr
@@ -17875,6 +18024,7 @@ e_russia = {
 		d_turov = {
 			color={ 132 160 94 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 552 # Turov
 			
@@ -17961,6 +18111,7 @@ e_russia = {
 		d_minsk = {
 			color={ 110 110 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 550 # Minsk
 			
@@ -18039,6 +18190,7 @@ e_russia = {
 		d_polotsk = {
 			color = { 128 133 104 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 419 # Polotsk
 			
@@ -18135,6 +18287,7 @@ e_russia = {
 		d_smolensk = {
 			color={ 226 241 182 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 568 # Smolensk
 			
@@ -18249,6 +18402,7 @@ e_russia = {
 		d_pereyaslavl = {
 			color={ 60 120 65 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 555 # Pereyaslavl
 		
@@ -18356,6 +18510,7 @@ e_russia = {
 		d_chernigov = {
 			color={ 150 235 91 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 554 # Chernigov
 			
@@ -18445,6 +18600,7 @@ e_russia = {
 		d_novgorod-seversk = { # Called Bryansk in-game
 			color = { 120 155 40 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 576 # Bryansk   
 	
@@ -18532,6 +18688,7 @@ e_russia = {
 		d_ryazan = {
 			color={ 90 95 25 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 580 # Ryazan
 			
@@ -18621,6 +18778,7 @@ e_russia = {
 		d_murom = {
 			color={ 100 130 50 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 581 # Murom
 			
@@ -18675,6 +18833,7 @@ e_russia = {
 		d_karachev = {
 			color={ 165 180 65 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1666 # Karachev
 		
@@ -18720,6 +18879,7 @@ e_russia = {
 		d_novosil = {
 			color={ 115 130 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1634 # Novosil		
 		
@@ -18811,6 +18971,7 @@ e_russia = {
 		d_beloozero = {		#Veps
 			color={ 120 155 80 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 412 # Torzhok
 			
@@ -18915,6 +19076,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			dignity = 10
+			primary = no
 			allow = { always = no }
 			capital = 414 # Novgorod
 			
@@ -19061,6 +19223,7 @@ e_russia = {
 		d_pskov = {
 			color={ 140 130 62 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 413 # Pskov
 			
@@ -19228,6 +19391,7 @@ e_russia = {
 		d_vladimir = {
 			color={ 180 200 90 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 582 # Vladimir
 			
@@ -19394,6 +19558,7 @@ e_russia = {
 		d_moskva = {
 			color={ 207 222 123 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 575 # Moskva
 			
@@ -19447,6 +19612,7 @@ e_russia = {
 		d_yaroslavl = {		#Vologda
 			color={ 178 192 134 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 572 # Yaroslavl
 			
@@ -19517,6 +19683,7 @@ e_russia = {
 		d_rostov = {
 			color={ 124 137 89 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 574 # Rostov
 			
@@ -19627,6 +19794,7 @@ e_russia = {
 		d_tver = {
 			color={ 169 183 125 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 570 # Tver
 			
@@ -19785,7 +19953,8 @@ e_pontic_steppe = {
 		
 		d_aqtobe = {
 			color={ 140 140 40 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 896 # Aqtobe
 
 			c_inder = {
@@ -19857,7 +20026,8 @@ e_pontic_steppe = {
 		d_sakmara = {
 			color={ 130 120 50 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1848 # Sakmara 
 
 			c_sakmara = {
@@ -19889,6 +20059,7 @@ allow = { always = no }
 		d_itil = {
 			color={ 151 118 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 620 # Itil
 
@@ -19987,7 +20158,8 @@ allow = { always = no }
 			color2={ 255 255 255 }
 
 			pecheneg = "Pecheneg"
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 616 # Bandja/Pecheneg
 
 			c_pecheneg = {
@@ -20047,7 +20219,8 @@ allow = { always = no }
 		d_atyrau = {
 			color={ 200 175 75 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 618 # Atyrau
 
 			c_guryev = { # Atyrau
@@ -20088,6 +20261,7 @@ allow = { always = no }
 		d_sarkel = {
 			color={ 236 200 105 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 594 # Sarkel
 		
@@ -20243,6 +20417,7 @@ allow = { always = no }
 		d_crimea = {
 			color={ 210 160 80 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 559 # Crimea
 		
@@ -20337,6 +20512,7 @@ allow = { always = no }
 		d_cherson = {
 			color={ 180 180 90 }
 			color2={ 255 255 20 }
+			primary = no
 			allow = { always = no }
 			capital = 560 # Cherson
 
@@ -20430,6 +20606,7 @@ allow = { always = no }
 		d_wild_fields = {
 			color={ 125 80 18 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1646 # Odessa
 						
@@ -20571,6 +20748,7 @@ allow = { always = no }
 		d_alania = {
 			color={ 155 110 48 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 603 # Alania
 		
@@ -20641,7 +20819,8 @@ allow = { always = no }
 		d_caspian_steppe = {
 			color={ 155 130 78 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 604 # Kuma
 
 			short_name = yes
@@ -20713,6 +20892,7 @@ allow = { always = no }
 		d_azov = {
 			color={ 218 179 130 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 597 # Azov
 		
@@ -20804,6 +20984,7 @@ allow = { always = no }
 		d_derbent = {
 			color={ 203 76 76 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 674 # Derbent
 
@@ -20912,7 +21093,8 @@ e_tartaria = {
 		
 		d_beshbaliq = {
 			color={ 135 162 240 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1452 # Beshbaliq
 
 			uyghur = "Beshbalik"
@@ -20980,6 +21162,7 @@ allow = { always = no }
 		}
 		d_altay = {
 			color = { 220 220 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1895 # Belukha
 			
@@ -21048,7 +21231,8 @@ allow = { always = no }
 		}
 		d_abakan = {
 			color={ 215 175 240 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1899 # Abakan
 
 			c_abakan = {
@@ -21105,6 +21289,7 @@ allow = { always = no }
 		}
 		d_otuken = {
 			color = { 110 150 220 }
+			primary = no
 			allow = { always = no }
 			capital = 1461 # Ötüken
 			
@@ -21184,7 +21369,8 @@ allow = { always = no }
 		}
 		d_uvs = {
 			color={ 140 140 250 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1906 # Uvs
 
 			c_uvs = {
@@ -21252,6 +21438,7 @@ allow = { always = no }
 		}
 		d_khangai = {
 			color = { 100 120 240 }
+			primary = no
 			allow = { always = no }
 			capital = 1458 # Khangai
 			
@@ -21319,7 +21506,8 @@ allow = { always = no }
 		}
 		d_kara_khorum = {
 			color={ 90 213 240 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1457 # Kara-khorum
 
 			c_kara_khorum = {
@@ -21371,7 +21559,8 @@ allow = { always = no }
 		}
 		d_baygal = {
 			color={ 70 100 200 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1460 # Baygal
 
 			c_baygal = {
@@ -21440,6 +21629,7 @@ allow = { always = no }
 		}
 		d_ikh_bogd = {
 			color = { 130 120 240 }
+			primary = no
 			allow = { always = no }
 			capital = 1456 # Ikh Bogd
 			
@@ -21498,7 +21688,8 @@ allow = { always = no }
 		}
 		d_gobi_altay = {
 			color = { 65 65 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1455 # Zavkhan (Old Tsagaannuur)
 
 			c_tsagaannuur = {
@@ -21555,7 +21746,8 @@ allow = { always = no }
 		}
 		d_barkul = {
 			color = { 140 80 230 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1516 # Barkul
 
 			c_barkul = {
@@ -21599,7 +21791,8 @@ allow = { always = no }
 		}
 		d_juyan = {
 			color = { 120 160 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1919 # Juyan
 
 			c_juyan = {
@@ -21659,6 +21852,7 @@ allow = { always = no }
 		d_yaik = {
 			color={ 198 150 11 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 895 # Yaik
 		
@@ -21710,7 +21904,8 @@ allow = { always = no }
 		d_turgay = {
 			color={ 150 90 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1273 # Turgay
 
 			c_turgay = {
@@ -21756,7 +21951,8 @@ allow = { always = no }
 		d_kazakh = {
 			color={ 120 70 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1433 # Kazakh
 
 			c_kazakh = {
@@ -21828,7 +22024,8 @@ allow = { always = no }
 		d_ob = {
 			color={ 140 130 50 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1873 # Ob
 
 			c_ob = {
@@ -21896,7 +22093,8 @@ allow = { always = no }
 		d_tarbagatai = {
 			color={ 170 100 100 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1876 # Tarbagatai
 
 			c_tarbagatai = {
@@ -21953,7 +22151,8 @@ allow = { always = no }
 		d_irtysh = {
 			color={ 150 100 50 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1132 # Irtysh
 
 			c_kirghiz = {
@@ -21986,7 +22185,8 @@ allow = { always = no }
 		d_ishim = {
 			color={ 210 170 60 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1223 # Ishim
 
 			c_kipchak = {
@@ -22032,7 +22232,8 @@ allow = { always = no }
 		d_ubagan = {
 			color={ 220 180 70 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1856 # Ubagan
 
 			c_ubagan = {
@@ -22071,6 +22272,7 @@ allow = { always = no }
 		d_sibir = {
 			color={ 210 185 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 891 # Tyumen
 		
@@ -22140,7 +22342,8 @@ allow = { always = no }
 		d_tobol = {
 			color={ 230 230 150 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 898 # Tobol
 
 			c_tobol = {
@@ -22217,6 +22420,7 @@ allow = { always = no }
 		d_yugra = {
 			color={ 250 250 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 892 # Mansia
 			
@@ -22287,7 +22491,8 @@ allow = { always = no }
 		d_om = {
 			color={ 240 240 150 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1861 # Om
 
 			c_om = {
@@ -22330,7 +22535,8 @@ allow = { always = no }
 		d_vasyugan = {
 			color={ 220 220 120 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1860 # Vasyugan
 
 			c_vasyugan = {
@@ -22417,6 +22623,7 @@ e_idel_ural = {
 	
 		d_maris = {
 			color = { 150 132 110 }
+			primary = no
 			allow = { always = no }
 			capital = 588 # Mari
 			
@@ -22488,6 +22695,7 @@ e_idel_ural = {
 		d_bulgar = {
 			color={ 110 90 67 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 610 # Bulgar
 		
@@ -22596,6 +22804,7 @@ e_idel_ural = {
 		d_kazan = {
 			color = { 89 62 30 }
 			color2 = { 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 611 # Kazan
 			
@@ -22702,6 +22911,7 @@ e_idel_ural = {
 		d_cheremisa = {
 			color={ 99 102 49 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 591 # Cheremisa
 	
@@ -22768,7 +22978,8 @@ e_idel_ural = {
 		d_mordvins = {
 			color = { 15 64 33 }
 			color2={ 255 255 255 }
-	allow = { always = no }
+	primary = no
+			allow = { always = no }
 			capital = 579 # Mordva
 	
 			culture = mordvin
@@ -22863,6 +23074,7 @@ e_idel_ural = {
 		d_perm = {
 			color={ 234 208 137 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 886 # Perm
 		
@@ -22977,7 +23189,8 @@ e_idel_ural = {
 		d_ural = {
 			color={ 246 240 180 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 889 # Ural
 
 			c_ural = {
@@ -23027,7 +23240,8 @@ allow = { always = no }
 		d_votyaki = {
 			color={ 197 162 67 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 612 # Votyaki
 
 			c_votyaki = {
@@ -23067,7 +23281,8 @@ allow = { always = no }
 		d_bashkirs = {
 			color={ 220 220 150 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 615 # Bashkirs
 
 			c_bashkirs = {
@@ -23107,7 +23322,8 @@ allow = { always = no }
 		d_ustug = {
 			color={ 140 130 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 402 # Veliky Ustug
 
 			c_veliky_ustug = {
@@ -23172,7 +23388,8 @@ allow = { always = no }
 		d_komi = {
 			color={ 200 180 140 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1827 # Lyzha
 
 			c_lyzha = {
@@ -23239,7 +23456,8 @@ allow = { always = no }
 		d_zyriane = {
 			color={ 184 192 140 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1838 # Vychegda
 
 			c_vychegda = {
@@ -23298,6 +23516,7 @@ allow = { always = no }
 		d_bjarmia = {
 			color = { 95 50 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 396 # Bjarmia
 			
@@ -23365,7 +23584,8 @@ allow = { always = no }
 		d_samoyed = {
 			color={ 100 115 55 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 397
 
 			c_samoyeds = {
@@ -23436,7 +23656,8 @@ allow = { always = no }
 		d_kargopol = {
 			color={ 100 40 10 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1819 # Kargopol
 
 			c_kargopol = {
@@ -23501,6 +23722,7 @@ allow = { always = no }
 		d_hlynov = { # Ugra
 			color={ 134 145 31 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1826 # Ugra
 			
@@ -23562,7 +23784,8 @@ allow = { always = no }
 		d_zavarot = {
 			color={ 210 150 120 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1828 # Zavarot
 
 			c_zavarot = {
@@ -23605,7 +23828,8 @@ allow = { always = no }
 		d_pechora = {
 			color={ 180 110 80 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1832 # Tobysh
 
 			c_koshma = {
@@ -23677,6 +23901,7 @@ e_turkestan = {
 		d_turkestan = {
 			color={ 224 170 24 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 622 # Turkestan
 			
@@ -23728,7 +23953,8 @@ e_turkestan = {
 		d_usturt = {
 			color={ 180 120 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 625 # Usturt
 
 			c_usturt = {
@@ -23813,6 +24039,7 @@ allow = { always = no }
 		d_syr_darya = {
 			color= { 145 115 40 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1794 # Syr Darya
 			
@@ -23884,7 +24111,8 @@ allow = { always = no }
 		d_emba = {
 			color={ 200 140 5 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1793 # Emba Steppes
 
 			c_emba = {
@@ -23930,7 +24158,8 @@ allow = { always = no }
 		d_chuy = {
 			color={ 165 155 55 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1424 # Chuy
 
 			c_chuy = {
@@ -23977,6 +24206,7 @@ allow = { always = no }
 		d_zhetysu = {
 			color= { 175 165 60 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1797 # Almaty
 			
@@ -24022,7 +24252,8 @@ allow = { always = no }
 		d_ili = {
 			color={ 145 165 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1425 # Ili
 
 			c_ili = {
@@ -24076,6 +24307,7 @@ allow = { always = no }
 		
 		d_kashgar = {
 			color={ 216 195 104 }
+			primary = no
 			allow = { always = no }
 			capital = 1439 # Kashgar
 			
@@ -24191,6 +24423,7 @@ allow = { always = no }
 		}
 		d_kumul = {
 			color={ 235 208 59 }
+			primary = no
 			allow = { always = no }
 			capital = 1450 # Kumul
 			
@@ -24329,6 +24562,7 @@ allow = { always = no }
 		}
 		d_khotan = {
 			color={ 216 184 43 }
+			primary = no
 			allow = { always = no }
 			capital = 1440 # Khotan
 			
@@ -24476,6 +24710,7 @@ allow = { always = no }
 		}
 		d_karashar = {
 			color={ 170 130 0 }
+			primary = no
 			allow = { always = no }
 			capital = 1443 # Karashar
 			
@@ -24654,6 +24889,7 @@ allow = { always = no }
 		d_khiva = {
 			color={ 185 210 142 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 626 # Khiva
 			
@@ -24737,6 +24973,7 @@ allow = { always = no }
 		d_samarkand = {
 			color={ 155 170 132 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 903 # Samarkand
 			
@@ -24818,6 +25055,7 @@ allow = { always = no }
 		d_khuttal = {
 			color={ 175 160 90 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1188 # Khuttal
 			
@@ -24879,6 +25117,7 @@ allow = { always = no }
 		d_ferghana = {
 			color={ 90 171 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1423 # Fergana
 			
@@ -24962,6 +25201,7 @@ e_persia = {
 		d_mafaza = {
 			color={ 142 176 84 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 636 # Mafaza/Lut
 			
@@ -25011,6 +25251,7 @@ e_persia = {
 		d_kerman = {
 			color={ 98 118 63 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 639 # Kerman
 			
@@ -25124,6 +25365,7 @@ e_persia = {
 		d_fars = {
 			color={ 89 128 22 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 643 # Fars
 			
@@ -25238,6 +25480,7 @@ e_persia = {
 		d_khozistan = {
 			color={ 120 144 28 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 648
 			
@@ -25313,6 +25556,7 @@ e_persia = {
 		d_jibal = {
 			color={ 184 225 112 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 646 #	Esfahan
 			
@@ -25448,6 +25692,7 @@ e_persia = {
 		d_kurdistan = {
 			color={ 124 232 67 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 686 #Kurdistan
 			
@@ -25513,6 +25758,7 @@ e_persia = {
 		d_baluchistan = { # Makran
 			color={ 150 170 118 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1139 # Makran
 			
@@ -25625,6 +25871,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			saka = "Sakastan"
+			primary = no
 			allow = { always = no }
 			capital = 1183 # Bost
 			
@@ -25728,6 +25975,7 @@ e_persia = {
 		d_kabul = {
 			color={ 125 68 23 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1185 # Kabul
 			
@@ -25803,6 +26051,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			saka = "Seyanish"
+			primary = no
 			allow = { always = no }
 			capital = 1182 # Ghazna
 			
@@ -25886,6 +26135,7 @@ e_persia = {
 		d_mosul = {
 			color={ 11 205 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 697 # Mosul
 			
@@ -25983,6 +26233,7 @@ e_persia = {
 		d_jazira = {
 			color={ 95 180 35 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 700 # Bira
 			
@@ -26032,6 +26283,7 @@ e_persia = {
 		d_mudar = {
 			color={ 95 180 35 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 712 # Rahbah
 			
@@ -26124,6 +26376,7 @@ e_persia = {
 		d_baghdad = {
 			color={ 6 100 2 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 693 # Baghdad
 			
@@ -26272,6 +26525,7 @@ e_persia = {
 		d_samarra = {
 			color={ 110 190 80 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 696 # Samarra/c_euphrates
 			
@@ -26345,6 +26599,7 @@ e_persia = {
 		d_basra = {
 			color={ 6 150 2 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 649 # Basra
 			
@@ -26437,6 +26692,7 @@ e_persia = {
 		d_gilan = {
 			color={ 65 90 137 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 666 # Gilan
 			
@@ -26504,6 +26760,7 @@ e_persia = {
 		d_mazandaran = { # Tabaristan
 			color={ 92 155 187 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 662 # Mazandaran
 			
@@ -26597,6 +26854,7 @@ e_persia = {
 		d_tabriz = {
 			color={ 76 103 200 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 667 # Gilan
 			
@@ -26642,6 +26900,7 @@ e_persia = {
 		d_azerbaijan = {
 			color={ 112 120 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 670 # Azerbaijan
 			
@@ -26739,6 +26998,7 @@ e_persia = {
 		d_dihistan = {
 			color={ 153 160 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 631 # Dihistan
 			
@@ -26806,6 +27066,7 @@ e_persia = {
 		d_khorasan = {
 			color={ 99 150 9 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 634 # Nishapur
 			
@@ -26905,6 +27166,7 @@ e_persia = {
 		d_herat = {
 			color = { 175 234 82 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 905 # Herat
 			
@@ -26990,6 +27252,7 @@ e_persia = {
 		d_merv = {
 			color={ 163 241 28 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 630 # Merv
 			
@@ -27077,6 +27340,7 @@ e_persia = {
 		d_balkh = {
 			color={ 171 215 108 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 904 # Balkh
 			
@@ -27193,6 +27457,7 @@ e_carpathia = {
 		d_wallachia = {		#Muntenia
 			color={ 238 192 69 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 515 # Tirgoviste
 			
@@ -27277,6 +27542,7 @@ e_carpathia = {
 		d_oltenia = {
 			color={ 238 150 50 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1643 # Craiova
 			
@@ -27342,6 +27608,7 @@ e_carpathia = {
 		d_moldau = {
 			color={ 223 202 145 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 545 # Torki
 			
@@ -27428,6 +27695,7 @@ e_carpathia = {
 		d_bessarabia = {
 			color={ 190 202 175 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1640 # Chilia
 			
@@ -27551,6 +27819,7 @@ e_carpathia = {
 		d_pecs = {
 			color={ 155 25 65 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 452 # Pecs
 			
@@ -27754,6 +28023,7 @@ e_carpathia = {
 		d_esztergom = {
 			color={ 230 55 55 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 444 # Esztergom
 
@@ -27914,6 +28184,7 @@ e_carpathia = {
 		d_nyitra = {
 			color={ 190 21 21 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 443 # Nitra
 
@@ -28155,6 +28426,7 @@ e_carpathia = {
 		d_ungvar = {
 			color={ 156 15 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 538 # Abauj
 			
@@ -28355,6 +28627,7 @@ e_carpathia = {
 		d_pest = {
 			color={ 150 51 51 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 522 # Pest
 			
@@ -28461,6 +28734,7 @@ e_carpathia = {
 		d_transylvania = {
 			color={ 255 150 150 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 519 # Feher
 			
@@ -28546,6 +28820,7 @@ e_carpathia = {
 		d_temes = {
 			color={ 147 121 58 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 517 # Temes
 
@@ -28654,6 +28929,7 @@ e_france = {
 		d_berry = {
 			color={ 24 52 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 140 # Tours
 			
@@ -28720,6 +28996,7 @@ e_france = {
 		d_anjou = {
 			color={ 43 24 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 107 # Anjou
 			
@@ -28824,6 +29101,7 @@ e_france = {
 		d_flanders = {
 			color={ 255 120 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 78
 			
@@ -28959,6 +29237,7 @@ e_france = {
 		d_normandy = {
 			color={ 71 24 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 97 # Rouen
 			
@@ -29086,6 +29365,7 @@ e_france = {
 		d_orleans = {
 			color={ 126 124 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 110 # Blois
 			
@@ -29152,6 +29432,7 @@ e_france = {
 		d_champagne = {
 			color={ 95 24 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 114 # Reims
 			
@@ -29218,6 +29499,7 @@ e_france = {
 		d_picardie = {
 			color={ 15 101 188 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 95 # Amiens
 			
@@ -29301,7 +29583,8 @@ e_france = {
 		}
 		d_valois = {
 			color={ 35 141 208 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 112 # Ile de France
 
 			c_ile_de_france = {
@@ -29390,7 +29673,8 @@ e_france = {
 		d_burgundy = {
 			# French, or Lower Burgundy
 			color={ 153 67 108 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 136 # Dijon
 			
 			c_chalons = {
@@ -29563,7 +29847,8 @@ e_france = {
 		d_aquitaine = {
 			color={ 54 10 243 }
 			color2={ 255 255 255 }
-			dignity = 10 # Counted as having 10 more counties than it doesallow = { always = no }
+			dignity = 10 # Counted as having 10 more counties than it doesprimary = no
+			allow = { always = no }
 			capital = 149 # Bordaeux
 			
 			culture = occitan
@@ -29656,6 +29941,7 @@ e_france = {
 		d_toulouse = {
 			color={ 10 16 243 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 214 # Toulouse
 			
@@ -29791,6 +30077,7 @@ e_france = {
 		d_gascogne = {
 			color={ 81 30 243 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 209 # Armagnac
 			
@@ -29884,6 +30171,7 @@ e_france = {
 		d_poitou = {
 			color={ 24 95 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 141 # Poitiers
 			
@@ -29977,6 +30265,7 @@ e_france = {
 		d_auvergne = {
 			color={ 24 171 226 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 217 # Auvergne
 			
@@ -30045,6 +30334,7 @@ e_france = {
 		d_bourbon = {
 			color={ 74 133 186 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 146 # Bourbon
 			
@@ -30141,6 +30431,7 @@ e_france = {
 		d_loire = {	
 			color = { 140 20 5 }
 			color2 = {255 255 255}
+			primary = no
 			allow = { always = no }
 			capital = 106 # Nantes
 			
@@ -30235,6 +30526,7 @@ e_france = {
 		d_brittany = {
 			color={ 159 75 34 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 104 # Cornouaille
 			
@@ -30348,6 +30640,7 @@ e_france = {
 		d_penthievre = {
 			color={ 170 54 26 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 104 # Penthievre
 			
@@ -30425,6 +30718,7 @@ e_france = {
 		d_provence = {
 			color={ 145 37 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 221 # Provence
 			
@@ -30514,6 +30808,7 @@ e_france = {
 		d_savoie = {
 			color={ 101 8 34 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 237 # Savoie
 			
@@ -30625,6 +30920,7 @@ e_france = {
 		d_dauphine = {
 			color={ 87 29 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 227 # Lyon
 
@@ -30721,7 +31017,8 @@ e_france = {
 		d_franche_comte = {
 			color={ 115 34 45 }
 			color2= { 80 80 200 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 135 #Besancon
 
 			c_besancon = {
@@ -30837,6 +31134,7 @@ allow = { always = no }
 		d_upper_burgundy = {
 			color={ 159 40 10 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 244 # Bourgogne
 			
@@ -31077,6 +31375,7 @@ e_spain = {
 		d_badajoz = {
 			color = { 138 243 51 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 184 # Badajoz
 
@@ -31180,6 +31479,7 @@ e_spain = {
 		d_beja = {
 			color = { 182 98 5 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 185 # Mertola
 			
@@ -31245,6 +31545,7 @@ e_spain = {
 		d_algarve = {
 			color = { 202 88 5 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 163 # Faro
 			
@@ -31300,7 +31601,8 @@ e_spain = {
 		d_balata = {
 			color = { 193 81 5 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 160 # Lisboa
 
 			bedouin_arabic = "Balata"
@@ -31364,6 +31666,7 @@ allow = { always = no }
 		d_valencia = {
 			color = { 48 167 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 171 # Valencia
 			
@@ -31456,6 +31759,7 @@ allow = { always = no }
 		d_murcia = {
 			color = { 16 229 33 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 169 # Murcia
 			
@@ -31549,6 +31853,7 @@ allow = { always = no }
 		d_castilla = {
 			color = { 242 196 12 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 199 # Burgos
 			
@@ -31684,6 +31989,7 @@ allow = { always = no }
 		d_aragon = {
 			color = { 160 90 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 202 # Zaragoza
 			
@@ -31786,6 +32092,7 @@ allow = { always = no }
 		d_barcelona = {
 			color = { 166 100 72 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 204 # Barcelona
 			
@@ -31958,6 +32265,7 @@ allow = { always = no }
 		d_mallorca = {
 			color = { 68 126 72 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 827 # Mallorca
 			
@@ -32052,6 +32360,7 @@ allow = { always = no }
 		d_navarra = {
 			color = { 230 198 90 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 152 # Navarra
 			
@@ -32152,6 +32461,7 @@ allow = { always = no }
 		d_asturias = {
 			color = { 233 188 91 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 155 # Asturias
 			
@@ -32201,6 +32511,7 @@ allow = { always = no }
 		d_leon = {
 			color = { 253 158 51 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 190 # Leon
 			
@@ -32313,6 +32624,7 @@ allow = { always = no }
 		d_galicia = {
 			color={ 255 224 94 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 156 # Coruna
 			
@@ -32407,6 +32719,7 @@ allow = { always = no }
 		d_porto = {
 			color = { 182 108 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 158 # porto
 			
@@ -32533,6 +32846,7 @@ allow = { always = no }
 		d_cordoba = {
 			color = { 60 180 12 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 181 # Cordoba
 			
@@ -32628,6 +32942,7 @@ allow = { always = no }
 		d_granada = {
 			color = { 40 150 40 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 180 # Granada
 			
@@ -32696,6 +33011,7 @@ allow = { always = no }
 		d_sevilla = {
 			color = { 150 218 21 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 182 # Sevilla
 			
@@ -32811,6 +33127,7 @@ allow = { always = no }
 		d_toledo = {
 			color = { 212 151 12 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 197 # Toledo
 			
@@ -32964,6 +33281,7 @@ e_arabia = {
 		d_arabia_petrae = {
 			color={ 121 196 2 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 783 # Maan
 			
@@ -33118,6 +33436,7 @@ e_arabia = {
 		d_medina = {
 			color={ 150 249 43 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 719 # Mecca
 			
@@ -33255,6 +33574,7 @@ e_arabia = {
 		d_oman = {
 			color={ 93 196 2 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 868 # Muscat
 		
@@ -33348,6 +33668,7 @@ e_arabia = {
 		d_nefoud = {
 			color={ 17 228 10 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 863 # Hajr
 			
@@ -33458,6 +33779,7 @@ e_arabia = {
 		d_amman = { # Al Bahrain
 			color = { 32 127 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 652 # Al Hasa
 			
@@ -33588,6 +33910,7 @@ e_arabia = {
 		d_sanaa = {
 			color={ 215 180 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 860 # Sanaa
 			
@@ -33654,6 +33977,7 @@ e_arabia = {
 		d_taizz = {
 			color={ 195 220 40 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 859 # Taizz
 			
@@ -33743,6 +34067,7 @@ e_arabia = {
 		d_socotra = {
 			color={ 142 255 85 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1369 # Socotra
 			
@@ -33771,6 +34096,7 @@ e_arabia = {
 		d_hadramut = {
 			color={ 206 190 55 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 856 # Hadramawt
 			
@@ -33877,6 +34203,7 @@ e_arabia = {
 		d_alexandria = {
 			color={ 100 219 134 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 802 # Alexandria
 			
@@ -34033,6 +34360,7 @@ e_arabia = {
 		d_damietta = {
 			color={ 3 255 74 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 798 # Damietta
 			
@@ -34129,6 +34457,7 @@ e_arabia = {
 		d_cairo = {
 			color={ 20 232 115 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 796 # Cairo
 			
@@ -34256,6 +34585,7 @@ e_arabia = {
 		d_aswan = {
 			color={ 41 188 120 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 794 # Aswan
 			
@@ -34329,6 +34659,7 @@ e_arabia = {
 		d_sinai = {
 			color={ 88 99 2 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 788 # Farama
 			
@@ -34449,7 +34780,8 @@ e_arabia = {
 		d_faiyum = {
 			color={ 110 240 145 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 2001 # Faiyum
 
 			coptic = "Phiom"
@@ -34633,7 +34965,8 @@ allow = { always = no }
 		d_paraetonium = {
 			color={ 40 240 40 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 2005 # Paraetonium
 
 			egyptian_arabic = "al-Baretoun"
@@ -34771,6 +35104,7 @@ allow = { always = no }
 		d_oultrejourdain = {
 			color={ 190 190 180 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 723 # Madaba
 		
@@ -34885,6 +35219,7 @@ allow = { always = no }
 		d_ascalon = {
 			color={ 160 160 200 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 780 # Ascalon
 			
@@ -35008,6 +35343,7 @@ allow = { always = no }
 		d_jerusalem = {
 			color={ 202 202 190 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 774 # Jerusalem
 			
@@ -35138,6 +35474,7 @@ allow = { always = no }
 		d_galilee = {
 			color={ 225 200 160 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 771 # Tyrus
 			
@@ -35259,6 +35596,7 @@ allow = { always = no }
 		d_aleppo = {
 			color={ 85 232 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 733 # Aleppo
 			
@@ -35368,6 +35706,7 @@ allow = { always = no }
 		d_antioch = {
 			color={ 142 63 129 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 764 # Antioch
 		
@@ -35456,6 +35795,7 @@ allow = { always = no }
 		d_tripoli = {
 			color={ 71 150 32 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 767 # Tripoli
 		
@@ -35536,6 +35876,7 @@ allow = { always = no }
 			andalusian_arabic = "Damashq"
 			ashkenazi = "Damesheq"
 			sephardi = "Damesheq"				
+			primary = no
 			allow = { always = no }
 			capital = 728 # Damascus
 		
@@ -35662,6 +36003,7 @@ allow = { always = no }
 		d_palmyra = {
 			color={ 35 232 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 730 # Palmyra
 			
@@ -35787,6 +36129,7 @@ e_maghreb = {
 		d_marrakech = {
 			color={ 43 150 32 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 843 # Marrakech
 		
@@ -35886,6 +36229,7 @@ e_maghreb = {
 		d_tangiers = {
 			color={ 125 224 105 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 841 # Tangiers
 			
@@ -35951,6 +36295,7 @@ e_maghreb = {
 		d_fes = {
 			color={ 20 232 55 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 840 # Fes
 		
@@ -36027,6 +36372,7 @@ e_maghreb = {
 		d_alger = {
 			color={ 32 150 43 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 831 # Al Djazir
 		
@@ -36101,6 +36447,7 @@ e_maghreb = {
 		d_tlemcen = {
 			color={ 65 122 40 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 834 # Tlemcen
 			
@@ -36162,6 +36509,7 @@ e_maghreb = {
 		d_sijilmasa = {
 			color={ 100 168 77 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 918 # Sijilmasa
 			
@@ -36219,6 +36567,7 @@ e_maghreb = {
 		d_sous = {
 			color={ 56 140 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 847 # Sous/Tharasset
 			
@@ -36282,6 +36631,7 @@ e_maghreb = {
 		d_adrar = {
 			color={ 90 190 5 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 920 # Ouadane
 			
@@ -36314,6 +36664,7 @@ e_maghreb = {
 		d_tahert = {
 			color={ 78 237 115 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 830 # Tahert
 			
@@ -36421,6 +36772,7 @@ e_maghreb = {
 		d_tunis = {
 			color={ 45 255 3 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 817 # Tunis
 		
@@ -36531,6 +36883,7 @@ e_maghreb = {
 		d_tripolitania = {
 			color={ 63 175 117 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 811 # Tripolitania
 		
@@ -36627,6 +36980,7 @@ e_maghreb = {
 		d_syrte = {
 			color={ 146 222 115 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 809 # Syrte
 			
@@ -36670,6 +37024,7 @@ e_maghreb = {
 		d_jerid = {
 			color={ 38 179 27 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 814 # Gabes
 			
@@ -36720,6 +37075,7 @@ e_maghreb = {
 		d_cyrenaica = {
 			color={ 32 150 63 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 806 # Cyrenaica
 
@@ -36823,6 +37179,7 @@ e_maghreb = {
 		d_kabylia = {
 			color={ 164 247 131 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 822 # Bejaija
 		
@@ -36945,6 +37302,7 @@ e_maghreb = {
 		d_mzab = {
 			color={ 74 242 62 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 822 # Laghouat/Ouled Nail
 			
@@ -37028,6 +37386,7 @@ e_abyssinia = {
 		d_harer = { # Berbera
 			color={ 127 151 52 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 872 # Berbera
 		
@@ -37095,6 +37454,7 @@ e_abyssinia = {
 		d_axum = {
 			color={ 186 135 70 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 875 # Aksum
 		
@@ -37166,6 +37526,7 @@ e_abyssinia = {
 			
 			ashkenazi = "Beta Israel"
 			sephardi = "Beta Israel"
+			primary = no
 			allow = { always = no }
 			capital = 1380 # Semien
 
@@ -37211,6 +37572,7 @@ e_abyssinia = {
 		d_afar = {
 			color={ 159 189 65 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 873 # Harer
 
@@ -37296,6 +37658,7 @@ e_abyssinia = {
 		d_gondar= {
 			color={ 215 119 45 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 883 # Gondar
 		
@@ -37343,6 +37706,7 @@ e_abyssinia = {
 		d_wag = {
 			color={ 186 100 55 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital =  1417 # Wag
 		
@@ -37388,6 +37752,7 @@ e_abyssinia = {
 		d_gojjam = {
 			color={ 137 90 76 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital =  1280 # Gojjam
 		
@@ -37435,6 +37800,7 @@ e_abyssinia = {
 		d_damot = {
 			color={ 198 93 30 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1428 # Damot
 		
@@ -37482,6 +37848,7 @@ e_abyssinia = {
 		d_shewa = {
 			color={  147 90 48 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 882 # Ankober
 		
@@ -37545,7 +37912,8 @@ e_abyssinia = {
 		
 		d_nobatia = {
 			color = { 162 133 85 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 1282 # Dotawo
 
 			c_dotawo = {
@@ -37628,7 +37996,8 @@ allow = { always = no }
 			}
 		}
 		d_nubia = { # Makuria
-			color = { 141 162 79 }allow = { always = no }
+			color = { 141 162 79 }primary = no
+			allow = { always = no }
 			capital = 793 # Makuria
 			
 			c_makuria = {
@@ -37693,6 +38062,7 @@ allow = { always = no }
 		d_sennar = { # Alodia
 			color={ 128 60 20 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1334 # Alodia
 			
@@ -37783,6 +38153,7 @@ allow = { always = no }
 		d_hayya = { # Blemmyia
 			color={ 186 91 41 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 878 # Hayya
 
@@ -37938,6 +38309,7 @@ e_britannia = {
 		d_northumberland = {
 			color={ 255 0 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 52 # Northumberland
 
@@ -38022,6 +38394,7 @@ e_britannia = {
 		d_cumbria = {
 			color = { 44 175 255 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 53 # Cumberland
 			
@@ -38073,6 +38446,7 @@ e_britannia = {
 		d_lancaster = {
 			color={ 255 48 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 58 # Lancaster
 			
@@ -38154,6 +38528,7 @@ e_britannia = {
 		d_york = {
 			color={ 255 90 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 57 # York
 			
@@ -38287,6 +38662,7 @@ e_britannia = {
 		d_norfolk = {
 			color={ 200 90 0 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 70 # Norfolk
 			
@@ -38340,7 +38716,8 @@ e_britannia = {
 		}
 		d_bedford = { # Essex
 			color={ 241 15 15 }
-			color2={ 255 255 255 }allow = { always = no }
+			color2={ 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 72 # Essex
 			
 			norman = "Bedford"
@@ -38442,6 +38819,7 @@ e_britannia = {
 		d_hereford = { # Mercia
 			color={ 241 47 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 67 # Warwick
 			
@@ -38542,6 +38920,7 @@ e_britannia = {
 		d_gloucester = { # Hwicce
 			color={ 241 79 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 21 # Gloucester
 			
@@ -38617,6 +38996,7 @@ e_britannia = {
 		d_canterbury = { # Sussex
 			color={ 241 100 15 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 73 # Kent
 			
@@ -38690,6 +39070,7 @@ e_britannia = {
 		d_somerset = {
 			color={ 241 15 63 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 28 # Somerset
 			
@@ -38743,6 +39124,7 @@ e_britannia = {
 		d_hampshire = {
 			color={ 241 45 53 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 26 # Winchester
 			
@@ -38816,6 +39198,7 @@ e_britannia = {
 		d_durham_palatine = {
 			color={ 251 33 12 }
 			color2={ 220 220 0 }
+			primary = no
 			allow = { always = no }
 			capital = 56 # Durham
 			
@@ -38869,6 +39252,7 @@ e_britannia = {
 		d_gwynedd = {
 			color={ 172 99 22 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 64 # Gwynedd
 			
@@ -38938,7 +39322,8 @@ e_britannia = {
 		d_powys = {
 			color={ 180 130 0 }
 			color2={ 255 255 255 }
-				allow = { always = no }
+				primary = no
+			allow = { always = no }
 			capital = 66 # Shrewsbury
 
 			allow = {
@@ -39055,6 +39440,7 @@ e_britannia = {
 		d_deheubarth = {
 			color={ 240 167 91 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 18 # Dyfed
 			
@@ -39124,6 +39510,7 @@ e_britannia = {
 		d_gwent = {
 			color={ 163 141 42 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 20 # Gwent
 			
@@ -39193,6 +39580,7 @@ e_britannia = {
 		d_cornwall = {
 			color={ 181 60 10 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 31 # Cornwall
 			
@@ -39265,7 +39653,8 @@ e_britannia = {
 		d_the_isles = {
 			color={ 10 48 243 }
 			color2={ 255 255 255 }
-allow = { always = no }
+primary = no
+			allow = { always = no }
 			capital = 54 # Isle of Man
 			
 			welsh = Manaw
@@ -39340,6 +39729,7 @@ allow = { always = no }
 		d_galloway = {
 			color={ 77 116 208 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 50 # Galloway
 			
@@ -39499,7 +39889,8 @@ allow = { always = no }
 		}
 		d_western_isles = {
 			color = { 6 42 127 }
-			color2 = { 255 255 255 }allow = { always = no }
+			color2 = { 255 255 255 }primary = no
+			allow = { always = no }
 			capital = 35 # Inse Gall
 			
 			norwegian = "Søreyar"
@@ -39659,6 +40050,7 @@ allow = { always = no }
 		d_lothian = {
 			color = { 16 62 157 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 48 # Lothian
 			
@@ -39817,6 +40209,7 @@ allow = { always = no }
 		d_albany = {
 			color={ 25 85 160 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 43 # Gowrie
 			
@@ -40023,6 +40416,7 @@ allow = { always = no }
 		d_moray = {
 			color={ 10 81 243 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 40 # Moray
 			
@@ -40271,6 +40665,7 @@ allow = { always = no }
 		d_ulster = {
 			color={ 5 222 31 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 5 # Ulster
 			
@@ -40420,6 +40815,7 @@ allow = { always = no }
 		d_connacht = {
 			color={ 43 229 108 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 9 # Connacht
 			
@@ -40532,6 +40928,7 @@ allow = { always = no }
 		d_meath = {
 			color={ 49 249 72 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 11 # Dublin
 			
@@ -40651,6 +41048,7 @@ allow = { always = no }
 		d_leinster = {
 			color={ 85 211 27 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 16 # Leinster
 			
@@ -40746,6 +41144,7 @@ allow = { always = no }
 		d_munster = {
 			color={ 16 157 12 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 13 # Thomond
 			
@@ -40919,7 +41318,8 @@ e_mali = {
 		d_mali = { # Manding
 			color={ 130 180 61 } #80 120 70
 			color2={ 255 255 255 }
-	allow = { always = no }
+	primary = no
+			allow = { always = no }
 			capital = 925 # Mali/Niani
 			
 			c_mali = { # Niani
@@ -40976,6 +41376,7 @@ e_mali = {
 		d_bambuk = {
 			color={ 80 120 70 } #202 224 128
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 926 # Bambuk
 			
@@ -41020,6 +41421,7 @@ e_mali = {
 		d_yatenga = {
 			color={ 128 163 13 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1757 # Yatenga
 			
@@ -41073,7 +41475,8 @@ e_mali = {
 		d_ghana = {
 			color={ 62 150 247 }
 			color2={ 255 255 255 }
-	allow = { always = no }
+	primary = no
+			allow = { always = no }
 			capital = 913 # Ghana/Wagadu
 		
 			c_ghana = { # Wagadu
@@ -41133,6 +41536,7 @@ e_mali = {
 		d_tagant = {
 			color={ 13 98 191 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 912 # Aoudaghost
 			
@@ -41164,7 +41568,8 @@ e_mali = {
 		d_timbuktu = {
 			color={ 45 90 224 }
 			color2={ 255 255 255 }
-	allow = { always = no }
+	primary = no
+			allow = { always = no }
 			capital = 911 # Timbuktu			
 		
 			c_timbuktu = {
@@ -41220,6 +41625,7 @@ e_mali = {
 		d_songhay = {
 			color={ 210 82 89 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 914 # Gao
 			
@@ -41278,6 +41684,7 @@ e_mali = {
 		d_gurma = {
 			color={ 171 121 124 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 928 # Gurma
 			
@@ -41325,6 +41732,7 @@ e_kanem = {
 		d_bornu = {
 			color={ 96 120 185 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1743 # Bornu
 			
@@ -41404,6 +41812,7 @@ e_kanem = {
 		d_kanem = {
 			color={ 80 195 205 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1739 # Djimi
 			
@@ -41450,6 +41859,7 @@ e_kanem = {
 		d_fezzan = {
 			color={ 25 160 150 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1730 # Murzuk
 			
@@ -41493,6 +41903,7 @@ e_kanem = {
 		d_wadai = {
 			color={ 17 237 189 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1770 # Wadai
 			
@@ -41544,6 +41955,7 @@ e_kanem = {
 		d_hausaland = {
 			color={ 179 85 237 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1746 # Kano
 			
@@ -41614,6 +42026,7 @@ e_kanem = {
 		d_kebbi = {
 			color={ 139 51 149 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1752 # Kebbi
 			
@@ -41669,6 +42082,7 @@ e_kanem = {
 		d_air = {
 			color={ 100 10 165 }
 			color2={ 255 255 255 }
+			primary = no
 			allow = { always = no }
 			capital = 1738 # Air
 			
