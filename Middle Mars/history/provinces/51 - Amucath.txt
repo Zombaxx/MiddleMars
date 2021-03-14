@@ -15,3 +15,22 @@ culture = portuguese
 religion = catholic
 
 # History
+1.1.1 = {
+	build_wonder = wonder_apostolic_palace
+	set_wonder_stage = 1
+}
+
+1.1.2 = { set_wonder_damaged = yes }
+
+#780.1.1 = {
+#	set_wonder_stage = 2
+#}
+#
+#813.1.1 = {
+#	set_wonder_stage = 3
+#}
+#
+#815.1.1 = {
+#	set_wonder_stage = 4
+#}
+1066.1.1 = { set_wonder_damaged = no }

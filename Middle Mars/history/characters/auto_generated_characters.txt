@@ -54565,8 +54565,7 @@
 	mother = 1037152
 	1051.1.1={
 		birth="1051.1.1"
-	}
-	
+	}	
 	1065.1.1 = {
 		effect = {
 			e_alba_mons = { add_claim = ROOT }
@@ -54579,7 +54578,7 @@
 		}
 	}
 	1066.1.1={
-		prestige = 1000 # Rich and prestigious from raiding
+		prestige = 1000
 		wealth = 500 
 		effect = {
 			spawn_unit = {
@@ -54658,6 +54657,9 @@
 			}
 		}
 	}
+	1100.1.1={
+		give_nickname = nick_the_holy
+	}	
 	1142.1.1={
 		death="1142.1.1"
 	}
@@ -259047,5 +259049,212 @@
 	}
 	1095.1.1={
 		death="1095.1.1"
+	}
+}
+
+#Family of the Spacers that were stranded in the West when the Tharsis Mons Space Elevator broke
+120700 = {
+	name = "Chengsi"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	trait = midas_touched
+	stewardship = 10
+	trait = administrator
+	trait = quick
+	trait = just
+	926.1.1={
+		birth="926.1.1"
+	}
+	1007.1.1={
+		death="1007.1.1"
+	}
+}
+120701 = {
+	name = "Song"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120700
+	969.1.1={
+		birth="969.1.1"
+	}
+	1032.1.1={
+		death="1032.1.1"
+	}
+}
+120702 = {
+	name = "Ting"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120701
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1031.1.1={
+		add_spouse = 120704
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+120703 = {
+	name = "Lin"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120701
+	1007.1.1={
+		birth="1007.1.1"
+	}
+	1056.1.1={
+		death="1056.1.1"
+	}
+}
+120704 = {
+	name = "Feiyan"
+	female = yes
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	1015.1.1={
+		birth="1015.1.1"
+		effect={ dynasty = father_bastard }
+	}
+	1031.1.1={
+		add_spouse = 120702
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+120705 = {
+	name = "Zhi" # The "Demon" King of the Solarians
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	trait = possessed
+	trait = ambitious
+	father = 120702
+	mother = 120704
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1045.1.1={
+		give_nickname = nick_the_demon
+		add_trait = cruel
+		add_trait = zealous
+		add_trait = impaler
+	}
+	1059.1.1 = {
+		effect = {
+			add_trait = disfigured
+		}
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+1207050 = {
+	name = "Feiyan" # Solarian Son
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	trait = tall
+	father = 120705
+	1048.1.1={
+		birth="1048.1.1"
+	}
+	1062.1.1 = {
+		effect = {
+			religion = zun_pagan
+			culture = kirghiz
+			add_trait = scarred
+			add_trait = scarred_type_5
+		}
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+1207051 = {
+	name = "Chengsi" #Spacer Son
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120705
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1085.1.1={
+		death="1085.1.1"
+	}
+}
+120706 = {
+	name = "Yuantong"
+	female = yes
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120702
+	mother = 120704
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+120707 = {
+	name = "Longji"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120702
+	mother = 120704
+	1037.1.1={
+		birth="1037.1.1"
+	}
+	1097.1.1={
+		death="1097.1.1"
+	}
+}
+120708 = {
+	name = "Renben"
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120703
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+120709 = {
+	name = "Fujin"
+	female = yes
+	dynasty = 120700
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
+	father = 120703
+	1037.1.1={
+		birth="1037.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
 	}
 }

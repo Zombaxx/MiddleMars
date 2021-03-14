@@ -334,7 +334,7 @@ PROV333;Kufozar;Kufozar;Kufozar;;Kufozar;;;;;;;;;x
 PROV334;Kelerro;Kelerro;Kelerro;;Kelerro;;;;;;;;;x
 PROV335;Lagand;Lagand;Lagand;;Lagand;;;;;;;;;x
 PROV336;Nelaria;Nelaria;Nelaria;;Nelaria;;;;;;;;;x
-PROV337;Bojucia;Bojucia;Bojucia;;Bojucia;;;;;;;;;x
+PROV337;Pavonis;Pavonis;Pavonis;;Pavonis;;;;;;;;;x
 PROV338;Keansa;Keansa;Keansa;;Keansa;;;;;;;;;x
 PROV339;Wanapal;Wanapal;Wanapal;;Wanapal;;;;;;;;;x
 PROV340;Ragidda;Ragidda;Ragidda;;Ragidda;;;;;;;;;x
@@ -5420,8 +5420,8 @@ b_tetilad;Tetilad;Tetilad;Tetilad;;Tetilad;;;;;;;;;x
 b_qalim;Qalim;Qalim;Qalim;;Qalim;;;;;;;;;x
 b_nagina;Nagina;Nagina;Nagina;;Nagina;;;;;;;;;x
 b_barony0336g;Barony0336g;Barony0336g;Barony0336g;;Barony0336g;;;;;;;;;x
-c_bojucia_adj;Bojucia;Bojucia;Bojucia;;Bojucia;;;;;;;;;x
-b_bojucia;Bojucia;Bojucia;Bojucia;;Bojucia;;;;;;;;;x
+c_bojucia_adj;Pavonian;Pavonian;Pavonian;;Pavonian;;;;;;;;;x
+b_bojucia;Pavonis;Pavonis;Pavonis;;Pavonis;;;;;;;;;x
 b_kanert;Kanert;Kanert;Kanert;;Kanert;;;;;;;;;x
 b_wufarya;Wufarya;Wufarya;Wufarya;;Wufarya;;;;;;;;;x
 b_aludoos;Aludoos;Aludoos;Aludoos;;Aludoos;;;;;;;;;x

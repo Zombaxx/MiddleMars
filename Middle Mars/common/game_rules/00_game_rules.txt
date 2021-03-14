@@ -67,11 +67,6 @@ mongol_invasion = {
 	group = "RULE_GROUP_RAILROADING"
 	alt_start_default = off
 	option = {
-		name = historical
-		text = "RULE_OPTION_HISTORICAL"
-		desc = "RULE_MONGOL_INVASION_HISTORICAL_DESC"
-	}
-	option = {
 		name = random
 		text = "RULE_OPTION_RANDOM"
 		desc = "RULE_MONGOL_INVASION_RANDOM_DESC"
@@ -80,6 +75,11 @@ mongol_invasion = {
 		name = delayed_random
 		text = "RULE_OPTION_DELAYED_RANDOM"
 		desc = "RULE_MONGOL_INVASION_DELAYED_RANDOM_DESC"
+	}
+	option = {
+		name = historical
+		text = "RULE_OPTION_HISTORICAL"
+		desc = "RULE_MONGOL_INVASION_HISTORICAL_DESC"
 	}
 	option = {
 		name = off
@@ -95,11 +95,6 @@ aztec_invasion = {
 	group = "RULE_GROUP_RAILROADING"
 	alt_start_default = off
 	option = {
-		name = historical
-		text = "RULE_AZTEC_13TH"
-		desc = "RULE_AZTEC_INVASION_HISTORICAL_DESC"
-	}
-	option = {
 		name = random
 		text = "RULE_OPTION_RANDOM"
 		desc = "RULE_AZTEC_INVASION_RANDOM_DESC"
@@ -108,6 +103,11 @@ aztec_invasion = {
 		name = delayed_random
 		text = "RULE_OPTION_DELAYED_RANDOM"
 		desc = "RULE_AZTEC_INVASION_DELAYED_RANDOM_DESC"
+	}
+	option = {
+		name = historical
+		text = "RULE_AZTEC_13TH"
+		desc = "RULE_AZTEC_INVASION_HISTORICAL_DESC"
 	}
 	option = {
 		name = off

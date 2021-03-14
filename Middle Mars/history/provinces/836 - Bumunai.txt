@@ -14,3 +14,22 @@ culture = basque
 religion = jewish
 
 # History
+1.1.1 = {
+	build_wonder = wonder_lighthouse_alexandria
+	set_wonder_stage = 1
+}
+
+1.1.2 = { set_wonder_damaged = yes }
+
+#780.1.1 = {
+#	set_wonder_stage = 2
+#}
+#
+#813.1.1 = {
+#	set_wonder_stage = 3
+#}
+#
+#815.1.1 = {
+#	set_wonder_stage = 4
+#}
+1066.1.1 = { set_wonder_damaged = no }

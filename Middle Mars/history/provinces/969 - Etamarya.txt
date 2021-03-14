@@ -15,7 +15,7 @@ religion = taoist
 
 # History
 1.1.1 = {
-	build_wonder = wonder_underground_city_petra
+	build_wonder = wonder_house_of_wisdom
 	set_wonder_stage = 1
 }
 
@@ -48,8 +48,7 @@ religion = taoist
 #	build_wonder_upgrade = upgrade_collection_science
 #}
 #
-#828.1.1 = {
-#	build_wonder_upgrade = upgrade_collection_history
+#1033.1.1 = {
+#	build_wonder_upgrade = upgrade_space_elevator_etamarya
 #}
-
-#1066.1.1 = { set_wonder_damaged = no }
+1066.1.1 = { set_wonder_damaged = no }

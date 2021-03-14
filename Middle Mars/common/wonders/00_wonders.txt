@@ -3200,7 +3200,11 @@ wonder_temple_hindu_konark = {
 	}
 	active = {
 		ROOT = {
-			religion = hindu
+			OR = {
+				religion = hindu
+				religion = jain
+				religion = buddhist
+			}
 		}
 	}
 	flags = {
@@ -3420,15 +3424,29 @@ wonder_house_of_wisdom = {
 	}
 	active = {
 		trigger_if = {
-			limit = {
-				religion_group = pagan_group
-				is_reformed_religion = no
+			OR = {
+				religion = taoist
+				has_assigned_minor_title = title_cywizard 
+				#any_realm_character = { has_trait = full_cybernetic_conversion }
+				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				any_courtier = { has_trait = full_cybernetic_conversion }
+				any_vassal = { has_trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
+				has_trait = full_cybernetic_conversion					
 			}
-			ROOT = {
-				OR = {
-					is_reformed_religion = yes
-					NOT = { religion_group = pagan_group }
-				}
+		}
+		ROOT = {
+			OR = {
+				religion = taoist
+				has_assigned_minor_title = title_cywizard 
+				#any_realm_character = { has_trait = full_cybernetic_conversion }
+				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				any_courtier = { has_trait = full_cybernetic_conversion }
+				any_vassal = { has_trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
+				has_trait = full_cybernetic_conversion					
 			}
 		}
 	}
@@ -3441,6 +3459,7 @@ wonder_house_of_wisdom = {
 	}
 	available_upgrades = {
 		# UNIQUE:
+		upgrade_space_elevator_etamarya
 		upgrade_collection_drama
 		upgrade_collection_architecture
 		upgrade_collection_math
@@ -3540,9 +3559,153 @@ wonder_house_of_wisdom = {
 	}
 }
 
+wonder_house_of_wisdom2 = {
+	picture = GFX_wonder_strip_space_elevator
+	allow_construction = no
+	model = wonder_grand_lighthouse
+	potential = {
+	}
+	active = {
+		trigger_if = {
+			OR = {
+				religion = taoist
+				has_assigned_minor_title = title_cywizard 
+				#any_realm_character = { has_trait = full_cybernetic_conversion }
+				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				any_courtier = { has_trait = full_cybernetic_conversion }
+				any_vassal = { has_trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
+				has_trait = full_cybernetic_conversion					
+			}
+		}
+		ROOT = {
+			OR = {
+				religion = taoist
+				has_assigned_minor_title = title_cywizard 
+				#any_realm_character = { has_trait = full_cybernetic_conversion }
+				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				any_courtier = { has_trait = full_cybernetic_conversion }
+				any_vassal = { has_trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
+				has_trait = full_cybernetic_conversion					
+			}
+		}
+	}
+	flags = {
+		is_historical
+		inspires_learning
+		cost_low
+		gives_artifact
+		gives_artifact_book
+	}
+	available_upgrades = {
+		# UNIQUE:
+		upgrade_space_elevator_pavonis
+		upgrade_collection_drama
+		upgrade_collection_architecture
+		upgrade_collection_math
+		upgrade_collection_history
+		upgrade_collection_science
+		upgrade_scribe_room
+		upgrade_keeper_of_tomes
+
+		upgrade_historical_mural
+
+		# OTHER:
+		upgrade_roads
+		upgrade_watchtower_network
+		upgrade_spikes
+		upgrade_tower
+		upgrade_hypocausts
+		upgrade_heating_pipes
+		upgrade_retinue
+		upgrade_road_tolls
+		upgrade_tavern
+	}
+	stage = {
+		allow = {
+		}
+		build_time = 300
+		gold_cost_flat = 2000
+		gold_cost_ticking = 3
+		restore_time = 150
+		loot_time = 20
+		restore_cost_flat = 400
+		restore_cost_ticking = 2
+		upgrade_slots = 2
+		local_modifier = {
+			culture_techpoints = 0.05
+		}
+		owner_modifier = {
+			monthly_character_prestige = 0.1
+			monthly_grace = 1
+		}
+	}
+	stage = {
+		allow = {
+		}
+		build_time = 300
+		gold_cost_flat = 1000
+		gold_cost_ticking = 3
+		restore_time = 200
+		loot_time = 20
+		restore_cost_flat = 500
+		restore_cost_ticking = 2
+		upgrade_slots = 2
+		local_modifier = {
+			culture_techpoints = 0.05
+		}
+		owner_modifier = {
+			monthly_character_prestige = 0.1
+			monthly_grace = 1
+		}
+	}
+	stage = {
+		allow = {
+		}
+		build_time = 300
+		gold_cost_flat = 1000
+		gold_cost_ticking = 3
+		restore_time = 200
+		loot_time = 6
+		restore_cost_flat = 500
+		restore_cost_ticking = 2
+		upgrade_slots = 2
+		local_modifier = {
+			culture_techpoints = 0.05
+		}
+		owner_modifier = {
+			monthly_character_prestige = 0.1
+			monthly_grace = 1.5
+		}
+	}
+	stage = {
+		allow = {
+		}
+		build_time = 300
+		gold_cost_flat = 1000
+		gold_cost_ticking = 3
+		restore_time = 200
+		loot_time = 2
+		restore_cost_flat = 500
+		restore_cost_ticking = 2
+		upgrade_slots = 2
+		local_modifier = {
+			culture_techpoints = 0.05
+		}
+		owner_modifier = {
+			monthly_character_prestige = 0.1
+			monthly_grace = 2
+		}
+	}
+}
+
+
 # A8. Petra
 wonder_underground_city_petra = {
-	picture = GFX_wonder_strip_undergroundcity
+	picture = GFX_wonder_stages_terraformer
 	allow_construction = no
 	potential = {
 	}
@@ -3646,7 +3809,7 @@ wonder_underground_city_petra = {
 
 # A9. Hagia Sophia
 wonder_cathedral_hagia_sophia = {
-	picture = GFX_wonder_strip_hagia_sophia
+	picture = GFX_wonder_stages_skyscraper
 	model = wonder_hagia_sophia
 	allow_construction = no
 	active = {

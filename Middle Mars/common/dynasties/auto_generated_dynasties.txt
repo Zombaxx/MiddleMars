@@ -8957,5 +8957,11 @@
 		}
 		religion="khurmazta"
 	}
-	used_for_random=no
+	used_for_random=yes
+}
+
+120700={
+	name="Mogui"
+	culture="han"
+	religion="taoist"
 }
