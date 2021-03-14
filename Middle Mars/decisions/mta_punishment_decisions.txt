@@ -97,7 +97,7 @@ targetted_decisions = {
 		from_potential = {
 			has_dlc = "Reapers"
 			capital_holding = {
-			has_building = ca_exotic_pets
+			has_building = ca_secret_lair
 				}
 			is_adult = yes
 			prisoner = no

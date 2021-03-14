@@ -186,6 +186,7 @@ character_event = {
 character_event = {
 	id = take_hostage_events.8
 	hide_window = yes
+	is_triggered_only = yes
 	trigger = {
 		has_character_flag = taken_hostage
 		age = 12

@@ -95,6 +95,11 @@ torture_slave_dec;Torture [Root.GetFirstName];;;;;;;;;;;;;x
 torture_slave_dec_desc;As [Root.GetFirstName]'s master, you can torture [Root.GetFirstName].;;;;;;;;;;;;;x
 free_slave;Grant Freedom;Affranchir;;;;;;;;;;;;x
 free_slave_desc;Release [Root.GetFirstName] [Root.GetOnlyDynastyName] from the bondage of slavery and grant [Root.GetHerHim] [Root.GetHerHis] freedom.;;;x
+seize_goods_from_slave;Seize goods from slave;;;;;;;;;x;
+seize_goods_from_slave_desc;Seize all of [Root.GetFirstName]'s possessions. As a slave, they have no rights to private property.;;;x
+see_slaves;Manage Slaves;;;x
+see_slaves_desc;See how many slaves you have in your court;;;x
+
 
 #Events
 EVTDESCslavery_events.1;[master.GetFirstName] calls you into [master.GetHerHis] bedchambers, 'I have need of you tonight, remove your clothes.' You reluctantly slip from your garb and approach the master's bed. Tears well in your eyes as [master.GetSheHe] begins to fondle you. 'Now, onto the bed.';;;;;;;;;;;;;x
@@ -185,6 +190,7 @@ has_antislavery_religion_trigger;[This.GetTitledFirstName]'s religion is one tra
 has_slavery_culture_trigger;[This.GetTitledFirstName]'s culture is one that traditionally practices slavery;;;x
 has_antislavery_culture_trigger;[This.GetTitledFirstName]'s culture is one traditionally opposed to slavery;;;x
 has_slavery_religion_trigger;[This.GetTitledFirstName]'s religion is one that traditionally practices slavery;;;x
+EVTDESCslavery.0016;Here are your slaves.;;;x
 
 #More Events
 EVTDESCroy_slavery_events.1;You have finally found the time and have presented [From.GetFirstName] for sale at the local slave market. You sign the parchment, exhange the whip, and now [From.GetFirstName] is sold.;;;x

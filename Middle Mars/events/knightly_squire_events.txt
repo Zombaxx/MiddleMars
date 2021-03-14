@@ -71,20 +71,34 @@ character_event = {
 	}
 }
 
-#Arranging Knighthood
+#Knighted for valor
 character_event = {
 	id = knightly.004
 	desc = "161004_desc"
 	picture = GFX_event_knighthood1
 	is_triggered_only = yes
+
+	trigger = {
+		is_ruler = yes
+		is_feudal = yes
+		religion_group = christian
+		martial = 12
+		NOT = { trait = knight }
+		NOR = {
+			trait = craven
+			trait = incapable
+			trait = inbred
+			trait = infirm
+		}
+	}
+
 	option = {
 		name = knightly.004.1
 		ai_chance = {
 			factor = 100
 		}
-		FROM = {
+		ROOT = { 
 			add_trait = knight
-			remove_trait = squire
 			prestige = 100
 		}
 	}
@@ -98,8 +112,8 @@ character_event = {
 	is_triggered_only = yes
 		
 	trigger = {
+		is_feudal = yes
 		in_command = yes
-		in_battle = yes
 		religion_group = christian
 		martial = 10
 		NOT = { trait = knight }
@@ -118,28 +132,33 @@ character_event = {
 			factor = 100
 		}
 		ROOT = {
+			give_minor_title = title_knight
 			add_trait = knight
 			prestige = 150
 		}
 	}
 }
 
-#That's "Sir" to you, ma'am!
+#Knighted for being a squire
 character_event = {
 	id = knightly.006
-	hide_window = yes
+	desc = "161006_desc"
+	picture = GFX_event_knighthood1
 
 	is_triggered_only = yes
 		
 	trigger = {
-		trait = knight
+		is_feudal = yes
+		age = 16
+		trait = squire
 		NOT = {
-			has_minor_title = title_knight
+			trait = knight
 		}
 	}
 
 	option = {
 		name = knightly.006.1
-		give_minor_title = title_knight
+		remove_trait = squire
+		add_trait = knight
 	}
 }

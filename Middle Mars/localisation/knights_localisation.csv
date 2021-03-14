@@ -6,7 +6,7 @@ squire_desc;This character is a ward of a knight;Ce personnage est la pupille d'
 title_knight;Sir;Sir;Sir;;Sir;;;;;;;;;x
 opinion_knighted_me;Knighted me;M'a fait chevalier;Knighted mich;;Knighted me;;;;;;;;;x
 opinion_squired_me;Took me on as squire;M'a pris comme écuyer;Nahm mich als Knappe an;;Me tomó como escudero;;;;;;;;;x
-knight_character;Knight [From.GetFirstName];Knight Character;Knight Character;;Knight Character;;;;;;;;;x
+knight_character;Knight [Root.GetFirstName];Knight Character;Knight Character;;Knight Character;;;;;;;;;x
 take_squire;Take On Squire;Prendre sur écuyer;Nimm Squire;;Enfréntate al escudero;;;;;;;;;x
 knight_character_desc;Knighthoods can be granted to those who are worthy;Les chevaleries peuvent être accordées à ceux qui le méritent;Ritterschaften können denen gewährt werden, die es wert sind;;Los caballeros pueden ser otorgados a aquellos que son dignos;;;;;;;;;x
 take_squire_desc;You can put your ward on the path to knighthood;Vous pouvez mettre votre paroisse sur le chemin de la chevalerie;Sie können Ihre Gemeinde auf den Weg zum Ritterstand bringen;;Puedes poner a tu barrio en el camino hacia la caballería;;;;;;;;;x

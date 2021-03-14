@@ -13,3 +13,7 @@ knightly.004.1;Rise a knight!;Lève un chevalier!;Stehe auf einen Ritter!;;¡Leván
 
 161005_desc; You have fought desperately and valiantly all evening, putting many men under your blade. A nobleman whom you've been fighting alongside has offered to knight you for your gallantry on the battlefield. Hundreds of men gathered in witness to the man ceremoniously blessing you with his blade. You kneel, rising with pride as a knight!;;;x
 knightly.005.1;I am truly blessed!;;;x
+
+161006_desc;You have dutifully served as a squire for what seems like ages. Finally, your  hard work has paid off for today you will be knighted. As the blade is placed upon your shoulders you swell with pride for your accomplishments and feel a sense of relief knowing your chores as a squire are over.;;;;;;;;;x
+knightly.006.1;"Rise, Sir [From.GetFirstName]!";;;x
+
