@@ -96,15 +96,15 @@ Targetted_decisions = {
 			remove_trait = thoth_mk_iii
 			FROM = { add_trait = thoth_mk_iii }
 			if = {
-				limit = { FROM { trait = infirm } }
+				limit = { FROM = { trait = infirm } }
 				FROM = { remove_trait = infirm }
 			}
 			if = {
-				limit = { FROM { trait = slow } }
+				limit = { FROM = { trait = slow } }
 				FROM = { remove_trait = slow }
 			}
 			if = {
-				limit = { FROM { trait = dull } }
+				limit = { FROM = { trait = dull } }
 				FROM = { remove_trait = dull }
 			}
 			if = {
@@ -388,15 +388,15 @@ Targetted_decisions = {
 			remove_trait = thoth_mk_iv
 			FROM = { add_trait = thoth_mk_iv }
 			if = {
-				limit = { FROM { trait = infirm } }
+				limit = { FROM = { trait = infirm } }
 				FROM = { remove_trait = infirm }
 			}
 			if = {
-				limit = { FROM { trait = slow } }
+				limit = { FROM = { trait = slow } }
 				FROM = { remove_trait = slow }
 			}
 			if = {
-				limit = { FROM { trait = dull } }
+				limit = { FROM = { trait = dull } }
 				FROM = { remove_trait = dull }
 			}
 			if = {
@@ -680,15 +680,15 @@ Targetted_decisions = {
 			remove_trait = thoth_mk_v
 			FROM = { add_trait = thoth_mk_v }
 			if = {
-				limit = { FROM { trait = infirm } }
+				limit = { FROM = { trait = infirm } }
 				FROM = { remove_trait = infirm }
 			}
 			if = {
-				limit = { FROM { trait = slow } }
+				limit = { FROM = { trait = slow } }
 				FROM = { remove_trait = slow }
 			}
 			if = {
-				limit = { FROM { trait = dull } }
+				limit = { FROM = { trait = dull } }
 				FROM = { remove_trait = dull }
 			}
 			if = {
@@ -972,11 +972,11 @@ Targetted_decisions = {
 			remove_trait = thoth_mk_i
 			FROM = { add_trait = thoth_mk_i }
 			if = {
-				limit = { FROM { trait = slow } }
+				limit = { FROM = { trait = slow } }
 				FROM = { remove_trait = slow }
 			}
 			if = {
-				limit = { FROM { trait = dull } }
+				limit = { FROM = { trait = dull } }
 				FROM = { remove_trait = dull }
 			}
 			if = {
@@ -1260,11 +1260,11 @@ Targetted_decisions = {
 			remove_trait = thoth_mk_ii
 			FROM = { add_trait = thoth_mk_ii }
 			if = {
-				limit = { FROM { trait = slow } }
+				limit = { FROM = { trait = slow } }
 				FROM = { remove_trait = slow }
 			}
 			if = {
-				limit = { FROM { trait = dull } }
+				limit = { FROM = { trait = dull } }
 				FROM = { remove_trait = dull }
 			}
 			if = {
@@ -1548,11 +1548,11 @@ Targetted_decisions = {
 			remove_trait = hiver_implant
 			FROM = { add_trait = hiver_implant }
 			if = {
-				limit = { FROM { trait = infirm } }
+				limit = { FROM = { trait = infirm } }
 				FROM = { remove_trait = infirm }
 			}
 			if = {
-				limit = { FROM { trait = incapable } }
+				limit = { FROM = { trait = incapable } }
 				FROM = { remove_trait = incapable }
 			}
 			if = {
@@ -1836,7 +1836,7 @@ Targetted_decisions = {
 			remove_trait = cybernetic_skeleton
 			FROM = { add_trait = cybernetic_skeleton }
 			if = {
-				limit = { FROM { trait = incapable } }
+				limit = { FROM = { trait = incapable } }
 				FROM = { remove_trait = incapable }
 			}
 			if = {
@@ -2120,7 +2120,7 @@ Targetted_decisions = {
 			remove_trait = full_cybernetic_conversion
 			FROM = { add_trait = full_cybernetic_conversion set_graphical_culture = ROOT }
 			if = {
-				limit = { FROM { trait = infirm } }
+				limit = { FROM = { trait = infirm } }
 				FROM = { remove_trait = infirm }
 			}
 			if = {
@@ -2412,7 +2412,7 @@ Targetted_decisions = {
 			remove_trait = odin_mk_i
 			FROM = { add_trait = odin_mk_i }
 			if = {
-				limit = { FROM { trait = one_eyed } }
+				limit = { FROM = { trait = one_eyed } }
 				FROM = { remove_trait = one_eyed }
 			}
 			if = {
@@ -2704,7 +2704,7 @@ Targetted_decisions = {
 			remove_trait = odin_mk_ii
 			FROM = { add_trait = odin_mk_ii }
 			if = {
-				limit = { FROM { trait = one_eyed } }
+				limit = { FROM = { trait = one_eyed } }
 				FROM = { remove_trait = one_eyed }
 			}
 			if = {
@@ -2996,7 +2996,7 @@ Targetted_decisions = {
 			remove_trait = odin_mk_iii
 			FROM = { add_trait = odin_mk_iii }
 			if = {
-				limit = { FROM { trait = one_eyed } }
+				limit = { FROM = { trait = one_eyed } }
 				FROM = { remove_trait = one_eyed }
 			}
 			if = {
@@ -3288,7 +3288,7 @@ Targetted_decisions = {
 			remove_trait = odin_mk_iv
 			FROM = { add_trait = odin_mk_iv }
 			if = {
-				limit = { FROM { trait = one_eyed } }
+				limit = { FROM = { trait = one_eyed } }
 				FROM = { remove_trait = one_eyed }
 			}
 			if = {
@@ -3580,7 +3580,7 @@ Targetted_decisions = {
 			remove_trait = odin_mk_v
 			FROM = { add_trait = odin_mk_v }
 			if = {
-				limit = { FROM { trait = one_eyed } }
+				limit = { FROM = { trait = one_eyed } }
 				FROM = { remove_trait = one_eyed }
 			}
 			if = {
@@ -3855,7 +3855,7 @@ Targetted_decisions = {
 			remove_trait = cybernetic_limb
 			FROM = { add_trait = cybernetic_limb }
 			if = {
-				limit = { FROM { trait = one_handed } }
+				limit = { FROM = { trait = one_handed } }
 				FROM = { remove_trait = one_handed }
 			}
 			if = {
@@ -4130,7 +4130,7 @@ Targetted_decisions = {
 			remove_trait = cybernetic_leg
 			FROM = { add_trait = cybernetic_leg }
 			if = {
-				limit = { FROM { trait = one_legged } }
+				limit = { FROM = { trait = one_legged } }
 				FROM = { remove_trait = one_legged }
 			}
 			if = {

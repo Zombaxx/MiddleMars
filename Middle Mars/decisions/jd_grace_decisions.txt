@@ -4507,9 +4507,9 @@ offmap_decisions = {
 				if = {
 					limit = {
 						OR = {
-							has_trait = one_legged
-							has_trait = lunatic
-							has_trait = possessed
+							trait = one_legged
+							trait = lunatic
+							trait = possessed
 						}
 					}
 					add_trait = cybernetic_leg
@@ -4517,8 +4517,8 @@ offmap_decisions = {
 				}
 				if = {
 					limit = {
-						has_trait = one_legged
-						has_trait = cybernetic_leg
+						trait = one_legged
+						trait = cybernetic_leg
 					}
 					remove_trait = one_legged
 				}				
@@ -4599,9 +4599,9 @@ offmap_decisions = {
 				if = {
 					limit = {
 						OR = {
-							has_trait = one_handed
-							has_trait = lunatic
-							has_trait = possessed
+							trait = one_handed
+							trait = lunatic
+							trait = possessed
 						}
 					}
 					add_trait = cybernetic_limb
@@ -4609,8 +4609,8 @@ offmap_decisions = {
 				}
 				if = {
 					limit = {
-						has_trait = one_handed
-						has_trait = cybernetic_limb
+						trait = one_handed
+						htrait = cybernetic_limb
 					}
 					remove_trait = one_handed
 				}				
@@ -4691,9 +4691,9 @@ offmap_decisions = {
 				if = {
 					limit = {
 						OR = {
-							has_trait = incapable
-							has_trait = lunatic
-							has_trait = possessed
+							trait = incapable
+							trait = lunatic
+							trait = possessed
 						}
 					}
 					add_trait = cybernetic_skeleton
@@ -4701,8 +4701,8 @@ offmap_decisions = {
 				}
 				if = {
 					limit = {
-						has_trait = incapable
-						has_trait = cybernetic_skeleton
+						trait = incapable
+						trait = cybernetic_skeleton
 					}
 					remove_trait = incapable
 				}				
@@ -4783,9 +4783,9 @@ offmap_decisions = {
 				if = {
 					limit = {
 						OR = {
-							has_trait = incapable
-							has_trait = lunatic
-							has_trait = possessed
+							trait = incapable
+							trait = lunatic
+							trait = possessed
 						}
 					}
 					add_trait = hiver_implant
@@ -4793,8 +4793,8 @@ offmap_decisions = {
 				}
 				if = {
 					limit = {
-						has_trait = incapable
-						has_trait = hiver_implant
+						trait = incapable
+						trait = hiver_implant
 					}
 					remove_trait = incapable
 				}				
