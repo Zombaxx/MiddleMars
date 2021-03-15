@@ -111,16 +111,13 @@ christian = {
 			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
 		}
 
-		pacifist = yes
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		attacking_same_religion_piety_loss = yes
 		
 		has_heir_designation = yes
 		peace_piety_gain = 1.0
 		women_can_take_consorts = yes
-		religious_clothing_priest = 1
 
 		intermarry = catholic
 		intermarry = orthodox
@@ -209,11 +206,11 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
+			GOD_GOD GOD_THE_LORD GOD_GAIA GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
 		evil_god_names = {
-			GOD_GOD GOD_THE_LORD GOD_GAIA GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			EGOD_DISASTER SATAN  LUCIFER THE_DEVIL
 		}
 
 		can_retire_to_monastery = yes
@@ -223,7 +220,6 @@ christian = {
 		religious_clothing_priest = 1
 		
 		ignores_defensive_attrition = yes
-		allow_looting = yes
 		has_heir_designation = yes
 		feminist = yes
 		aggression = 2
@@ -258,7 +254,6 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		short_reign_opinion_year_mult = 0.5
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		ai_convert_same_group = 2
@@ -360,12 +355,10 @@ christian = {
 		}
 		
 		autocephaly = yes
-		allow_viking_invasion = yes
-		uses_jizya_tax = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
+		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
@@ -401,12 +394,10 @@ christian = {
 		crusade_name = CRUSADE
 
 		autocephaly = yes
-		uses_jizya_tax = yes
-		max_wives = 3
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
+		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
@@ -453,7 +444,6 @@ christian = {
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		allow_viking_invasion = yes
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
@@ -486,9 +476,6 @@ christian = {
 		
 		crusade_name = CRUSADE
 
-		has_heir_designation = yes
-		rel_head_defense = yes		
-		
 		autocephaly = yes
 		pentarchy = yes
 		can_excommunicate = yes
@@ -529,12 +516,6 @@ christian = {
 		
 		crusade_name = CRUSADE
 
-		uses_jizya_tax = yes
-		attacking_same_religion_piety_loss = yes
-		hostile_within_group = yes
-		aggression = 1.5
-		allow_looting
-		
 		autocephaly = yes
 		pentarchy = yes
 		can_excommunicate = yes
@@ -588,14 +569,10 @@ christian = {
 		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
-		pacifist = yes
-		defensive_attrition = yes
-		attacking_same_religion_piety_loss = yes
 		
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		
-		religious_clothing_head = 2
+				religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
 		intermarry = catholic
@@ -637,10 +614,6 @@ christian = {
 			EGOD_DISASTER GOD_MOTHER_EARTH GOD_GAIA GOD_SURVIVORS GOD_HOMELAND SATAN  LUCIFER THE_DEVIL
 		}
 		
-		allow_looting = yes
-		allow_viking_invasion = yes
-		uses_jizya_tax
-		max_consorts = 3
 		autocephaly = no
 		can_excommunicate = yes
 		can_grant_divorce = yes
@@ -816,10 +789,6 @@ muslim = {
 		
 		crusade_name = JIHAD
 
-		allow_looting = yes
-		allow_viking_invasion = yes
-		ignores_defensive_attrition = yes
-		
 		priests_can_marry = yes
 		psc_marriage = no
 		max_wives = 4
@@ -828,7 +797,7 @@ muslim = {
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		
-		#uses_jizya_tax = yes
+		uses_jizya_tax = yes
 
 		intermarry = sunni
 		intermarry = yazidi
@@ -862,16 +831,13 @@ muslim = {
 			THE_DARK_SPIRITS
 		}
 		
-		
 		parent = sunni
 		priests_can_marry = yes
 		can_excommunicate = yes
 		can_call_crusade = yes
-		max_wives = 1
-		matrilineal_marriages = yes
+		max_wives = 4
+		matrilineal_marriages = no
 		
-		peace_piety_gain = yes
-		divine_blood = yes
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		
@@ -1015,9 +981,6 @@ muslim = {
 		psc_marriage = no
 		max_wives = 4
 		matrilineal_marriages = no
-		uses_decadence = yes
-		independence_war_score_bonus = 2
-		allow_viking_invasion = yes
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
@@ -1049,10 +1012,7 @@ muslim = {
 		psc_marriage = no
 		can_call_crusade = yes
 		max_wives = 4
-		matrilineal_marriages = yes
-		defensive_attrition = 2
-		pacifist = yes
-		feminist = yes
+		matrilineal_marriages = no
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
@@ -2476,7 +2436,6 @@ zoroastrian_group = {
 		
 		parent = zoroastrian
 		
-		allow_looting = yes
 		can_grant_divorce = yes
 		priests_can_inherit = no
 		can_call_crusade = no
@@ -2535,12 +2494,9 @@ zoroastrian_group = {
 		has_heir_designation = yes
 		priests_can_inherit = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		allow_viking_invasion = yes
-		uses_jizya_tax = yes
-		aggression = 2
+
 		
 		max_consorts = 3 # Can take concubines
-		women_can_take_consorts = yes
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
@@ -2603,8 +2559,6 @@ jewish_group = {
 			EGOD_DISASTER SATAN 
 		}
 		
-		ignores_defensive_attrition = yes
-		has_heir_designation = yes
 		can_grant_divorce = yes
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
@@ -2633,8 +2587,6 @@ jewish_group = {
 		
 		crusade_name = GREAT_HOLY_WAR
 
-		feminist = yes
-		allow_viking_invasion = yes
 		can_grant_divorce = yes
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
@@ -2663,7 +2615,6 @@ jewish_group = {
 		
 		crusade_name = GREAT_HOLY_WAR
 
-		allow_looting = yes
 		can_grant_divorce = yes
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
@@ -2876,13 +2827,11 @@ indian_group = {
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 
-		aggression = 2
-		allow_viking_invasion = yes
+
 		has_heir_designation = yes
 		can_grant_divorce = yes
 		priests_can_inherit = no
 		#max_consorts = 3
-		#hard_to_convert = yes
 		
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
