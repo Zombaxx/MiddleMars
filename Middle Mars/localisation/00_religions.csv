@@ -92,20 +92,37 @@ fraticelli;Post Terra;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
 fraticelli_DESC;In a Post-Terran world, the faithful must adapt to the realities that Terra will never be what it once was, no matter how great its legacy.;fraticelle;Fratizellisch;;Fraticelli;;;;;;;;;x
 lollard;First Terra;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
 lollard_DESC;Ultra Orthodox sect of Holy Terra which was re-founded based on ancient texts in Holy Terran ruins.;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
-waldensian;Original Singularity;Secular interpretation of Holy Terra and the Singularity which was re-founded based on ancient texts in Holy Terran ruins.;Waldenserisch;;Valdense;;;;;;;;;x
-waldensian_DESC;Fusion of Holy Terran and Blessed Singularity beliefs.;vaudoise;Waldenserisch;;Valdense;;;;;;;;;x
+waldensian;Alban Warlord;;Waldenserisch;;Valdense;;;;;;;;;x
+waldensian_DESC;Although undoubtably sharing many aspects with all Singularity religions, the Alban Warlords are adversaries of Holy Terra who take what they need from their neighbors by force due to their nearly opposite interpretation of Singularitan teachings. They believe Earth and its lingering influence to be an evil force that must be prepared for and proactively fought against. Their founder was said to have been a vault dweller turned raider, and is the successor to the majority religion of Alba before Holy Terra took prominence.;vaudoise;Waldenserisch;;Valdense;;;;;;;;;x
+monothelite;Original Singularity;Waldenserisch;;Valdense;;;;;;;;;x
+monothelite_DESC;Fusion of Holy Terran and Blessed Singularity beliefs.;vaudoise;Waldenserisch;;Valdense;;;;;;;;;x
+
+
+
 bogomilist;Blessed Terra;bogomile;Bogomilisch;;Bogomilo;;;;;;;;;x
-bogomilist_DESC;Extremist offshoot of Holy Terra which believes the chosen Martians will one day return to reclaim rather than reconnect with Terra.;bogomile;Bogomilisch;;Bogomilo;;;;;;;;;x
+bogomilist_DESC;Extremist offshoot of Holy Terra which believes the chosen Martians will one day return to reclaim rather than reconnect with Terra. Small-time rulers, unburdened by matters of state, may attempt similar reclaimations as part of their traditions.;bogomile;Bogomilisch;;Bogomilo;;;;;;;;;x
 iconoclast;First Singularity;iconoclaste;Ikonoklastisch;;Iconoclasta;;;;;;;;;x
-iconoclast_DESC;Ultra Orthodox sect of Blessed Singularity which believe that the less pious adherents of Blessed Singularity are just as guilty as Holy Terra.;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
+iconoclast_DESC;Ultra Orthodox sect of Blessed Singularity which believe that the less pious adherents of Blessed Singularity are just as guilty as Holy Terra, and that any non-pious Singularitans and followers of other religions are undeserving of their riches if they cannot protect themselves.;lollarde;Lollardisch;;Lolardo;;;;;;;;;x
+miaphysite;Holy Mars;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
+miaphysite_DESC;Believes that Earth was a terraformed planet and that Mars may very well be mankind's original home, but otherwise follows standard Singularity doctrine.;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
 monophysite;Altered Terra;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
 monophysite_DESC;Believe that the disaster changed Terra in addition to Mars, and that Martians should strive to be like the new, Altered Terra since the planet and human race has been forever changed. Striving to be like the people of the past could lead to a dangerous future.;monophysite;Monophysitisch;;Monofisita;;;;;;;;;x
-zikri;True Terraformed;zikrie;Zikrisch;;Zikri;;;;;;;;;x
-yazidi;Pre Terraformed;yézidie;Yazidisch;;Yazidí;;;;;;;;;x
+zikri;Natural Order;zikrie;Zikrisch;;Zikri;;;;;;;;;x
+yazidi;True Terraformed;yézidie;Yazidisch;;Yazidí;;;;;;;;;x
 ibadi;Original Terraformed;ibadite;Ibadisch;;Ibadí;;;;;;;;;x
-bektashi;Old Terraformed;bektachi;Bektaschisch;;Bektashi;;;;;;;;;x
 druze;Terraformed Reborn;druze;Drusisch;;Druso;;;;;;;;;x
 hurufi;New Terraformed;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+zikri_DESC;Post Terraformed;zikrie;Zikrisch;;Zikri;;;;;;;;;x
+yazidi_DESC;True Terraformed;yézidie;Yazidisch;;Yazidí;;;;;;;;;x
+ibadi_DESC;Original Terraformed;ibadite;Ibadisch;;Ibadí;;;;;;;;;x
+druze_DESC;The Terraformed Reborn are vulnerable to decadence uprisings if their family strays, but are more easily able to prepare invasions and declare indepenence against infidels.;druze;Drusisch;;Druso;;;;;;;;;x
+hurufi_DESC;New Terraformed;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+hurufi_DESC;The New Terraformed are a progressive offshoot that value peace and equality more than other Terraformed.;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+
+qarmatian;Unaltered;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+qarmatian_DESC;Hunters of the Altered and those that are different, they believe non-conformers could bring newfound doom to humanity if left unchecked, they raid other religions and Terraformed alike. Because they are Unaltered they must do as their ancestors did to take what is needed.;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+kharijite;Old Terraformed;hurufite;Hurufisch;;Hurufi;;;;;;;;;x
+
 norse_pagan;Seaborne;Seaborne;Seaborne;;Seaborne;;;;;;;;;x
 norse_pagan_DESC;When the once vast lands of Tempe Terra sank into Oceanus Borealis, leaving only the peninsula seen today, the Seaborne rose from the waters. This tragedy eventually developed into an advantage to the Seaborne, as they mastered the oceans and rivers to take what was needed.;;;;;;;;;;;;;x
 tengri_pagan;Kemetic;Kemetic;Kemetic;;Kemetic;;;;;;;;;x
@@ -120,8 +137,8 @@ khurmazta;Mekhanist;;;;;;;;;;;;;x
 khurmazta_DESC;This branch of Cyclicism is said to have come from the Immortal Elite of the Tau Ceti Star System, who had been mutinied against by their former subservients, the Spacers, during the Great Voyage to investigate the what remained of the Sol System in the wake of the Great Disaster. Adherents of this ideology see the disaster and being earth-like as merely a curiosity due to humanity's existence in other star systems, and other realities, beyond Sol.;;;;;;;;;;;;;x
 mazdaki;Cyclical Universe;;;;;;;;;;;;;x
 mazdaki_DESC;The Singularity is merely the moment that each cycle of the universe begins. Adherents of this ideology believe the disaster and being earth-like irrelevant due to the Many Cycles. They embrace equality more than most of forms of Cyclicism.;;;;;;;;;;;;;x
-manichaeism;Final Cycle;;;;;;;;;;;;;x
-manichaeism_DESC;The Singularity is merely the moment that each cycle of the universe begins, unfortunately the Cycle will not continue on indefinitely. Adherents of this ideology believe the disaster and being earth-like to be important mysteries which must be solved to prolong humanity's survival, given that the univserse will never again rejuvinate itself.;;;;;;;;;;;;;x
+manichean;Final Cycle;;;;;;;;;;;;;x
+manichean_DESC;The Singularity is merely the moment that each cycle of the universe begins, unfortunately the Cycle will not continue on indefinitely. Adherents of this ideology believe the disaster and being earth-like to be important mysteries which must be solved to prolong humanity's survival, given that the univserse will never again rejuvinate itself.;;;;;;;;;;;;;x
 
 hellenic_pagan;Olympic;hellénique;Hellenisch;;Helenística;;;;;;;;;x
 hellenic_pagan_DESC;The Olympic religion is polytheistic, with a pantheon of twelve major gods including Jupiter, Mars, Mercury, Venus, Minerva and Vesta. It originated in ancient Post-Disaster Mars with the conquests of Xander the Great and the Olympian Empire, it would go on to become the dominant religion in the western Tharsis Rise until the rise of Singularity and Solarianism.;La religion hellénique est polythéiste, avec un panthéon de douze dieux majeurs dont Jupiter, Mars, Mercure, Venus, Minerve et Vesta. Elle puise ses origines dans la Grèce antique et, grâce aux conquêtes d'Alexandre le Grand et l'Empire romain, elle a pu devenir la religion dominante en Méditerrannée jusqu'à l'avènement du Christianisme.;Die hellenische Religion ist polytheistisch mit einem Pantheon von zwölf Hauptgöttern, zu welchem Jupiter, Mars, Merkur, Venus, Minerva und Vesta gehören. Sie entstammt dem alten Griechenland und wurde durch die Eroberungen Alexander des Großen und des Römischen Reiches zur Hauptreligion im Mittelmeerraum, bis zum Aufkommen des Christentums.;;La religión helenística es politeista, con un panteón de doce Dioses mayores incluyendo Júpiter, Marte, Mercurio, Venus, Minerva y Vesta. Se originó en la antigua Grecia y, con las conquistas de Alejandro Magno y el Imperio Romano, se convirtió en la religión predominante en el Mediterráneo hasta el auge del Cristianismo.;;;;;;;;;x

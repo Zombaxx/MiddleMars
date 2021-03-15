@@ -11605,7 +11605,7 @@
 	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "catholic"
+	religion = "waldensian"
 	trait = brilliant_strategist
 	martial = 10
 	trait = hunter
@@ -11636,7 +11636,7 @@
 	}
 	1000.1.1={
 		prestige = -25000
-		religion = fraticelli
+		religion = waldensian
 	}
 	1026.1.1={
 		death="1026.1.1"
@@ -11646,7 +11646,7 @@
 	name = "Elon"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "fraticelli"
+	religion = "waldensian"
 	father = 100801
 	1005.1.1={
 		birth="1005.1.1"
@@ -11663,7 +11663,7 @@
 	name = "Segoin"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "fraticelli"
+	religion = "waldensian"
 	father = 100801
 	1008.1.1={
 		birth="1008.1.1"
@@ -11676,7 +11676,7 @@
 	name = "Arsindis"
 	female = yes
 	culture = "old_frankish"
-	religion = "fraticelli"
+	religion = "waldensian"
 	prestige = -2000
 	1009.1.1={
 		birth="1009.1.1"
@@ -11708,7 +11708,7 @@
 	name = "Ragnald"
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "fraticelli"
+	religion = "waldensian"
 	father = 100802
 	mother = 100804
 	trait = content
@@ -11759,7 +11759,7 @@
 	female = yes
 	dynasty = 100800
 	culture = "old_frankish"
-	religion = "fraticelli"
+	religion = "waldensian"
 	father = 100803
 	prestige = -2000
 	1030.1.1={
