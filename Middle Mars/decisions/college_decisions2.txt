@@ -2,15 +2,14 @@ decisions = {
 	pursue_degree = {
 		potential = {
 			age = 16
+			NOT = { has_character_flag = gone_bs_college }
+			prisoner = no
+			NOT = { trait = incapable }
+			capital_scope = { has_building = ca_public_schools }
 		}
 		allow = {
 			in_command = no
-			NOT = { has_character_flag = gone_bs_college }
-			age = 14
-			prisoner = no
 			wealth = 100
-			NOT = { trait = incapable }
-			capital_scope = { has_building = ca_public_schools }
 		}
 		effect = { 
 			hidden_tooltip = {
