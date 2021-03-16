@@ -251,8 +251,6 @@ christian = {
 		
 		crusade_name = CRUSADE
 
-		can_retire_to_monastery = yes
-		priests_can_inherit = no
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
