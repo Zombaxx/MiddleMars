@@ -4,8 +4,6 @@ decisions = {
 
 		potential = {
 			age = 14
-		}
-		allow = {
 			is_ruler = yes
 			in_command = no
 			NOT = { has_character_modifier = give_speech }
@@ -16,11 +14,15 @@ decisions = {
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }
 		}
+		allow = {
+			age = 14
+
+		}
 		effect = { 
 			hidden_tooltip = {
 				add_character_modifier = {
 					name = give_speech
-					duration = 2
+					duration = 720
 					hidden = yes
 				}
 				character_event = { id = royspeech.7 } 
