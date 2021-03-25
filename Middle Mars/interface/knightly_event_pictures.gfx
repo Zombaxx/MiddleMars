@@ -4,4 +4,15 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/knighthood1.dds"
 		allwaystransparent = yes
 	}
+	spriteType = {
+		name = "GFX_event_roy_squire"
+		texturefile = "gfx/event_pictures/roy_squire.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_event_dunkegg"
+		texturefile = "gfx/event_pictures/dunkegg.dds"
+		allwaystransparent = yes
+	}
 }
+

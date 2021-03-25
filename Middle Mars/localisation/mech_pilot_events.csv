@@ -49,3 +49,17 @@ good_pilot_desc;This character handles their Mech Suit well.;;;x
 EVTDESCsuit_events.2;As an Emperor, it simply will not do to pilot a standard Mech Suit like every other Commander. No, you have tasked your researchers with developing an AP-6 STRIKER. At last, their construction is complete and you can now pilot her yourself if you can handle it...;;;x
 EVTOPTAsuit_events.2;All will bow to me!;;;x
 suitevt3;Your Mech Suit is scrapped to build an AP-6 STRIKER;;;x
+
+EVTDESCsuit_events.3;In the heat of battle, you and your men encounter your enemy [roboduel.GetFirstName]'s Mech Suit wreaking great havoc among your lines. Unlike anything you've ever seen, the creature kills scores of men with just one swoop of its gigantic metal claws. Watching your men demoralized and fleeing, you contemplate going for a charge...;;;x
+EVTOPTAsuit_events.3;No, that would be too dangerous.;;;x
+EVTOPTBsuit_events.3; May [Root.Religion.GetHighGodName] guide my sword to victory. Charge!!!;;;x
+suitevt4;You charge forward and face the metal beast on your own.;;;x
+
+EVTDESCsuit_events.4;By the grace of [Root.Religion.GetHighGodName], you managed to narrowly dodge an attack from the metal demon, ramming your lance right into where it hides its master. The beast groans and staggers, ejecting its master [roboduel.GetFirstName] from its chest and falling to pieces.;;;x
+EVTOPTAsuit_events.4;Men will sing songs of this day for years to come!;;;x
+
+EVTDESCsuit_events.5;Before you could make it to the beast, one sweep of its claw knocks you off your horse and flings you into the air. You land on your back, a great distance from where you once were, alive, but badly injured.;;;x
+EVTOPTAsuit_events.5;My leg...!;;;x
+
+EVTDESCsuit_events.6;By the grace of [Root.Religion.GetHighGodName], you managed to narrowly dodge an attack from the metal demon, ramming your lance right into where it hides its master. The beast groans and staggers. As you pull your lance away, you realize you have impaled the beast's master [roboduel.GetFirstName] and killed [roboduel.GetHerHim]. It is now yours to claim.;;;x
+EVTOPTAsuit_events.6;To the victor, the spoils...;;;x

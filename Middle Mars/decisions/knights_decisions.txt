@@ -31,6 +31,9 @@ targetted_decisions = {
 			is_female = no
 			martial = 12
 			show_only_failed_conditions = yes
+			NOT = {
+				trait = squire
+			}	
 		}
 		effect = {
 			FROM = {
@@ -161,11 +164,48 @@ targetted_decisions = {
 		allow = {
 			religion_group = christian
 			age = 16
+			trait = squire
 		}
 		effect = {
 			FROM = {
 				character_event = {
-					id = knightly.0003
+					id = knightly.003
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	train_squire = {
+		ai_target_filter = court
+		filter = court
+		from_potential = {
+			NOT = { has_character_modifier = trained_squire }
+			AND = {
+				is_ruler = yes
+				trait = knight
+			}
+		}
+		potential = {
+			religion_group = christian
+			educator = {
+				character = FROM
+				}
+			is_female = no
+			age = 8
+			NOT = { age = 16 }
+			trait = squire
+		}
+		allow = {
+			religion_group = christian
+			age = 8
+			NOT = { age = 16 }
+		}
+		effect = {
+			FROM = {
+				character_event = {
+					id = knightly.100
 				}
 			}
 		}

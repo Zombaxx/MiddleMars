@@ -1,6 +1,26 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_roy_charge"
+		texturefile = "gfx\\event_pictures\roy_charge.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_aftermath"
+		texturefile = "gfx\\event_pictures\roy_aftermath.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_combat_sword"
+		texturefile = "gfx\\event_pictures\combat_sword.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_mech_battle"
+		texturefile = "gfx\\event_pictures\mech_battle.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
 		name = "GFX_roy_guns"
 		texturefile = "gfx\\event_pictures\roy_guns.dds"
 		allwaystransparent = yes

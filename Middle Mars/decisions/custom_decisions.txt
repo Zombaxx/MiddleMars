@@ -71,7 +71,6 @@ targetted_decisions = {
 	
 		potential = {
 			age = 12
-			NOT = { age = 16 }
 			is_landed = no
 			in_command = no	
 			is_female = no
@@ -80,11 +79,13 @@ targetted_decisions = {
 		}
 		allow = {
 			age = 12
+			NOT = { age = 35 }
 			is_landed = no
 			in_command = no	
 			is_female = no
 			prisoner = no
 			is_primary_heir = no
+			NOT = { is_child_of = FROM }
 			host = { character = FROM }
 		}
 		effect = {

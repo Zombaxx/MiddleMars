@@ -12,11 +12,13 @@ give_speech = {
 inspired_faithfuls = {
 	icon = 17
 	local_revolt_risk = -0.03
-	levy_reinforce_rate = 0.15
+	liege_piety = 0.25
+
 }
 revered_military = {
 	icon = 13
-	levy_reinforce_rate = 0.25
+	levy_reinforce_rate = 0.35
+	land_morale = 0.25
 }
 despise_immigrants = {
 	icon = 29
@@ -26,5 +28,8 @@ despise_immigrants = {
 strong_ruler = {
 	icon = 18
 	levy_reinforce_rate = 0.35
-	local_revolt_risk = -0.10
+	local_revolt_risk = -0.02
+}
+trained_squire = {
+	icon = 1
 }
