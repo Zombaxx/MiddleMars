@@ -1,0 +1,83 @@
+decisions = {
+	form_cadet_branch = {
+		is_high_prio = yes
+		potential = {
+			age = 21
+			OR = {
+				culture_group = { central_germanic }
+				culture_group = { west_germanic }
+				culture = basque
+				culture_group = { east_african }
+				}
+			is_landed = yes
+			prisoner = no
+			is_female = no
+			is_primary_heir = no
+			higher_tier_than = BARON
+			NOT = { trait = incapable }
+			NOT = { has_character_flag = cadetbranch }
+			NOT = { 
+				dynasty_head = { 
+					character = ROOT 
+				}
+			} 
+
+		}
+		allow = {
+			prestige = 200
+			wealth = 200
+		}
+		effect = {
+			prestige = -200
+			wealth = -200
+			set_character_flag = cadetbranch
+			hidden_tooltip = {
+			create_character = {
+ 				random_traits = no
+  				dynasty = random
+  				religion = ROOT
+  				culture = ROOT
+  				female = no
+  				age = 80
+  				health = 3
+  				fertility = 0.8
+				}
+			}
+			new_character = {
+				set_character_flag = remove_me_dynasty
+				narrative_event = { id = FDY.1 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0.02
+				religion = taoist
+			} 
+			modifier = {
+				factor = 0.25
+				NOT = { martial = 8 }
+			} 
+			modifier = {
+				factor = 0.5
+				NOT = { wealth = 350 }
+			} 
+			modifier = {
+				factor = 5
+				trait = ambitious
+			} 
+			modifier = {
+				factor = 2
+				trait = proud
+			} 
+			modifier = {
+				factor = 0.01
+				NOT = { num_of_children = 2 }
+			} 
+			modifier = {
+				factor = 0.5
+				NOT = { age = 26 }
+			} 
+		}
+	}	
+
