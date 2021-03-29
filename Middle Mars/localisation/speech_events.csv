@@ -8,7 +8,13 @@ revered_military_desc;Military Service is heavily promoted in this realm. Many y
 despise_immigrants;Foreigner Pogrom;;;x
 despise_immigrants_desc;The minorites of this realm have been scapegoated for all of the people's problems and are being persecuted.;;;x
 strong_ruler;Respected Ruler;;;x
-strong_ruler;The ruler of this realm has gained the love and respect of his countrymen.;;;x
+strong_ruler;The ruler of this realm has gained the love and respect of their countrymen.;;;x
+pious_leader;Pious Leader;;;x
+pious_leader_desc;This ruler is revered by members of their religion.;;;x
+army_disarray;Army Disarray;;;x
+army_disarray_desc;This ruler has little command over their own troops.;;;x
+respect_leader;Respected Leader;;;x
+respect_leader_desc;This ruler commands love and respect from their people of their realm.;;;x
 give_speech;Gave Speech;;;x
 commander_appreciated;Appreciated;;;x
 
@@ -26,6 +32,8 @@ EVTOPTBroyspeech.7;Organize a Military Parade;;;x
 speechmilit;Prepare a celebration of your realm's great fighters.;;;x
 EVTOPTCroyspeech.7;Define State Policy;;;x
 speechtalk;Prepare a speech addressing both your policy for your people going forward and your intentions for your enemies.;;;x
+EVTOPTDroyspeech.7;Cancel the Event;;;x
+speechcancel;Send your vassals home and do this another day;;;x
 
 EVTDESCroyspeech.1;Your speech was a rousing success! Many people from all corners of your realm gathered in [Root.Capital.GetName]'s Assembly Chamber to hear you speak of your undying devotion to [Root.Religion.GetHighGodName]. The masses were impressed by your prayers, some even fainting in the stands. Soon, word of this event will spread across the entire realm!;;;x
 EVTOPTAroyspeech.1;[Root.Religion.GetHighGodName] be praised!;;;x

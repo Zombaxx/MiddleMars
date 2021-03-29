@@ -18,7 +18,7 @@ character_event = {
 			add_trait = wounded
 			ROOT = { add_trait = cruel }
 			opinion = { 
-				modifier = -100
+				modifier = opinion_mutilated_me
 				who = ROOT 
 			}
 			mother = {
@@ -68,7 +68,7 @@ character_event = {
 			add_trait = wounded
 			ROOT = { add_trait = cruel }
 			opinion = { 
-				modifier = -100
+				modifier = opinion_mutilated_me
 				who = ROOT 
 			}
 			mother = {

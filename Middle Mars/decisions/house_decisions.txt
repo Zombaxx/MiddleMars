@@ -3,33 +3,40 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 21
-			OR = {
-				culture_group = { central_germanic }
-				culture_group = { west_germanic }
-				culture = basque
-				culture_group = { east_african }
-				}
-			is_landed = yes
 			prisoner = no
 			is_female = no
-			is_primary_heir = no
+			is_heir = no
 			higher_tier_than = BARON
 			NOT = { trait = incapable }
-			NOT = { has_character_flag = cadetbranch }
+			NOT = { has_character_flag = cadetbranch }	
 			NOT = { 
 				dynasty_head = { 
 					character = ROOT 
 				}
 			} 
-
+			NOT = { 
+				dynasty_head = { 
+					is_parent_of = ROOT 
+				}
+			} 
+			NOT = { 
+				dynasty_head = { 
+					is_grandparent_of = ROOT 
+				}
+			} 
+			NOT = { 
+				liege = { 
+					is_parent_of = ROOT 
+				}
+			} 
 		}
 		allow = {
 			prestige = 200
-			wealth = 200
+			wealth = 150
 		}
 		effect = {
 			prestige = -200
-			wealth = -200
+			wealth = -150
 			set_character_flag = cadetbranch
 			hidden_tooltip = {
 			create_character = {
@@ -49,10 +56,18 @@ decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0.5
 			modifier = {
 				factor = 0.02
 				religion = taoist
+			} 
+			modifier = {
+				factor = 1
+				religion_group = christian
+			} 
+			modifier = {
+				factor = 0.02
+				NOT = { religion_group = christian }
 			} 
 			modifier = {
 				factor = 0.25
@@ -60,7 +75,7 @@ decisions = {
 			} 
 			modifier = {
 				factor = 0.5
-				NOT = { wealth = 350 }
+				NOT = { wealth = 250 }
 			} 
 			modifier = {
 				factor = 5
@@ -73,6 +88,10 @@ decisions = {
 			modifier = {
 				factor = 0.01
 				NOT = { num_of_children = 2 }
+			} 
+			modifier = {
+				factor = 0.5
+				liege = { dynasty = ROOT }
 			} 
 			modifier = {
 				factor = 0.5

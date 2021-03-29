@@ -356,3 +356,56 @@ character_event = {
 		}
 	}
 }
+#Squire fights fiercely in battle
+character_event = {
+	id = knightly.103
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		trait = squire
+		age = 12
+		NOT = { age = 16 }
+		educator = {
+		in_command = yes
+		trait = knight
+		}
+	}
+
+	immediate = {
+		educator = { character_event = { id = knightly.104 } }
+	}
+}
+#Squire fights fiercely in battle
+character_event = {
+	id = knightly.104
+	desc = EVTDESCknightly.104
+	picture = GFX_roy_knighting
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAknightly.104
+		FROM = {
+			remove_trait = squire
+			add_trait = knight
+			change_martial = 1
+			random = {
+				chance = 60
+				add_trait = brave
+			}
+			random = {
+				chance = 10
+				add_trait = wounded
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBknightly.104
+		FROM = {
+			change_martial = 1
+			random = {
+				chance = 10
+				add_trait = wounded
+			}
+		}
+	}
+}

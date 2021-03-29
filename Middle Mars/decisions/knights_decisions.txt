@@ -146,8 +146,8 @@ targetted_decisions = {
 		}
 	}
 	knight_squire = {
-		ai_target_filter = court
-		filter = court
+		ai_target_filter = realm
+		filter = realm
 		from_potential = {
 			prestige = 25
 			AND = {
