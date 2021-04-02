@@ -493,6 +493,7 @@ castle = {
 				religion = taoist
 				culture = basque
 				culture = catalan
+				TECH_CITY_CONSTRUCTION = 5
 				}	
 				capital_holding = {	
 					title = FROMFROM	
@@ -519,13 +520,14 @@ castle = {
 			OR = {
 				religion = taoist
 				culture = basque
+				TECH_CITY_CONSTRUCTION = 6
 				}	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 5 }
+		trigger = { TECH_CITY_CONSTRUCTION = 7 }
 		gold_cost = 250
 		build_time = 730
 		disease_defence = 0.15
@@ -544,6 +546,7 @@ castle = {
 			OR = {
 				religion = taoist
 				culture = basque
+				TECH_CITY_CONSTRUCTION = 7
 				}		
 				capital_holding = {	
 					title = FROMFROM	
@@ -566,6 +569,7 @@ castle = {
 			OR = {
 				religion = taoist
 				culture = basque
+				TECH_CITY_CONSTRUCTION = 8
 				}		
 				capital_holding = {	
 					title = FROMFROM	

@@ -21,3 +21,6 @@ EVTOPTBroyjudge.1;Intervene and have him fined instead.;;;x
 judge2;Though whoring is against the law, a small fine should suffice for such an infraction.;;;x
 EVTOPTCroyjudge.1;Intervene and have him released.;;;x
 judge3;[From.GetFirstName] be damned, this isn't worth throwing a man in prison!;;;x
+
+has_antibrothel_religion_trigger;[This.GetTitledFirstName]'s religion is one traditionally opposed to brothels;;;x
+has_antibrothel_culture_trigger;[This.GetTitledFirstName]'s culture is one traditionally opposed to brothels;;;x

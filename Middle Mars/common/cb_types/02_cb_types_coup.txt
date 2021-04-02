@@ -17,7 +17,9 @@ powerful_vassal_takeover_war = {
   	is_permanent = yes
 
   	can_use_gui = {
-		ROOT = { independent = no }
+		ROOT = {
+			prestige = 1500
+			independent = no }
 	}
 	can_use = { 
 		ROOT = {
@@ -49,6 +51,7 @@ powerful_vassal_takeover_war = {
 		}	
 	}
 	on_add = {
+		ROOT = { prestige = -1500 }
 		defender = { set_character_flag = fighting_war }
 		attacker = { set_character_flag = fighting_war }
 	}

@@ -6,6 +6,7 @@ decisions = {
 			NOT = { age = 50 }
 			NOT = { has_character_flag = gone_college }
 			NOT = { has_character_modifier = college_educated }
+			has_building = ca_doctoral_program
 		}
 		allow = {
 			wealth = 100
