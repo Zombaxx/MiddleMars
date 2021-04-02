@@ -10,9 +10,10 @@ decisions = {
 		}
 		allow = {
 			wealth = 100
-			capital_holding = {
 			has_building = ca_doctoral_program
-				}
+		}
+		allow = {
+			wealth = 100
 		}
 		effect = {
 			character_event = { id = college_school_events.10 } 
@@ -21,5 +22,4 @@ decisions = {
 			factor = 0
 		}
 	}
-
 }

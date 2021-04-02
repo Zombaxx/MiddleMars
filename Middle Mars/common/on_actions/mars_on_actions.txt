@@ -17,6 +17,8 @@ on_birth = {
 on_yearly_pulse = {
 	random_events = {
 		1000 = 0
+		500 = take_hostage_events.8
+		400 = knightly.007
 		100 = slavery_events.2
 		100 = slavery_events.21
 		100 = slavery_events.22
@@ -36,12 +38,16 @@ on_yearly_pulse = {
 	}
 }
 on_bi_yearly_pulse = {
+	random_events = {
+		1500 = 0
+		800 = knightly.004
+		750 = knightly.009
+	}
 	events = {
 		royjudge.0
 		roycoup.0
 		going_school_events.0
 		take_hostage_events.0
-		take_hostage_events.8
 	}
 }
 on_decade_pulse = {
@@ -56,6 +62,7 @@ on_decade_pulse = {
 }
 on_adulthood = {
 	events = {
+		knightly.006
 		take_hostage_events.7
 	}
 }
@@ -79,6 +86,7 @@ on_combat_pulse = {
 		3000 = robobattle_events.99
 		3000 = robobattle_events.101
 		500 = suit_events.0
+		500 = suit_events.3
 	}
 }
 on_siege_over_winner = {
@@ -93,7 +101,8 @@ on_battle_won_owner = {
 		Ac.7778 # For AI
 	}
 	random_events = {
-		1000 = knightly.005
+		1000 = 0
+		200 = knightly.005
 	}
 }
 on_siege_won_leader = {

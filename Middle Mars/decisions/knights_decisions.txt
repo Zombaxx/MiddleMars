@@ -31,6 +31,9 @@ targetted_decisions = {
 			is_female = no
 			martial = 12
 			show_only_failed_conditions = yes
+			NOT = {
+				trait = squire
+			}	
 		}
 		effect = {
 			FROM = {
@@ -68,6 +71,7 @@ targetted_decisions = {
 		}
 		allow = {
 			religion_group = christian
+			is_feudal = yes
 			show_only_failed_conditions = yes
 			age = 8
 
@@ -90,47 +94,6 @@ targetted_decisions = {
 		}
 	}
 
-	arrange_knighthood = {
-		ai_target_filter = self
-		filter = self
-		from_potential = {
-			is_ruler = yes
-		}
-		
-		potential = {
-			is_female = no
-			religion_group = christian
-			age = 16
-			NOT = {
-				trait = knight
-			}
-		}
-		allow = {
-			age = 16
-			religion_group = christian
-			martial = 12
-			show_only_failed_conditions = yes
-			FROM = { wealth = 50 }
-		}
-		effect = {
-			FROM = {
-				wealth = -50
-			}
-			FROM = {
-				character_event = {
-					id = knightly.0004
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0.25
-				NOT = { wealth = 100 }
-			} 
-		}
-	}
-		
 	buy_knighthood = {
 		ai_target_filter = self
 		filter = self
@@ -147,47 +110,47 @@ targetted_decisions = {
 			}
 		}
 		allow = {
+			is_feudal = yes
 			age = 16
 			religion_group = christian
 			wealth = 150
 		}
 		effect = {
 			add_trait = knight
-			remove_trait = squire
-			FROM = {
+			ROOT = {
 				wealth = -150
-				prestige = -150
+				prestige = -200
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0.5
 			modifier = {
 				factor = 0.02
 				NOT = { martial = 10 }
 			} 
 			modifier = {
 				factor = 0.001
-				trait = honest
-			} 
-			modifier = {
-				factor = 1.2
 				OR = {
-				trait = craven
-				trait = greedy
+				trait = honest
+				trait = proud
 				}
 			} 
 			modifier = {
+				factor = 1.2
+				trait = craven
+			} 
+			modifier = {
 				factor = 0.01
-				NOT = { wealth = 200 }
+				NOT = { wealth = 400 }
 			} 
 		}
 	}
 	knight_squire = {
-		ai_target_filter = court
-		filter = court
+		ai_target_filter = realm
+		filter = realm
 		from_potential = {
 			prestige = 25
-			OR = {
+			AND = {
 				is_ruler = yes
 				trait = knight
 			}
@@ -201,11 +164,48 @@ targetted_decisions = {
 		allow = {
 			religion_group = christian
 			age = 16
+			trait = squire
 		}
 		effect = {
 			FROM = {
 				character_event = {
-					id = knightly.0003
+					id = knightly.003
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	train_squire = {
+		ai_target_filter = court
+		filter = court
+		from_potential = {
+			NOT = { has_character_modifier = trained_squire }
+			AND = {
+				is_ruler = yes
+				trait = knight
+			}
+		}
+		potential = {
+			religion_group = christian
+			educator = {
+				character = FROM
+				}
+			is_female = no
+			age = 8
+			NOT = { age = 16 }
+			trait = squire
+		}
+		allow = {
+			religion_group = christian
+			age = 8
+			NOT = { age = 16 }
+		}
+		effect = {
+			FROM = {
+				character_event = {
+					id = knightly.100
 				}
 			}
 		}

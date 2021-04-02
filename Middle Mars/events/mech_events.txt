@@ -129,4 +129,247 @@ character_event = {
 			add_artifact = super_mech_suit 
 			}
 		}
+#
+#
+#
+#
 
+#Encounter Mech suit in battle
+long_character_event = {
+	id = suit_events.3
+	desc = EVTDESCsuit_events.3
+	title = EVTNAMEsuit_events.3
+	border = GFX_event_long_frame_war
+	picture = GFX_roy_charge
+
+	is_triggered_only = yes
+	in_command = yes
+
+	trigger = {
+		NOT = { is_at_sea = yes }
+		in_battle = yes
+		NOT = { culture = han }
+		NOR = {
+			has_artifact = super_mech_suit
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+			}
+		any_current_enemy = {
+			in_command = yes 
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+		}
+			at_location = ROOT
+				OR = {
+					war_with = ROOT
+					ROOT = { any_liege = { war_with = PREVPREV } }
+					any_liege = { 
+						OR = {
+							war_with = ROOT 
+							ROOT = { any_liege = { war_with = PREVPREV } }
+						}	
+					}
+				}
+		}
+	}
+
+	immediate = {
+		any_current_enemy = {
+		limit = {
+			in_command = yes 
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+		}
+			at_location = ROOT
+				OR = {
+					war_with = ROOT
+					ROOT = { any_liege = { war_with = PREVPREV } }
+					any_liege = { 
+						OR = {
+							war_with = ROOT 
+							ROOT = { any_liege = { war_with = PREVPREV } }
+						}	
+					}
+				}
+			}
+			save_event_target_as = roboduel		
+		}
+	}
+
+	option = {
+		name = EVTOPTAsuit_events.3
+		clear_event_target = roboduel
+	}
+	option = {
+		name = EVTOPTBsuit_events.3
+		custom_tooltip = { text = suitevt4 }
+		ROOT = {
+			random_list = {
+				60 = { add_trait = brave }
+				40 = { add_trait = honorable }
+			}
+		}
+		hidden_tooltip = {
+			random_list = {
+				15 = {
+				modifier = {
+					factor = 1.25
+					ROOT = { martial = 15 } 
+				}
+				modifier = {
+					factor = 1.35
+					ROOT = { martial = 20 } 
+				}
+				modifier = {
+					factor = 1.5
+					ROOT = { martial = 12 }
+				}				
+				modifier = {
+					factor = 1.75
+					ROOT = { martial = 9 } 
+				}  
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = brave } 
+				}  
+				character_event = { id = suit_events.4 days = 1 } }
+				60 = {
+				modifier = {
+					factor = 1.25
+					ROOT = { NOT = { martial = 8 } }
+				}
+				modifier = {
+					factor = 1.35
+					ROOT = { NOT = { martial = 6 } }
+				}
+				modifier = {
+					factor = 1.5
+					ROOT = { NOT = { martial = 4 } }
+				}				
+				modifier = {
+					factor = 1.75
+					ROOT = { NOT = { martial = 2 } }
+				}  
+				character_event = { id = suit_events.5 days = 1 } }
+				25 = { 
+				modifier = {
+					factor = 1.25
+					ROOT = { martial = 15 } 
+				}
+				modifier = {
+					factor = 1.35
+					ROOT = { martial = 20 } 
+				}
+				modifier = {
+					factor = 1.5
+					ROOT = { martial = 12 }
+				}				
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = strong } 
+				}  
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = brave } 
+				}  
+				character_event = { id = suit_events.6 days = 1 } }
+			}
+		}
+	}
+}
+#Win and destroy opposing Mech Suit
+	character_event = {
+		id = suit_events.4
+		desc = "EVTDESCsuit_events.4"
+		border = GFX_event_normal_frame_war
+		picture = GFX_roy_aftermath
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTOPTAsuit_events.4" 
+		hidden_tooltip = {
+			if = {
+				limit = {
+					has_nickname = no
+					is_adult = yes
+					NOT = { trait = incapable }
+				}
+				random_list = {
+					33 = {
+						give_nickname = nick_of_the_demon_slay
+					}
+					33 = {
+						give_nickname = nick_of_the_bane_of_machine
+					}
+					33 = {
+						give_nickname = nick_the_reli_champ
+					}
+				}
+			}
+		}
+		event_target:roboduel = { 
+			add_trait = maimed
+			random_artifact = { 
+				limit = { has_artifact_flag = mecha_suit
+					is_artifact_active = yes }
+				unsafe_destroy_artifact = yes } }
+		clear_event_target = roboduel
+		}
+}
+#Lose and suffer grevious wounds
+	character_event = {
+		id = suit_events.5
+		border = "GFX_event_normal_frame_war"
+		desc = "EVTDESCsuit_events.5"
+		picture = GFX_mech_aftermath
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTOPTAsuit_events.5" 
+		add_character_modifier = { recentmechbattle days = 40 }
+			add_trait = severely_injured
+			add_trait = wounded
+			random = {
+				chance = 15
+				add_trait = maimed
+			}
+			random = {
+				chance = 15
+				add_trait = one_legged
+			}
+		clear_event_target = roboduel
+		}
+}
+#Win and steal opponent's Mech Suit
+	character_event = {
+		id = suit_events.6
+		desc = "EVTDESCsuit_events.6"
+		border = GFX_event_normal_frame_war
+		picture = GFX_roy_aftermath
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTOPTAsuit_events.6" 
+		add_character_modifier = { recentmechbattle days = 40 }
+		event_target:roboduel = { 
+			any_artifact = { 
+				limit = { has_artifact_flag = mecha_suit
+					is_artifact_active = yes }
+				transfer_artifact = {
+					from = PREV
+					to = ROOT
+					} 
+				} 
+			}
+			death = {
+				death_reason = death_duel
+				killer = ROOT
+			}
+		clear_event_target = roboduel
+		}
+}

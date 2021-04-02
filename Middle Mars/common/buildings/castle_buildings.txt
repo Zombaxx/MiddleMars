@@ -613,13 +613,15 @@ castle = {
 	ca_chapel_2 = {
 		potential = {	
 			FROM = {
-			OR = {
 				religion_group = christian
-				}		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
+				OR = {
+					tier = KING
+					tier = EMPEROR
+				}
+				capital_holding = {
+						title = FROMFROM
+				}
+			}
 		}	
 		trigger = { TECH_TEMPLE_CONSTRUCTION = 0 }
 		desc = ca_chapel_2_desc
@@ -646,7 +648,7 @@ castle = {
 		}	
 		trigger = { TECH_CITY_CONSTRUCTION = 3 }
 		desc = ca_trade_center_desc
-		gold_cost = 200
+		gold_cost = 500
 		build_time = 850
 		disease_defence = -0.25
 		military_techpoints = 0.5

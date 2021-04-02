@@ -217,7 +217,7 @@ character_event = {
 	}
 	option = { #Freedom
 		name = EVTOPTAroy_slavery_events.5
-			wealth = -200
+			scaled_wealth = -2
 			remove_character_modifier = armedslaves
 			capital_scope = {
 				add_province_modifier = { name = freed_slaves duration = 720 }
@@ -244,3 +244,27 @@ character_event = {
 			}
 		}
 	}
+
+character_event = {
+	id = slavery.0016
+	desc = "EVTDESCslavery.0016"
+	picture = GFX_evt_slave_market
+	
+	is_triggered_only = yes 
+	
+	option = { #Show me the slaves
+		any_courtier = {
+			limit = {
+				trait = trait_slave
+			}
+			character_event = { id = slavery.0017 }
+		}
+	}
+}
+
+character_event = {
+	id = slavery.0017
+	hide_window = yes
+	
+	is_triggered_only = yes 
+}

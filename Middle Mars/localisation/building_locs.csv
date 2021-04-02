@@ -53,7 +53,7 @@ ca_economic_analysis;Economic Analysis;x
 ct_economic_analysis;Economic Analysis;x
 ca_economic_analysis_desc;The economy is not some simple chart you learn in a book, it is organic, ever changing. Thus, we will always need analysts to pore over the data and fundamentals alike to discover and study new and existing economic problems and their solutions.;x
 ca_secret_lair;Secret Lair;x
-ca_secret_lair_desc;In this hidden abode, a schemer builds his shadowy empire of secrets, contacts, and lies. In this sanctum of intrigue and guile, anything goes in the mad quest to dominate the world and shape it according to one's own twisted vision.;x
+ca_secret_lair_desc;In this hidden abode, a schemer builds his shadowy empire of secrets, contacts, and lies. In this sanctum of intrigue and guile, anything goes in the mad quest to dominate the world and shape it according to one's own twisted vision. Allows new torture decisions.;x
 ca_underground_location;Underground Location;x
 ca_underground_location_desc;Nobody knew where the secret lair was located, but rumors have surfaced that the shadowy headquarters is secreted away deep underground, perhaps in a cave system or under a volcano, far from the reaches of any who would breach its defenses.;x
 ca_shadowy_contacts;Shadowy Contacts;x
