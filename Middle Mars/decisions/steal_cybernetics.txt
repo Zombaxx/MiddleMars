@@ -5,7 +5,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -24,6 +23,7 @@ Targetted_decisions = {
 			trait = thoth_mk_iii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -93,7 +93,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_iii
 			FROM = { add_trait = thoth_mk_iii }
 			if = {
@@ -298,7 +298,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -317,6 +316,7 @@ Targetted_decisions = {
 			trait = thoth_mk_iv
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -386,7 +386,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_iv
 			FROM = { add_trait = thoth_mk_iv }
 			if = {
@@ -591,7 +591,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -610,6 +609,7 @@ Targetted_decisions = {
 			trait = thoth_mk_v
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -679,7 +679,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_v
 			FROM = { add_trait = thoth_mk_v }
 			if = {
@@ -884,7 +884,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -903,6 +902,7 @@ Targetted_decisions = {
 			trait = thoth_mk_i
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -972,7 +972,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_i
 			FROM = { add_trait = thoth_mk_i }
 			if = {
@@ -1173,7 +1173,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -1192,6 +1191,7 @@ Targetted_decisions = {
 			trait = thoth_mk_ii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -1261,7 +1261,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = thoth_mk_ii
 			FROM = { add_trait = thoth_mk_ii }
 			if = {
@@ -1462,7 +1462,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -1481,6 +1480,7 @@ Targetted_decisions = {
 			trait = hiver_implant
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -1550,7 +1550,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = hiver_implant
 			FROM = { add_trait = hiver_implant }
 			if = {
@@ -1751,7 +1751,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -1770,6 +1769,7 @@ Targetted_decisions = {
 			trait = cybernetic_skeleton
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 250 }
 				OR = {
@@ -1839,7 +1839,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_skeleton
 			FROM = { add_trait = cybernetic_skeleton }
 			if = {
@@ -2036,7 +2036,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				trait = ambitious
 				trait = mystic
@@ -2099,6 +2098,7 @@ Targetted_decisions = {
 			trait = full_cybernetic_conversion
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 5000 }
 				OR = {
@@ -2168,7 +2168,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = full_cybernetic_conversion
 			FROM = { add_trait = full_cybernetic_conversion set_graphical_culture = ROOT }
 			if = {
@@ -2365,7 +2365,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -2384,6 +2383,7 @@ Targetted_decisions = {
 			trait = odin_mk_i
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -2461,7 +2461,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_i
 			FROM = { add_trait = odin_mk_i }
 			if = {
@@ -2658,7 +2658,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -2677,6 +2676,7 @@ Targetted_decisions = {
 			trait = odin_mk_ii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -2754,7 +2754,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_ii
 			FROM = { add_trait = odin_mk_ii }
 			if = {
@@ -2951,7 +2951,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -2970,6 +2969,7 @@ Targetted_decisions = {
 			trait = odin_mk_iii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -3047,7 +3047,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_iii
 			FROM = { add_trait = odin_mk_iii }
 			if = {
@@ -3244,7 +3244,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -3263,6 +3262,7 @@ Targetted_decisions = {
 			trait = odin_mk_iv
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -3340,7 +3340,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_iv
 			FROM = { add_trait = odin_mk_iv }
 			if = {
@@ -3537,7 +3537,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -3556,6 +3555,7 @@ Targetted_decisions = {
 			trait = odin_mk_v
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -3633,7 +3633,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = odin_mk_v
 			FROM = { add_trait = odin_mk_v }
 			if = {
@@ -3830,7 +3830,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -3849,6 +3848,7 @@ Targetted_decisions = {
 			trait = cybernetic_limb
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -3907,9 +3907,9 @@ Targetted_decisions = {
 			        	killer = FROM
 			        }
 				}
-				66 = { add_trait one_handed }
+				66 = { add_trait = one_handed }
 			}			
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_limb
 			FROM = { add_trait = cybernetic_limb }
 			if = {
@@ -4106,7 +4106,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -4125,6 +4124,7 @@ Targetted_decisions = {
 			trait = cybernetic_leg
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -4183,9 +4183,9 @@ Targetted_decisions = {
 			        	killer = FROM
 			        }
 				}
-				66 = { add_trait one_handed }
+				66 = { add_trait = one_handed }
 			}			
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = cybernetic_leg
 			FROM = { add_trait = cybernetic_leg }
 			if = {
@@ -4376,286 +4376,286 @@ Targetted_decisions = {
 		}
 	}
 
-	get_prisoner_damaged_cybernetics = {
-		filter = prisoner
-		ai_target_filter = prisoner
-		from_potential = {
-			NOT = { trait = incapable }
-			prisoner = no
-			NOT = { trait = kind }
-			OR = {
-				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
-				any_courtier = { trait = full_cybernetic_conversion }
-				any_vassal = { trait = full_cybernetic_conversion }
-				trait = full_cybernetic_conversion
-			}
-			#NOT = { religion = taoist }			
-		}
-		ai_check_interval = 6
-		potential = {
-			prisoner = yes
-			trait = damaged_cybernetics
-		}
-		allow = {
-			OR = {
-				FROM = { wealth = 50 }
-				OR = {
-					religion = tengri_pagan
-					religion = tengri_pagan_reformed
-				}				
-				AND = {
-					NOR = {
-						religion = tengri_pagan
-						religion = tengri_pagan_reformed
-					}						
-					location = { TECH_POPULAR_CUSTOMS = 2 }
-					FROM = { wealth = 250 }
-				}
-				AND = {
-					NOR = {
-						religion = tengri_pagan
-						religion = tengri_pagan_reformed
-					}
-					location = { TECH_POPULAR_CUSTOMS = 3 }
-					FROM = { wealth = 200 }
-				}
-				AND = {
-					location = { TECH_POPULAR_CUSTOMS = 4 }
-					FROM = { wealth = 150 }
-				}
-				AND = {
-					location = { TECH_POPULAR_CUSTOMS = 5 }
-					FROM = { wealth = 100 }
-				}
-				location = { TECH_POPULAR_CUSTOMS = 6 }
-			}
-#			location = {
-#				any_province_lord = {
-#					NOT = { war_with = FROM }
-#					any_demesne_title = {
-#						tier = baron
-#						location = { province_id = PREVPREVPREV }
-#						has_building = tp_biogenetics_lab_q_3
+#	get_prisoner_damaged_cybernetics = {
+#		filter = prisoner
+#		ai_target_filter = prisoner
+#		from_potential = {
+#			NOT = { trait = incapable }
+#			prisoner = no
+#			OR = {
+#				has_assigned_minor_title = title_cywizard 
+#				#any_realm_character = { has_trait = full_cybernetic_conversion }
+#				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+#				any_courtier = { has_trait = full_cybernetic_conversion }
+#				any_vassal = { has_trait = full_cybernetic_conversion }
+#				any_courtier = { trait = full_cybernetic_conversion }
+#				any_vassal = { trait = full_cybernetic_conversion }
+#				trait = full_cybernetic_conversion
+#			}
+#			#NOT = { religion = taoist }			
+#		}
+#		ai_check_interval = 6
+#		potential = {
+#			prisoner = yes
+#			trait = damaged_cybernetics
+#		}
+#		allow = {
+#			NOT = { trait = kind }
+#			OR = {
+#				FROM = { wealth = 50 }
+#				OR = {
+#					religion = tengri_pagan
+#					religion = tengri_pagan_reformed
+#				}				
+#				AND = {
+#					NOR = {
+#						religion = tengri_pagan
+#						religion = tengri_pagan_reformed
+#					}						
+#					location = { TECH_POPULAR_CUSTOMS = 2 }
+#					FROM = { wealth = 250 }
+#				}
+#				AND = {
+#					NOR = {
+#						religion = tengri_pagan
+#						religion = tengri_pagan_reformed
+#					}
+#					location = { TECH_POPULAR_CUSTOMS = 3 }
+#					FROM = { wealth = 200 }
+#				}
+#				AND = {
+#					location = { TECH_POPULAR_CUSTOMS = 4 }
+#					FROM = { wealth = 150 }
+#				}
+#				AND = {
+#					location = { TECH_POPULAR_CUSTOMS = 5 }
+#					FROM = { wealth = 100 }
+#				}
+#				location = { TECH_POPULAR_CUSTOMS = 6 }
+#			}
+##			location = {
+##				any_province_lord = {
+##					NOT = { war_with = FROM }
+##					any_demesne_title = {
+##						tier = baron
+##						location = { province_id = PREVPREVPREV }
+##						has_building = tp_biogenetics_lab_q_3
+##					}
+##				}
+##			}
+#			FROM = {
+#				OR = {
+#					NOT = { religion = taoist }
+#					trait = cynical
+#					piety = 250
+#				}
+#			}
+#		}
+#		effect = {
+#			random_list = {
+#				34 = {
+#					death = {
+#						death_reason = death_stolen_cybernetics
+#						killer = FROM
+#					}
+#				}
+#				66 = {
+#					if = {
+#					limit = {trait = infirm }
+#						add_trait = incapable
+#					}
+#					if = {
+#					limit = { NOT = { trait = infirm } }
+#						add_trait = infirm
 #					}
 #				}
 #			}
-			FROM = {
-				OR = {
-					NOT = { religion = taoist }
-					trait = cynical
-					piety = 250
-				}
-			}
-		}
-		effect = {
-			random_list = {
-				34 = {
-					death = {
-						death_reason = death_stolen_cybernetics
-						killer = FROM
-					}
-				}
-				66 = {
-					if = {
-					limit = {trait = infirm }
-						add_trait = incapable
-					}
-					if = {
-					limit = { NOT = { trait = infirm } }
-						add_trait = infirm
-					}
-				}
-			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
-			remove_trait = damaged_cybernetics
-			FROM = { add_trait = damaged_cybernetics }
-			if = {
-				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
-			}
-			if = {
-				limit = {
-					NOR = {
-						religion = tengri_pagan
-						religion = tengri_pagan_reformed 
-					} 
-				}
-				FROM = { wealth = -50 }
-			}
-			if = {
-				limit = {
-					location = {
-						TECH_POPULAR_CUSTOMS = 2
-						NOT = { TECH_POPULAR_CUSTOMS = 3 }
-					}
-				}
-				FROM = { wealth = -250 }
-			}
-			if = {
-				limit = {
-					location = {
-						TECH_POPULAR_CUSTOMS = 3
-						NOT = { TECH_POPULAR_CUSTOMS = 4 }
-					}
-				}
-				FROM = { wealth = -200 }
-			}
-			if = {
-				limit = {
-					location = {
-						TECH_POPULAR_CUSTOMS = 4
-						NOT = { TECH_POPULAR_CUSTOMS = 5 }
-					}
-				}
-				FROM = { wealth = -150 }
-			}
-			if = {
-				limit = {
-					location = {
-						TECH_POPULAR_CUSTOMS = 5
-						NOT = { TECH_POPULAR_CUSTOMS = 6 }
-					}
-				}
-				FROM = { wealth = -100 }
-			}
-			FROM = {
-				if = {
-					limit = {
-						is_landed = yes
-						religion = taoist
-					}
-					piety = -250
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0.1
-			}
-			modifier = {
-				factor = 5
-				FROM = {
-					OR = {
-						religion = khurmazta
-						secret_religion = khurmazta
-						religion = tengri_pagan
-						religion = tengri_pagan_reformed
-						secret_religion = tengri_pagan
-						secret_religion = tengri_pagan_reformed
-						culture = tau_cetinese
-					}
-				}
-			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion = taoist
-					NOT = { trait = cynical }
-				}
-			}
-			modifier = {
-				factor = 2
-				FROM = { trait = cruel }
-			}
-			modifier = {
-				factor = 0.1
-				FROM = { trait = kind }
-			}
-			modifier = {
-				factor = 2
-				FROM = { trait = ambitious }
-			}
-			modifier = {
-				factor = 0.5
-				FROM = { trait = content }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -100 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -90 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -80 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -70 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -60 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -50 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -40 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -30 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -20 }
-			}
-			modifier = {
-				factor = 1.25
-				reverse_opinion = { who = FROM value = -10 }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 9 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 19 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 29 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 39 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 49 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 59 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 69 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 79 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 89 } }
-			}
-			modifier = {
-				factor = 0.8
-				NOT = { reverse_opinion = { who = FROM value = 99 } }
-			}
-		}
-	}
+#			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+#			remove_trait = damaged_cybernetics
+#			FROM = { add_trait = damaged_cybernetics }
+#			if = {
+#				limit = { trait = damaged_cybernetics }
+#				FROM = { trait = damaged_cybernetics }
+#			}
+#			if = {
+#				limit = {
+#					NOR = {
+#						religion = tengri_pagan
+#						religion = tengri_pagan_reformed 
+#					} 
+#				}
+#				FROM = { wealth = -50 }
+#			}
+#			if = {
+#				limit = {
+#					location = {
+#						TECH_POPULAR_CUSTOMS = 2
+#						NOT = { TECH_POPULAR_CUSTOMS = 3 }
+#					}
+#				}
+#				FROM = { wealth = -250 }
+#			}
+#			if = {
+#				limit = {
+#					location = {
+#						TECH_POPULAR_CUSTOMS = 3
+#						NOT = { TECH_POPULAR_CUSTOMS = 4 }
+#					}
+#				}
+#				FROM = { wealth = -200 }
+#			}
+#			if = {
+#				limit = {
+#					location = {
+#						TECH_POPULAR_CUSTOMS = 4
+#						NOT = { TECH_POPULAR_CUSTOMS = 5 }
+#					}
+#				}
+#				FROM = { wealth = -150 }
+#			}
+#			if = {
+#				limit = {
+#					location = {
+#						TECH_POPULAR_CUSTOMS = 5
+#						NOT = { TECH_POPULAR_CUSTOMS = 6 }
+#					}
+#				}
+#				FROM = { wealth = -100 }
+#			}
+#			FROM = {
+#				if = {
+#					limit = {
+#						is_landed = yes
+#						religion = taoist
+#					}
+#					piety = -250
+#				}
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0.1
+#			}
+#			modifier = {
+#				factor = 5
+#				FROM = {
+#					OR = {
+#						religion = khurmazta
+#						secret_religion = khurmazta
+#						religion = tengri_pagan
+#						religion = tengri_pagan_reformed
+#						secret_religion = tengri_pagan
+#						secret_religion = tengri_pagan_reformed
+#						culture = tau_cetinese
+#					}
+#				}
+#			}
+#			modifier = {
+#				factor = 0.2
+#				FROM = {
+#					religion = taoist
+#					NOT = { trait = cynical }
+#				}
+#			}
+#			modifier = {
+#				factor = 2
+#				FROM = { trait = cruel }
+#			}
+#			modifier = {
+#				factor = 0.1
+#				FROM = { trait = kind }
+#			}
+#			modifier = {
+#				factor = 2
+#				FROM = { trait = ambitious }
+#			}
+#			modifier = {
+#				factor = 0.5
+#				FROM = { trait = content }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -100 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -90 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -80 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -70 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -60 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -50 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -40 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -30 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -20 }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				reverse_opinion = { who = FROM value = -10 }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 9 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 19 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 29 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 39 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 49 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 59 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 69 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 79 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 89 } }
+#			}
+#			modifier = {
+#				factor = 0.8
+#				NOT = { reverse_opinion = { who = FROM value = 99 } }
+#			}
+#		}
+#	}
 
 	get_prisoner_iaei_mk_i = {
 		filter = prisoner
@@ -4663,7 +4663,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -4682,6 +4681,7 @@ Targetted_decisions = {
 			trait = iaei_mk_i
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -4751,7 +4751,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_i
 			FROM = { add_trait = iaei_mk_i }
 			if = {
@@ -4944,7 +4944,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -4963,6 +4962,7 @@ Targetted_decisions = {
 			trait = iaei_mk_ii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -5032,7 +5032,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_ii
 			FROM = { add_trait = iaei_mk_ii }
 			if = {
@@ -5225,7 +5225,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -5244,6 +5243,7 @@ Targetted_decisions = {
 			trait = iaei_mk_iii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -5313,7 +5313,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_iii
 			FROM = { add_trait = iaei_mk_iii }
 			if = {
@@ -5506,7 +5506,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -5525,6 +5524,7 @@ Targetted_decisions = {
 			trait = iaei_mk_iv
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -5594,7 +5594,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_iv
 			FROM = { add_trait = iaei_mk_iv }
 			if = {
@@ -5787,7 +5787,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -5806,6 +5805,7 @@ Targetted_decisions = {
 			trait = iaei_mk_v
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -5875,7 +5875,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = iaei_mk_v
 			FROM = { add_trait = iaei_mk_v }
 			if = {
@@ -6068,7 +6068,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -6087,6 +6086,7 @@ Targetted_decisions = {
 			trait = pci_mk_i
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -6156,7 +6156,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_i
 			FROM = { add_trait = pci_mk_i }
 			if = {
@@ -6349,7 +6349,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -6368,6 +6367,7 @@ Targetted_decisions = {
 			trait = pci_mk_ii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -6437,7 +6437,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_ii
 			FROM = { add_trait = pci_mk_ii }
 			if = {
@@ -6630,7 +6630,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -6649,6 +6648,7 @@ Targetted_decisions = {
 			trait = pci_mk_iii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -6718,7 +6718,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_iii
 			FROM = { add_trait = pci_mk_iii }
 			if = {
@@ -6911,7 +6911,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -6930,6 +6929,7 @@ Targetted_decisions = {
 			trait = pci_mk_iv
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -6999,7 +6999,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_iv
 			FROM = { add_trait = pci_mk_iv }
 			if = {
@@ -7192,7 +7192,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -7211,6 +7210,7 @@ Targetted_decisions = {
 			trait = pci_mk_v
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -7280,7 +7280,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pci_mk_v
 			FROM = { add_trait = pci_mk_v }
 			if = {
@@ -7473,7 +7473,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -7492,6 +7491,7 @@ Targetted_decisions = {
 			trait = pluto_mk_i
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -7561,7 +7561,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_i
 			FROM = { add_trait = pluto_mk_i }
 			if = {
@@ -7754,7 +7754,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -7773,6 +7772,7 @@ Targetted_decisions = {
 			trait = pluto_mk_ii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -7842,7 +7842,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_ii
 			FROM = { add_trait = pluto_mk_ii }
 			if = {
@@ -8035,7 +8035,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -8054,6 +8053,7 @@ Targetted_decisions = {
 			trait = pluto_mk_iii
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -8123,7 +8123,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_iii
 			FROM = { add_trait = pluto_mk_iii }
 			if = {
@@ -8316,7 +8316,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -8335,6 +8334,7 @@ Targetted_decisions = {
 			trait = pluto_mk_iv
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -8404,7 +8404,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_iv
 			FROM = { add_trait = pluto_mk_iv }
 			if = {
@@ -8597,7 +8597,6 @@ Targetted_decisions = {
 		from_potential = {
 			NOT = { trait = incapable }
 			prisoner = no
-			NOT = { trait = kind }
 			OR = {
 				has_assigned_minor_title = title_cywizard 
 				#any_realm_character = { has_trait = full_cybernetic_conversion }
@@ -8616,6 +8615,7 @@ Targetted_decisions = {
 			trait = pluto_mk_v
 		}
 		allow = {
+			NOT = { trait = kind }
 			OR = {
 				FROM = { wealth = 50 }
 				OR = {
@@ -8685,7 +8685,7 @@ Targetted_decisions = {
 					}
 				}
 			}
-			hidden_tooltip = { character_event = { id = cybernetics.5001 } }
+			#hidden_tooltip = { character_event = { id = cybernetics.5001 } }
 			remove_trait = pluto_mk_v
 			FROM = { add_trait = pluto_mk_v }
 			if = {
