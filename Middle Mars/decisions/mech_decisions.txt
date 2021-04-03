@@ -40,6 +40,41 @@ decisions = {
 		}
 	}	
 
+	forge_mech_license = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+			NOT = { trait = mech_pilot }
+			capital_scope = { has_building = ca_special_projects_division }
+		}
+		allow = {
+			in_command = no
+			age = 14
+			prisoner = no
+			wealth = 250
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				character_event = { id = suit_events.13 } 
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0.001
+				religion = taoist
+			} 
+			modifier = {
+				factor = 0.25
+				NOT = { learning = 8 }
+			} 
+		}
+	}	
+
 	gift_mech_suit = {		
 		ai_target_filter = close_relatives
 		filter = all
@@ -206,9 +241,6 @@ decisions = {
 				any_neighbor_independent_ruler = {
 					religion = taoist
 						}
-				capital_holding = {
-						has_building = ca_applied_science_division
-					}
 			}
 
 		}
@@ -245,6 +277,95 @@ decisions = {
 			} 
 		}
 	}	
+	build_mech_suit = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+			NOT = { has_character_modifier = science_researching }
+			capital_scope = { has_building = ca_applied_science_division }
+		}
+		allow = {
+			in_command = no
+			age = 14
+			prisoner = no
+			wealth = 200
+			NOT = { has_artifact = mech_suit }
+			NOT = { has_artifact = common_mech_suit }
+			NOT = { has_artifact = super_mech_suit }
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				hidden_tooltip = {
+				add_character_modifier = {
+					name = science_researching
+					duration = 720
+					hidden = yes
+				}
+				character_event = { id = suit_events.7 } 
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1 
+			modifier = {
+				factor = 0.02
+				NOT = { wealth = 300 }
+			} 
+			modifier = {
+				factor = 0.002 #We have easier access to mechs
+				religion = taoist
+			} 
+		}
+	}	
+
+	build_zhao_mech_suit = {
+		is_high_prio = yes
+		potential = {
+			age = 14
+			NOT = { has_character_modifier = science_researching }
+			capital_scope = { has_building = ca_special_projects_division }
+		}
+		allow = {
+			in_command = no
+			age = 14
+			prisoner = no
+			wealth = 200
+			NOT = { has_artifact = mech_suit }
+			NOT = { has_artifact = common_mech_suit }
+			NOT = { has_artifact = super_mech_suit }
+			NOT = { trait = incapable }
+			NOT = { trait = infirm }
+			NOT = { trait = severely_injured }
+		}
+		effect = { 
+				hidden_tooltip = {
+				add_character_modifier = {
+					name = science_researching
+					duration = 720
+					hidden = yes
+				}
+				character_event = { id = suit_events.7 } 
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1 
+			modifier = {
+				factor = 0.02
+				NOT = { wealth = 300 }
+			} 
+			modifier = {
+				factor = 0.002 #We have easier access to mechs
+				religion = taoist
+			} 
+		}
+	}	
 	
 	buy_black_mech_suit = {
 		is_high_prio = yes
@@ -255,9 +376,6 @@ decisions = {
 				any_neighbor_independent_ruler = {
 					religion = taoist
 						}
-				capital_holding = {
-						has_building = ca_special_projects_division
-					}
 			}
 
 		}

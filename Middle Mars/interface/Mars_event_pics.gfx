@@ -1,8 +1,38 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_roy_training"
+		texturefile = "gfx\\event_pictures\roy_training.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_science"
+		texturefile = "gfx\\event_pictures\roy_science.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_spouse"
+		texturefile = "gfx\\event_pictures\roy_spouse.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_marching"
+		texturefile = "gfx\\event_pictures\roy_marching.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
 		name = "GFX_roy_ceremony"
 		texturefile = "gfx\\event_pictures\roy_ceremony.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_raventower"
+		texturefile = "gfx\\event_pictures\roy_raventower.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_ruler"
+		texturefile = "gfx\\event_pictures\roy_ruler.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {

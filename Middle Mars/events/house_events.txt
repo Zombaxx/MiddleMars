@@ -9,7 +9,7 @@ narrative_event = {
 	title = EVT_NAME_FDY_2
 	desc = EVT_DESC_FDY_2
 
-	picture = GFX_evt_council
+	picture = GFX_roy_ruler
 	border = GFX_event_narrative_frame_diplomacy
 	
 	is_triggered_only = yes

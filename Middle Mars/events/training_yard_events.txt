@@ -2,7 +2,7 @@ namespace = trayar
 character_event = {
 id = trayar.1
 desc = "EVTDESCTRAYAR1"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 	
 	only_rulers = yes
@@ -62,7 +62,7 @@ border = GFX_event_normal_frame_war
 character_event = {
 id = trayar.2
 desc = "EVTDESCTRAYAR2"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_diplomacy
 	
 	ai = no
@@ -117,7 +117,7 @@ border = GFX_event_normal_frame_diplomacy
 character_event = {
 id = trayar.3
 desc = "EVTDESCTRAYAR3"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_diplomacy
 	
 	only_rulers = yes
@@ -150,7 +150,7 @@ border = GFX_event_normal_frame_diplomacy
 character_event = {
 id = trayar.4
 desc = "EVTDESCTRAYAR4"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 	
 	ai = no
@@ -221,7 +221,7 @@ border = GFX_event_normal_frame_war
 character_event = {
 id = trayar.5
 desc = "EVTDESCTRAYAR5"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 	
 	is_triggered_only = yes
@@ -448,7 +448,7 @@ hide_window = yes
 character_event = {
 id = trayar.17
 desc = "EVTDESCTRAYAR17"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 	
 	is_triggered_only = yes
@@ -484,7 +484,7 @@ hide_window = yes
 character_event = {
 id = trayar.19
 desc = "EVTDESCTRAYAR19"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 
 	is_triggered_only = yes
@@ -503,7 +503,7 @@ border = GFX_event_normal_frame_war
 character_event = {
 id = trayar.20
 desc = "EVTDESCTRAYAR20"
-picture = GFX_evt_personal_training_yard
+picture = GFX_roy_training
 border = GFX_event_normal_frame_war
 	
 	ai = no

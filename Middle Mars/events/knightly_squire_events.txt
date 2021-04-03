@@ -222,7 +222,7 @@ character_event = {
 character_event = {
 	id = knightly.008
 	desc = "161008_desc"
-	picture = GFX_event_knighthood1
+	picture = GFX_roy_ruler
 
 	is_triggered_only = yes
 

@@ -373,3 +373,241 @@ long_character_event = {
 		clear_event_target = roboduel
 		}
 }
+#
+#
+#
+#
+
+
+#Task scientists with building Red Fighter
+	long_character_event = {
+		id = suit_events.7
+		desc = "EVTDESCsuit_events.7"
+		picture = GFX_roy_science
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTAsuit_events.7" 
+		custom_tooltip = { suitevt5 }
+		wealth = -200
+		random_list = {
+			5 = { 
+					modifier = {
+						factor = 1.25
+						learning = 9
+					}
+					modifier = {
+						factor = 1.55
+						learning = 12
+					}
+					modifier = {
+						factor = 3.5
+						learning = 16
+					}				
+					modifier = {
+						factor = 4.75
+						learning = 18
+					}
+					modifier = {
+						factor = 1.25
+						trait = erudite
+					}
+					modifier = {
+						factor = 1.5
+						trait = theologian
+					}
+					modifier = {
+						factor = 2
+						trait = genius
+					}	
+					modifier = {
+						factor = 2
+						trait = scholar
+					}
+			long_character_event = { id = suit_events.8 months = 24 }
+			}
+			5 = { 
+					modifier = {
+						factor = 2
+						NOT = { learning = 8 }
+					}
+					modifier = {
+						factor = 3
+						NOT = { learning = 6 }
+					}
+					modifier = {
+						factor = 2.5
+						NOT = { learning = 4 }
+					}				
+					modifier = {
+						factor = 5
+						NOT = { learning = 2 }
+					}
+			character_event = { id = suit_events.8 months = 14 } 
+			}
+		}
+	}
+
+		option = { 
+		name = "EVTBsuit_events.7" 
+		hidden_tooltip = {
+		remove_character_modifier = science_researching
+		}
+	}
+}
+#Successfully build mech suit
+	long_character_event = {
+		id = suit_events.8
+		desc = "EVTDESCsuit_events.8"
+		picture = GFX_mech_hangar
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTsuit_events.8" 
+			prestige = 250
+			add_artifact = common_mech_suit
+		}
+}
+#Research was unsuccessful
+	character_event = {
+		id = suit_events.9
+		desc = "EVTDESCsuit_events.9"
+		picture = GFX_roy_science
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTsuit_events.9" 
+			prestige = -200
+		}
+}
+#
+#
+#
+
+#
+#Task scientists with building Zhao Ranger
+	long_character_event = {
+		id = suit_events.10
+		desc = "EVTDESCsuit_events.10"
+		picture = GFX_roy_science
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTAsuit_events.10" 
+		custom_tooltip = { suitevt5 }
+		wealth = -200
+		random_list = {
+			1 = { 
+					modifier = {
+						factor = 1.25
+						learning = 9
+					}
+					modifier = {
+						factor = 1.55
+						learning = 12
+					}
+					modifier = {
+						factor = 3.5
+						learning = 16
+					}				
+					modifier = {
+						factor = 4.75
+						learning = 18
+					}
+					modifier = {
+						factor = 1.25
+						trait = erudite
+					}
+					modifier = {
+						factor = 1.5
+						trait = theologian
+					}
+					modifier = {
+						factor = 2
+						trait = genius
+					}	
+					modifier = {
+						factor = 2
+						trait = scholar
+					}
+			long_character_event = { id = suit_events.11 months = 24 }
+			}
+			1 = { 
+					modifier = {
+						factor = 2
+						NOT = { learning = 8 }
+					}
+					modifier = {
+						factor = 3
+						NOT = { learning = 6 }
+					}
+					modifier = {
+						factor = 2.5
+						NOT = { learning = 4 }
+					}				
+					modifier = {
+						factor = 5
+						NOT = { learning = 2 }
+					}
+			character_event = { id = suit_events.12 months = 14 } 
+			}
+		}
+	}
+
+		option = { 
+		name = "EVTBsuit_events.7" 
+		hidden_tooltip = {
+		remove_character_modifier = science_researching
+		}
+	}
+}
+#Successfully build Zhao Ranger
+	long_character_event = {
+		id = suit_events.11
+		desc = "EVTDESCsuit_events.11"
+		picture = GFX_mech_hangar
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTsuit_events.8" 
+			prestige = 250
+			add_artifact = mech_suit
+			add_trait = mech_pilot
+		}
+}
+#Research was unsuccessful
+	character_event = {
+		id = suit_events.12
+		desc = "EVTDESCsuit_events.12"
+		picture = GFX_roy_science
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTsuit_events.9" 
+			prestige = -200
+		}
+}
+#
+#
+#
+
+#Forge Commander Key
+	character_event = {
+		id = suit_events.13
+		desc = "EVTDESCsuit_events.13"
+		picture = GFX_mech_hangar
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTsuit_events.13" 
+			wealth = -250
+			add_trait = mech_pilot
+		}
+}

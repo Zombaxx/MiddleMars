@@ -29,7 +29,7 @@ namespace = roycoup
 		id = roycoup.1
 		title = EVTTITroycoup.0
 		desc = "EVTDESCROYCOUP"
-		picture = "GFX_evt_whispers"
+		picture = "GFX_roy_ruler"
 	
 		is_triggered_only = yes
 

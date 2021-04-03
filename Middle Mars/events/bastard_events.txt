@@ -1,0 +1,28 @@
+namespace = roy_bastard
+character_event = {
+	id = roy_bastard.001
+	desc = "roy_bastard_desc.1"
+	picture = GFX_roy_ruler
+	is_triggered_only = yes
+
+	option = {
+		name = roy_bastard.001.1
+		ROOT = {
+			piety = -50 
+		}
+		FROM = {
+			mother = {
+				opinion = {
+					who = FROM
+					modifier = acknowledged_child
+					years = -1
+				}
+			}
+			mother = {
+				spouse = {
+					add_rival = FROM
+				}
+			}
+		}
+	}
+}

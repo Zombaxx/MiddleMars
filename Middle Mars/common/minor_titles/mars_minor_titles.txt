@@ -25,12 +25,13 @@ title_mistress = {
 	allowed_to_grant = {
 		NOT = { trait = trait_slave }
 		NOT = {
-			culture_group = north_germanic
-			culture_group = central_germanic
+			culture = russian
+			culture = norse
 			culture = hausa
 			culture = han
 			religion = jewish
 			religion_group = pagan_group 
+			}
 		}
 		AND = {
 			age = 16
@@ -66,6 +67,7 @@ title_grand_judge = {
 	show_as_title = yes
 	realm_in_name = no
 	opinion_effect = 10
+	is_voter = yes
 	revoke_allowed = no
 	
 	monthly_salary = 0.9

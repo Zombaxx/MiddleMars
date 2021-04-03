@@ -94,8 +94,8 @@ castle = {
 		extra_tech_building_start = 5
 	
 	}
-	ca_paved_roads= {
-		desc = ca_paved_roads_desc
+	ca_raven_tower= {
+		desc = ca_raven_tower_desc
 		potential = {	
 			FROM = {		
 				capital_holding = {	
@@ -106,8 +106,6 @@ castle = {
 		trigger = { TECH_CONSTRUCTION = 3  }
 		gold_cost = 65
 		build_time = 385
-		local_movement_speed = 0.10
-		tax_income = -1.5
 		
 		ai_creation_factor = 100
 		extra_tech_building_start = 90
