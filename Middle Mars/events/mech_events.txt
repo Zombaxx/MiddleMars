@@ -119,7 +119,7 @@ character_event = {
 
 	option = { 
 	name = "EVTOPTAsuit_events.2" 
-		custom_tooltip = { text = suitevt3 }
+		custom_tooltip = { text = suitevt4 }
 		prestige = 105
 		random_artifact = { 
 			limit = { has_artifact_flag = mecha_suit
@@ -460,7 +460,7 @@ long_character_event = {
 	long_character_event = {
 		id = suit_events.8
 		desc = "EVTDESCsuit_events.8"
-		picture = GFX_mech_hangar
+		picture = GFX_roy_mech
 	
 		is_triggered_only = yes
 	
@@ -569,7 +569,7 @@ long_character_event = {
 	long_character_event = {
 		id = suit_events.11
 		desc = "EVTDESCsuit_events.11"
-		picture = GFX_mech_hangar
+		picture = GFX_roy_mech
 	
 		is_triggered_only = yes
 	

@@ -136,17 +136,19 @@ character_event = {
 					is_adult = yes
 					NOT = { trait = incapable }
 				}
-				random_list = {
-					33 = {
-						give_nickname = nick_the_godless
-					}
-					33 = {
-						give_nickname = nick_the_widowmaker
-					}
-					33 = {
-						give_nickname = nick_the_bloody
-					}
+			random = {
+				chance = 5
+				give_nickname = nick_the_godless
 				}
+			random = {
+				chance = 5
+				give_nickname = nick_the_bloody
+				}
+			random = {
+				chance = 5
+				give_nickname = nick_the_widowmaker
+				}
+
 			}
 		}
 	}

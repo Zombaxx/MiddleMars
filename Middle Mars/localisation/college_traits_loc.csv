@@ -61,4 +61,6 @@ phd_philosophy;Philosophy Grad;x
 phd_philosophy_desc;This character possesses an advanced degree in philosophy.;
 phd_mathematics;Mathematics Grad;x
 phd_mathematics_desc;This character possesses an advanced degree in mathematics.;
+trait_studying;Studying;;;x
+trait_studying_desc;This character is pursuing a degree and furthering their education, leaving them unable to govern.;;;x
 

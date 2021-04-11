@@ -679,6 +679,7 @@ castle = {
 		}
 		trigger = { TECH_CONSTRUCTION = 0 }
 		desc = ca_training_yard_desc
+		commander_limit = 2
 		gold_cost = 200
 		build_time = 230
 		ai_creation_factor = 70

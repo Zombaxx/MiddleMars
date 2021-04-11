@@ -2563,6 +2563,9 @@ jewish_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
+		feminist = yes
+		has_heir_designation = yes
+		female_temple_holders = yes
 		
 		priests_can_marry = yes
 		
@@ -2591,6 +2594,10 @@ jewish_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
+		ignores_defensive_attrition = yes
+		uses_jizya_tax = yes
+		has_heir_designation = yes
+		ignores_defensive_attrition = yes
 		
 		priests_can_marry = yes
 		
@@ -2619,6 +2626,9 @@ jewish_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
+		uses_jizya_tax = yes
+		has_heir_designation = yes
+		ignores_defensive_attrition = yes
 		
 		priests_can_marry = yes
 		

@@ -141,3 +141,8 @@ mech_pilot = {
 
 	ruler_designer_cost = 0
 }
+trait_studying = {
+	cached = yes
+	pilgrimage = yes
+	random = no
+}

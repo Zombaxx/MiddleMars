@@ -123,7 +123,7 @@ angry_troops = {
 }
 double_paid_troops = {
 	general_opinion = 10
-	levy_reinforce_rate = 0.30
+	levy_reinforce_rate = 0.50
 	global_revolt_risk = -0.05	
 	icon = 97
 }

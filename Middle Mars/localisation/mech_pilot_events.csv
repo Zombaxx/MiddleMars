@@ -20,7 +20,7 @@ usedmech;Mech Power Cooldown;;;;;;;;;;;;;x
 acquire_mech_license;Purchase a Commander Key;;;;;;;;;;;;x
 acquire_mech_license_desc;You need a Commander Key in order to pilot a Zhao Ranger or AP-6 STRIKER Mech Suit. The suits will not activate without one.;;;;;;;;;;;;x
 mech_pilot;Commander Key;;;;;;;;;;;;x
-mech_pilot_desc;This character can pilot Armord Mech Suits;;;;;;;;;;;;x
+mech_pilot_desc;This character can access Armored Mech Suits;;;;;;;;;;;;x
 buy_mech_suit;Purchase a Zhao Ranger;;;;;;;;;;;;;x
 buy_mech_suit_desc;Purchase a standard Combat Mech Suit;;;;;;;;;;;;;x
 buy_black_mech_suit;Purchase a Red Fighter;;;;;;;;;;;;;x
@@ -28,10 +28,10 @@ buy_black_mech_suit_desc;Purchase a lower end Combat Mech Suit;;;;;;;;;;;;;x
 buy_super_mech_suit;Purchase an AP-6 Striker;;;;;;;;;;;;;x
 buy_super_mech_suit_desc;Consult your Marshal about purchasing a high end Mech Suit;;;;;;;;;;;;;x
 
-EVTDESCbuy_mech.1;You have purchased a piloting license and are now authorized to pilot a Combat Mech Suit. Be careful!;;;;;;;;;;;;;x
+EVTDESCbuy_mech.1;You have purchased a Commander Key, allowing you to pilot a Combat Mech Suit. Be careful!;;;;;;;;;;;;;x
 EVTbuy_mech.1;This is good.;;;;;;;;;;;;;x
 
-EVTDESCbuy_mech.2;You have commisioned your Spymaster with the task of finding and purchasing a Combat Mech Suit for your own personal use. There are many Zhao Rangers on the market, and for the right price you have acquired one for yourself. You anxiously await its delivery to you at the gates of [Root.Capital.GetName], but even still as it arrives you can't help but almost faint. Two stories tall, wide, golden, with claws the size of an ox and creaking ungodly noises from its orifices, your Zhao Ranger Mech Suit is as fearsome as you had hoped it would look.;;;;;;;;;;;;;x
+EVTDESCbuy_mech.2;You have sent a messenger to purchase and bring to you a Combat Mech Suit for your own personal use. There are many Zhao Rangers on the market, and for the right price you have acquired one for yourself. You anxiously await its delivery to you at the gates of [Root.Capital.GetName], but even still as it arrives you can't help but almost faint. Two stories tall, wide, golden, with claws the size of an ox and creaking ungodly noises from its orifices, your Zhao Ranger Mech Suit is as fearsome as you had hoped it would look.;;;;;;;;;;;;;x
 EVTbuy_mech.2;I will dominate the battlefield!;;;;;;;;;;;;;x
 buy_mech.3;Red Fighter;;;;;;;;;;;;;x
 
@@ -58,7 +58,7 @@ good_pilot_desc;This character handles their Mech Suit well.;;;x
 
 EVTDESCsuit_events.2;As an Emperor, it simply will not do to pilot a standard Mech Suit like every other Commander. No, you have tasked your researchers with developing an AP-6 STRIKER. At last, their construction is complete and you can now pilot her yourself if you can handle it...;;;x
 EVTOPTAsuit_events.2;All will bow to me!;;;x
-suitevt3;Your Mech Suit is scrapped to build an AP-6 STRIKER;;;x
+suitevt4;Your Mech Suit is scrapped to build an AP-6 STRIKER;;;x
 
 EVTDESCsuit_events.3;In the heat of battle, you and your men encounter your enemy [roboduel.GetFirstName]'s Mech Suit wreaking great havoc among your lines. Unlike anything you've ever seen, the creature kills scores of men with just one swoop of its gigantic metal claws. Watching your men demoralized and fleeing, you contemplate going for a charge...;;;x
 EVTOPTAsuit_events.3;No, that would be too dangerous.;;;x
