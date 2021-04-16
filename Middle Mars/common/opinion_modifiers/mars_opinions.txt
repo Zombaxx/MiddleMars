@@ -39,7 +39,7 @@ training_yard_neg = {
 	opinion = -10
 }
 overruled_me = {
-	opinion = -15
+	opinion = -45
 }
 opinion_stolen_title = {
 	opinion = -20
@@ -65,4 +65,23 @@ impressed_speech = {
 commander_appreciated = {
 	opinion = 10
 	months = 24
+}
+trade_deal = {
+	non_aggression_pact = yes
+	opinion = 10
+	years = 5
+}
+opinion_sin_loan_taken = {
+	opinion = 5
+}
+opinion_sin_loan_given = {
+	opinion = 5
+}
+opinion_sin_loan_rejected = {
+	opinion = -5
+}
+opinion_sin_loan_defaulted = {
+	opinion = -50
+	prison_reason = yes
+	crime = yes
 }

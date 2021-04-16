@@ -101,7 +101,7 @@ laws = {
 			}
 		}
 		local_tax_modifier = 0.50
-		global_revolt_risk = 0.15
+		global_revolt_risk = 0.05
 	}
 	
 	tax_peasants_law_feudal_2 = {
@@ -149,7 +149,7 @@ laws = {
 			}
 		}
 		local_tax_modifier = 1.50
-		global_revolt_risk = 0.25
+		global_revolt_risk = 0.15
 	}
 	
 	tax_peasants_law_feudal_3 = {
@@ -194,6 +194,6 @@ laws = {
 			}
 		}
 		local_tax_modifier = 3
-		global_revolt_risk = 0.75
+		global_revolt_risk = 0.35
 	}
 }

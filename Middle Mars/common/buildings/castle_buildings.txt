@@ -46,6 +46,7 @@ castle = {
 				religion = orthodox	
 				religion = taoist
 				religion = tengri_pagan	
+				culture_group = iberian
 				}	
 				capital_holding = {	
 					title = FROMFROM	
@@ -263,7 +264,7 @@ castle = {
 				}	
 			}	
 		}	
-		trigger = { TECH_TRADE_PRACTICES = 0 }
+		trigger = { TECH_TRADE_PRACTICES = 2 }
 		gold_cost = 100
 		build_time = 730
 		ai_creation_factor = 90
@@ -280,7 +281,10 @@ castle = {
 				culture = persian
 				culture = kurdish
 				culture = catalan
-				religion = jewish
+				religion_group = jewish_group
+				any_neighbor_independent_ruler = {
+					religion_group = jewish_group
+						}
 				religion = taoist
 				religion = tengri_pagan	
 				}	
@@ -289,10 +293,10 @@ castle = {
 				}	
 			}	
 		}	
-		trigger = { TECH_TRADE_PRACTICES = 2 }
-		gold_cost = 150
-		build_time = 730
-		ai_creation_factor = 90
+		trigger = { TECH_TRADE_PRACTICES = 3 }
+		gold_cost = 550
+		build_time = 930
+		ai_creation_factor = 100
 		extra_tech_building_start = 100
 		add_number_to_name = no
 		tax_income = 5
@@ -364,8 +368,8 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 6 }
-		gold_cost = 150
-		build_time = 730
+		gold_cost = 190
+		build_time = 930
 		ai_creation_factor = 90
 		extra_tech_building_start = 100
 		add_number_to_name = no
@@ -636,19 +640,15 @@ castle = {
 	}
 	ca_trade_center = {
 		potential = {	
-			FROM = {
-			OR = {
-				culture_group = arabic
-				any_neighbor_independent_ruler = { religion = taoist }
-				}		
+			FROM = {	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 3 }
+		trigger = { TECH_TRADE_PRACTICES = 3 }
 		desc = ca_trade_center_desc
-		gold_cost = 500
+		gold_cost = 200
 		build_time = 850
 		disease_defence = -0.25
 		military_techpoints = 0.5

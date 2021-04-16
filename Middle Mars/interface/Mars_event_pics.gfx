@@ -1,6 +1,36 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_roy_bank"
+		texturefile = "gfx\\event_pictures\roy_bank.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_judge"
+		texturefile = "gfx\\event_pictures\roy_judge.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_council"
+		texturefile = "gfx\\event_pictures\roy_council.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_trade"
+		texturefile = "gfx\\event_pictures\roy_trade.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_soldiers"
+		texturefile = "gfx\\event_pictures\roy_soldiers.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_mech"
+		texturefile = "gfx\\event_pictures\roy_mech.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
 		name = "GFX_roy_training"
 		texturefile = "gfx\\event_pictures\roy_training.dds"
 		allwaystransparent = yes

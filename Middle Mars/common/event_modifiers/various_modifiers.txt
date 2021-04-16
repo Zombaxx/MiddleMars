@@ -33,6 +33,9 @@ strong_ruler = {
 trained_squire = {
 	icon = 1
 }
+trades_deal = {
+	icon = 1
+}
 pious_leader = {
 	icon = 10
 	vassal_opinion = 10
@@ -53,4 +56,54 @@ respect_leader = {
 	arrest_chance_modifier = 0.50
 	plot_discovery_chance = 0.25
 	defensive_plot_power_modifier = 0.25
+}
+importing_arms = {
+	icon = 13
+	levy_reinforce_rate = 0.50
+	global_levy_size = 0.25
+	ambition_opinion = -25
+
+}
+exporting_arms = {
+	icon = 13
+	levy_reinforce_rate = -0.25
+	build_time_modifier = -0.25
+	monthly_character_wealth = 2	
+
+}
+importing_foods = {
+	icon = 59
+	levy_reinforce_rate = 0.15
+	global_revolt_risk = -0.03
+
+}
+exporting_foods = {
+	icon = 60
+	global_revolt_risk = -0.01
+	levy_reinforce_rate = -0.10
+	local_tax_modifier = 0.45
+	monthly_character_wealth = 1.2	
+
+}
+importing_goods = {
+	icon = 52
+	global_revolt_risk = -0.02
+	build_cost_modifier = -0.25
+	global_supply_limit = 0.25
+	vassal_opinion = 5
+
+}
+exporting_goods = {
+	icon = 52
+	local_tax_modifier = 0.75
+	global_supply_limit = -0.1	
+	build_cost_modifier = 0.2
+
+}
+sin_loaner = {
+	icon = 4
+	church_opinion = -5
+}
+sin_loan_taker = {
+	icon = 22
 }

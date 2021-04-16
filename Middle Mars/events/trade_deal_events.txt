@@ -1,0 +1,223 @@
+namespace = roytrade
+########################
+# Trade Deals
+########################
+character_event = {
+	id = roytrade.7
+	desc = EVTDESCroytrade.7
+	picture = GFX_roy_trade
+	
+	is_triggered_only = yes
+	
+
+		option = {
+		name = EVTOPTAroytrade.7
+		custom_tooltip = { text = tradearms } 
+		random_list = {
+			4 = { 
+			modifier = {
+				factor = 1.25
+				FROM = { opinion = { who = ROOT value =  40 } }
+			}	
+			modifier = {
+				factor = 1.25
+				FROM = { is_ friend = ROOT }
+			}
+			modifier = {
+				factor = 2
+				FROM = { war = no }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 10 }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 12 }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { stewardship = 15 }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { stewardship = 18 }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { stewardship = 21 }
+			}
+			custom_tooltip = { text = trade1 }
+			character_event = { id = roytrade.1 days = 14 }
+			}
+			3 = { 
+			modifier = {
+				factor = 1
+				FROM = { opinion = { who = ROOT value =  40 } }
+			}	
+			modifier = {
+				factor = 1.25
+				FROM = { is_ friend = ROOT }
+			}
+			modifier = {
+				factor = 5
+				FROM = { war = yes }
+			}
+			custom_tooltip = { text = trade3 }
+			character_event = { id = roytrade.12 days = 14 }
+			}
+			3 = { 
+			modifier = {
+				factor = 1.25
+				ROOT = { NOT = { stewardship = 8 } }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { NOT = { stewardship = 6 } }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { NOT = { stewardship = 4 } }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { NOT = { stewardship = 2 } }
+			}
+			custom_tooltip = { text = trade2 }
+			character_event = { id = roytrade.2 days = 14 } 
+			}
+		}
+	}
+		option = {
+		name = EVTOPTBroytrade.7
+		custom_tooltip = { text = tradefood }
+		random_list = {
+			6 = { 
+			modifier = {
+				factor = 1.25
+				FROM = { opinion = { who = ROOT value =  40 } }
+			}	
+			modifier = {
+				factor = 1.25
+				FROM = { is_ friend = ROOT }
+			}
+			modifier = {
+				factor = 2
+				FROM = { war = no }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 10 }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 12 }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { stewardship = 15 }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { stewardship = 18 }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { stewardship = 21 }
+			}
+			custom_tooltip = { text = trade1 }
+			character_event = { id = roytrade.3 days = 14 }
+			}
+			4 = { 
+			modifier = {
+				factor = 1.25
+				ROOT = { NOT = { stewardship = 8 } }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { NOT = { stewardship = 6 } }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { NOT = { stewardship = 4 } }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { NOT = { stewardship = 2 } }
+			}
+			custom_tooltip = { text = trade2 }
+			character_event = { id = roytrade.2 days = 14 } 
+			}
+		}
+
+	}
+		option = {
+		name = EVTOPTCroytrade.7
+		custom_tooltip = { text = tradegoods }
+		random_list = {
+			6 = { 
+			modifier = {
+				factor = 1.25
+				FROM = { opinion = { who = ROOT value =  40 } }
+			}	
+			modifier = {
+				factor = 1.25
+				FROM = { is_ friend = ROOT }
+			}
+			modifier = {
+				factor = 2
+				FROM = { war = no }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 10 }
+			}
+			modifier = {
+				factor = 1.25
+				ROOT = { stewardship = 12 }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { stewardship = 15 }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { stewardship = 18 }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { stewardship = 21 }
+			}
+			custom_tooltip = { text = trade1 }
+			character_event = { id = roytrade.4 days = 14 }
+			}
+			4 = { 
+			modifier = {
+				factor = 1.25
+				ROOT = { NOT = { stewardship = 8 } }
+			}
+			modifier = {
+				factor = 1.35
+				ROOT = { NOT = { stewardship = 6 } }
+			}
+			modifier = {
+				factor = 1.5
+				ROOT = { NOT = { stewardship = 4 } }
+			}				
+			modifier = {
+				factor = 1.75
+				ROOT = { NOT = { stewardship = 2 } }
+			}
+			custom_tooltip = { text = trade2 }
+			character_event = { id = roytrade.2 days = 14 } 
+			}
+		}
+	}
+		option = {
+		name = EVTOPTDroytrade.7
+		custom_tooltip = { text = tradecancel }
+		hidden_tooltip = {
+		remove_character_modifier = trades_deal
+		}
+	}
+}

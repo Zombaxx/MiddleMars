@@ -5,7 +5,7 @@ namespace = royspeech
 character_event = {
 	id = royspeech.7
 	desc = EVTDESCroyspeech.7
-	picture = GFX_roy_ceremony
+	picture = GFX_roy_council
 	
 	is_triggered_only = yes
 	

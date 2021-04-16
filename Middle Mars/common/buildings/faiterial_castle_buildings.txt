@@ -60,8 +60,8 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 6  }
-		gold_cost = 1500
-		build_time = 780
+		gold_cost = 1800
+		build_time = 1890
 		retinuesize = 100
 		military_techpoints = 0.3
 		fort_level = 2

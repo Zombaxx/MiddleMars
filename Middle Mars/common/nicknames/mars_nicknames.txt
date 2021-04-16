@@ -157,7 +157,7 @@ nick_the_unit = {
 nick_white_hair = {
 	allow = {
 		NOT = { culture_group = arabic }
-		graphical_culture = noachisgfx
+		graphical_culture = arabicgfx
 	}
 	chance = {
 		factor = 2
@@ -166,4 +166,5 @@ nick_white_hair = {
 nick_of_the_demon_slay = { }
 nick_of_the_bane_of_machine = {}
 nick_the_reli_champ = {}
+nick_the_merchant = {}
 

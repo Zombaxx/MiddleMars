@@ -2,8 +2,10 @@
 
 #Buildings
 ca_trade_center;Trade Hub;;;x
-ca_trade_center_desc;A center for trading goods between your people and the technologically advanced Spacers that neighbor you.;;;x
+ca_trade_center_desc;A center for trading goods between your people and the realms that neighbor you.;;;x
 ca_arms_depot;Rifle Manufactuary;;;x
+ca_small_arms_depot;Arms Depot;;;x
+ca_small_arms_depot_desc;A manufactuary for firearms, staffed by a few Spacer engineers and the men they teach their secrets;;;x
 ca_arms_depot_desc;A building for mass producing firearms. These weapons give Spacers a tactical edge over the primitive cultures of Mars.;;;x
 ca_raven_tower;Raven Tower;;;x
 ca_raven_tower_desc;A Raven Tower allows you to send messages to other characters.;;;x
