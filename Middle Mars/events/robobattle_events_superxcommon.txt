@@ -5,7 +5,7 @@ character_event = {
 	desc = EVTDESCrobobattle_events.9
 	title = EVTNAMErobobattle_events.9
 	border = GFX_event_normal_frame_war
-	picture = GFX_mech_fight
+	picture = GFX_roy_confront
 
 	is_triggered_only = yes
 	in_command = yes
@@ -14,7 +14,7 @@ character_event = {
 		NOT = { is_at_sea = yes }
 		in_battle = yes
 		NOT = { has_character_modifier = recentmechbattle }
-		has_artifact = duper_mech_suit
+		has_artifact = super_mech_suit
 		any_current_enemy = {
 			in_command = yes 
 			has_artifact = common_mech_suit

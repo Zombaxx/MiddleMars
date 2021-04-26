@@ -1,7 +1,7 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 do_your_duty;Do Your Duty!;;;;;;;;;;;;;x
 do_your_duty_desc;Assign a new focus to [Root.GetBestName].;;;;;;;;;;;;;x
-EVTDESCdyd_events.1;Pick the new focus of [DYD_Target.GetBestName].;;;;;;;;;;;;;x
+EVTDESCdyd_events.1;Decide what your kinsman [DYD_Target.GetBestName] should focus on.;;;;;;;;;;;;;x
 EVTOPTAdyd_events.1;Rulership;;;;;;;;;;;;;x
 EVTOPTBdyd_events.1;Business;;;;;;;;;;;;;x
 EVTOPTCdyd_events.1;Seduction;;;;;;;;;;;;;x

@@ -1,6 +1,16 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_roy_confront"
+		texturefile = "gfx\\event_pictures\roy_confront.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_roy_manvmachine"
+		texturefile = "gfx\\event_pictures\roy_manvmachine.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
 		name = "GFX_roy_bank"
 		texturefile = "gfx\\event_pictures\roy_bank.dds"
 		allwaystransparent = yes

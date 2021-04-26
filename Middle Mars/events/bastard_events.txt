@@ -13,14 +13,14 @@ character_event = {
 		FROM = {
 			mother = {
 				opinion = {
-					who = FROM
+					who = ROOT
 					modifier = acknowledged_child
 					years = -1
 				}
 			}
 			mother = {
 				spouse = {
-					add_rival = FROM
+					add_rival = ROOT
 				}
 			}
 		}

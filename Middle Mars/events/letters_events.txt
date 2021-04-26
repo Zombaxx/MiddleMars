@@ -119,11 +119,28 @@ character_event = {
 		}
 	}
 		option = {
-		name = EVTOPTCsecretletter.11
-		custom_tooltip = { text = seccrev }
+		name = EVTOPTDlettersoc.0
 		trigger = {
 		FROM = { has_character_modifier = society_member }
 		FROM = { NOT = { has_character_modifier = succ_mission } }
+		}
+		character_event = { id = lettersoc.2}
+	}
+}
+character_event = {
+	id = "lettersoc.2"
+	desc = "EVTDESClettersoc.0"
+	picture = GFX_roy_raventower
+	
+	is_triggered_only = yes
+	
+
+		option = {
+		name = EVTOPTCsecretletter.11
+		custom_tooltip = { text = seccrev }
+		trigger = {
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
 		}
 		tooltip_info_custom = secretsocc 
 		wealth = -15
@@ -218,9 +235,9 @@ character_event = {
 		name = EVTOPTCsecretletter.12
 		custom_tooltip = { text = seccrev2 }
 		trigger = {
-		FROM = { has_character_modifier = society_member }
-		FROM = { NOT = { has_character_modifier = succ_mission } }
-		FROM = { host = { any_artifact = {always = yes} } }
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
+		FROMFROM = { host = { any_artifact = {always = yes} } }
 		}
 		tooltip_info_custom = secretsocc 
 		wealth = -15
@@ -291,9 +308,9 @@ character_event = {
 		name = EVTOPTDsecretletter.13
 		custom_tooltip = { text = seccrev3 }
 		trigger = {
-		FROM = { has_character_modifier = society_member }
-		FROM = { NOT = { has_character_modifier = succ_mission } }
-		FROM = { host = { wealth = 10 } }  
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
+		FROMFROM = { host = { wealth = 10 } }  
 		}
 		tooltip_info_custom = secretsocc 
 		wealth = -15
@@ -365,7 +382,7 @@ character_event = {
 				is_primary_war_attacker = yes
 			}
 		}
-		FROM = { 
+		FROMFROM = { 
 			is_ruler = yes
 			war = no 
 			}
@@ -455,5 +472,9 @@ character_event = {
 				}
 			}
 		}
+	}
+		option = {
+		name = EVTOPTFlettersoc.2
+		remove_character_modifier = sent_letter
 	}
 }

@@ -1,5 +1,5 @@
 mech_suit = {
-    max_amount = 25
+    max_amount = 35
     spawn_date = 1000.1.1
 	
 	spawn_chance = {
@@ -20,7 +20,7 @@ mech_suit = {
     }
 }
 common_mech_suit = {
-    max_amount = 15
+    max_amount = 25
     spawn_date = 1000.1.1
 	
 	spawn_chance = {
@@ -57,7 +57,7 @@ super_mech_suit = {
 	}
     artifacts = {
         super_mech_suit = {
-            value = 1
+            value = 5
         }
     }
 }

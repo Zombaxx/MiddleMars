@@ -8,6 +8,8 @@ build_mech_suit;Build a Red Fighter;;;x
 build_mech_suit_desc;Have your scientists attempt to build you a Mech Suit.;;;x
 gift_mech_suit;Gift a Mech Suit;;;x
 gift_mech_suit_desc;Bestow one of your spare Mech Suits to [Root.GetFirstName].;;;x
+bond_mech_suit;Bond with Mech Suit;;;x
+bond_mech_suit_desc;Attempt to bond with your MS so that you may pilot it.;;;x
 bestowed_mech_suit;Gifted Me a Mech Suit;;;x
 common_mech_suit;Red Fighter;;;;;;;;;;;;;x
 common_mech_suit_desc;This is a Red Fighter, common on the battlefields of Mars. They give the user a tactical edge and greater defense but are often made of shoddy material.;;;;;;;;;;;;;x
@@ -19,14 +21,17 @@ weapon;Weapons;;;;;;;;;;;;;x
 usedmech;Mech Power Cooldown;;;;;;;;;;;;;x
 acquire_mech_license;Purchase a Commander Key;;;;;;;;;;;;x
 acquire_mech_license_desc;You need a Commander Key in order to pilot a Zhao Ranger or AP-6 STRIKER Mech Suit. The suits will not activate without one.;;;;;;;;;;;;x
-mech_pilot;Commander Key;;;;;;;;;;;;x
-mech_pilot_desc;This character can access Armored Mech Suits;;;;;;;;;;;;x
+mech_pilot;MS Pilot;;;;;;;;;;;;x
+mech_pilot_desc;This character has bonded with a Mech Suit and can pilot them in battle.;;;;;;;;;;;;x
 buy_mech_suit;Purchase a Zhao Ranger;;;;;;;;;;;;;x
 buy_mech_suit_desc;Purchase a standard Combat Mech Suit;;;;;;;;;;;;;x
 buy_black_mech_suit;Purchase a Red Fighter;;;;;;;;;;;;;x
 buy_black_mech_suit_desc;Purchase a lower end Combat Mech Suit;;;;;;;;;;;;;x
 buy_super_mech_suit;Purchase an AP-6 Striker;;;;;;;;;;;;;x
 buy_super_mech_suit_desc;Consult your Marshal about purchasing a high end Mech Suit;;;;;;;;;;;;;x
+tamed_suit;MS Pilot;;;x
+tamed_suit_desc;This character is bonded to a Combat Mech Suit.;;;x
+attempt_tamed_suit;Failed To Bond With Mech Suit;;;x
 
 EVTDESCbuy_mech.1;You have purchased a Commander Key, allowing you to pilot a Combat Mech Suit. Be careful!;;;;;;;;;;;;;x
 EVTbuy_mech.1;This is good.;;;;;;;;;;;;;x
@@ -53,7 +58,7 @@ EVTOPTBsuit_events.0;I was born for this!;;;x
 suitevt2;You are unaffected by your suit's life draining mechanics;;;x
 EVTOPTCsuit_events.0;I am one with my Machine!;;;x
 suitevt3;Unlike most pilots, you are unaffected by the drawbacks of extensive fighting. You are more closely bonded with your Mech Suit.;;;x
-good_pilot;Good Pilot;;;x
+good_pilot;Experienced Pilot;;;x
 good_pilot_desc;This character handles their Mech Suit well.;;;x
 
 EVTDESCsuit_events.2;As an Emperor, it simply will not do to pilot a standard Mech Suit like every other Commander. No, you have tasked your researchers with developing an AP-6 STRIKER. At last, their construction is complete and you can now pilot her yourself if you can handle it...;;;x
@@ -63,7 +68,7 @@ suitevt4;Your Mech Suit is scrapped to build an AP-6 STRIKER;;;x
 EVTDESCsuit_events.3;In the heat of battle, you and your men encounter your enemy [roboduel.GetFirstName]'s Mech Suit wreaking great havoc among your lines. Unlike anything you've ever seen, the creature kills scores of men with just one swoop of its gigantic metal claws. Watching your men demoralized and fleeing, you contemplate going for a charge...;;;x
 EVTOPTAsuit_events.3;No, that would be too dangerous.;;;x
 EVTOPTBsuit_events.3; May [Root.Religion.GetHighGodName] guide my sword to victory. Charge!!!;;;x
-suitevt4;You charge forward and face the metal beast on your own.;;;x
+suitevt5;You charge forward and face the metal beast on your own.;;;x
 
 EVTDESCsuit_events.4;By the grace of [Root.Religion.GetHighGodName], you managed to narrowly dodge an attack from the metal demon, ramming your lance right into where it hides its master. The beast groans and staggers, ejecting its master [roboduel.GetFirstName] from its chest and falling to pieces.;;;x
 EVTOPTAsuit_events.4;Men will sing songs of this day for years to come!;;;x
@@ -76,7 +81,7 @@ EVTOPTAsuit_events.6;To the victor, the spoils...;;;x
 
 EVTDESCsuit_events.7;You have summoned all of the greatest minds in [Root.PrimaryTitle.GetFullName] to your capitol to discuss a matter of great importance. Spacers, who dwell on the far eastern ends of Mars, dominate the battlefield in machines they use from the inside, making the user invulnerable. You will dispatch your greatest scientists to these lands in hopes that they can either procure one of those suits for you or build one themselves.;;;x
 EVTAsuit_events.7;Best of luck, gentlemen.;;;x
-suitevt5;Send your scientists to the eastern ends of Mars to research Spacer technology.;;;x
+suitevt6;Send your scientists to the eastern ends of Mars to research Spacer technology.;;;x
 EVTBsuit_events.7;Actually, let's wait.;;;x
 
 EVTDESCsuit_events.8;Your scientists have returned to you with the most exciting news! Throughout their travels they were able to gather all of the resources and knowledge to craft a Red Fighter Mech Suit. They wheel the giant metal monstrosity up to your castle on a metal platform wheeled by over a dozen ox and hand you a scroll. Apparently, it is an instruction manual translated to your tongue.;;;x
@@ -95,4 +100,19 @@ EVTDESCsuit_events.12;Your scientists have returned from their venture premature
 EVTDESCsuit_events.13;Your team of scientists, with consultation from their Spacer connections, manage to create a counterfeit Command Key that should allow you to pilot a Mech Suit.;;;x
 EVTsuit_events.13;Excellent!;;;x
 
+EVTDESCbuild_mech.1;In order to pilot a MS, you must first bind yourself to one to adjust your body to its automatic controls. There is a chance that your body may reject the machine if it is incompatible which could potentially injure you.;;;x
 
+
+EVTOPTBbuild_mech.1;I am ready.;;;x
+suitevt7;Attempt to bond with your MS.;;;x
+EVTOPTAbuild_mech.1;Let's do this another day...;;;x
+
+EVTDESCbuild_mech.2;You enter your Mech Suit's cockpit, and sit in its center. Without warning, a metal pin quickly lodges itself in the back of your neck. The sudden pain shocks you, but you remain still. After a few silent seconds, your Mech Suit begins to awaken with lights blinking. You notice as your arms move, so do the machine's...;;;x
+EVTOPTbuild_mech.2;Amazing...!;;;x
+
+
+EVTDESCbuild_mech.3;For reasons you don't understand, the Mech Suit will not respond to you. As you sit in its jaws, nothing happens and your courtiers look to you confused.;;;x
+EVTOPTbuild_mech.3;I'll have to try again.;;;x
+
+EVTDESCbuild_mech.4;The Mech Suit has refused you. Once you entered its jaws, it grabbed you with its tongue and yanked at your neck as if it meant to decapitate you. You narrowly escape its jaws with your life...;;;x
+EVTbuild_mech.4;Curses!;;;x
