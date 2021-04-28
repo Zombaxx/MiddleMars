@@ -22,6 +22,7 @@ decisions = {
 			ai = no
 			age = 16
 			is_ruler = yes
+			capital_scope = { has_building = ca_central_bank }
 		}
 		allow = {
 			has_character_modifier = sin_loaner
@@ -42,6 +43,7 @@ decisions = {
 			NOT = {
 				has_character_flag = looking_at_books
 			}
+			capital_scope = { has_building = ca_central_bank }
 		}
 		allow = {
 			has_character_modifier = sin_loaner
