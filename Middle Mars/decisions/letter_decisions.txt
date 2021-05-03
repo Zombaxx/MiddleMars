@@ -40,98 +40,10 @@ targetted_decisions = {
 		
 		effect = {		
 			FROM = { character_event = { id = lettersoc.0 } 
-			add_character_modifier = { name = sent_letter duration = 30 }
+			FROM = { add_character_modifier = { name = sent_letter duration = 30 } }
 			}		
 		ai_will_do = {
 			factor = 0
 		}
 	}
-	prepare_for_move = {
-		only_playable = yes
-		filter = realm
-		from_potential = {
-			ai = no
-		}
-		
-		potential = {
-			is_landed = no
-			prisoner = no
-			has_character_modifier = society_member
-			NOT = { has_character_flag = prepared_to_move }
-				
-		}
-		
-		allow = {
-			is_within_diplo_range = FROM
-		}
-		
-		effect = {
-			set_character_flag = prepared_to_move
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	call_back_home = {
-		only_playable = yes
-		filter = all
-		from_potential = {
-			ai = no
-		}
-		
-		potential = {
-			is_landed = no
-			prisoner = no
-			has_character_modifier = society_member
-			has_character_flag = prepared_to_move
-			NOT = { host = { character= FROM } }	
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			move_character = FROM
-			clr_character_flag = prepared_to_move
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	move_them_here = {
-		only_playable = yes
-		filter = all
-		from_potential = {
-			ai = no
-
-		}
-		potential = {
-			is_landed = yes
-			hidden_tooltip = {
-				FROM = {
-					any_courtier = {
-						has_character_flag = prepared_to_move
-						has_character_modifier = society_member
-					}
-				}
-			}
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			FROM = {
-				any_realm_character = {
-					limit = {
-						has_character_flag = prepared_to_move
-						has_character_modifier = society_member
-					}
-					move_character = PREVPREV
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
+}

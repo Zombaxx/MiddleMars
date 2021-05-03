@@ -12,9 +12,9 @@ slave_raid_desc;Begin a slave raid to fill your holdings.;;;;;;;;;;;;;x
 CB_NAME_SLAVE;Slave Raid;;;;;;;;;;;;;x
 WAR_NAME_SLAVE;$ORDER$$FIRST_ADJ$ Slave Raid on $SECOND$;;;;;;;;;;;;;x
 anti_slavery;Anti-slavery War;;;;;;;;;;;;;x
-anti_slavery_desc;The people of §Y$TITLE$§! practice the despicable custom of slavery. We must set their slaves free!;;;;;;;;;;;;;x
-CB_NAME_ANTISLAVERY;Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_ANTISLAVERY;$CLAIMANT$'s$ORDER$ Liberation of $OTHER_TITLE$;;;;;;;;;;;;;x
+anti_slavery_desc;The people of $SECOND$ practice the despicable custom of slavery. We must set their slaves free!;;;;;;;;;;;;;x
+CB_NAME_ANTISLAVERY;Liberation War;;;;;;;;;;;;;x
+WAR_NAME_ANTISLAVERY;$CLAIMANT$'s$ORDER$ Liberation War;;;;;;;;;;;;;x
 
 #Opinions
 opinion_enslaved_close_relative;Enslaved My Relative!;;;x

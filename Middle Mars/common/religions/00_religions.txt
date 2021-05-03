@@ -78,8 +78,6 @@ christian = {
 		rel_head_defense = yes
 		raised_vassal_opinion_loss = no
 
-		allow_looting = yes
-
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
@@ -760,7 +758,7 @@ muslim = {
 	ai_convert_other_group = 1 # try to convert if ai_zeal is high
 	ai_fabricate_claims = no
 	
-	color = { 0 0.6 0 }
+	color = { 0.7 0.7 0.5 }
 	
 	interface_skin = { muslim_interface }
 	
@@ -780,7 +778,7 @@ muslim = {
 		icon = 3
 		heresy_icon = 8
 		
-		color = { 0 0.6 0 }
+		color = { 0.7 0.7 0.5 }
 		
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN

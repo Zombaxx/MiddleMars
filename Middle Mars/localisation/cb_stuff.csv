@@ -10,3 +10,7 @@ CB_NAME_SHATTER_REALM;Destroy the [Title.GetFullBaseName]!;;;;;;;;;;;;x
 WAR_NAME_SHATTER_REALM;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ War;;;;;;;;;;;;;x
 cb_shatter_war_desc;There are some who call themselves "Emperors" of this land. Such a prideful act to rule over so many.;;;x
 other_shatter_tip;This realm will shatter and all vassals will be given independence!;;;x
+
+CB_NAME_FUCK_YOU_CONVERT;Convert by Force!;;;;;;;;;;;;;x
+WAR_NAME_FUCK_YOU_CONVERT;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ Conversion War;;;;;;;;;;;;;x
+fuck_you_convert_desc;[From.Religion.GetHighGodName] willing, I shall take battle to these heathens and show them the one true way!;;;;;;;;;;;;;x

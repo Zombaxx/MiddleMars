@@ -60,44 +60,56 @@ respect_leader = {
 importing_arms = {
 	icon = 13
 	levy_reinforce_rate = 0.50
-	global_levy_size = 0.25
-	ambition_opinion = -25
-
+	levy_size = 0.25
+	land_organisation = 0.20
+	local_tax_modifier = -0.45
+	tech_growth_modifier = 0.25
+	culture_flex = -0.55
 }
 exporting_arms = {
 	icon = 13
 	levy_reinforce_rate = -0.25
-	build_time_modifier = -0.25
-	monthly_character_wealth = 2	
-
+	levy_size = -0.15
+	land_organisation = -0.05
+	local_build_time_modifier = -0.25
+	local_tax_modifier = 0.75	
+	tax_income = 2.5
 }
 importing_foods = {
 	icon = 59
 	levy_reinforce_rate = 0.15
-	global_revolt_risk = -0.03
-
+	local_revolt_risk = -0.03
+	local_build_time_modifier = -0.25
+	supply_limit = 0.25
+	local_tax_modifier = -0.40
+	disease_defence = -0.02
+	culture_flex = -0.25
 }
 exporting_foods = {
 	icon = 60
-	global_revolt_risk = -0.01
+	local_revolt_risk = 0.01
 	levy_reinforce_rate = -0.10
 	local_tax_modifier = 0.45
-	monthly_character_wealth = 1.2	
+	tax_income = 1.2	
 
 }
 importing_goods = {
 	icon = 52
-	global_revolt_risk = -0.02
-	build_cost_modifier = -0.25
-	global_supply_limit = 0.25
-	vassal_opinion = 5
+	local_revolt_risk = -0.05
+	local_build_cost_modifier = -0.25
+	supply_limit = 0.25
+	tech_growth_modifier = 0.25
+	local_tax_modifier = -0.55
+	culture_flex = -0.35
 
 }
 exporting_goods = {
 	icon = 52
-	local_tax_modifier = 0.75
-	global_supply_limit = -0.1	
-	build_cost_modifier = 0.2
+	local_tax_modifier = 0.55
+	tax_income = 2
+	supply_limit = -0.05	
+	local_build_cost_modifier = 0.05
+	tech_growth_modifier = -0.05
 
 }
 sin_loaner = {
@@ -106,4 +118,12 @@ sin_loaner = {
 }
 sin_loan_taker = {
 	icon = 22
+}
+settlement_convert = {
+	levy_size = -0.25
+	levy_reinforce_rate = -0.75
+	local_tax_modifier = -0.75
+	local_revolt_risk = 0.10
+	supply_limit = -0.75
+	icon = 106
 }

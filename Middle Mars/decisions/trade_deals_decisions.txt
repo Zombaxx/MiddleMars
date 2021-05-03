@@ -24,7 +24,7 @@ targetted_decisions = {
 			hidden_tooltip = {
 				add_character_modifier = {
 					name = trades_deal
-					duration = 720
+					duration = 60
 					hidden = yes
 					}
 				character_event = { id = roytrade.7 }

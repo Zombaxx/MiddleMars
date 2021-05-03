@@ -1,10 +1,11 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
 #decisions
-make_trade_dec;Trade with [Root.GetBestName];;;x
+make_trade_dec;Trade with [Root.PrimaryTitle.GetName];;;x
 make_trade_dec_desc;Attempt to negotiate a trade deal between your realms.;;;x
 
 #modifiers
+trade_deal;Trade Deal;;;x
 trades_deal;Trading;;;x
 importing_arms;Importing Arms;;;x
 importing_arms_desc;This ruler is recieving armaments from another realm.;;;x

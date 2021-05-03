@@ -119,6 +119,106 @@ character_event = {
 		}
 	}
 		option = {
+		name = EVTOPTElettersoc.0
+		trigger = {
+		ROOT = {
+			OR = {
+				is_primary_war_defender = yes
+				is_primary_war_attacker = yes
+			}
+		}
+		FROM = { 
+			is_ruler = yes
+			war = no 
+			}
+		}
+		custom_tooltip = { text = letterhelp }
+		wealth = -5
+		hidden_tooltip = {
+		random_list = {
+			6 = { 
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { intrigue = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { intrigue = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						ROOT = { intrigue = 21 }
+					}
+					modifier = {
+						factor = 1.25
+						opinion = { who = ROOT value =  60 }
+					}	
+					modifier = {
+						factor = 3.25
+						FROM = { is_ friend = ROOT }
+					}
+					modifier = {
+						factor = 1
+						FROM = { culture = ROOT }
+					}
+					modifier = {
+						factor = 1.55
+						FROM = { religion = ROOT }
+					}
+			character_event = { id = secretletter.5 days = 14 }
+			}
+			4 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { intrigue = 8 }
+					}
+					modifier = {
+						factor = 1.35
+						NOT = { intrigue = 6 }
+					}
+					modifier = {
+						factor = 1.5
+						NOT = { intrigue = 4 }
+					}				
+					modifier = {
+						factor = 1.75
+						NOT = { intrigue = 2 }
+					}
+					modifier = {
+						factor = 1.25
+						NOT = { opinion = { who = ROOT value =  60 } }
+					}	
+					modifier = {
+						factor = 2.25
+						FROM = { NOT = { is_ friend = ROOT } }
+					}
+					modifier = {
+						factor = 1.25
+						FROM = { NOT = { culture = ROOT } }
+					}
+					modifier = {
+						factor = 1.55
+						FROM = { NOT = { religion = ROOT } }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { trait = weak }
+					}
+
+			character_event = { id = secretletter.7 days = 14 } 
+				}
+			}
+		}
+	}
+		option = {
 		name = EVTOPTDlettersoc.0
 		trigger = {
 		FROM = { has_character_modifier = society_member }
@@ -373,106 +473,7 @@ character_event = {
 			}
 		}
 	}
-		option = {
-		name = EVTOPTElettersoc.0
-		trigger = {
-		ROOT = {
-			OR = {
-				is_primary_war_defender = yes
-				is_primary_war_attacker = yes
-			}
-		}
-		FROMFROM = { 
-			is_ruler = yes
-			war = no 
-			}
-		}
-		custom_tooltip = { text = letterhelp }
-		wealth = -5
-		hidden_tooltip = {
-		random_list = {
-			6 = { 
-					modifier = {
-						factor = 1.25
-						ROOT = { intrigue = 10 }
-					}
-					modifier = {
-						factor = 1.25
-						ROOT = { intrigue = 12 }
-					}
-					modifier = {
-						factor = 1.35
-						ROOT = { intrigue = 15 }
-					}
-					modifier = {
-						factor = 1.5
-						ROOT = { intrigue = 18 }
-					}				
-					modifier = {
-						factor = 1.75
-						ROOT = { intrigue = 21 }
-					}
-					modifier = {
-						factor = 1.25
-						opinion = { who = ROOT value =  60 }
-					}	
-					modifier = {
-						factor = 3.25
-						FROM = { is_ friend = ROOT }
-					}
-					modifier = {
-						factor = 1
-						FROM = { culture = ROOT }
-					}
-					modifier = {
-						factor = 1.55
-						FROM = { religion = ROOT }
-					}
-			character_event = { id = secretletter.5 days = 14 }
-			}
-			4 = { 
-					modifier = {
-						factor = 1.25
-						NOT = { intrigue = 8 }
-					}
-					modifier = {
-						factor = 1.35
-						NOT = { intrigue = 6 }
-					}
-					modifier = {
-						factor = 1.5
-						NOT = { intrigue = 4 }
-					}				
-					modifier = {
-						factor = 1.75
-						NOT = { intrigue = 2 }
-					}
-					modifier = {
-						factor = 1.25
-						NOT = { opinion = { who = ROOT value =  60 } }
-					}	
-					modifier = {
-						factor = 2.25
-						FROM = { NOT = { is_ friend = ROOT } }
-					}
-					modifier = {
-						factor = 1.25
-						FROM = { NOT = { culture = ROOT } }
-					}
-					modifier = {
-						factor = 1.55
-						FROM = { NOT = { religion = ROOT } }
-					}
-					modifier = {
-						factor = 1.5
-						ROOT = { trait = weak }
-					}
 
-			character_event = { id = secretletter.7 days = 14 } 
-				}
-			}
-		}
-	}
 		option = {
 		name = EVTOPTFlettersoc.2
 		remove_character_modifier = sent_letter

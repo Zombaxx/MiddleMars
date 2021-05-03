@@ -12,3 +12,6 @@ double_paid_troops;Doubled Soldiers' Pay;;;;;;;;;;;;;;x
 active_mercs;Employed Celestian Mercenaries;;;x
 
 opinion_kidnap_child;Kidnapped My Child!;;;x
+
+settlement_convert;Forced Conversion;;;x
+settlement_convert_desc;The people of this province have been massacred and forced to convert by the sword.;;;x
