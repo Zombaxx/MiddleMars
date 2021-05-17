@@ -7,12 +7,9 @@ decisions = {
 			war = yes
 			wealth = 200
 			capital_scope = { has_building = ca_trade_center }
-			OR = {
 				any_neighbor_independent_ruler = {
 					religion = taoist
 						}
-				culture_group = arabic
-			}
 		}
 		allow = {
 			age = 14

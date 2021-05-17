@@ -167,10 +167,7 @@ namespace = build_mech
 				chance = 5
 				add_trait = hunchback
 				}
-			random = {
-				chance = 15
-				add_trait = severely_injured
-				}
+		add_character_modifier = { modifier = mech_injured duration = 90 }
 			add_trait = wounded
 		}
 }

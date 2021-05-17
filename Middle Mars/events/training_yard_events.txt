@@ -524,3 +524,26 @@ border = GFX_event_normal_frame_war
 		name = martial_improve_ends_abruptly_option
 	}
 }
+#Random death event
+character_event = {
+	id = trayar.21
+	desc = EVTDESCSMDeath.4
+	picture = GFX_roy_training
+
+	is_triggered_only = yes	
+
+	only_playable = yes
+	
+	trigger = {
+		martial < 4
+		age = 21
+		NOT = { in_command = yes }
+		NOT = { trait = genius }
+		NOT = { trait = strong }
+	}
+	
+	option = {
+		name = EVTOPTSMDeath.4
+		death = { death_reason = death_murder_arrow killer = ROOT }
+	}
+}

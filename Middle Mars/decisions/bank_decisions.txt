@@ -93,7 +93,11 @@ targetted_decisions = {
 			FROM = { set_character_flag = sin_requesting_loan }
 		}
 		ai_will_do = {
-			factor = 0.5
+			factor = 0.2
+			modifier = {
+				factor = 0.01 #Broke ass tribal dudes leave me alone
+				is_tribal = yes
+				}
 			modifier = {
 				factor = 0.05
 				religion_group = pagan_group

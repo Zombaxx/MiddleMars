@@ -46,11 +46,11 @@ north_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 		
-		from_dynasty_prefix = "af "
+		from_dynasty_prefix = "of "
 		
-		male_patronym = "sson"
-		female_patronym = "sdottir"
-		prefix = no # The patronym is added as a suffix
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50

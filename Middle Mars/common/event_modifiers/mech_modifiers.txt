@@ -57,10 +57,10 @@ visited_chambers = {
 }
 sinfertile = {
 	icon = 8
-	fertility = -50
 }
 sinfertile2 = {
 	icon = 8
+	fertility_penalty = -99.00
 }
 usedmech = {
 	icon = 109
@@ -155,5 +155,15 @@ good_pilot = {
 science_researching = {
 	icon = 1
 }
-	
-
+tamed_suit = {
+	icon = 103	
+	general_opinion = 3
+}
+attempt_tamed_suit = {
+	icon = 120
+}
+mech_injured = {
+	icon = 120	
+	health_penalty = -0.75
+	combat_rating = -10
+}

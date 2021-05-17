@@ -32,6 +32,7 @@ character_event = {
 		in_command = yes
 		in_battle = yes
 		NOT = { has_character_modifier = good_pilot }
+		trait = mech_pilot
 		OR = {
 			has_artifact = mech_suit
 			has_artifact = common_mech_suit
@@ -103,6 +104,7 @@ character_event = {
 		tier = EMPEROR
 		religion = taoist
 		martial = 12
+		trait = mech_pilot
 		OR = {
 			has_artifact = mech_suit
 			has_artifact = common_mech_suit
@@ -160,6 +162,7 @@ long_character_event = {
 			has_artifact = mech_suit
 			has_artifact = common_mech_suit
 		}
+			trait = mech_pilot
 			at_location = ROOT
 				OR = {
 					war_with = ROOT
@@ -182,6 +185,7 @@ long_character_event = {
 			has_artifact = mech_suit
 			has_artifact = common_mech_suit
 		}
+			trait = mech_pilot
 			at_location = ROOT
 				OR = {
 					war_with = ROOT

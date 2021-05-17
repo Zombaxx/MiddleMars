@@ -6,9 +6,17 @@ city_duke_latin;Doge;Doge;Doge;;Dux;;;;;;;;;x
 city_duke_byzantine;Doge;Doge;Doge;;Dux;;;;;;;;;x
 king_russian;Putin;;;x
 king_female_russian;Putina;;;x
+king_norse_pagan;Sea King;;;;;;;;;;;;;x
+king_female_norse_pagan;Sea Queen;;;x
+duke_norse_pagan;Lord Raider;;;x
+duke_female_norse_pagan;Lady Raider;;;x
 
 
 #Arabic/Martian
+
+city_duke_muslim;Precept;;;x
+city_duke_female_muslim;Precepta;;;;;;;;;x
+
 
 tribal_duke_arabic;Magna;;;x
 tribal_duke_female_arabic;Magnata;;;x
@@ -120,7 +128,7 @@ tribal_count_central_african;Lord;;;x
 tribal_count_female_central_african;Lady;;;x
 tribal_emperor_central_african;High King;;;x
 tribal_emperor_female_central_african;High Queen;;;x
-emperor_central_african;Holy Emperor;;;x
+emperor_central_african;King of Kings;;;x
 emperor_female_central_african;High Empress;;;x
 king_central_african;King;;;x
 king_female_central_african;Queen;;;x
@@ -140,45 +148,45 @@ city_duke_central_african;Lord Protector;;;;;;;;;x
 
 #Cimmerian
 
-tribal_duke_tibetan_group;Protector;;;x
-tribal_duke_female_tibetan_group;Protector;;;x
-tribal_count_tibetan_group;Baron;;;x
-tribal_count_female_tibetan_group;Shinshi;;;x
-tribal_emperor_tibetan_group;Madara;;;x
-tribal_emperor_female_tibetan_group;Kaguya;;;x
-emperor_tibetan_group;Madara;;;x
-emperor_female_tibetan_group;Kaguya;;;x
-king_tibetan_group;Ten'no;;;x
-king_female_tibetan_group;Kohi;;;x
-title_prince_tibetan_group;Oji;;;;;;;;;;;;;x
-title_prince_female_tibetan_group;Ojo;;;;;;;;;;;;;x
-duke_tibetan_group;Shogun;;;x
-duke_female_tibetan_group;Washi;;;;;;;;;x
-count_tibetan_group;Omo;;;;;;;;;;;;;x
-count_female_tibetan_group;Shinshi;;;x
+tribal_duke_bodpa;Protector;;;x
+tribal_duke_female_bodpa;Protector;;;x
+tribal_count_bodpa;Baron;;;x
+tribal_count_female_bodpa;Shinshi;;;x
+tribal_emperor_bodpa;Madara;;;x
+tribal_emperor_female_bodpa;Kaguya;;;x
+emperor_bodpa;Madara;;;x
+emperor_female_bodpa;Kaguya;;;x
+king_bodpa;Ten'no;;;x
+king_female_bodpa;Kohi;;;x
+title_prince_bodpa;Oji;;;;;;;;;;;;;x
+title_prince_female_bodpa;Ojo;;;;;;;;;;;;;x
+duke_bodpa;Shogun;;;x
+duke_female_bodpa;Washi;;;;;;;;;x
+count_bodpa;Omo;;;;;;;;;;;;;x
+count_female_bodpa;Shinshi;;;x
 
-city_count_tibetan_group;Omo;;;;;;;;;x
-city_count_female_tibetan_group;Shinshi;;;;
-city_king_tibetan_group;Kunshu;;;;;;;;;x
-city_king_female_tibetan_group;Jouou;;;;;;;;;x
-city_duke_female_tibetan_group;Washi;;;;;;;;;x
-city_duke_tibetan_group;Dansei;;;;;;;;;x
-count_tibetan_group;Omo;;;;;;;;;;;;;x
-count_female_tibetan_group;Shinshi;;;x
+city_count_bodpa;Omo;;;;;;;;;x
+city_count_female_bodpa;Shinshi;;;;
+city_king_bodpa;Kunshu;;;;;;;;;x
+city_king_female_bodpa;Jouou;;;;;;;;;x
+city_duke_female_bodpa;Washi;;;;;;;;;x
+city_duke_bodpa;Dansei;;;;;;;;;x
+count_bodpa;Omo;;;;;;;;;;;;;x
+count_female_bodpa;Shinshi;;;x
 
-temple_count_tibetan_group;Saishi;;;;;;;;;x
-temple_count_female_tibetan_group;Shinshi;;;;
-temple_king_tibetan_group;Seinaru Chichi;;;;;;;;;x
-temple_king_female_tibetan_group;Jouou;;;;;;;;;x
-temple_duke_female_tibetan_group;Miko;;;;;;;;;x
-temple_duke_tibetan_group;Seijin;;;;;;;;;x
+temple_count_bodpa;Saishi;;;;;;;;;x
+temple_count_female_bodpa;Shinshi;;;;
+temple_king_bodpa;Seinaru Chichi;;;;;;;;;x
+temple_king_female_bodpa;Jouou;;;;;;;;;x
+temple_duke_female_bodpa;Miko;;;;;;;;;x
+temple_duke_bodpa;Seijin;;;;;;;;;x
 
 
-county_of_tibetan_group;Prefect of;;;;;;;;;x
-barony_of_tibetan_group;House of;;;x
-duchy_of_tibetan_group;Province of;;;;;;;;;x
-kingdom_of_tibetan_group;Okoku;;;;;;;;;x
-duchy_of_tibetan_group;Kokoku;;;;;;;;;x
+county_of_bodpa;Prefect of;;;;;;;;;x
+barony_of_bodpa;House of;;;x
+duchy_of_bodpa;Province of;;;;;;;;;x
+kingdom_of_bodpa;Okoku;;;;;;;;;x
+duchy_of_bodpa;Kokoku;;;;;;;;;x
 
 
 

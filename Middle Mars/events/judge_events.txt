@@ -6,7 +6,7 @@ namespace = royjudge
 		is_triggered_only = yes
 
 	trigger = {
-		has_minor_title = grand_judge
+		has_minor_title = title_grand_judge
 		NOT = { add_character_modifier = { modifier = made_ruling duration = 720 } }
 		employer = {
 			war = no
@@ -56,7 +56,7 @@ namespace = royjudge
 		custom_tooltip = { text = judge2 }
 		FROMFROM = {
 			add_character_modifier = { modifier = made_ruling duration = 720 }
-			opinion = { modifier = overruled_me who = ROOT years = 5 }
+			opinion = { modifier = opinion_overruled_me who = ROOT years = 5 }
 		}
 		event_target:brothel_crime = { 
 			add_rival = FROMFROM 
@@ -73,7 +73,7 @@ namespace = royjudge
 		custom_tooltip = { text = judge3 }
 		FROMFROM = {
 			add_character_modifier = { modifier = made_ruling duration = 720 }
-			opinion = { modifier = overruled_me who = ROOT years = 5 }
+			opinion = { modifier = opinion_overruled_me who = ROOT years = 5 }
 		}
 		clear_event_target = brothel_crime
 	}
@@ -86,7 +86,7 @@ namespace = royjudge
 		is_triggered_only = yes
 
 	trigger = {
-		has_minor_title = grand_judge
+		has_minor_title = title_grand_judge
 		NOT = { trait = lustful }
 		NOT = { add_character_modifier = { modifier = made_ruling duration = 720 } }
 		employer = {

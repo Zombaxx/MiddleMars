@@ -71,7 +71,7 @@ fuck_you_convert = {
 		ROOT = {
 			is_adult = yes
 			higher_tier_than = BARON
-			NOT = { higher_tier_than = DUKE }
+			NOT = { higher_tier_than = KING }
 			mercenary = no
 			NOT = { religion = taoist }	
 			NOT = { religion = orthodox }
@@ -155,10 +155,10 @@ fuck_you_convert = {
 		}	
 		modifier = {
 			factor = 0.1 # Spacers not too interested in converting
-			FROM = { NOT = { religion = taoist } }
+			FROM = { NOT = { culture_group = chinese_group } }
 		}	
 		modifier = {
-			factor = 0.1 # Spacers not too interested in converting
+			factor = 3
 			FROM = { NOT = { trait = ambitious } }
 		}
 		modifier = {

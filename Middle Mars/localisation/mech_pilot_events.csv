@@ -1,5 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;x
 suit;Mech Suit;;;x
+mech_injured;Mech Suit Accident;;;;x
+mech_injured_desc;This character's spine was yanked by a Mech Suit. A painful injury, but it will heal.;;;x
 forge_mech_license;Forge Commander Key;;;x
 forge_mech_license_desc;Forge a Commander Key so that you may pilot a Mech Suit.;;;x
 build_zhao_mech_suit;Build a Zhao Ranger;;;x

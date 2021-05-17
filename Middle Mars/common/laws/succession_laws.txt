@@ -642,6 +642,15 @@ succession_laws = {
 			modifier = {
 				factor = 0
 				holder_scope = {
+					OR = {
+						has_law = succ_feudal_elective
+						has_law = succ_hre_elective
+					}
+				}	
+			}
+			modifier = {
+				factor = 0
+				holder_scope = {
 					NOT = { trait = just }
 					NOT = { trait = proud }
 					any_vassal = { relative_power_to_liege = 0.2 NOT = { opinion = { who = PREV value = -25 } } } 
@@ -650,12 +659,19 @@ succession_laws = {
 		}		
 	}
 	
-succ_feudal_elective = {
+	succ_feudal_elective = {
 		oldest_child_opinion = -15
 		child_opinion = -5
 		dynasty_opinion = -5
 		vassal_opinion = 10
 		potential = {
+			NAND = { 
+				has_law = succ_byzantine_elective 
+				OR = { 
+					title = e_byzantium
+					title = e_roman_empire
+				}
+			}
 			holder_scope = {
 				OR = {
 					independent = yes
@@ -665,53 +681,91 @@ succ_feudal_elective = {
 						}
 					}
 				}
+				OR = {
+					NOR = { 
+						religion_group = muslim
+						religion_group = indian_group
+					}
+					has_law = succession_voting_power_1
+					OR = { 
+						has_law = succ_feudal_elective # Keep it even if you revoke Full Council Authority
+						has_law = succ_hre_elective
+					} 
+					ROOT = {
+						has_title_flag = alternate_hre
+					}
+				}
 				is_merchant_republic = no
 				is_patrician = no
-				is_theocracy = no
-				is_nomadic = no
+				
 				OR = {
-					is_republic = no
-					higher_tier_than = COUNT
+					NOT = { religion_group = pagan_group }
+					is_reformed_religion = yes
+					religion = hellenic_pagan
+					has_law = succession_voting_power_1
+					OR = { 
+						has_law = succ_feudal_elective # Keep it even if you revoke Full Council Authority
+						has_law = succ_hre_elective
+					} 
+					ROOT = {
+						has_title_flag = alternate_hre
+					}
 				}
-
-				NOT = { government = theocratic_feudal_government }
-				NAND = { #Uses kingsmoot
-					higher_tier_than = DUKE
-					government = feudal_government
+				OR = {
+					independent = yes
+					NOT = {
+						any_demesne_title = {
+							is_vice_royalty = yes
+						}
+					}
 				}
 			}
 			OR = {
 				is_landless_type_title = no
-				#is_tribal_type_title = yes
+				is_tribal_type_title = yes
 				temporary = yes
-				holder_scope = {
-					demesne_size = 1
-					mercenary = no
-					holy_order = no
-					is_theocracy = no
-				}
 			}
 			is_primary_type_title = no
 			NOT = { tier = baron }
+			holder_scope = {
+				OR = {
+					is_feudal = yes
+					has_law = succession_voting_power_1
+					OR = { 
+						has_law = succ_feudal_elective # Keep it even if you revoke Full Council Authority
+						has_law = succ_hre_elective
+					}
+					ROOT = {
+						has_title_flag = alternate_hre
+					}
+				}
+			}
+			NOT = { holder_scope = { government = confucian_bureaucracy } }
+			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOR = {  #Special Elective.
+				title = e_hre 
+				has_title_flag = alternate_hre
+			}
 		}
 		allow = {
-			hidden_tooltip = {
-				holder_scope = {
-					OR = {
-						is_republic = no
-						NOT = { dynasty = 0 }				
-					}
-				}	
-			}
-			NOT = {
-				AND = {
-					holder_scope = { has_character_flag = has_great_council_heir }
-					current_heir = { has_character_modifier = great_council_heir }
+			custom_tooltip = {
+				text = not_forced_tt
+				hidden_tooltip = {
+					holder_scope = { NOT = { has_character_flag = liege_forced_succ_law } }
 				}
 			}
 		}
+		effect = {
+			succession = {
+				base_type = feudal_elective
+				voting_rules = feudal_elective
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}	
 		default_selection = {
-			factor = 0
+			factor = 0.5
 		}
 		ai_will_do = {
 			factor = 1
@@ -719,17 +773,12 @@ succ_feudal_elective = {
 				factor = 0.05
 			}
 			modifier = {
-				factor = 0	
+				factor = 10
 				holder_scope = {
-					is_republic = no
-					NAND = {
-						higher_tier_than = DUKE
-						government = feudal_government
-						OR = {
-							has_religion_feature = religion_feature_elective
-							has_religion_feature = religion_feature_norse
-						}
-					}				
+					AND = {
+						age = 40
+						NOT = { num_of_children = 2 }
+					}
 				}	
 			}
 			modifier = {
@@ -738,7 +787,6 @@ succ_feudal_elective = {
 					OR = {
 						war = yes
 						NOT = { age = 16 }
-						NOT = { any_child = { is_adult = yes } }
 					}
 				}	
 			}
@@ -750,16 +798,7 @@ succ_feudal_elective = {
 					any_vassal = { relative_power_to_liege = 0.2 NOT = { opinion = { who = PREV value = -25 } } } 
 				}
 			}	
-		}	
-		effect = {
-			succession = {
-				base_type = feudal_elective
-				voting_rules = feudal_elective
-			}
-		}
-		revoke_allowed = {
-			always = no
-		}			
+		}		
 	}
 	succ_hre_elective = {
 		oldest_child_opinion = -15

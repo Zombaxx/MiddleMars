@@ -12,13 +12,13 @@ character_event = {#Loan Giver Dies pass to heir
 		current_heir = {
 			save_event_target_as = sin_loaner
 		}
-		top_liege = {
+		any_opinion_modifier_target = {
 			IF = {
 				limit = { has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT } }
 				opinion = { modifier = opinion_sin_loan_taken who = event_target:sin_loaner years = 120 }
 				reverse_opinion = { modifier = opinion_sin_loan_given who = event_target:sin_loaner years = 120 }
 			}
-			any_realm_character = {
+			any_playable_ruler = {
 				IF = {
 					limit = { has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT } }
 					opinion = { modifier = opinion_sin_loan_taken who = event_target:sin_loaner years = 120 }
@@ -39,7 +39,7 @@ character_event = {#Loan Taker Dies pass to heir
 	}
 
 	immediate = {
-		top_liege = {
+		any_opinion_modifier_target = {
 			IF = {
 				limit = {
 					reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
@@ -53,7 +53,7 @@ character_event = {#Loan Taker Dies pass to heir
 					}
 				}
 			}
-			random_realm_character = {
+			random_playable_ruler = {
 				IF = {
 					limit = {
 						reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
@@ -74,7 +74,7 @@ character_event = {#Loan Taker Dies pass to heir
 character_event = {#Loan is due, repay or not?
 	id = sin_loaner_maintenance.2
 	desc = EVTDESCsin_loaner_maintenance.2
-	picture = GFX_evt_lovers
+	picture = GFX_roy_bank
 
 	trigger = {
 		has_any_opinion_modifier = opinion_sin_loan_taken
@@ -89,12 +89,12 @@ character_event = {#Loan is due, repay or not?
 		name = EVTOPTAsin_loaner_maintenance.2
 		trigger = {
 			wealth = 125
-			top_liege = {
+			any_opinion_modifier_target = {
 				reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
 			}
 		}
 		set_character_flag = sin_repaid_loan
-		top_liege = {
+		any_opinion_modifier_target = {
 			IF = {
 				limit = {
 					reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
@@ -109,14 +109,14 @@ character_event = {#Loan is due, repay or not?
 		name = EVTOPTAsin_loaner_maintenance.2
 		trigger = {
 			wealth = 125
-			top_liege = {
+			any_opinion_modifier_target = {
 				any_realm_lord = {
 					reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
 				}
 			}
 		}
 		set_character_flag = sin_repaid_loan
-		top_liege = {
+		any_opinion_modifier_target = {
 			random_realm_lord = {
 				limit = {
 					reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
@@ -133,11 +133,11 @@ character_event = {#Loan is due, repay or not?
 			NOT = {
 				wealth = 125
 			}
-			top_liege = {
+			any_opinion_modifier_target = {
 				reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
 			}
 		}
-		top_liege = {
+		any_opinion_modifier_target = {
 			IF = {
 				limit = { reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT } }
 				character_event = { id = sin_loaner.3 days = 2 }
@@ -151,13 +151,13 @@ character_event = {#Loan is due, repay or not?
 			NOT = {
 				wealth = 125
 			}
-			top_liege = {
+			any_opinion_modifier_target = {
 				any_realm_lord = {
 					reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT }
 				}
 			}
 		}
-		top_liege = {
+		any_opinion_modifier_target = {
 			random_realm_lord = {
 				limit = { reverse_has_opinion_modifier = { modifier = opinion_sin_loan_taken who = ROOT } }
 				character_event = { id = sin_loaner.3 days = 2 }
@@ -201,7 +201,7 @@ character_event = {#Root has worked off the debt and can be released
 character_event = {#Loan is due, repay or not?
 	id = sin_loaner_maintenance.4
 	desc = EVTDESCsin_loaner_maintenance.4
-	picture = GFX_evt_lovers
+	picture = GFX_roy_bank
 	is_triggered_only = yes
 
 	option = {

@@ -118,6 +118,7 @@ character_event = {
 			primary_title = {
 				add_claim = ROOT
 			}
+			opinion = { modifier = opinion_claimed_my_title who = ROOT years = 10 }
 			remove_opinion = { who = ROOT modifier = opinion_sin_loan_taken }
 			reverse_remove_opinion = { who = ROOT modifier = opinion_sin_loan_given }
 		}

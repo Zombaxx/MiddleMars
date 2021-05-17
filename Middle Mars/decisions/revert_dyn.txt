@@ -8,10 +8,10 @@ targetted_decisions = {
 			is_parent_of = FROM
 			is_grandparent_of = FROM
 			}
-			has_character_flag = cadetbranch 
+			has_character_flag = cadetbranch
 		}
 		allow = {
-			age = 14
+			always = yes
 		}
 		effect = {
 			FROM = { dynasty = ROOT }

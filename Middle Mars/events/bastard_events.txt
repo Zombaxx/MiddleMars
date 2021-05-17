@@ -8,14 +8,20 @@ character_event = {
 	option = {
 		name = roy_bastard.001.1
 		ROOT = {
-			piety = -50 
+			prestige = 25
+			piety = -100
 		}
 		FROM = {
+			opinion = {
+				who = ROOT
+				modifier = opinion_happy
+				years = 15
+			}
 			mother = {
 				opinion = {
 					who = ROOT
 					modifier = acknowledged_child
-					years = -1
+					years = 10
 				}
 			}
 			mother = {

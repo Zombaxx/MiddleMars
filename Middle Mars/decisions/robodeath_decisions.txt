@@ -4,17 +4,18 @@ decisions = {
 		is_high_prio = yes
 		ai = no #ai decides via event
 		potential = { 
-			has_artifact = mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = mech_suit
+				is_artifact_active = yes
+			}
 			in_battle = yes
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
+			trait = mech_pilot
 			
 		}
 		
 		allow = {	
-			has_artifact = mech_suit
-			wealth = 15
 			in_battle = yes
 			NOT = { has_character_modifier = usedmech }
 			}	
@@ -36,17 +37,20 @@ decisions = {
 		is_high_prio = yes
 		ai = no #ai decides via event
 		potential = { 
-			has_artifact = mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = mech_suit
+				is_artifact_active = yes
+			}
 			in_battle = yes
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
-			
 		}
 		
 		allow = {	
-			has_artifact = mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = mech_suit
+				is_artifact_active = yes
+			}
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
 			}	
@@ -67,17 +71,17 @@ decisions = {
 		is_high_prio = yes
 		ai = no #ai decides via event
 		potential = { 
-			has_artifact = common_mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = common_mech_suit
+				is_artifact_active = yes
+			}
 			in_battle = yes
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
-			
+			trait = mech_pilot
 		}
 		
 		allow = {	
-			has_artifact = common_mech_suit
-			wealth = 15
 			in_battle = yes
 			NOT = { has_character_modifier = usedmech }
 			}	
@@ -98,17 +102,17 @@ decisions = {
 		is_high_prio = yes
 		ai = no #ai decides via event
 		potential = { 
-			has_artifact = super_mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = super_mech_suit
+				is_artifact_active = yes
+			}
 			in_battle = yes
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
-			
+			trait = mech_pilot
 		}
 		
 		allow = {	
-			has_artifact = super_mech_suit
-			wealth = 15
 			in_battle = yes
 			NOT = { has_character_modifier = usedmech }
 			}	
@@ -129,17 +133,17 @@ decisions = {
 		is_high_prio = yes
 		ai = no #ai decides via event
 		potential = { 
-			has_artifact = super_mech_suit
-			wealth = 15
+			any_artifact = {
+				artifact_type = super_mech_suit
+				is_artifact_active = yes
+			}
 			in_battle = yes
 			in_command = yes
 			NOT = { has_character_modifier = usedmech }
-			
+			trait = mech_pilot
 		}
 		
 		allow = {	
-			has_artifact = super_mech_suit
-			wealth = 15
 			in_battle = yes
 			NOT = { has_character_modifier = usedmech }
 			}	

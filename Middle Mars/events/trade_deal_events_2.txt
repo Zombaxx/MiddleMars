@@ -24,7 +24,7 @@ namespace = roytrade
 	#FROMFROM wants an alliance instead of NAP plus some money
 	character_event = {
 		id = roytrade.12
-		desc = "EVTDESCroytrade.1"
+		desc = "EVTDESCroytrade.12"
 		picture = "GFX_roy_trade"
 	
 		is_triggered_only = yes

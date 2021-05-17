@@ -131,6 +131,7 @@ targetted_decisions = {
 		potential = {
 			prisoner = yes
 			host = { character = FROM }
+			NOT = { has_character_modifier = on_trial }
 			OR = {
 				NOT = { trait = trait_slave }
 				NOT = { has_opinion_modifier = { who = FROM modifier = opinion_master } }

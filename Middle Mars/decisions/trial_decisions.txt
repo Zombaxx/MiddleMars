@@ -13,68 +13,41 @@
 
 targetted_decisions = {
 
-
-	torture_remove_eye = {
+	trial_character = {
+		only_playable = yes
 		filter = court
-		
 		from_potential = {
-			religion_group = christian
-			is_ruler = yes
+			ai = no
+			is_playable = yes
+			capital_scope = { has_building = ca_high_court }
+			any_courtier = { has_minor_title = title_grand_judge }
 		}
+		
 		potential = {
-			prisoner = yes
-			NOT = { trait = one_eyed }
+			is_adult = yes				
 		}
+		
 		allow = {
-			NOT = { has_character_modifier = on_trial }
-			FROM = {
-				OR = {
-				prestige = 100
-				piety = 100
+			prisoner = yes
+			host = { character = FROM }
+			FROM = { 	
+				prestige = 50
+				NOT = { has_character_modifier = holding_trial }
+			}
+			ROOT = {
+				NOT = {
+					has_character_modifier = on_trial
 				}
 			}
 		}
-		effect = {
-			FROM = { character_event = { id = roy_torture_events.001 } }
-			}
-
-		revoke_allowed = {
-			always = no
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	torture_remove_hand = {
-		filter = court
 		
-		from_potential = {
-			OR = {
-			culture_group = east_african
-			religion_group = muslim
-			}
-			is_ruler = yes
-		}
-		potential = {
-			prisoner = yes
-			NOT = { has_character_modifier = on_trial }
-			NOT = { trait = one_handed } 
-		}
-		allow = {
-			FROM = {
-				OR = {
-				prestige = 100
-				piety = 100
-				}
-			}
-		}
-		effect = {
-			FROM = { character_event = { id = roy_torture_events.002 } }
-			}
-
-		revoke_allowed = {
-			always = no
-		}
+		effect = {		
+			FROM = { 
+				add_character_modifier = { modifier = holding_trial duration = 7 }
+				character_event = { id = trial_events.1 } 
+			} 
+			ROOT = { add_character_modifier = { modifier = on_trial duration = 7 } }
+			}		
 		ai_will_do = {
 			factor = 0
 		}

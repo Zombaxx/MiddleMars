@@ -9,25 +9,20 @@ decisions = {
 					religion = taoist
 						}
 			}
-
-		}
-		allow = {
-			in_command = no
-			OR = {
-				trait = mech_pilot
-				capital_holding = {
-						has_building = ca_applied_science_division
-					}
-			}
-			age = 14
 			prisoner = no
-			wealth = 200
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }
 			NOT = { trait = severely_injured }
+
+		}
+		allow = {
+			in_command = no
+			age = 14
+			wealth = 200
+
 		}
 		effect = { 
 				character_event = { id = buy_mech.2 } 
@@ -55,19 +50,19 @@ decisions = {
 					religion = taoist
 						}
 			}
-
-		}
-		allow = {
-			in_command = no
-			age = 14
 			prisoner = no
-			wealth = 150
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }
 			NOT = { trait = severely_injured }
+
+		}
+		allow = {
+			in_command = no
+			age = 14
+			wealth = 150
 		}
 		effect = { 
 				character_event = { id = buy_mech.3 } 
@@ -94,18 +89,17 @@ decisions = {
 		potential = {
 			age = 14
 			religion = taoist
-
-		}
-		allow = {
-			in_command = no
-			trait = mech_pilot
-			age = 14
 			prisoner = no
-			wealth = 600
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }
 			NOT = { trait = severely_injured }
+
+		}
+		allow = {
+			in_command = no
+			age = 14
+			wealth = 600
 		}
 		effect = { 
 				character_event = { id = buy_mech.4 } 
@@ -120,6 +114,13 @@ decisions = {
 			modifier = {
 				factor = 0.02
 				martial < 12 
+			}
+			modifier = {
+				factor = 0.02
+				OR = {
+				has_artifact = common_mech_suit
+				has_artifact = mech_suit
+				}
 			}
 		}
 	}

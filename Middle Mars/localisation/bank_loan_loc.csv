@@ -21,12 +21,12 @@ EVTDESCsin_loaner.1;[From.GetFirstName] has died and passed [From.GetHerHis] due
 EVTOPTAsin_loaner.1;Very Well.;;;;;;;;;;;;;x
 EVTDESCsin_loaner.2;[From.GetFirstName] has died and passed [From.GetHerHis] loan debts to you.;;;;;;;;;;;;;x
 EVTOPTAsin_loaner.2;Very Well.;;;;;;;;;;;;;x
-EVTDESCsin_loaner.3;[From.GetFirstName] has come to you about [From.GetHerHis] loan;;;;;;;;;;;;;x
-EVTOPTAsin_loaner.3;And presents a bag of money.;;;;;;;;;;;;;x
-EVTOPTBsin_loaner.3;And cannot pay. "Forgive the Loan for a favor.";;;;;;;;;;;;;x
-EVTOPTCsin_loaner.3;And cannot pay."Claim [From.GetHerHis] title.";;;;;;;;;;;;;x
-EVTOPTDsin_loaner.3;And cannot pay. "Grant an Extension.";;;;;;;;;;;;;x
-EVTOPTEsin_loaner.3;And cannot pay. "Declare Default and imprison.";;;;;;;;;;;;;x
+EVTDESCsin_loaner.3;[From.GetFirstName] has come to you about the state of [From.GetHerHis] loan from your bank and...;;;;;;;;;;;;;x
+EVTOPTAsin_loaner.3;Presents a bag of money to you.;;;;;;;;;;;;;x
+EVTOPTBsin_loaner.3;Cannot pay - Forgive the Loan for a favor.;;;;;;;;;;;;;x
+EVTOPTCsin_loaner.3;Cannot pay - Claim [From.GetHerHis] title.;;;;;;;;;;;;;x
+EVTOPTDsin_loaner.3;Cannot pay - Grant an Extension.;;;;;;;;;;;;;x
+EVTOPTEsin_loaner.3;Cannot pay - Declare Default and imprison them.;;;;;;;;;;;;;x
 EVTDESCsin_loaner.31;[From.GetFirstName] has come to you about, your vassal, [FromFrom.GetFirstName]'s debts demanding [FromFrom.GetSheHe] be sent in chains.;;;;;;;;;;;;;x
 EVTOPTAsin_loaner.31;Very well, send the guards for [FromFrom.GetFirstName].;;;;;;;;;;;;;x
 EVTOPTAsin_loaner.31;Very well, send [From.GetFirstName] the payment.;;;;;;;;;;;;;x
