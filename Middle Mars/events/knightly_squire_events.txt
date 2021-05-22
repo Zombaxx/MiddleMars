@@ -263,7 +263,7 @@ character_event = {
 		add_character_modifier = { modifier = trained_squire duration = 365 }
 		hidden_tooltip = {
 			random_list = {
-				7 = {
+				6 = {
 				modifier = {
 					factor = 1.25
 					ROOT = { martial = 15 } 
@@ -282,7 +282,7 @@ character_event = {
 				} 
 				character_event = { id = knightly.101 days = 2 } 
 				}
-				3 = { 
+				4 = { 
 				modifier = {
 					factor = 1.25
 					ROOT = { NOT = { martial = 8 } }
@@ -323,7 +323,10 @@ character_event = {
 		
 		}
 		FROMFROM = {
-		change_martial = 1
+			random = {
+				chance = 50
+				change_martial = 1
+			}
 			random = {
 				chance = 10
 				add_trait = strong
@@ -387,6 +390,7 @@ character_event = {
 		name = EVTOPTAknightly.104
 		FROM = {
 			remove_trait = squire
+			give_minor_title = title_knight
 			add_trait = knight
 			change_martial = 1
 			random = {

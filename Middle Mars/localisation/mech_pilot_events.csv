@@ -1,9 +1,9 @@
 #CODE;ENGLISH;;;;;;;;;x
 suit;Mech Suit;;;x
+destroyed_land;Devastated Land;;;x
+destroyed_land_desc;Large swathes of this land has been burned and trampled by a rampaging Machine.;;;;x
 mech_injured;Mech Suit Accident;;;;x
 mech_injured_desc;This character's spine was yanked by a Mech Suit. A painful injury, but it will heal.;;;x
-forge_mech_license;Forge Commander Key;;;x
-forge_mech_license_desc;Forge a Commander Key so that you may pilot a Mech Suit.;;;x
 build_zhao_mech_suit;Build a Zhao Ranger;;;x
 build_zhao_mech_suit_desc;Have your scientists attempt to build you a Mech Suit.;;;x
 build_mech_suit;Build a Red Fighter;;;x
@@ -49,8 +49,9 @@ buy_mech.4;AP-6 STRIKER;;;;;;;;;;;;;x
 EVTDESCbuy_mech.4;The AP-6 STRIKER is the most advanced Mech Suit made with the material available on Mars. Its defensive capabilities and foreign armaments make it impossible to defeat on the battlefield. You have invested a lot of gold and time, and now your STRIKER has finally arrived in [Root.Capital.GetName].;;;;;;;;;;x
 EVTbuy_mech.4;The world is mine!;;;;;;;;;;;;;x
 
-EVTDESCsuit_events.1;You have entrusted your spare Mech Suit to [Root.GetTitledFirstName]. "Thank you," [Root.GetSheHe] says, bowing to express [Root.GetHerHis] gratitude.;;;x
-EVTOPTAsuit_events.1;Hopefully, they don't don't use it against me...;;;x
+EVTDESCsuit_events.1;Your [GetFromFromRelation] [FromFrom.GetTitledName] has asked you to entrust one of your spare Mech Suits to [FromFrom.GetHerHim]. "A man can only pilot one at a time themselves," [FromFrom.GetSheHe] reminds you...;;;x
+EVTOPTAsuit_events.1;Hopefully you don't don't use it against me...;;;x
+EVTOPTBsuit_events.1;I would rather not.;;;x
 
 EVTTITsuit_events.0;Mind and Body;;;x
 EVTDESCsuit_events; With each engagement you get better and better at fighting inside your Mech suit. However, Piloting an Armored Mech Suit is heavily taxing on the human body. Due to having to connect to the pilot's spine every use, over time the Mech Suit can kill its pilot.;;;x
@@ -118,3 +119,7 @@ EVTOPTbuild_mech.3;I'll have to try again.;;;x
 
 EVTDESCbuild_mech.4;The Mech Suit has refused you. Once you entered its jaws, it grabbed you with its tongue and yanked at your neck as if it meant to decapitate you. You narrowly escape its jaws with your life...;;;x
 EVTbuild_mech.4;Curses!;;;x
+
+EVTDESCsuit_events13;In the Midst of battle in your Mech Suit, a feeling you cannot describe overcomes you. All you see is red and it is as if the machine you are piloting is not a tool, but an extension of yourself...;;;x
+EVTOPTAsuit_events.13;DEATH DEATH DEATH!!!;;;X
+suitevt13;You go on a rampage with your Mech Suit, terrorizing all men in your sight and making no distinction between friend and foe.;;;x

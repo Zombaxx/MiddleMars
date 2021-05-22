@@ -137,18 +137,9 @@ character_event = {
 					NOT = { trait = incapable }
 				}
 			random = {
-				chance = 5
-				give_nickname = nick_the_godless
-				}
-			random = {
-				chance = 5
+				chance = 15
 				give_nickname = nick_the_bloody
 				}
-			random = {
-				chance = 5
-				give_nickname = nick_the_widowmaker
-				}
-
 			}
 		}
 	}

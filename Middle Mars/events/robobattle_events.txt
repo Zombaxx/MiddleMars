@@ -44,7 +44,7 @@ character_event = {
 		ROOT = {
 			any_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
+					is_artifact_equipped = yes }
 				save_event_target_as = robo1 }	
 		}
 		any_current_enemy = {
@@ -71,7 +71,7 @@ character_event = {
 			save_event_target_as = roboduel	
 			any_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
+					is_artifact_equipped = yes }
 				save_event_target_as = robo2 }	
 		}
 	}
