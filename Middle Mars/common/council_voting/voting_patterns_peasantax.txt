@@ -69,7 +69,7 @@ selfish_pattern_for = {
 	}		
 
 selfish_pattern_against = {
-	icon = 9
+	icon = 10
 	pattern_type = against
 	
 	tax_peasants_law_feudal_0 = { 

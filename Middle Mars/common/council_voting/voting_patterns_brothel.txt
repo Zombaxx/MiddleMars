@@ -7,7 +7,7 @@ loyalist_pattern_for = {
 }
 
 selfish_pattern_for = {
-	icon = 19
+	icon = 9
 	pattern_type = for
 
 	brothel_law_0 = { 
@@ -29,7 +29,7 @@ selfish_pattern_for = {
 }
 
 selfish_pattern_against = {
-	icon = 19
+	icon = 10
 	pattern_type = against
 
 	brothel_law_0 = { 
@@ -51,7 +51,7 @@ selfish_pattern_against = {
 }
 
 pragmatist_pattern_for = {
-	icon = 19
+	icon = 6
 	pattern_type = for
 
 	brothel_law_0 = { 
@@ -73,7 +73,7 @@ pragmatist_pattern_for = {
 }
 
 pragmatist_pattern_against = {
-	icon = 19
+	icon = 6
 	pattern_type = against
 
 	brothel_law_0 = { 
@@ -94,7 +94,7 @@ pragmatist_pattern_against = {
 	}
 }
 glory_hound_pattern_for = {
-	icon = 19
+	icon = 7
 	pattern_type = for
 
 	brothel_law_0 = { 
@@ -116,7 +116,7 @@ glory_hound_pattern_for = {
 }
 
 glory_hound_pattern_against = {
-	icon = 19
+	icon = 7
 	pattern_type = against
 
 	brothel_law_0 = { 
@@ -137,7 +137,7 @@ glory_hound_pattern_against = {
 	}
 }
 zealot_pattern_for = {
-	icon = 19
+	icon = 5
 	pattern_type = for
 
 	brothel_law_0 = { 
@@ -159,7 +159,7 @@ zealot_pattern_for = {
 }
 
 zealot_pattern_against = {
-	icon = 19
+	icon = 5
 	pattern_type = against
 
 	brothel_law_0 = { 

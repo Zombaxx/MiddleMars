@@ -1,5 +1,9 @@
 #CODE;ENGLISH;;;;;;;;;x
 
+grant_nob;Raise [Root.GetFirstName] to Nobility;;;x
+grant_nob_desc;[Root.GetFirstName] is lowborn from no distinguished dynasty. You may grant [Root.GetFirstName] the priviledge to form [Root.GetHerHis] own house with [Root.GetHerHis] own Coat of Arms.;;;x
+opinion_raised_to_nobility;Raised Me To Nobility!;;;x
+
 title_mistress;Mistress;;;;;;;;;;;;;
 title_mistress_desc;Your Official Royal Mistress. She keeps your bed warm when your wife will not perform her duties. Her position also comes with a bit of power;;;;;;;;;;;;;x
 

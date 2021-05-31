@@ -1,0 +1,861 @@
+300030={
+	name="Godwing"
+	culture="old_frankish"
+}
+300030={
+	name="Allenstall"
+	culture="old_frankish"
+}
+300030={
+	name="Appleton"
+	culture="old_frankish"
+}
+300040={
+	name="Gravelson"
+	culture="old_frankish"
+}
+300050={
+	name="Redwater"
+	culture="old_frankish"
+}
+300060={
+	name="Bluewater"
+	culture="old_frankish"
+}
+300070={
+	name="Redwater"
+	culture="old_frankish"
+}
+300080={
+	name="Greenwater"
+	culture="old_frankish"
+}
+300090={
+	name="Vanillatree"
+	culture="old_frankish"
+}
+300300={
+	name="Friendward"
+	culture="old_frankish"
+}
+300130={
+	name="Shoulders"
+	culture="old_frankish"
+}
+300130={
+	name="Pearbottom"
+	culture="old_frankish"
+}
+300130={
+	name="Oldwood"
+	culture="old_frankish"
+}
+300140={
+	name="Namm"
+	culture="old_frankish"
+}
+300150={
+	name="Starbelt"
+	culture="old_frankish"
+}
+300160={
+	name="Starfront"
+	culture="old_frankish"
+}
+300190={
+	name="Drummerwell"
+	culture="old_frankish"
+}
+300300={
+	name="Gotham"
+	culture="old_frankish"
+}
+300230={
+	name="Cobraville"
+	culture="old_frankish"
+	
+}
+300230={
+	name="Drinkwater"
+	culture="old_frankish"
+	
+}
+300240={
+	name="Pocketphone"
+	culture="old_frankish"
+	
+}
+300250={
+	name="Goodsword"
+	culture="old_frankish"
+	
+}
+300260={
+	name="Greenfire"
+	culture="old_frankish"
+	
+}
+300270={
+	name="Kinghammer"
+	culture="old_frankish"
+	
+}
+300960={
+	name="Swordstorm"
+	culture="old_frankish"
+}
+303050={
+	name="Newfire"
+	culture="old_frankish"
+	
+}
+301240={
+	name="of Storms"
+	culture="old_frankish"
+	
+}
+301250={
+	name="Seaworth"
+	culture="old_frankish"
+	
+}
+301340={
+	name="Seahammer"
+	culture="old_frankish"
+	
+}
+301350={
+	name="Runner"
+	culture="old_frankish"
+	
+}
+301380={
+	name="Ableshield"
+	culture="old_frankish"
+	
+}
+301400={
+	name="Largestone"
+	culture="old_frankish"
+	
+}
+301430={
+	name="Highwave"
+	culture="old_frankish"
+	
+}
+301430={
+	name="Sharktooth"
+	culture="old_frankish"
+	
+}
+301460={
+	name="Oldbrook"
+	culture="old_frankish"
+	
+}
+301530={
+	name="Sevenstreams"
+	culture="old_frankish"
+	
+}
+301540={
+	name="Eaglesea"
+	culture="old_frankish"
+	
+}
+301550={
+	name="Blueskies"
+	culture="old_frankish"
+	
+}
+301590={
+	name="Welder"
+	culture="old_frankish"
+	
+}
+301630={
+	name="Noonride"
+	culture="old_frankish"
+	
+}
+301660={
+	name="Berryton"
+	culture="old_frankish"
+	
+}
+301700={
+	name="Lowhut"
+	culture="old_frankish"
+	
+}
+303080={
+	name="Highrise"
+	culture="old_frankish"
+	
+}
+200020={
+	name="Godwing"
+	culture="saxon"
+}
+200020={
+	name="Allenstall"
+	culture="saxon"
+}
+200030={
+	name="Appleton"
+	culture="saxon"
+}
+200040={
+	name="Gravelson"
+	culture="saxon"
+}
+200050={
+	name="Redwater"
+	culture="saxon"
+}
+200060={
+	name="Bluewater"
+	culture="saxon"
+}
+200070={
+	name="Redwater"
+	culture="saxon"
+}
+200080={
+	name="Greenwater"
+	culture="saxon"
+}
+200090={
+	name="Vanillatree"
+	culture="saxon"
+}
+200200={
+	name="Friendward"
+	culture="saxon"
+}
+200120={
+	name="Shoulders"
+	culture="saxon"
+}
+200120={
+	name="Pearbottom"
+	culture="saxon"
+}
+200130={
+	name="Oldwood"
+	culture="saxon"
+}
+200140={
+	name="Namm"
+	culture="saxon"
+}
+200150={
+	name="Starbelt"
+	culture="saxon"
+}
+200160={
+	name="Starfront"
+	culture="saxon"
+}
+200190={
+	name="Drummerwell"
+	culture="saxon"
+	
+}
+200200={
+	name="Gotham"
+	culture="saxon"
+}
+200220={
+	name="Cobraville"
+	culture="saxon"
+	
+}
+200230={
+	name="Drinkwater"
+	culture="saxon"
+	
+}
+200240={
+	name="Pocketphone"
+	culture="saxon"
+	
+}
+200250={
+	name="Goodsword"
+	culture="old_frankish"
+	
+}
+200260={
+	name="Greenfire"
+	culture="old_frankish"
+	
+}
+200270={
+	name="Kinghammer"
+	culture="saxon"
+	
+}
+200960={
+	name="Swordstorm"
+	culture="old_saxon"
+}
+202050={
+	name="Newfire"
+	culture="old_saxon"
+	
+}
+201240={
+	name="of Storms"
+	culture="old_saxon"
+	
+}
+201250={
+	name="Seaworth"
+	culture="old_saxon"
+	
+}
+201340={
+	name="Seahammer"
+	culture="old_saxon"
+	
+}
+201350={
+	name="Runner"
+	culture="old_saxon"
+	
+}
+201380={
+	name="Ableshield"
+	culture="old_saxon"
+	
+}
+201400={
+	name="Largestone"
+	culture="old_saxon"
+	
+}
+201420={
+	name="Highwave"
+	culture="old_saxon"
+	
+}
+201420={
+	name="Sharktooth"
+	culture="old_saxon"
+	
+}
+201460={
+	name="Oldbrook"
+	culture="old_saxon"
+	
+}
+201520={
+	name="Sevenstreams"
+	culture="old_saxon"
+	
+}
+201540={
+	name="Eaglesea"
+	culture="old_saxon"
+	
+}
+201550={
+	name="Blueskies"
+	culture="old_saxon"
+	
+}
+201590={
+	name="Welder"
+	culture="old_saxon"
+	
+}
+201620={
+	name="Noonride"
+	culture="old_saxon"
+	
+}
+201660={
+	name="Berryton"
+	culture="old_saxon"
+	
+}
+201700={
+	name="Lowhut"
+	culture="old_saxon"
+	
+}
+202080={
+	name="Highrise"
+	culture="old_saxon"
+	
+}
+204180={
+	name="Abarrio"
+	culture="basque"
+	
+}
+204190={
+	name="Orbesion"
+	culture="basque"
+	
+}
+204300={
+	name="Artaria"
+	culture="basque"
+	
+}
+204380={
+	name="Grandaria"
+	culture="basque"
+	
+}
+204420={
+	name="Morcaris"
+	culture="basque"
+	
+}
+204480={
+	name="Almoris"
+	culture="basque"
+	
+}
+204500={
+	name="Tenamios"
+	culture="basque"
+	
+}
+204530={
+	name="Calraceon"
+	culture="basque"
+	
+}
+204540={
+	name="Flareon"
+	culture="basque"
+	
+}
+204720={
+	name="Jolteon"
+	culture="basque"
+	
+}
+204730={
+	name="Umbreon"
+	culture="basque"
+	
+}
+204740={
+	name="Arceus"
+	culture="basque"
+	
+}
+204890={
+	name="Ketchum"
+	culture="basque"
+	
+}
+204920={
+	name="Froakie"
+	culture="basque"
+	
+}
+204970={
+	name="Stameon"
+	culture="basque"
+	
+}
+205070={
+	name="Arvelleon"
+	culture="basque"
+	
+}
+205130={
+	name="Vaporeon"
+	culture="basque"
+	
+}
+205200={
+	name="Bulbasaur"
+	culture="basque"
+	
+}
+205270={
+	name="Charmander"
+	culture="basque"
+	
+}
+205320={
+	name="Cyndaquil"
+	culture="basque"
+	
+}
+205350={
+	name="Raichu"
+	culture="basque"
+	
+}
+205530={
+	name="Oak"
+	culture="basque"
+	
+}
+205550={
+	name="Geodude"
+	culture="basque"
+	
+}
+205620={
+	name="Hitmonlee"
+	culture="basque"
+	
+}
+205830={
+	name="Caterpie"
+	culture="basque"
+	
+}
+205831={
+	name="Pidgey"
+	culture="basque"
+	
+}
+205832={
+	name="Arbok"
+	culture="basque"
+	
+}
+205833={
+	name="Nidoran"
+	culture="basque"
+	
+}
+205834={
+	name="Nidoking"
+	culture="basque"
+	
+}
+205920={
+	name="Venonat"
+	culture="basque"
+	
+}
+206200={
+	name="Golduck"
+	culture="basque"
+	
+}
+206200={
+	name="Poliwag"
+	culture="basque"
+	
+}
+206240={
+	name="Kadabra"
+	culture="basque"
+	
+}
+206420={
+	name="Machamp"
+	culture="basque"
+	
+}
+206420={
+	name="Victreebell"
+	culture="basque"
+	
+}
+206530={
+	name="Tentacool"
+	culture="basque"
+	
+}
+206640={
+	name="Slowbro"
+	culture="basque"
+	
+}
+206820={
+	name="Haunter"
+	culture="basque"
+	
+}
+206850={
+	name="Kingler"
+	culture="basque"
+	
+}
+206930={
+	name="Cubone"
+	culture="basque"
+	
+}
+206970={
+	name="Goldeen"
+	culture="basque"
+	
+}
+207180={
+	name="Staryu"
+	culture="basque"
+	
+}
+207260={
+	name="Magmar"
+	culture="basque"
+	
+}
+207700={
+	name="Gyarados"
+	culture="basque"
+	
+}
+207720={
+	name="Lapras"
+	culture="basque"
+	
+}
+207890={
+	name="Omastar"
+	culture="basque"
+	
+}
+208000={
+	name="Kabutops"
+	culture="basque"
+	
+}
+208150={
+	name="Dragonite"
+	culture="basque"
+	
+}
+208360={
+	name="Seaking"
+	culture="basque"
+	
+}
+204130={
+	name="Panpour"
+	culture="hausa"
+}
+204140={
+	name="Musharna"
+	culture="hausa"
+}
+204150={
+	name="Simisear"
+	culture="hausa"}
+204160={
+	name="Audino"
+	culture="hausa"}
+204170={
+	name="Tympole"
+	culture="hausa"}
+204180={
+	name="Basculin"
+	culture="hausa"}
+204190={
+	name="Krokorok"
+	culture="hausa"}
+204200={
+	name="Darmanitan"
+	culture="hausa"}
+204220={
+	name="Maractus"
+	culture="hausa"}
+204220={
+	name="Zoroark"
+	culture="hausa"}
+204230={
+	name="Gothita"
+	culture="hausa"}
+204240={
+	name="Deerling"
+	culture="hausa"}
+204250={
+	name="Emolga"
+	culture="hausa"}
+204260={
+	name="Sawsbuck"
+	culture="hausa"}
+204270={
+	name="Joltik"
+	culture="hausa"}
+204280={
+	name="Galvantula"
+	culture="hausa"}
+204290={
+	name="elektross"
+	culture="hausa"}
+204300={
+	name="Braviary"
+	culture="hausa"}
+204320={
+	name="Durant"
+	culture="hausa"}
+204320={
+	name="Hydreigon"
+	culture="hausa"}
+204330={
+	name="Volcarona"
+	culture="hausa"}
+204340={
+	name="Reshiram"
+	culture="hausa"}
+204350={
+	name="Zekrom"
+	culture="hausa"}
+204360={
+	name="Keldeo"
+	culture="hausa"}
+204370={
+	name="Landorus"
+	culture="hausa"}
+204380={
+	name="Oshawott"
+	culture="hausa"}
+204390={
+	name="Servine"
+	culture="hausa"}
+204400={
+	name="Sawk"
+	culture="hausa"}
+204420={
+	name="Throh"
+	culture="hausa"}
+204420={
+	name="Sawk"
+	culture="hausa"}
+204430={
+	name="Conkeldurr"
+	culture="hausa"
+}
+217390={
+	name="Grovyle"
+	culture="catalan"}
+217400={
+	name="Blaziken"
+	culture="catalan"}
+217410={
+	name="Cascoon"
+	culture="catalan"}
+217420={
+	name="Gardevoir"
+	culture="catalan"}
+217430={
+	name="Vigoroth"
+	culture="catalan"}
+217440={
+	name="Nincada"
+	culture="catalan"}
+217450={
+	name="Azurill"
+	culture="catalan"}
+217460={
+	name="Delcatty"
+	culture="catalan"}
+217470={
+	name="Sableye"
+	culture="catalan"}
+217480={
+	name="Aggron"
+	culture="catalan"}
+217490={
+	name="Lairon"
+	culture="catalan"}
+217500={
+	name="Roselia"
+	culture="catalan"}
+217510={
+	name="Volbeat"
+	culture="catalan"}
+217520={
+	name="Sharpedo"
+	culture="catalan"}
+217530={
+	name="Camerupt"
+	culture="catalan"}
+217540={
+	name="Cacnea"
+	culture="catalan"}
+217550={
+	name="Zangoose"
+	culture="catalan"}
+217560={
+	name="Lunatone"
+	culture="catalan"}
+217570={
+	name="Seviper"
+	culture="catalan"}
+217580={
+	name="Claydol"
+	culture="catalan"}
+217590={
+	name="Zombax"
+	culture="catalan"}
+217591={
+	name="Crawdaunt"
+	culture="catalan"}
+217592={
+	name="Armaldo"
+	culture="catalan"}
+217593={
+	name="Kecleon"
+	culture="catalan"}
+217594={
+	name="Dusclops"
+	culture="catalan"}
+217600={
+	name="Tropius"
+	culture="catalan"}
+217610={
+	name="Wynaut"
+	culture="catalan"}
+217620={
+	name="Relicanth"
+	culture="catalan"}
+217630={
+	name="Luvdisc"
+	culture="catalan"}
+217290={
+	name="Salamence"
+	culture="catalan"}
+217300={
+	name="Beldum"
+	culture="catalan"}
+217310={
+	name="Kyogre"
+	culture="catalan"}
+217320={
+	name="Groudon"
+	culture="catalan"}
+217330={
+	name="Deoxys"
+	culture="catalan"}
+217340={
+	name="Solrock"
+	culture="catalan"}
+217350={
+	name="Glalie"
+	culture="catalan"}
+217360={
+	name="Clamperl"
+	culture="catalan"}
+217370={
+	name="Huntail"
+	culture="catalan"}
+217380={
+	name="Gorebyss"
+	culture="catalan"
+}
+
+
+
+
+
+
+
+
+

@@ -105,3 +105,6 @@ opinion_feud_beef = {
 	enemy = yes
 	years = 10
 }
+opinion_raised_to_nobility = {
+	opinion = 15
+}

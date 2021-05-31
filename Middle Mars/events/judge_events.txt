@@ -54,7 +54,7 @@ namespace = royjudge
 	option = {
 		name = EVTOPTBroyjudge.1
 		custom_tooltip = { text = judge2 }
-		FROMFROM = {
+		FROM = {
 			add_character_modifier = { modifier = made_ruling duration = 720 }
 			opinion = { modifier = opinion_overruled_me who = ROOT years = 5 }
 		}
@@ -71,7 +71,7 @@ namespace = royjudge
 	option = {
 		name = EVTOPTCroyjudge.1
 		custom_tooltip = { text = judge3 }
-		FROMFROM = {
+		FROM = {
 			add_character_modifier = { modifier = made_ruling duration = 720 }
 			opinion = { modifier = opinion_overruled_me who = ROOT years = 5 }
 		}
@@ -116,13 +116,21 @@ namespace = royjudge
 	option = {
 		name = EVTOPTAroyjudge.3
 		custom_tooltip = { text = judge4 }
-		FROMFROM = { add_character_modifier = { modifier = made_ruling duration = 720 } }
-		ROOT = { add_law_w_cooldown = brothel_law_1 } }
-	}
+		FROM = { add_character_modifier = { modifier = made_ruling duration = 720 } }
+		ROOT = { 
+			prestige = -250
+			piety = 50
+			crownlaw_title = {
+					revoke_law = brothel_law_0
+					add_law = brothel_law_1
+				}
+			}
+		}
 	option = {
 		name = EVTOPTBroyjudge.3
 		custom_tooltip = { text = judge5 }
-		FROMFROM = {
+		FROM = {
+			prestige = -50
 			add_character_modifier = { modifier = made_ruling duration = 720 }
 			opinion = { modifier = overruled_me who = ROOT years = 5 }
 		}

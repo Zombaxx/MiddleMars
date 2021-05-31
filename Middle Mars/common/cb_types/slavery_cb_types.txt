@@ -217,6 +217,10 @@ slave_raid = {
 			ROOT = { trait = cruel }
 		}
 		modifier = {
+			factor = 5 # gotta grab up some slaves
+			ROOT = { trait = trait_slaver }
+		}
+		modifier = {
 			factor = 0 # cowards and cripples need not apply
 			ROOT = { 
 				OR = { 
@@ -235,6 +239,14 @@ slave_raid = {
 			factor = 1.5 # prefer to raid foreigners
 			FROM = { NOT = { culture = ROOT } }
 		}	
+		modifier = {
+			factor = 0.5 # prefer to raid infidels
+			FROM = { religion = ROOT }
+		}
+		modifier = {
+			factor = 0.5 # prefer to raid foreigners
+			FROM = { culture = ROOT } 
+		}
 		modifier = {
 			factor = 2
 			ROOT = { 
@@ -340,7 +352,13 @@ anti_slavery = {
 	on_success = {
 		ROOT = {
 			prestige = 100
+		if = { 
+			limit = { NOT = { trait = liberator }  }
+			character_event = {
+				id = Ac.7780
+			}
 		}
+	}
 		FROM = {
 			crownlaw_title = {
 				IF = {
@@ -476,7 +494,7 @@ anti_slavery = {
 		modifier = {
 			factor = 1.5 # prefer to liberate same culture
 			FROM = { culture = ROOT }
-		}	
+		}		
 		modifier = {
 			factor = 0.5 # Hey we're not running a charity here
 			ROOT = { NOT = { trait = ambitious } }

@@ -39,6 +39,7 @@ on_yearly_pulse = {
 		college_school_events.111
 		roytroops.0
 		roytroops.1
+		roytroops.2
 	}
 }
 on_bi_yearly_pulse = {
@@ -60,7 +61,6 @@ on_bi_yearly_pulse = {
 on_five_year_pulse = {
 	random_events = {
 		1800 = 0
-		500 = trayar.21
 	}
 }
 on_decade_pulse = {
@@ -109,7 +109,7 @@ on_battle_won_owner = {
 	}
 	random_events = {
 		1000 = 0
-		700 = knightly.103
+		800 = knightly.103
 		400 = knightly.005
 	}
 }

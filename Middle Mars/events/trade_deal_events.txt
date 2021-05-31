@@ -95,7 +95,7 @@ character_event = {
 		custom_tooltip = { text = tradefood }
 		hidden_tooltip = {
 		random_list = {
-			4 = { 
+			5 = { 
 			modifier = {
 				factor = 1.25
 				FROM = { opinion = { who = ROOT value =  40 } }
@@ -117,23 +117,23 @@ character_event = {
 				ROOT = { stewardship = 12 }
 			}
 			modifier = {
-				factor = 1.35
+				factor = 1.5
 				ROOT = { stewardship = 15 }
 			}
 			modifier = {
-				factor = 1.5
+				factor = 2
 				ROOT = { stewardship = 18 }
 			}				
 			modifier = {
-				factor = 1.75
+				factor = 3
 				ROOT = { stewardship = 21 }
 			}
 			custom_tooltip = { text = trade1 }
 			character_event = { id = roytrade.3 days = 14 }
 			}
-			6 = { 
+			5 = { 
 			modifier = {
-				factor = 2
+				factor = 1.2
 				FROM = { NOT = { culture = ROOT } }
 			}
 			modifier = {
@@ -156,6 +156,10 @@ character_event = {
 				factor = 1.75
 				ROOT = { NOT = { stewardship = 2 } }
 			}
+			modifier = {
+				factor = 1.25
+				ROOT = { NOT = { wealth = 500 } }
+			}	
 			custom_tooltip = { text = trade2 }
 			character_event = { id = roytrade.2 days = 14 } 
 				}
@@ -167,7 +171,7 @@ character_event = {
 		custom_tooltip = { text = tradegoods }
 		hidden_tooltip = {
 		random_list = {
-			3 = { 
+			5 = { 
 			modifier = {
 				factor = 1.25
 				FROM = { opinion = { who = ROOT value =  40 } }
@@ -189,23 +193,23 @@ character_event = {
 				ROOT = { stewardship = 12 }
 			}
 			modifier = {
-				factor = 1.35
+				factor = 1.5
 				ROOT = { stewardship = 15 }
 			}
 			modifier = {
-				factor = 1.5
+				factor = 2
 				ROOT = { stewardship = 18 }
 			}				
 			modifier = {
-				factor = 1.75
+				factor = 3
 				ROOT = { stewardship = 21 }
 			}
 			custom_tooltip = { text = trade1 }
 			character_event = { id = roytrade.4 days = 14 }
 			}
-			7 = { 
+			5 = { 
 			modifier = {
-				factor = 2
+				factor = 1.2
 				FROM = { NOT = { culture = ROOT } }
 			}
 			modifier = {

@@ -11,6 +11,7 @@ fuck_you_convert = {
 	defender_can_call_allies = yes
 	hostile_against_others = yes
 	can_ask_to_join_war = yes
+	defender_unoccupied_warscore = yes
 	allow_whitepeace = no
 	allowed_to_target_tributaries = no
 	allowed_to_target_suzerains = no
@@ -69,6 +70,9 @@ fuck_you_convert = {
 
 	can_use = {
 		ROOT = {
+			piety = 1200
+			prestige = 300
+			capital_scope = { religion = ROOT }
 			is_adult = yes
 			higher_tier_than = BARON
 			NOT = { higher_tier_than = KING }
@@ -88,27 +92,60 @@ fuck_you_convert = {
 			NOT = { higher_tier_than = KING }
 		}
 	}
+
+	on_add = {
+		ROOT = {
+			piety = -1200
+			prestige = -300
+		}
+	}
 		
 	on_success = {
-		FROM = {religion = ROOT}
+		ROOT = {
+		piety = 500
+		prestige = 300
+		religion_authority = {
+  		  modifier = convert_religion_boost
+			}
+		}
 		FROM = { 
-			capital_scope = {
+			save_event_target_as = target_loser
+			prestige = -200
+			piety = -200
+		}
+		FROM = {
+			any_realm_province = {
+				limit = {
+					controlled_by = ROOT
+				}
 			add_province_modifier = {
 				modifier = settlement_convert
-				duration = 1085
+				duration = 2185
 			}
 			religion = ROOT 
-			} 
+			}
+		}
+		ROOT = {
+			random_courtier = { 
+				limit = { is_landed = no has_minor_title = title_commander }
+				save_event_target_as = target_depose
+			}	
+		}		
+		ROOT = { 
+			character_event = {
+				id = Ac.7779
+			}
 		}
 	}
 	
 	on_reverse_demand = {
 		ROOT = {
+		imprison = FROM
 		prestige = -150
 		piety = -50
 		}
 		FROM = {
- 		prestige = 200
+ 		prestige = 400
 		piety = 150
 		}
 	}
@@ -131,7 +168,7 @@ fuck_you_convert = {
 	ai_will_do = { 
 		factor = 0.2 
 		modifier = {
-			factor = 5 # it's God's Will
+			factor = 7 # it's God's Will
 			ROOT = { trait = zealous }
 		}
 		modifier = {
@@ -155,7 +192,7 @@ fuck_you_convert = {
 		}	
 		modifier = {
 			factor = 0.1 # Spacers not too interested in converting
-			FROM = { NOT = { culture_group = chinese_group } }
+			ROOT = { culture_group = chinese_group } 
 		}	
 		modifier = {
 			factor = 3
@@ -163,7 +200,7 @@ fuck_you_convert = {
 		}
 		modifier = {
 			factor = 1.25
-			NOT = { opinion = { who = ROOT value =  30 } }
+			FROM = { NOT = { opinion = { who = ROOT value =  30 } } }
 		}	
 		modifier = {
 			factor = 2

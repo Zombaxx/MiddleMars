@@ -108,7 +108,7 @@ character_event = {
 character_event = {
 	id = knightly.005
 	desc = "161005_desc"
-	picture = GFX_event_knighthood1
+	picture = GFX_roy_knighting
 	is_triggered_only = yes
 		
 	trigger = {
@@ -263,13 +263,13 @@ character_event = {
 		add_character_modifier = { modifier = trained_squire duration = 365 }
 		hidden_tooltip = {
 			random_list = {
-				6 = {
+				5 = {
 				modifier = {
-					factor = 1.25
+					factor = 1.75
 					ROOT = { martial = 15 } 
 				}
 				modifier = {
-					factor = 1.35
+					factor = 2
 					ROOT = { martial = 20 } 
 				}
 				modifier = {
@@ -280,9 +280,21 @@ character_event = {
 					factor = 1.75
 					ROOT = { martial = 9 } 
 				} 
+				modifier = {
+					factor = 1.5
+					ROOT = { trait = strong }
+				} 
+				modifier = {
+					factor = 1.5
+					ROOT = { trait = genius }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = duelist }
+				} 
 				character_event = { id = knightly.101 days = 2 } 
 				}
-				4 = { 
+				5 = { 
 				modifier = {
 					factor = 1.25
 					ROOT = { NOT = { martial = 8 } }
@@ -296,8 +308,44 @@ character_event = {
 					ROOT = { NOT = { martial = 4 } }
 				}				
 				modifier = {
-					factor = 1.75
+					factor = 2
 					ROOT = { NOT = { martial = 2 } }
+				} 
+				modifier = {
+					factor = 1.2
+					ROOT = { NOT = { trait = strong } }
+				} 
+				modifier = {
+					factor = 1.25
+					ROOT = { trait = wounded }
+				} 
+				modifier = {
+					factor = 1.2
+					ROOT = { trait = stressed }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = depressed }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = weak }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = weak }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = stressed }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = depressed }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = wounded }
 				} 
 				character_event = { id = knightly.102 days = 2 } 
 				}
@@ -350,6 +398,10 @@ character_event = {
 		name = EVTOPTAknightly.102
 		FROMFROM = {
 			random = {
+				chance = 50
+				change_martial = -1
+			}
+			random = {
 				chance = 10 
 				add_trait = stressed
 			}
@@ -367,7 +419,7 @@ character_event = {
 	is_triggered_only = yes
 	trigger = {
 		trait = squire
-		age = 12
+		age = 10
 		NOT = { age = 16 }
 		educator = {
 		in_command = yes
@@ -393,6 +445,7 @@ character_event = {
 			give_minor_title = title_knight
 			add_trait = knight
 			change_martial = 1
+			prestige = 100
 			random = {
 				chance = 60
 				add_trait = brave
@@ -406,7 +459,12 @@ character_event = {
 	option = {
 		name = EVTOPTBknightly.104
 		FROM = {
+			prestige = 50
 			change_martial = 1
+			random = {
+				chance = 60
+				add_trait = brave
+			}
 			random = {
 				chance = 10
 				add_trait = wounded
