@@ -32,6 +32,9 @@ targetted_decisions = {
 			}
 			prisoner = no
 		}
+		ai_will_do = {
+			factor = 0
+		}
 		effect = {
 			FROM = {
 				if = {
@@ -257,15 +260,12 @@ targetted_decisions = {
 						clr_character_flag = title_regent
 					}
 				}	
-			}	
+	
 			opinion = {
 				who = FROM
 				modifier = opinion_raised_to_nobility
 				years = 10
 			}			
-		}
-		ai_will_do = {
-			factor = 0
 		}
 	}
 }
