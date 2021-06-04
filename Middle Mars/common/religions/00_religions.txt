@@ -214,9 +214,9 @@ christian = {
 		intermarry = miaphysite
 		intermarry = nestorian
 
-		intermarry = cathar
+		#intermarry = cathar
 		intermarry = waldensian
-		intermarry = lollard
+		#intermarry = lollard
 		intermarry = monophysite
 		intermarry = bogomilist
 		intermarry = monothelite

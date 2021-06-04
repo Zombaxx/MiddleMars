@@ -74,7 +74,7 @@ character_event = {
 character_event = {
 	id = knightly.004
 	desc = "161004_desc"
-	picture = GFX_event_knighthood1
+	picture = GFX_roy_knighting
 	is_triggered_only = yes
 
 	trigger = {

@@ -46,7 +46,7 @@ north_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 		
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = ""
 		
 		male_patronym = "son of "
 		female_patronym = "daughter of "
@@ -253,7 +253,7 @@ central_germanic = {
 			Sarah Scarlett Silvana Susanna_Susan
 			Venus Violet Virginia
 		}
-		from_dynasty_prefix = "von "
+		from_dynasty_prefix = ""
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -378,7 +378,8 @@ central_germanic = {
 			Zylphia Zona
 		}
 
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = ""
+
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -510,11 +511,7 @@ west_germanic = {
 
 		dukes_called_kings = yes
 
-		from_dynasty_prefix = "of "
-
-		male_patronym = "sson"
-		female_patronym = "sdohtor"
-		prefix = no # The patronym is added as a suffix
+		from_dynasty_prefix = ""
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
@@ -567,11 +564,7 @@ west_germanic = {
 		baron_titles_hidden = yes
 		count_titles_hidden = yes
 		
-		from_dynasty_prefix = "of "
-		
-		male_patronym = "son of "
-		female_patronym = "daughter of "
-		prefix = yes
+		from_dynasty_prefix = ""
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
@@ -1063,22 +1056,29 @@ iberian = {
 		color = { 0.55 0.42 0.04 }
 
 		male_names = {
-			Alfontso_Alphonse Alvar_Oliver Antso_Sancho Aznar_Aznar Belasko_Vasco Bermudo_Vermudo Bernart_Bernard Diego_Diaco Donato_Donatus Egidio_Egidius
-			Eneko_Inigo Erramun_Raymond Fernando_Ferdinand Fortun Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo Herramel Joanes_John
-			Ladron Lope_Lupo Luis_Louis Manrike_Amalric Martín_Martin Munio_Munio Nuño_Nuno Obeko_Obeko Ordoño_Ordono Pelaio_Pelagius Piarres_Peter
-			Ramiro_Ramiro Rodrigo_Roderick Vela_Vela Ximeno_Simon Zentulo_Centule
-
+			Aaron Alton Artaro Alucion Asher Andor Barry Borion Blarion Benton Billion Blain Blue Bugsy Byron Brock Bruno Barrold Charon Crasher
+			Cyrus Cylmon Desmond Darkrai Darion Drake Dread Damion Dreward Dannon Danley Danion Dudley Ethan Eusine Edmar Eddy Falkner
+			Flint Furio Frank Gent Garion Gramion Grammy Graham Giovanni Hunter Harris Harion Halion Jordan Johnaris Juno Jermaine Jesse 
+			Junio Jerman Julio Jharios Klarion Kenley Kurtis Koga Klaus Kenroy Kenton Lance Looker Larion Larys Lucimar Lucas Lucian Lucion Lucifer 
+			Marley Marlon Morty Marion Mario Montey Oreo Orban Pryce Percy Perry Peter Quavious Quenton Quarion Quavo
+			Pryce Perrywinkle Red Riley Roark Rawly Rider Ritchie Samworth Silvester Silver Steven Stone Tony Trion Talman Terry Usher Volkner Vincent
+			Vandal Vansire Victarion Vince Wilmar Wilton Wendel Welven 
+			 
 			Zapdos Entei Gary Brock
 		}
 		female_names = {
-			Aines_Agnes Aldontza_Aldonza Andregoto Antsa_Sancha Belaskita Berengaria_Berengaria Blanka_Blanche Elbira_Elvira Eliza Emili_Emily
-			Estefania_Stephania Joana_Joan Konstantzia_Constance Maior_Mayor Maria_Maria Mentzia_Mencia Munia_Munia Nuña Oceania Oneka_Oneka Oria
-			Plazentzia_Plaisance Teresa_Teresa Toda_Toda Urraka_Urraca Ximena_Ximena
-		
-			Dratini Eevee Misty Dawn Hikari 
+			Abigail Artaria Alisa Bebe Blue Binny Beauty Brandy Blossom Blaire Candice Candy Cake Caitlin
+			Camilla Cheryl Clair Clairo Cynthia Cindy Casca Daisy Dawn Daphney Erika Eila Eimar Elisma Elivia
+			Elia Fantina Fantasia Faire Fiona Fable Fairy Gardenia Grace Gina Haera Isamar Isla Iberia Immi
+			Issa Janine Janae Jahnaria Jayda Jasmine Jasmina Jordana Jupiter Jewel Karen Kiara Keira Kelsey Kween 
+			Kimaria Kayla Lyra Lucy Leaf Leila Laeria Laribelle Lovely Mars Mira Maylene Misty Missy Marybeth
+			Mayflower Marissa May Naera Natalie Natasha Nina Nancy Nindy Nadine Natira Natura Nalena Neryl Nelida
+			Pamela Pollen Palaria Pinaria Raevona Rania Sparkle Sabrina Saturn Sarah Susei Simone Sariah Salisha
+			Star Trisha Tina Tinkerbell Tiny Trillion Taria Tamera Uriah Ursula Whitney 
+	
+			Oceania Dratini Eevee Misty Dawn Hikari 
 		}
-		bastard_dynasty_prefix = "Bastard of "
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = ""
 		
 		male_patronym = "son of "
 		female_patronym = "daughter of "
@@ -1109,19 +1109,23 @@ iberian = {
 		}
 
 		male_names = {
-			Boric Kulin Matej_Matthew Ninoslav "Matej Ninoslav" Prijezda Stjepan Tvrtko Vuk Vladislav Dabisa Sanko Vlatko Hrana Hran Sandalj Mihajlo_Michael Juraj_George Ostoja Hrvoje
-			Pavle Petar_Peter Radislav Ivanis Nikola_Nicholas Tomas Vukac Radivoj Vukmir Vukasin Grgur Bogisa Sibislav Bogut Batalo Miroslav Brailo Hval Brajko Radic Priboje Batic
-			Radogost Milovan Dragonja Andrija_Andrew Danis Krsmir Tisemir
+			Ario Almando Alio Alto Balis Blain Bali Brendin Boris Celio Cecil Clement Clemenzio Cerio Celimar Doran Dormund Derio Denis Danton Derrimon Dalton Evio Eimar Elmo
+			Elton Elio Emerio Ello Emir Eddio Erio Giovan Garee Gramon Green Gerio Gerol Germando Horacio Horio Halmon Halimon Hastelio Issar Ismar Illyo Jerico Jerio Jermon Jeri
+			Kelmon Kert Lanse Lari Laro Lario Larimon Larz Lester Maven Morton Morio Mortio Monald Milo Nicki Nicmond Nickifer Nino Nilo Orio Oman Olvion Petor Prenio Perrio Perri 
+			Pastor Rodio Rojo Rali Rori Ross Rosmon Solmon Solio Silvio Salvio Servon Sevemon Terio Teri Terri Tarri Tario Talmio Talio Unvar Vario Valys Venio Vahar Vellys
+			Valio Valion Vallo Varion Walio Wallo Walman
 		}
 		female_names = {
-			Katarina_Catherine Elizabeta_Elisabeth Jelena_Helena Gruba Stana Kujava Doroteja Vitaca Milisa Marija_Mary Resa Mara_Maria Vojaca Gojslava Teodora_Theodora Vojislava
-			Andrijana_Andrea Mateja Miroslava Radislava Petra Nikolena_Nicola Nika Pavica
+			Aria Arena Ariana Artaria Alisa Amiana Brigia Briana Bina Brinia Britannia Celia Cecilia Clemenza Cayla Cesaria Claira Ciara Carria Carmia Carma Delia Delaria Daijah Daisia
+			Daicy Dacia Dalia Daria Dina Denira Eria Enbia Enby Elisia Emania Emani Elima Ella Fantasia Gloria Gloriana Galia Genia Islara Isara Jania Janaria Jalia Jaliah Jenia Jenna Jinjer
+			Keria Korra Kerra Kiara Kaira Kira Kara Lana Lanette Lorelei Lanavia Lanaria Mayva Maria Marrah Melaria Mayra Melia Menia Meliara Mariana Manaria Oquasia Palia Prima Primrose
+			Penneli Penalia Pela Pelia Ranira Raina Tanaria Trishia Tamia Tantalia Talia Uvia
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = ""
 		
-		male_patronym = "ez"
-		female_patronym = "ez"
-		grammar_transform = spanish
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
 
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
@@ -1146,18 +1150,33 @@ iberian = {
 		}
 
 		male_names = {
-			Alfons_Alphonse Arnau_Arnold Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_Bernard Bernat-Guillem Dalmau Ermengol_Ermengaud Felip_Philip
-			Ferran_Ferdinand Frederic_Frederick Gausfred_Godfrey Gerard_Gerard Gombau Guerau_Gerald Guifré_Wilfred Guillem_William Guillem-Ramon Guislabert_Gilbert
-			Hug_Hugh Jaume_Jacob Joan_John Jofré_Godfrey Ott_Otto Pere_Peter Ponç_Pons Ponç-Hug Ramon_Raymond Ramon-Berenguer_Raymond-Berengar
-			Ramon-Folc Roger_Roger Sanç_Sancho Sunyer_Sunyer Udalard
+			Aaron Alton Artaro Alucion Asher Andor Barry Borion Blarion Benton Billion Blain Blue Bugsy Byron Brock Bruno Barrold Charon Crasher
+			Cyrus Cylmon Desmond Darkrai Darion Drake Dread Damion Dreward Dannon Danley Danion Dudley Ethan Eusine Edmar Eddy Falkner
+			Flint Furio Frank Gent Garion Gramion Grammy Graham Giovanni Hunter Harris Harion Halion Jordan Johnaris Juno Jermaine Jesse 
+			Junio Jerman Julio Jharios Klarion Kenley Kurtis Koga Klaus Kenroy Kenton Lance Looker Larion Larys Lucimar Lucas Lucian Lucion Lucifer 
+			Marley Marlon Morty Marion Mario Montey Oreo Orban Pryce Percy Perry Peter Quavious Quenton Quarion Quavo
+			Pryce Perrywinkle Red Riley Roark Rawly Rider Ritchie Samworth Silvester Silver Steven Stone Tony Trion Talman Terry Usher Volkner Vincent
+			Vandal Vansire Victarion Vince Wilmar Wilton Wendel Welven 
+			 
+			Latios Kyogre
 		}
 		female_names = {
-			Adelaida_Adelaide Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constança_Constance Dolça_Douce Elionor_Eleanor
-			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma_Willhelmina Guisla_Gisela Isabel_Elizabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
-			Sança_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
+			Abigail Artaria Alisa Bebe Blue Binny Beauty Brandy Blossom Blaire Candice Candy Cake Caitlin
+			Camilla Cheryl Clair Clairo Cynthia Cindy Casca Daisy Dawn Daphney Erika Eila Eimar Elisma Elivia
+			Elia Fantina Fantasia Faire Fiona Fable Fairy Gardenia Grace Gina Haera Isamar Isla Iberia Immi
+			Issa Janine Janae Jahnaria Jayda Jasmine Jasmina Jordana Jupiter Jewel Karen Kiara Keira Kelsey Kween 
+			Kimaria Kayla Lyra Lucy Leaf Leila Laeria Laribelle Lovely Mars Mira Maylene Misty Missy Marybeth
+			Mayflower Marissa May Naera Natalie Natasha Nina Nancy Nindy Nadine Natira Natura Nalena Neryl Nelida
+			Pamela Pollen Palaria Pinaria Raevona Rania Sparkle Sabrina Saturn Sarah Susei Simone Sariah Salisha
+			Star Trisha Tina Tinkerbell Tiny Trillion Taria Tamera Uriah Ursula Whitney 
+	
+			Latias Jirachi
         }
-		from_dynasty_prefix = "de "
-		grammar_transform = french
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
 
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 10
@@ -1181,20 +1200,23 @@ iberian = {
 		}
 
 		male_names = {
-			Afonso_Alphonse Aires Álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
-			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
-			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
-			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+			Ario Almando Alio Alto Balis Blain Bali Brendin Boris Celio Cecil Clement Clemenzio Cerio Celimar Doran Dormund Derio Denis Danton Derrimon Dalton Evio Eimar Elmo
+			Elton Elio Emerio Ello Emir Eddio Erio Giovan Garee Gramon Green Gerio Gerol Germando Horacio Horio Halmon Halimon Hastelio Issar Ismar Illyo Jerico Jerio Jermon Jeri
+			Kelmon Kert Lanse Lari Laro Lario Larimon Larz Lester Malvesto Maven Morton Morio Mortio Monald Milo Nicki Nicmond Nickifer Nino Nilo Orio Oman Olvion Petor Prenio Perrio Perri 
+			Pastor Rodio Rojo Rali Rori Ross Rosmon Solmon Solio Silvio Salvio Servon Sevemon Terio Teri Terri Tarri Tario Talmio Talio Unvar Vario Valys Venio Vahar Vellys
+			Valio Valion Vallo Varion Walio Wallo Walman
 		}
 		female_names = {
-			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
-			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
-			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+			Aria Arena Ariana Artaria Alisa Amiana Brigia Briana Bina Brinia Britannia Celia Cecilia Clemenza Cayla Cesaria Claira Ciara Carria Carmia Carma Delia Delaria Daijah Daisia
+			Daicy Dalia Daria Dina Denira Denisha Eria Enbia Enby Elisia Emania Emani Elima Ella Fantasia Gloria Gloriana Galia Genia Islara Isara Jania Janaria Jalia Jaliah Jenia Jenna Jinjer
+			Keria Korra Kerra Kiara Kaira Kira Kara Lana Lanette Lorelei Lanavia Lanaria Mayva Maria Marrah Melaria Mayra Melia Menia Meliara Mariana Manaria Oquasia Palia Prima Primrose
+			Penneli Penalia Pela Pelia Ranira Raina Tanaria Tia Trishia Tamia Tantalia Talia Uvia
 		}
-		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
-		grammar_transform = spanish
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
 
 		modifier = default_culture_modifier
 
@@ -1218,25 +1240,23 @@ iberian = {
 		}
 
 		male_names = {
-			Adelfonso_Alphonse Agila Airmanagildo Alaricho_Alaric Aloito Assur Athanagildo Berengario_Berengar Diaco_Diaco Fafila
-			Friedenando_Ferdinand Friednand_Ferdinand Froila_Froila Garçi_Garcia Gonçalo_Gonzalo Gundemar Guttier_Walter Johan_John Liuva Liuvericho
-			Lupo_Lupo Mauregato Monnio_Munio Nunno_Nuno Oliba Ordonno_Ordono Pelagio_Pelagius Petro_Peter Ranimiro_Ramiro Rekkaredo_Richard
-			Rodericho_Roderick Sans_Sancho Silo Suneario_Sunyer Suniefredo Theodoricho_Theodoric Veremondo_Vermudo Wifredo_Wilfred Wimarano Witiza
-
-			#Abdela_Abdullah Abdelaçiç Abdelmelic Abdeluahid Abderrabmen Abrafim Ambroz Amet_Ahmad Ayyub Çacharya
-			#Çelim Çulema Hacan Hamdan Harun Içag Mahomat_Muhammad Maruan Muça Omar
-			#Xabrit Yabya Yafar Yuçuf Yunus
+			Ario Almando Alio Alto Balis Blain Bali Brendin Boris Celio Cecil Clement Clemenzio Cerio Celimar Doran Dormund Derio Denis Danton Derrimon Dalton Evio Eimar Elmo
+			Elton Elio Emerio Ello Emir Eddio Erio Giovan Garee Gramon Green Gerio Gerol Germando Horacio Horio Halmon Halimon Hastelio Issar Ismar Illyo Jerico Jerio Jermon Jeri
+			Kelmon Kert Lanse Lari Laro Lario Larimon Larz Lester Maven Morton Morio Mortio Monald Milo Nicki Nicmond Nickifer Nino Nilo Orio Oman Olvion Petor Prenio Perrio Perri 
+			Pastor Rodio Rojo Rali Rori Ross Rosmon Solmon Solio Silvio Salvio Servon Sevemon Terio Teri Terri Tarri Tario Talmio Talio Unvar Vario Valys Venio Vahar Vellys
+			Valio Valion Vallo Varion Walio Wallo Walman
 		}
 		female_names = {
-			Adelgundis Adosinda Agnes_Agnes Aragonte Argilo Ava_Eva Brunechildis_Brunhilda Egilona Eldonza_Aldonza Elduara_Alduara
-			Elvira_Elvira Ermengardis_Ermengarde Ermenisinda_Ermesinda Flamula Fronilde_Fronilde Gaudiosa Gonterote_Gotruda Iberia Leodegundis Menenda
-			Monnia_Munia Monniadomna Onecca_Oneka Riciberga Sibilia_Sibylla Sisenanda Theodora_Theodora Urraca_Urraca Winidilda_Gunhild
-
-			#Abda Ayab Ayça Çayida Çeida Emira Isra Leyla Melica Nadia
-			#Nadira Neyla Nur Tarifa Yaçmina
+			Aria Arena Ariana Artaria Alisa Amiana Brigia Briana Bina Brinia Britannia Celia Cecilia Clemenza Cayla Cesaria Claira Ciara Carria Carmia Carma Delia Delaria Daijah Daisia
+			Daicy Dacia Dalia Daria Dina Denira Eria Enbia Enby Elisia Emania Emani Elima Ella Fantasia Gloria Gloriana Galia Genia Islara Isara Jania Janaria Jalia Jaliah Jenia Jenna Jinjer
+			Keria Korra Kerra Kiara Kaira Kira Kara Lana Lanette Lorelei Lanavia Lanaria Mayva Maria Marrah Melaria Mayra Melia Menia Meliara Mariana Manaria Oquasia Palia Prima Primrose
+			Penneli Penalia Pela Pelia Ranira Raina Tanaria Trishia Tamia Tantalia Talia Uvia
 		}
-		from_dynasty_prefix = "de "
-		grammar_transform = french
+		from_dynasty_prefix = ""
+		
+		male_patronym = "son of "
+		female_patronym = "daughter of "
+		prefix = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -1357,7 +1377,7 @@ byzantine = {
 			Rade Rado Regina_Regina Rossa_Rosa Schimosa Thome Vele
 		}
 		
-		from_dynasty_prefix = "di "
+		from_dynasty_prefix = ""
 		
 		dukes_called_kings = yes
 		male_patronym = "y fyrt"

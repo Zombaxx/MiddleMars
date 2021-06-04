@@ -303,12 +303,13 @@ character_event = {
 			factor = 0
 		}
 		trigger = {
+			ROOT = { piety = 300 }
 			ROOT = { any_courtier = { has_minor_title = title_commander } }
 			ROOT = { tier = KING }
 			event_target:target_loser = { tier = DUKE }
 		}
 		custom_tooltip = { text = conv5 }
-		ROOT = { prestige = 100 }
+		ROOT = { piety = -300 }
 			event_target:target_loser = { 
 			abdicate_to = event_target:target_depose 
 			prestige = -500

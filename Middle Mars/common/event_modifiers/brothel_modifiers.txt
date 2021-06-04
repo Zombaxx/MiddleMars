@@ -1,3 +1,11 @@
 visited_brothel = { icon = 1 }
 
+
+
 bedded_washerwoman = { icon = 1 }
+
+brothel_born = {
+	icon = 36
+	general_opinion = -5
+	church_opinion = -10
+}

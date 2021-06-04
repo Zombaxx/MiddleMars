@@ -65,4 +65,9 @@ objectTypes = {
 		
 		scale = 25.0f
 	}
+	pdxmesh = {
+		name = "chinesegfx_GALLEYS"
+		file = "gfx\models\transport.mesh"
+		scale = 2.0f
+	}
 }

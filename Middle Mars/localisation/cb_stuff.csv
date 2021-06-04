@@ -28,5 +28,5 @@ conv4;Make [target_loser.GetTitledName] pay tribute to you.;;;x
 EVTOPTEconvert;Replace [target_loser.GetHerHim] with [target_depose.GetTitledName];;;x
 conv5;Depose [target_loser.GetTitledName] and replace [target_loser.GetHerHim] with one of your commanders.;;;x
 
-EVTDESCAc.7780;After striking off the last of their irons, the men and women you set free sing your praises and throw themselves at you. "[Root.GetFatherMotherCap]! [Root.GetFatherMotherCap]! [Root.GetFatherMotherCap] thank you!" they cheer.;;;x
+EVTDESCAc.7780;After striking off the last of their irons, the men and women you set free sing your praises and throw themselves at you. "[Root.GetFatherMotherCap]! [Root.GetFatherMotherCap]! [Root.GetFatherMotherCap] thank you!" they cheer. You feel you have finally discovered your ultimate purpose...;;;x
 EVTOPTAAc.7780;While I live, Freedom reigns!;;;x

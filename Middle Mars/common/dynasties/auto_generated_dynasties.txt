@@ -1,610 +1,610 @@
 100010={
-	name="of Kanaud"
+	name="Kanaud"
 	culture="saxon"
 	religion="catholic"
 }
 100020={
-	name="of Sar"
+	name="Sar"
 	culture="saxon"
 	religion="catholic"
 }
 100030={
-	name="of Bijaim"
+	name="Bijaim"
 	culture="saxon"
 	religion="catholic"
 }
 100040={
-	name="of Kamara"
+	name="Kamara"
 	culture="saxon"
 	religion="catholic"
 }
 100050={
-	name="of Tibokal"
+	name="Tibokal"
 	culture="saxon"
 	religion="catholic"
 }
 100060={
-	name="of Kodeter"
+	name="Kodeter"
 	culture="saxon"
 	religion="catholic"
 }
 100070={
-	name="of Tamuti"
+	name="Tamuti"
 	culture="saxon"
 	religion="catholic"
 }
 100080={
-	name="of Torazzaq"
+	name="Torazzaq"
 	culture="saxon"
 	religion="catholic"
 }
 100090={
-	name="of Wanila"
+	name="Wanila"
 	culture="saxon"
 	religion="catholic"
 }
 100100={
-	name="of Lint"
+	name="Lint"
 	culture="saxon"
 	religion="catholic"
 }
 100110={
-	name="of Noguigi"
+	name="Noguigi"
 	culture="saxon"
 	religion="catholic"
 }
 100120={
-	name="of Tomew"
+	name="Tomew"
 	culture="saxon"
 	religion="catholic"
 }
 100130={
-	name="of Seetega"
+	name="Seetega"
 	culture="saxon"
 	religion="catholic"
 }
 100140={
-	name="of Namm"
+	name="Namm"
 	culture="saxon"
 	religion="catholic"
 }
 100150={
-	name="of Larais"
+	name="Larais"
 	culture="saxon"
 	religion="catholic"
 }
 100160={
-	name="of Kuin"
+	name="Kuin"
 	culture="saxon"
 	religion="catholic"
 }
 100170={
-	name="de Nuju"
+	name="Nuju"
 	culture="portuguese"
 	religion="catholic"
 }
 100171={
-	name="de Nuju"
+	name="Nuju"
 	culture="portuguese"
 	religion="catholic"
 }
 100172={
-	name="de Kamudan"
+	name="Kamudan"
 	culture="portuguese"
 	religion="catholic"
 }
 100173={
-	name="de Emeleila"
+	name="Emeleila"
 	culture="portuguese"
 	religion="catholic"
 }
 100174={
-	name="de Relarma"
+	name="Relarma"
 	culture="portuguese"
 	religion="catholic"
 }
 100180={
-	name="de Lermaham"
+	name="Lermaham"
 	culture="old_frankish"
 	religion="catholic"
 }
 100190={
-	name="of Baseek"
+	name="Baseek"
 	culture="saxon"
 	religion="catholic"
 }
 100200={
-	name="of Kabdoras"
+	name="Kabdoras"
 	culture="saxon"
 	religion="catholic"
 }
 100210={
-	name="de Kantay"
+	name="Kantay"
 	culture="portuguese"
 	religion="catholic"
 }
 100220={
-	name="of Lolakrim"
+	name="Lolakrim"
 	culture="saxon"
 	religion="orthodox"
 }
 100230={
-	name="of Korawfiq"
+	name="Korawfiq"
 	culture="saxon"
 	religion="catholic"
 }
 100240={
-	name="of Kareer"
+	name="Kareer"
 	culture="saxon"
 	religion="catholic"
 }
 100250={
-	name="de Ennanca"
+	name="Ennanca"
 	culture="old_frankish"
 	religion="catholic"
 }
 100260={
-	name="de Teonie"
+	name="Teonie"
 	culture="old_frankish"
 	religion="catholic"
 }
 100270={
-	name="of Tonaham"
+	name="Tonaham"
 	culture="saxon"
 	religion="catholic"
 }
 100280={
-	name="de Qyasema"
+	name="Qyasema"
 	culture="old_frankish"
 	religion="catholic"
 }
 100290={
-	name="de Wanuko"
+	name="Wanuko"
 	culture="portuguese"
 	religion="catholic"
 }
 100300={
-	name="de Kena"
+	name="Kena"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100310={
-	name="de Qenaran"
+	name="Qenaran"
 	culture="old_frankish"
 	religion="catholic"
 }
 100330={
-	name="de Raladan"
+	name="Raladan"
 	culture="portuguese"
 	religion="catholic"
 }
 100340={
-	name="de Bevan"
+	name="Bevan"
 	culture="portuguese"
 	religion="catholic"
 }
 100350={
-	name="de Kya"
+	name="Kya"
 	culture="portuguese"
 	religion="catholic"
 }
 100360={
-	name="de Quradan"
+	name="Quradan"
 	culture="old_frankish"
 	religion="catholic"
 }
 100370={
-	name="de Tucita"
+	name="Tucita"
 	culture="old_frankish"
 	religion="catholic"
 }
 100380={
-	name="de Edhamohn"
+	name="Edhamohn"
 	culture="old_frankish"
 	religion="catholic"
 }
 100390={
-	name="de Tegoger"
+	name="Tegoger"
 	culture="portuguese"
 	religion="catholic"
 }
 100400={
-	name="de Ryoa"
+	name="Ryoa"
 	culture="portuguese"
 	religion="catholic"
 }
 100410={
-	name="de Ader-Ura"
+	name="Ader-Ura"
 	culture="old_frankish"
 	religion="catholic"
 }
 100420={
-	name="de Savam"
+	name="Savam"
 	culture="old_frankish"
 	religion="catholic"
 }
 100430={
-	name="de Qyaa"
+	name="Qyaa"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100440={
-	name="de Bibirai"
+	name="Bibirai"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100450={
-	name="de Rucius"
+	name="Rucius"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100460={
-	name="de Tenina"
+	name="Tenina"
 	culture="old_frankish"
 	religion="catholic"
 }
 100470={
-	name="de Akamud"
+	name="Akamud"
 	culture="old_frankish"
 	religion="catholic"
 }
 100480={
-	name="de Samuko"
+	name="Samuko"
 	culture="portuguese"
 	religion="catholic"
 }
 100490={
-	name="de Relam"
+	name="Relam"
 	culture="old_frankish"
 	religion="catholic"
 }
 100500={
-	name="de Akojema"
+	name="Akojema"
 	culture="portuguese"
 	religion="catholic"
 }
 100510={
-	name="of Amucath"
+	name="Amucath"
 	culture="greek"
 	religion="catholic"
 }
 100520={
-	name="de Noche"
+	name="Noche"
 	culture="portuguese"
 	religion="catholic"
 }
 100530={
-	name="de Agevaani"
+	name="Agevaani"
 	culture="old_frankish"
 	religion="catholic"
 }
 100540={
-	name="de Ekloger"
+	name="Ekloger"
 	culture="portuguese"
 	religion="catholic"
 }
 100550={
-	name="de Bireodat"
+	name="Bireodat"
 	culture="portuguese"
 	religion="catholic"
 }
 100560={
-	name="de Karuin"
+	name="Karuin"
 	culture="portuguese"
 	religion="catholic"
 }
 100570={
-	name="de Noanius"
+	name="Noanius"
 	culture="old_frankish"
 	religion="catholic"
 }
 100580={
-	name="de Karahar"
+	name="Karahar"
 	culture="portuguese"
 	religion="catholic"
 }
 100590={
-	name="de Qevassa"
+	name="Qevassa"
 	culture="old_frankish"
 	religion="catholic"
 }
 100600={
-	name="de Nukipac"
+	name="Nukipac"
 	culture="portuguese"
 	religion="catholic"
 }
 100610={
-	name="de Neneram"
+	name="Neneram"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100620={
-	name="de Rarolon"
+	name="Rarolon"
 	culture="old_frankish"
 	religion="catholic"
 }
 100630={
-	name="von Kalihan"
+	name="Kalihan"
 	culture="german"
 	religion="catholic"
 }
 100640={
-	name="de Lajory"
+	name="Lajory"
 	culture="old_frankish"
 	religion="orthodox"
 }
 100650={
-	name="de Sasirai"
+	name="Sasirai"
 	culture="portuguese"
 	religion="catholic"
 }
 100660={
-	name="von Kamoger"
+	name="Kamoger"
 	culture="german"
 	religion="catholic"
 }
 100670={
-	name="de Deinory"
+	name="Deinory"
 	culture="portuguese"
 	religion="catholic"
 }
 100680={
-	name="de Sanonne"
+	name="Sanonne"
 	culture="portuguese"
 	religion="catholic"
 }
 100690={
-	name="de Qedideva"
+	name="Qedideva"
 	culture="portuguese"
 	religion="catholic"
 }
 100700={
-	name="de Togyuk"
+	name="Togyuk"
 	culture="old_frankish"
 	religion="catholic"
 }
 100710={
-	name="von Wabdurna"
+	name="Wabdurna"
 	culture="german"
 	religion="catholic"
 }
 100720={
-	name="de Lakoka"
+	name="Lakoka"
 	culture="portuguese"
 	religion="catholic"
 }
 100730={
-	name="von Doyan"
+	name="Doyan"
 	culture="german"
 	religion="catholic"
 }
 100740={
-	name="de Bajunno"
+	name="Bajunno"
 	culture="portuguese"
 	religion="catholic"
 }
 100750={
-	name="de Latheek"
+	name="Latheek"
 	culture="old_frankish"
 	religion="catholic"
 }
 100760={
-	name="de Taa"
+	name="Taa"
 	culture="portuguese"
 	religion="catholic"
 }
 100770={
-	name="de Nodoja"
+	name="Nodoja"
 	culture="portuguese"
 	religion="catholic"
 }
 100780={
-	name="von Tojasia"
+	name="Tojasia"
 	culture="german"
 	religion="catholic"
 }
 100790={
-	name="of Tonyula"
+	name="Tonyula"
 	culture="greek"
 	religion="catholic"
 }
 100800={
-	name="de Ameludan"
+	name="Ameludan"
 	culture="old_frankish"
 	religion="catholic"
 }
 100810={
-	name="of Katasa"
+	name="Katasa"
 	culture="greek"
 	religion="catholic"
 }
 100820={
-	name="von Binast"
+	name="Binast"
 	culture="german"
 	religion="catholic"
 }
 100830={
-	name="de Kotama"
+	name="Kotama"
 	culture="portuguese"
 	religion="catholic"
 }
 100840={
-	name="de Damiek"
+	name="Damiek"
 	culture="portuguese"
 	religion="catholic"
 }
 100850={
-	name="de Wyefalo"
+	name="Wyefalo"
 	culture="portuguese"
 	religion="catholic"
 }
 100860={
-	name="de Tyigiel"
+	name="Tyigiel"
 	culture="portuguese"
 	religion="catholic"
 }
 100870={
-	name="de Kaulara"
+	name="Kaulara"
 	culture="portuguese"
 	religion="catholic"
 }
 100880={
-	name="de Tohecca"
+	name="Tohecca"
 	culture="portuguese"
 	religion="catholic"
 }
 100890={
-	name="de Tyatuko"
+	name="Tyatuko"
 	culture="old_frankish"
 	religion="catholic"
 }
 100900={
-	name="de Raha"
+	name="Raha"
 	culture="portuguese"
 	religion="catholic"
 }
 100910={
-	name="de Wuducho"
+	name="Wuducho"
 	culture="old_frankish"
 	religion="catholic"
 }
 100920={
-	name="von Tizarya"
+	name="Tizarya"
 	culture="german"
 	religion="catholic"
 }
 100930={
-	name="de Bajoras"
+	name="Bajoras"
 	culture="portuguese"
 	religion="catholic"
 }
 100940={
-	name="von Laulint"
+	name="Laulint"
 	culture="german"
 	religion="catholic"
 }
 100950={
-	name="de Terefan"
+	name="Terefan"
 	culture="portuguese"
 	religion="catholic"
 }
 100960={
-	name="of Beridena"
+	name="Beridena"
 	culture="old_saxon"
 	religion="west_african_pagan"
 }
 100970={
-	name="von Keludan"
+	name="Keludan"
 	culture="german"
 	religion="catholic"
 }
 100980={
-	name="von Devund"
+	name="Devund"
 	culture="german"
 	religion="catholic"
 }
 100990={
-	name="de Dacaya"
+	name="Dacaya"
 	culture="portuguese"
 	religion="catholic"
 }
 101000={
-	name="de Lolaya"
+	name="Lolaya"
 	culture="portuguese"
 	religion="catholic"
 }
 101010={
-	name="de Wimaus"
+	name="Wimaus"
 	culture="portuguese"
 	religion="catholic"
 }
 101020={
-	name="von Ranoura"
+	name="Ranoura"
 	culture="german"
 	religion="catholic"
 }
 101030={
-	name="de Bizarya"
+	name="Bizarya"
 	culture="portuguese"
 	religion="catholic"
 }
 101040={
-	name="de Qerenna"
+	name="Qerenna"
 	culture="portuguese"
 	religion="catholic"
 }
 101050={
-	name="of Rekoger"
+	name="Rekoger"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101060={
-	name="von Wella"
+	name="Wella"
 	culture="german"
 	religion="catholic"
 }
 101070={
-	name="de Tisanca"
+	name="Tisanca"
 	culture="portuguese"
 	religion="catholic"
 }
 101080={
-	name="von Ecasozar"
+	name="Ecasozar"
 	culture="german"
 	religion="catholic"
 }
 101090={
-	name="von Dina"
+	name="Dina"
 	culture="german"
 	religion="catholic"
 }
 101100={
-	name="de Epichar"
+	name="Epichar"
 	culture="portuguese"
 	religion="catholic"
 }
 101110={
-	name="de Lawa"
+	name="Lawa"
 	culture="portuguese"
 	religion="catholic"
 }
 101120={
-	name="de Raniel"
+	name="Raniel"
 	culture="portuguese"
 	religion="catholic"
 }
 101130={
-	name="von Keis"
+	name="Keis"
 	culture="german"
 	religion="norse_pagan"
 }
 101140={
-	name="von Taba"
+	name="Taba"
 	culture="german"
 	religion="catholic"
 }
 101150={
-	name="de Nyon"
+	name="Nyon"
 	culture="portuguese"
 	religion="catholic"
 }
 101160={
-	name="von Nona"
+	name="Nona"
 	culture="german"
 	religion="catholic"
 }
 101170={
-	name="von Wosai"
+	name="Wosai"
 	culture="german"
 	religion="catholic"
 }
 101180={
-	name="von Namint"
+	name="Namint"
 	culture="german"
 	religion="catholic"
 }
 101190={
-	name="von Navabib"
+	name="Navabib"
 	culture="german"
 	religion="catholic"
 }
@@ -614,62 +614,62 @@
 	religion="zun_pagan"
 }
 101210={
-	name="de Tumuisa"
+	name="Tumuisa"
 	culture="portuguese"
 	religion="catholic"
 }
 101220={
-	name="de Amekim"
+	name="Amekim"
 	culture="portuguese"
 	religion="catholic"
 }
 101230={
-	name="de Begs"
+	name="Begs"
 	culture="portuguese"
 	religion="catholic"
 }
 101240={
-	name="of Ninanka"
+	name="Ninanka"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101250={
-	name="of Sear"
+	name="Sear"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101260={
-	name="von Beynard"
+	name="Beynard"
 	culture="german"
 	religion="catholic"
 }
 101270={
-	name="von Ner-Ona"
+	name="Ner-Ona"
 	culture="german"
 	religion="catholic"
 }
 101280={
-	name="von Nekegin"
+	name="Nekegin"
 	culture="german"
 	religion="catholic"
 }
 101290={
-	name="de Ryoo"
+	name="Ryoo"
 	culture="portuguese"
 	religion="catholic"
 }
 101300={
-	name="de Qurilip"
+	name="Qurilip"
 	culture="portuguese"
 	religion="catholic"
 }
 101310={
-	name="von Raxirai"
+	name="Raxirai"
 	culture="german"
 	religion="catholic"
 }
 101320={
-	name="von Dalimon"
+	name="Dalimon"
 	culture="german"
 	religion="catholic"
 }
@@ -679,87 +679,87 @@
 	religion="zun_pagan"
 }
 101340={
-	name="of Edoja"
+	name="Edoja"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101350={
-	name="of Derunnar"
+	name="Derunnar"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101360={
-	name="von Dunahad"
+	name="Dunahad"
 	culture="german"
 	religion="norse_pagan"
 }
 101370={
-	name="von Ezakille"
+	name="Ezakille"
 	culture="german"
 	religion="catholic"
 }
 101380={
-	name="of Abelim"
+	name="Abelim"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101390={
-	name="de Ecotijah"
+	name="Ecotijah"
 	culture="portuguese"
 	religion="catholic"
 }
 101400={
-	name="of Tinahad"
+	name="Tinahad"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101410={
-	name="of Kavohn"
+	name="Kavohn"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101420={
-	name="of Sana"
+	name="Sana"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101430={
-	name="von Toisi"
+	name="Toisi"
 	culture="german"
 	religion="catholic"
 }
 101440={
-	name="von Eloreter"
+	name="Eloreter"
 	culture="german"
 	religion="catholic"
 }
 101450={
-	name="de Eferagan"
+	name="Eferagan"
 	culture="portuguese"
 	religion="catholic"
 }
 101460={
-	name="of Qyan"
+	name="Qyan"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101470={
-	name="de Wimizhi"
+	name="Wimizhi"
 	culture="portuguese"
 	religion="catholic"
 }
 101480={
-	name="von Rudo"
+	name="Rudo"
 	culture="german"
 	religion="norse_pagan"
 }
 101490={
-	name="von Nareth"
+	name="Nareth"
 	culture="german"
 	religion="catholic"
 }
 101500={
-	name="de Eligugei"
+	name="Eligugei"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -769,27 +769,27 @@
 	religion="norse_pagan"
 }
 101520={
-	name="of Etanila"
+	name="Etanila"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101530={
-	name="von Kyer"
+	name="Kyer"
 	culture="german"
 	religion="catholic"
 }
 101540={
-	name="of Kicida"
+	name="Kicida"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101550={
-	name="of Talapo"
+	name="Talapo"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101560={
-	name="de Qilayya"
+	name="Qilayya"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -799,77 +799,77 @@
 	religion="zun_pagan"
 }
 101580={
-	name="von Temyla"
+	name="Temyla"
 	culture="german"
 	religion="catholic"
 }
 101590={
-	name="of Boloul"
+	name="Boloul"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101600={
-	name="von Eleth"
+	name="Eleth"
 	culture="german"
 	religion="catholic"
 }
 101610={
-	name="of Egamily"
+	name="Egamily"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101620={
-	name="von Ebudary"
+	name="Ebudary"
 	culture="german"
 	religion="catholic"
 }
 101630={
-	name="von Kazara"
+	name="Kazara"
 	culture="german"
 	religion="catholic"
 }
 101640={
-	name="von Esaloriy"
+	name="Esaloriy"
 	culture="german"
 	religion="catholic"
 }
 101650={
-	name="of Apyad"
+	name="Apyad"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 101660={
-	name="of Tiegew"
+	name="Tiegew"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101670={
-	name="von Larunai"
+	name="Larunai"
 	culture="german"
 	religion="norse_pagan"
 }
 101680={
-	name="de Wilad"
+	name="Wilad"
 	culture="portuguese"
 	religion="catholic"
 }
 101690={
-	name="of Duwund"
+	name="Duwund"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 101700={
-	name="of Karuigi"
+	name="Karuigi"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
 101710={
-	name="von Wereuta"
+	name="Wereuta"
 	culture="german"
 	religion="catholic"
 }
 101720={
-	name="de Elibi"
+	name="Elibi"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -879,12 +879,12 @@
 	religion="zun_pagan"
 }
 101740={
-	name="von Duelle"
+	name="Duelle"
 	culture="german"
 	religion="catholic"
 }
 101750={
-	name="of Taaz"
+	name="Taaz"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -894,52 +894,52 @@
 	religion="norse_pagan"
 }
 101770={
-	name="von Aglril"
+	name="Aglril"
 	culture="german"
 	religion="catholic"
 }
 101780={
-	name="von Borine"
+	name="Borine"
 	culture="german"
 	religion="norse_pagan"
 }
 101790={
-	name="of Tupaghu"
+	name="Tupaghu"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 101800={
-	name="of Basyana"
+	name="Basyana"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 101810={
-	name="of Retoa"
+	name="Retoa"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 101820={
-	name="of Wogua"
+	name="Wogua"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 101830={
-	name="of Emanomon"
+	name="Emanomon"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 101840={
-	name="von Nerar"
+	name="Nerar"
 	culture="german"
 	religion="catholic"
 }
 101850={
-	name="of Lenitya"
+	name="Lenitya"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 101860={
-	name="of Baiy"
+	name="Baiy"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -949,37 +949,37 @@
 	religion="norse_pagan"
 }
 101880={
-	name="von Kautiat"
+	name="Kautiat"
 	culture="german"
 	religion="catholic"
 }
 101890={
-	name="de Susidis"
+	name="Susidis"
 	culture="portuguese"
 	religion="catholic"
 }
 101900={
-	name="de Ehamaut"
+	name="Ehamaut"
 	culture="portuguese"
 	religion="catholic"
 }
 101910={
-	name="von Enyea"
+	name="Enyea"
 	culture="german"
 	religion="catholic"
 }
 101920={
-	name="de Ryuvine"
+	name="Ryuvine"
 	culture="portuguese"
 	religion="catholic"
 }
 101930={
-	name="von Reposlan"
+	name="Reposlan"
 	culture="german"
 	religion="catholic"
 }
 101940={
-	name="von Nokalram"
+	name="Nokalram"
 	culture="german"
 	religion="catholic"
 }
@@ -994,7 +994,7 @@
 	religion="zun_pagan"
 }
 101970={
-	name="von Kutawtus"
+	name="Kutawtus"
 	culture="german"
 	religion="catholic"
 }
@@ -1004,52 +1004,52 @@
 	religion="norse_pagan"
 }
 101990={
-	name="de Kata"
+	name="Kata"
 	culture="portuguese"
 	religion="catholic"
 }
 102000={
-	name="of Tobina"
+	name="Tobina"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102010={
-	name="von Balaud"
+	name="Balaud"
 	culture="german"
 	religion="catholic"
 }
 102020={
-	name="von Leliek"
+	name="Leliek"
 	culture="german"
 	religion="norse_pagan"
 }
 102030={
-	name="of Rerawuj"
+	name="Rerawuj"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102040={
-	name="of Nerivka"
+	name="Nerivka"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102050={
-	name="von Dareter"
+	name="Dareter"
 	culture="german"
 	religion="catholic"
 }
 102060={
-	name="of Neoka"
+	name="Neoka"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102070={
-	name="von Kanandi"
+	name="Kanandi"
 	culture="german"
 	religion="norse_pagan"
 }
 102080={
-	name="of Taarozar"
+	name="Taarozar"
 	culture="old_saxon"
 	religion="norse_pagan"
 }
@@ -1059,42 +1059,42 @@
 	religion="zun_pagan"
 }
 102100={
-	name="of Lidani"
+	name="Lidani"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102110={
-	name="von Qeymuslo"
+	name="Qeymuslo"
 	culture="german"
 	religion="catholic"
 }
 102120={
-	name="of Suoen"
+	name="Suoen"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102130={
-	name="von Revaim"
+	name="Revaim"
 	culture="german"
 	religion="catholic"
 }
 102140={
-	name="von Denapa"
+	name="Denapa"
 	culture="german"
 	religion="catholic"
 }
 102150={
-	name="de Kudiera"
+	name="Kudiera"
 	culture="portuguese"
 	religion="catholic"
 }
 102160={
-	name="de Neilaka"
+	name="Neilaka"
 	culture="portuguese"
 	religion="catholic"
 }
 102170={
-	name="of Renawma"
+	name="Renawma"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1109,7 +1109,7 @@
 	religion="catholic"
 }
 102200={
-	name="de Rorang"
+	name="Rorang"
 	culture="portuguese"
 	religion="orthodox"
 }
@@ -1129,17 +1129,17 @@
 	religion="catholic"
 }
 102240={
-	name="of Abeneer"
+	name="Abeneer"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102250={
-	name="of Ryuvelm"
+	name="Ryuvelm"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102260={
-	name="of Belilai"
+	name="Belilai"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1149,17 +1149,17 @@
 	religion="zun_pagan"
 }
 102280={
-	name="of Activia"
+	name="Activia"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102290={
-	name="of Tunavo"
+	name="Tunavo"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102300={
-	name="de Rarala"
+	name="Rarala"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -1169,32 +1169,32 @@
 	religion="norse_pagan"
 }
 102320={
-	name="von Keneba"
+	name="Keneba"
 	culture="german"
 	religion="catholic"
 }
 102330={
-	name="von Teoda"
+	name="Teoda"
 	culture="german"
 	religion="catholic"
 }
 102340={
-	name="of Qand"
+	name="Qand"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102350={
-	name="de Kubofia"
+	name="Kubofia"
 	culture="portuguese"
 	religion="catholic"
 }
 102360={
-	name="of Butibi"
+	name="Butibi"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102370={
-	name="of Erajahar"
+	name="Erajahar"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1229,12 +1229,12 @@
 	religion="catholic"
 }
 102440={
-	name="de Koloul"
+	name="Koloul"
 	culture="portuguese"
 	religion="catholic"
 }
 102450={
-	name="of Kojara"
+	name="Kojara"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1244,7 +1244,7 @@
 	religion="norse_pagan"
 }
 102470={
-	name="of Rolorri"
+	name="Rolorri"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1259,7 +1259,7 @@
 	religion="catholic"
 }
 102500={
-	name="de Soanick"
+	name="Soanick"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -1289,17 +1289,17 @@
 	religion="zun_pagan"
 }
 102560={
-	name="of Abogoatl"
+	name="Abogoatl"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102570={
-	name="de Tareir"
+	name="Tareir"
 	culture="portuguese"
 	religion="catholic"
 }
 102580={
-	name="of Kalias"
+	name="Kalias"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1309,17 +1309,17 @@
 	religion="orthodox"
 }
 102600={
-	name="of Nyatine"
+	name="Nyatine"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102610={
-	name="of Nyilija"
+	name="Nyilija"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
 102620={
-	name="of Tiloslan"
+	name="Tiloslan"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1339,7 +1339,7 @@
 	religion="zun_pagan"
 }
 102660={
-	name="de Wolurli"
+	name="Wolurli"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -1359,7 +1359,7 @@
 	religion="norse_pagan"
 }
 102700={
-	name="of Elikusa"
+	name="Elikusa"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1419,7 +1419,7 @@
 	religion="orthodox"
 }
 102820={
-	name="of Rodael"
+	name="Rodael"
 	culture="assyrian"
 	religion="hellenic_pagan"
 }
@@ -1469,7 +1469,7 @@
 	religion="zun_pagan"
 }
 102920={
-	name="of Nacouhi"
+	name="Nacouhi"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1499,7 +1499,7 @@
 	religion="norse_pagan"
 }
 102980={
-	name="of Kuwarde"
+	name="Kuwarde"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1509,7 +1509,7 @@
 	religion="zun_pagan"
 }
 103000={
-	name="of Sodade"
+	name="Sodade"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1529,7 +1529,7 @@
 	religion="catholic"
 }
 103040={
-	name="of Egisokol"
+	name="Egisokol"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1549,7 +1549,7 @@
 	religion="zun_pagan"
 }
 103080={
-	name="of Qariat"
+	name="Qariat"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1589,7 +1589,7 @@
 	religion="zun_pagan"
 }
 103160={
-	name="of Kaka"
+	name="Kaka"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1599,7 +1599,7 @@
 	religion="catholic"
 }
 103180={
-	name="of Avimena"
+	name="Avimena"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1614,7 +1614,7 @@
 	religion="zun_pagan"
 }
 103210={
-	name="of Wariisa"
+	name="Wariisa"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1634,7 +1634,7 @@
 	religion="catholic"
 }
 103250={
-	name="of Tyia"
+	name="Tyia"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1644,7 +1644,7 @@
 	religion="zun_pagan"
 }
 103270={
-	name="of Nisom"
+	name="Nisom"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1659,12 +1659,12 @@
 	religion="orthodox"
 }
 103300={
-	name="of Sahaster"
+	name="Sahaster"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
 103310={
-	name="of Birith"
+	name="Birith"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1714,7 +1714,7 @@
 	religion="zun_pagan"
 }
 103410={
-	name="of Wobim"
+	name="Wobim"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1744,12 +1744,12 @@
 	religion="orthodox"
 }
 103470={
-	name="of Seocick"
+	name="Seocick"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 103480={
-	name="of Banann"
+	name="Banann"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1764,7 +1764,7 @@
 	religion="orthodox"
 }
 103510={
-	name="of Keritya"
+	name="Keritya"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1784,12 +1784,12 @@
 	religion="catholic"
 }
 103550={
-	name="of Lubelbo"
+	name="Lubelbo"
 	culture="russian"
 	religion="shiite"
 }
 103560={
-	name="of Tacoste"
+	name="Tacoste"
 	culture="russian"
 	religion="shiite"
 }
@@ -1819,7 +1819,7 @@
 	religion="zun_pagan"
 }
 103620={
-	name="of Necya"
+	name="Necya"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1849,7 +1849,7 @@
 	religion="catholic"
 }
 103680={
-	name="of Renain"
+	name="Renain"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1869,17 +1869,17 @@
 	religion="catholic"
 }
 103720={
-	name="of Tict"
+	name="Tict"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
 103730={
-	name="of Duigun"
+	name="Duigun"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
 103740={
-	name="of Lareva"
+	name="Lareva"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1899,12 +1899,12 @@
 	religion="catholic"
 }
 103780={
-	name="of Keparcia"
+	name="Keparcia"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
 103790={
-	name="of Tatelbo"
+	name="Tatelbo"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -1949,7 +1949,7 @@
 	religion="catholic"
 }
 103880={
-	name="of Reitl"
+	name="Reitl"
 	culture="crimean_gothic"
 	religion="hellenic_pagan"
 }
@@ -2019,7 +2019,7 @@
 	religion="zoroastrian"
 }
 104020={
-	name="of Duneike"
+	name="Duneike"
 	culture="russian"
 	religion="west_african_pagan"
 }
@@ -2029,7 +2029,7 @@
 	religion="zoroastrian"
 }
 104040={
-	name="de Regand"
+	name="Regand"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2084,7 +2084,7 @@
 	religion="zoroastrian"
 }
 104150={
-	name="de Raleth"
+	name="Raleth"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2099,12 +2099,12 @@
 	religion="catholic"
 }
 104180={
-	name="de Abhaseya"
+	name="Abhaseya"
 	culture="basque"
 	religion="orthodox"
 }
 104190={
-	name="de Watun"
+	name="Watun"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2119,12 +2119,12 @@
 	religion="west_african_pagan"
 }
 104220={
-	name="of Toka"
+	name="Toka"
 	culture="russian"
 	religion="west_african_pagan"
 }
 104230={
-	name="de Natili"
+	name="Natili"
 	culture="catalan"
 	religion="west_african_pagan"
 }
@@ -2144,7 +2144,7 @@
 	religion="west_african_pagan"
 }
 104270={
-	name="of Syi"
+	name="Syi"
 	culture="russian"
 	religion="shiite"
 }
@@ -2159,7 +2159,7 @@
 	religion="catholic"
 }
 104300={
-	name="de Wubing"
+	name="Wubing"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2169,7 +2169,7 @@
 	religion="west_african_pagan"
 }
 104320={
-	name="of Arateike"
+	name="Arateike"
 	culture="russian"
 	religion="shiite"
 }
@@ -2199,12 +2199,12 @@
 	religion="west_african_pagan"
 }
 104380={
-	name="de Welagha"
+	name="Welagha"
 	culture="basque"
 	religion="orthodox"
 }
 104390={
-	name="de Ruroul"
+	name="Ruroul"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2214,7 +2214,7 @@
 	religion="west_african_pagan"
 }
 104410={
-	name="de Tupiwal"
+	name="Tupiwal"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2244,12 +2244,12 @@
 	religion="west_african_pagan"
 }
 104470={
-	name="de Emufilu"
+	name="Emufilu"
 	culture="catalan"
 	religion="catholic"
 }
 104480={
-	name="de Aferam"
+	name="Aferam"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2259,7 +2259,7 @@
 	religion="zoroastrian"
 }
 104500={
-	name="de Tenain"
+	name="Tenain"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2269,17 +2269,17 @@
 	religion="tengri_pagan"
 }
 104520={
-	name="of Aratira"
+	name="Aratira"
 	culture="russian"
 	religion="west_african_pagan"
 }
 104530={
-	name="de Raralc"
+	name="Raralc"
 	culture="basque"
 	religion="orthodox"
 }
 104540={
-	name="de Kaleuta"
+	name="Kaleuta"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2304,7 +2304,7 @@
 	religion="west_african_pagan"
 }
 104590={
-	name="of Rukanka"
+	name="Rukanka"
 	culture="russian"
 	religion="shiite"
 }
@@ -2314,7 +2314,7 @@
 	religion="zoroastrian"
 }
 104610={
-	name="of Karuci"
+	name="Karuci"
 	culture="russian"
 	religion="shiite"
 }
@@ -2329,17 +2329,17 @@
 	religion="shiite"
 }
 104640={
-	name="of Keaney"
+	name="Keaney"
 	culture="russian"
 	religion="shiite"
 }
 104650={
-	name="de Tujanka"
+	name="Tujanka"
 	culture="catalan"
 	religion="catholic"
 }
 104660={
-	name="of Kisaac"
+	name="Kisaac"
 	culture="russian"
 	religion="sunni"
 }
@@ -2369,17 +2369,17 @@
 	religion="zoroastrian"
 }
 104720={
-	name="de Renost"
+	name="Renost"
 	culture="basque"
 	religion="orthodox"
 }
 104730={
-	name="de Tetelia"
+	name="Tetelia"
 	culture="basque"
 	religion="pagan"
 }
 104740={
-	name="de Loma"
+	name="Loma"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2409,17 +2409,17 @@
 	religion="west_african_pagan"
 }
 104800={
-	name="of Syehepes"
+	name="Syehepes"
 	culture="russian"
 	religion="sunni"
 }
 104810={
-	name="of Qeroan"
+	name="Qeroan"
 	culture="russian"
 	religion="shiite"
 }
 104820={
-	name="de Ryasutuq"
+	name="Ryasutuq"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -2434,7 +2434,7 @@
 	religion="tengri_pagan"
 }
 104850={
-	name="of Egag"
+	name="Egag"
 	culture="russian"
 	religion="sunni"
 }
@@ -2454,7 +2454,7 @@
 	religion="zoroastrian"
 }
 104890={
-	name="de Nedui"
+	name="Nedui"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2469,7 +2469,7 @@
 	religion="west_african_pagan"
 }
 104920={
-	name="de Tavay"
+	name="Tavay"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2479,12 +2479,12 @@
 	religion="orthodox"
 }
 104940={
-	name="of Korort"
+	name="Korort"
 	culture="russian"
 	religion="shiite"
 }
 104950={
-	name="of Em"
+	name="Em"
 	culture="russian"
 	religion="sunni"
 }
@@ -2494,7 +2494,7 @@
 	religion="tengri_pagan"
 }
 104970={
-	name="de Tuderas"
+	name="Tuderas"
 	culture="basque"
 	religion="pagan"
 }
@@ -2539,12 +2539,12 @@
 	religion="zoroastrian"
 }
 105060={
-	name="of Sisahim"
+	name="Sisahim"
 	culture="russian"
 	religion="sunni"
 }
 105070={
-	name="de Robiyah"
+	name="Robiyah"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2574,22 +2574,22 @@
 	religion="zoroastrian"
 }
 105130={
-	name="de Amita"
+	name="Amita"
 	culture="basque"
 	religion="pagan"
 }
 105140={
-	name="de Quanakk"
+	name="Quanakk"
 	culture="catalan"
 	religion="orthodox"
 }
 105150={
-	name="of Binius"
+	name="Binius"
 	culture="russian"
 	religion="sunni"
 }
 105160={
-	name="of Ajabiana"
+	name="Ajabiana"
 	culture="russian"
 	religion="sunni"
 }
@@ -2609,7 +2609,7 @@
 	religion="zoroastrian"
 }
 105200={
-	name="de Kolaida"
+	name="Kolaida"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2644,7 +2644,7 @@
 	religion="tengri_pagan"
 }
 105270={
-	name="de Rer-Ict"
+	name="Rer-Ict"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2654,7 +2654,7 @@
 	religion="west_african_pagan"
 }
 105290={
-	name="of Rafelen"
+	name="Rafelen"
 	culture="russian"
 	religion="sunni"
 }
@@ -2669,7 +2669,7 @@
 	religion="zoroastrian"
 }
 105320={
-	name="de Estelen"
+	name="Estelen"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2684,7 +2684,7 @@
 	religion="orthodox"
 }
 105350={
-	name="de Eterara"
+	name="Eterara"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2704,7 +2704,7 @@
 	religion="aztec"
 }
 105390={
-	name="of Dinild"
+	name="Dinild"
 	culture="russian"
 	religion="sunni"
 }
@@ -2714,7 +2714,7 @@
 	religion="west_african_pagan"
 }
 105410={
-	name="of Aburi"
+	name="Aburi"
 	culture="russian"
 	religion="sunni"
 }
@@ -2759,7 +2759,7 @@
 	religion="west_african_pagan"
 }
 105500={
-	name="of Wenzu"
+	name="Wenzu"
 	culture="russian"
 	religion="sunni"
 }
@@ -2774,17 +2774,17 @@
 	religion="tengri_pagan"
 }
 105530={
-	name="de Apetakk"
+	name="Apetakk"
 	culture="basque"
 	religion="orthodox"
 }
 105540={
-	name="de Risui"
+	name="Risui"
 	culture="catalan"
 	religion="orthodox"
 }
 105550={
-	name="de Kohing"
+	name="Kohing"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2809,7 +2809,7 @@
 	religion="zoroastrian"
 }
 105610={
-	name="de Arodiya"
+	name="Arodiya"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2834,7 +2834,7 @@
 	religion="zoroastrian"
 }
 105660={
-	name="of Kelolam"
+	name="Kelolam"
 	culture="russian"
 	religion="sunni"
 }
@@ -2859,7 +2859,7 @@
 	religion="tengri_pagan"
 }
 105710={
-	name="of Wucuzma"
+	name="Wucuzma"
 	culture="russian"
 	religion="sunni"
 }
@@ -2879,7 +2879,7 @@
 	religion="aztec"
 }
 105750={
-	name="de Kerand"
+	name="Kerand"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -2909,7 +2909,7 @@
 	religion="aztec"
 }
 105810={
-	name="de Badenda"
+	name="Badenda"
 	culture="basque"
 	religion="orthodox"
 }
@@ -2919,42 +2919,42 @@
 	religion="west_african_pagan"
 }
 105830={
-	name="de Bizafu"
+	name="Bizafu"
 	culture="basque"
 	religion="orthodox"
 }
 105831={
-	name="de Bizafu"
+	name="Bizafu"
 	culture="basque"
 	religion="orthodox"
 }
 105832={
-	name="de Komard"
+	name="Komard"
 	culture="basque"
 	religion="orthodox"
 }
 105833={
-	name="de Racamard"
+	name="Racamard"
 	culture="basque"
 	religion="orthodox"
 }
 105834={
-	name="de Esuzani"
+	name="Esuzani"
 	culture="basque"
 	religion="orthodox"
 }
 105840={
-	name="de Tulavid"
+	name="Tulavid"
 	culture="catalan"
 	religion="orthodox"
 }
 105850={
-	name="of Ecleva"
+	name="Ecleva"
 	culture="russian"
 	religion="shiite"
 }
 105860={
-	name="of Terakrim"
+	name="Terakrim"
 	culture="russian"
 	religion="sunni"
 }
@@ -2969,7 +2969,7 @@
 	religion="tengri_pagan"
 }
 105890={
-	name="of Loruraq"
+	name="Loruraq"
 	culture="russian"
 	religion="shiite"
 }
@@ -2979,7 +2979,7 @@
 	religion="pagan"
 }
 105910={
-	name="de Byasapa"
+	name="Byasapa"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3064,7 +3064,7 @@
 	religion="tengri_pagan"
 }
 106080={
-	name="of Qarala"
+	name="Qarala"
 	culture="russian"
 	religion="sunni"
 }
@@ -3074,7 +3074,7 @@
 	religion="tengri_pagan"
 }
 106100={
-	name="de Tialay"
+	name="Tialay"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3119,12 +3119,12 @@
 	religion="west_african_pagan"
 }
 106190={
-	name="of Sinala"
+	name="Sinala"
 	culture="russian"
 	religion="shiite"
 }
 106200={
-	name="de Emareek"
+	name="Emareek"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3144,7 +3144,7 @@
 	religion="zoroastrian"
 }
 106240={
-	name="de Teran"
+	name="Teran"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3184,7 +3184,7 @@
 	religion="west_african_pagan"
 }
 106320={
-	name="de Duop"
+	name="Duop"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -3229,12 +3229,12 @@
 	religion="tengri_pagan"
 }
 106410={
-	name="de Negin"
+	name="Negin"
 	culture="basque"
 	religion="orthodox"
 }
 106420={
-	name="de Eranura"
+	name="Eranura"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3289,7 +3289,7 @@
 	religion="sunni"
 }
 106530={
-	name="de Rirasus"
+	name="Rirasus"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3344,7 +3344,7 @@
 	religion="orthodox"
 }
 106640={
-	name="de Rorirve"
+	name="Rorirve"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3369,7 +3369,7 @@
 	religion="zoroastrian"
 }
 106690={
-	name="de Rateeli"
+	name="Rateeli"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -3434,7 +3434,7 @@
 	religion="zoroastrian"
 }
 106820={
-	name="de Akaluraq"
+	name="Akaluraq"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3449,12 +3449,12 @@
 	religion="zoroastrian"
 }
 106850={
-	name="de Kinomir"
+	name="Kinomir"
 	culture="basque"
 	religion="orthodox"
 }
 106860={
-	name="de Wuragan"
+	name="Wuragan"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3489,12 +3489,12 @@
 	religion="west_african_pagan"
 }
 106930={
-	name="de Kalaf"
+	name="Kalaf"
 	culture="basque"
 	religion="orthodox"
 }
 106940={
-	name="de Toman"
+	name="Toman"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3509,7 +3509,7 @@
 	religion="zoroastrian"
 }
 106970={
-	name="de Kyasika"
+	name="Kyasika"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3519,7 +3519,7 @@
 	religion="tengri_pagan"
 }
 106990={
-	name="de Tosavo"
+	name="Tosavo"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -3549,7 +3549,7 @@
 	religion="orthodox"
 }
 107050={
-	name="de Ethotte"
+	name="Ethotte"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3594,7 +3594,7 @@
 	religion="orthodox"
 }
 107140={
-	name="de Taneyao"
+	name="Taneyao"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3614,7 +3614,7 @@
 	religion="zoroastrian"
 }
 107180={
-	name="de Tanippin"
+	name="Tanippin"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3639,7 +3639,7 @@
 	religion="zoroastrian"
 }
 107230={
-	name="de Warena"
+	name="Warena"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3654,7 +3654,7 @@
 	religion="orthodox"
 }
 107260={
-	name="de Salilen"
+	name="Salilen"
 	culture="basque"
 	religion="orthodox"
 }
@@ -3669,7 +3669,7 @@
 	religion="zoroastrian"
 }
 107290={
-	name="de Emawud"
+	name="Emawud"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3684,12 +3684,12 @@
 	religion="orthodox"
 }
 107320={
-	name="de Abusbu"
+	name="Abusbu"
 	culture="castillan"
 	religion="sunni"
 }
 107330={
-	name="de Nenzu"
+	name="Nenzu"
 	culture="catalan"
 	religion="orthodox"
 }
@@ -3719,7 +3719,7 @@
 	religion="zoroastrian"
 }
 107390={
-	name="de Dauloul"
+	name="Dauloul"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3739,7 +3739,7 @@
 	religion="orthodox"
 }
 107430={
-	name="de Etrald"
+	name="Etrald"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3774,7 +3774,7 @@
 	religion="tengri_pagan"
 }
 107500={
-	name="de Welaram"
+	name="Welaram"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3789,7 +3789,7 @@
 	religion="shiite"
 }
 107530={
-	name="de Kizarun"
+	name="Kizarun"
 	culture="castillan"
 	religion="orthodox"
 }
@@ -3804,7 +3804,7 @@
 	religion="zoroastrian"
 }
 107560={
-	name="de Naluzma"
+	name="Naluzma"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3814,7 +3814,7 @@
 	religion="orthodox"
 }
 107580={
-	name="de Dathedey"
+	name="Dathedey"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3849,12 +3849,12 @@
 	religion="bon"
 }
 107650={
-	name="de Lozalka"
+	name="Lozalka"
 	culture="catalan"
 	religion="pagan"
 }
 107660={
-	name="de Kodulun"
+	name="Kodulun"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3869,32 +3869,32 @@
 	religion="tengri_pagan"
 }
 107690={
-	name="de Taran"
+	name="Taran"
 	culture="castillan"
 	religion="orthodox"
 }
 107700={
-	name="de Akugam"
+	name="Akugam"
 	culture="basque"
 	religion="pagan"
 }
 107710={
-	name="de Wisaqar"
+	name="Wisaqar"
 	culture="basque"
 	religion="pagan"
 }
 107720={
-	name="de Kolukpo"
+	name="Kolukpo"
 	culture="castillan"
 	religion="shiite"
 }
 107730={
-	name="de Sojeer"
+	name="Sojeer"
 	culture="catalan"
 	religion="orthodox"
 }
 107740={
-	name="de Sinyka"
+	name="Sinyka"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3949,17 +3949,17 @@
 	religion="tengri_pagan"
 }
 107850={
-	name="de Qenotho"
+	name="Qenotho"
 	culture="castillan"
 	religion="sunni"
 }
 107860={
-	name="de Tate"
+	name="Tate"
 	culture="catalan"
 	religion="pagan"
 }
 107870={
-	name="de Eburita"
+	name="Eburita"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3969,22 +3969,22 @@
 	religion="tengri_pagan"
 }
 107890={
-	name="de Averim"
+	name="Averim"
 	culture="basque"
 	religion="pagan"
 }
 107900={
-	name="de Kanemir"
+	name="Kanemir"
 	culture="castillan"
 	religion="orthodox"
 }
 107910={
-	name="de Beyao"
+	name="Beyao"
 	culture="castillan"
 	religion="orthodox"
 }
 107920={
-	name="de Dalair"
+	name="Dalair"
 	culture="castillan"
 	religion="sunni"
 }
@@ -3994,7 +3994,7 @@
 	religion="west_african_pagan"
 }
 107940={
-	name="de Nyonu"
+	name="Nyonu"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4014,17 +4014,17 @@
 	religion="tengri_pagan"
 }
 107980={
-	name="de Lathani"
+	name="Lathani"
 	culture="castillan"
 	religion="sunni"
 }
 107990={
-	name="de Benegs"
+	name="Benegs"
 	culture="castillan"
 	religion="shiite"
 }
 108000={
-	name="de Tautaac"
+	name="Tautaac"
 	culture="basque"
 	religion="pagan"
 }
@@ -4039,7 +4039,7 @@
 	religion="tengri_pagan"
 }
 108030={
-	name="de Emegobos"
+	name="Emegobos"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4079,7 +4079,7 @@
 	religion="tengri_pagan"
 }
 108110={
-	name="de Lobaud"
+	name="Lobaud"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4094,12 +4094,12 @@
 	religion="tengri_pagan"
 }
 108140={
-	name="de Sahemma"
+	name="Sahemma"
 	culture="castillan"
 	religion="sunni"
 }
 108150={
-	name="de Denain"
+	name="Denain"
 	culture="basque"
 	religion="pagan"
 }
@@ -4109,7 +4109,7 @@
 	religion="tengri_pagan"
 }
 108170={
-	name="de Adeyao"
+	name="Adeyao"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4119,17 +4119,17 @@
 	religion="tengri_pagan"
 }
 108190={
-	name="de Ronto"
+	name="Ronto"
 	culture="castillan"
 	religion="sunni"
 }
 108200={
-	name="de Athong"
+	name="Athong"
 	culture="castillan"
 	religion="sunni"
 }
 108210={
-	name="de Kibinie"
+	name="Kibinie"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4149,7 +4149,7 @@
 	religion="tengri_pagan"
 }
 108250={
-	name="de Ler"
+	name="Ler"
 	culture="castillan"
 	religion="orthodox"
 }
@@ -4159,7 +4159,7 @@
 	religion="shiite"
 }
 108270={
-	name="de Tusash"
+	name="Tusash"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4179,7 +4179,7 @@
 	religion="bon"
 }
 108310={
-	name="de Tiubuna"
+	name="Tiubuna"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4189,12 +4189,12 @@
 	religion="tengri_pagan"
 }
 108330={
-	name="de Kaymele"
+	name="Kaymele"
 	culture="castillan"
 	religion="sunni"
 }
 108340={
-	name="de Laning"
+	name="Laning"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4204,7 +4204,7 @@
 	religion="zoroastrian"
 }
 108360={
-	name="de Bumunai"
+	name="Bumunai"
 	culture="basque"
 	religion="pagan"
 }
@@ -4244,17 +4244,17 @@
 	religion="tengri_pagan"
 }
 108440={
-	name="de Sisau"
+	name="Sisau"
 	culture="castillan"
 	religion="sunni"
 }
 108450={
-	name="de Acluida"
+	name="Acluida"
 	culture="castillan"
 	religion="sunni"
 }
 108460={
-	name="de Daisou"
+	name="Daisou"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4274,7 +4274,7 @@
 	religion="zoroastrian"
 }
 108500={
-	name="de Atuberic"
+	name="Atuberic"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4289,7 +4289,7 @@
 	religion="taoist"
 }
 108530={
-	name="de Wirit"
+	name="Wirit"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4299,7 +4299,7 @@
 	religion="taoist"
 }
 108550={
-	name="de Bemoste"
+	name="Bemoste"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4314,12 +4314,12 @@
 	religion="sunni"
 }
 108580={
-	name="de Ranili"
+	name="Ranili"
 	culture="castillan"
 	religion="sunni"
 }
 108590={
-	name="de Sawemir"
+	name="Sawemir"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4329,7 +4329,7 @@
 	religion="bon"
 }
 108610={
-	name="de Banory"
+	name="Banory"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4369,7 +4369,7 @@
 	religion="sunni"
 }
 108690={
-	name="de Qalunda"
+	name="Qalunda"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4384,7 +4384,7 @@
 	religion="tengri_pagan"
 }
 108720={
-	name="de Teuves"
+	name="Teuves"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4419,7 +4419,7 @@
 	religion="tengri_pagan"
 }
 108790={
-	name="de Roheas"
+	name="Roheas"
 	culture="castillan"
 	religion="orthodox"
 }
@@ -4439,7 +4439,7 @@
 	religion="tengri_pagan"
 }
 108830={
-	name="de Tedisa"
+	name="Tedisa"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4489,7 +4489,7 @@
 	religion="bon"
 }
 108930={
-	name="de Ejaralp"
+	name="Ejaralp"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4504,7 +4504,7 @@
 	religion="sunni"
 }
 108960={
-	name="de Samiam"
+	name="Samiam"
 	culture="castillan"
 	religion="pagan"
 }
@@ -4514,12 +4514,12 @@
 	religion="bon"
 }
 108980={
-	name="de Sezou"
+	name="Sezou"
 	culture="castillan"
 	religion="orthodox"
 }
 108990={
-	name="de Neline"
+	name="Neline"
 	culture="castillan"
 	religion="sunni"
 }
@@ -4534,7 +4534,7 @@
 	religion="tengri_pagan"
 }
 109020={
-	name="de Kayyubt"
+	name="Kayyubt"
 	culture="castillan"
 	religion="pagan"
 }
@@ -5159,7 +5159,7 @@
 	religion="aztec"
 }
 110210={
-	name="de Ericemma"
+	name="Ericemma"
 	culture="visigothic"
 	religion="bon"
 }
@@ -5199,7 +5199,7 @@
 	religion="shiite"
 }
 110290={
-	name="de Dadost"
+	name="Dadost"
 	culture="visigothic"
 	religion="bon"
 }
@@ -5329,7 +5329,7 @@
 	religion="taoist"
 }
 110550={
-	name="de Rolke"
+	name="Rolke"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -5369,7 +5369,7 @@
 	religion="bon"
 }
 110630={
-	name="de Disyze"
+	name="Disyze"
 	culture="visigothic"
 	religion="bon"
 }
@@ -5549,7 +5549,7 @@
 	religion="bon"
 }
 110990={
-	name="de Wurakin"
+	name="Wurakin"
 	culture="visigothic"
 	religion="zoroastrian"
 }
@@ -5754,7 +5754,7 @@
 	religion="jain"
 }
 111400={
-	name="de Taliur"
+	name="Taliur"
 	culture="visigothic"
 	religion="zoroastrian"
 }
@@ -5779,7 +5779,7 @@
 	religion="aztec"
 }
 111450={
-	name="de Lamert"
+	name="Lamert"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -5954,7 +5954,7 @@
 	religion="shiite"
 }
 111800={
-	name="de Kekarak"
+	name="Kekarak"
 	culture="visigothic"
 	religion="zoroastrian"
 }
@@ -6044,7 +6044,7 @@
 	religion="bon"
 }
 111980={
-	name="de Keting"
+	name="Keting"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -6134,7 +6134,7 @@
 	religion="bon"
 }
 112160={
-	name="de Enyuns"
+	name="Enyuns"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6174,7 +6174,7 @@
 	religion="buddhist"
 }
 112240={
-	name="de Asoras"
+	name="Asoras"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6184,7 +6184,7 @@
 	religion="sunni"
 }
 112260={
-	name="de Turavy"
+	name="Turavy"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -6229,7 +6229,7 @@
 	religion="taoist"
 }
 112350={
-	name="de Toviuva"
+	name="Toviuva"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6264,7 +6264,7 @@
 	religion="tengri_pagan"
 }
 112420={
-	name="de Nudoj"
+	name="Nudoj"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6314,7 +6314,7 @@
 	religion="sunni"
 }
 112520={
-	name="de Wagelmo"
+	name="Wagelmo"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -6329,7 +6329,7 @@
 	religion="shiite"
 }
 112550={
-	name="de Qeineth"
+	name="Qeineth"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6344,12 +6344,12 @@
 	religion="shiite"
 }
 112580={
-	name="de Lacoan"
+	name="Lacoan"
 	culture="visigothic"
 	religion="bon"
 }
 112590={
-	name="de Dyasateh"
+	name="Dyasateh"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -6454,7 +6454,7 @@
 	religion="jain"
 }
 112760={
-	name="de Nosunai"
+	name="Nosunai"
 	culture="visigothic"
 	religion="bon"
 }
@@ -6494,7 +6494,7 @@
 	religion="bon"
 }
 112840={
-	name="de Wimude"
+	name="Wimude"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -6719,7 +6719,7 @@
 	religion="jain"
 }
 113290={
-	name="de Delaz"
+	name="Delaz"
 	culture="visigothic"
 	religion="bon"
 }

@@ -474,9 +474,10 @@ namespace = brothel
 		female = no
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 30 }
 		set_father = PREV 	
-		}
-	}	
+			}
+		}	
 		
 		option = {
 		ai_chance = { 	
@@ -504,7 +505,6 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		hidden_tooltip = {
 		create_character = {
 		age = 0
 		dynasty = NONE
@@ -512,6 +512,7 @@ namespace = brothel
 		female = no
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 30 }
 		set_father = PREV 
 			}
 		}
@@ -552,6 +553,7 @@ namespace = brothel
 		female = yes
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 20 }
 		set_father = PREV
 			}
 		}
@@ -582,7 +584,6 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		hidden_tooltip = {	
 		create_character = {
 		age = 0
 		dynasty = NONE
@@ -590,6 +591,7 @@ namespace = brothel
 		female = yes
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 20 }
 		set_father = PREV
 			}
 		}
@@ -604,7 +606,7 @@ namespace = brothel
 		hidden_tooltip = { 
 		random = {
 		chance = 75
-		character_event = { id = brothel.13 years = 12} }
+		character_event = { id = brothel.13 years = 16} }
 			}
 		}
 	}	
@@ -677,7 +679,7 @@ namespace = brothel
 	character_event = {
 		id = brothel.12 #brothel.12
 		desc = "EVTDESCBASTARDUNCOVEREDMALE"
-		picture = GFX_evt_whispers
+		picture = GFX_roy_ruler
 		
 		is_triggered_only = yes
 		
@@ -687,7 +689,7 @@ namespace = brothel
 			}
 		name = "ACCEPTBASTARD"
 		
-		create_random_soldier = {
+		create_character = {
 		random_traits = yes
 		age = 16
 		dynasty = NONE
@@ -695,6 +697,7 @@ namespace = brothel
 		female = no
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 14 }
 		set_father = PREV
 				}
 			}
@@ -714,7 +717,7 @@ namespace = brothel
 character_event = {
 		id = brothel.13 #brothel.13
 		desc = "EVTDESCBASTARDUNCOVEREDFEMALE"
-		picture = GFX_evt_whispers
+		picture = GFX_roy_spouse
 		
 		is_triggered_only = yes
 		
@@ -726,12 +729,13 @@ character_event = {
 		
 		create_character = {
 		random_traits = yes
-		age = 12
+		age = 16
 		dynasty = NONE
 		trait = bastard
 		female = yes
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 14 }
 		set_father = PREV
 				}
 			}

@@ -70,7 +70,7 @@ fuck_you_convert = {
 
 	can_use = {
 		ROOT = {
-			piety = 1200
+			piety = 300
 			prestige = 300
 			capital_scope = { religion = ROOT }
 			is_adult = yes
@@ -95,7 +95,7 @@ fuck_you_convert = {
 
 	on_add = {
 		ROOT = {
-			piety = -1200
+			piety = -300
 			prestige = -300
 		}
 	}

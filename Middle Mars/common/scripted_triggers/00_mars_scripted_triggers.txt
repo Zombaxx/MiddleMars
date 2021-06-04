@@ -23,7 +23,6 @@ has_slavery_culture_trigger = {
 			OR = {
 				culture = norse
 				culture = old_saxon
-				culture = ethiopian
 				culture_group = mesoamerican
 				culture_group = tibetan_group
 				culture = hausa
@@ -49,6 +48,7 @@ has_antislavery_religion_trigger = {
 				religion = taoist
 				religion = waldensian
 				religion = orthodox
+				religion = fraticelli
 			}
 		}
 	}	
@@ -58,14 +58,15 @@ has_antislavery_culture_trigger = {
 		text = has_antislavery_culture_trigger
 		hidden_tooltip = {
 			OR = {
+				culture_group = central_germanic
 				culture_group = dravidian_group
 				culture = nubian
+				culture = ethiopian
 				culture = saxon
 				culture_group = iranian
 				culture_group = altaic
 				culture_group = iberian
 				culture = han
-				culture = nubian
 				culture = russian
 			}
 		}
@@ -79,6 +80,7 @@ has_antibrothel_religion_trigger = {
 				#religion_group = zoroastrian_group
 				religion_group = jewish_group
 				religion = catholic
+				religion = cathar
 				#religion = taoist
 				religion = waldensian
 				religion = orthodox

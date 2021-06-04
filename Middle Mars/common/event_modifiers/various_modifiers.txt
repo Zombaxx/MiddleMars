@@ -127,3 +127,16 @@ settlement_convert = {
 	supply_limit = -0.75
 	icon = 106
 }
+annex_attempt = {
+	icon = 18
+}
+osting_marriage_rally = {
+	icon = 7
+	monthly_character_prestige = 0.05
+	monthly_character_piety = 1
+}
+
+marriage_rally_province = {
+	icon = 7
+	local_tax_modifier = 0.10
+}

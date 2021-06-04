@@ -4,6 +4,8 @@ visit_brothel;Visit A Brothel;Visit A Brothel;;;;;;;;;x
 visit_brothel_desc;Warm the bed with a whore;;;;;;;;;x
 bed_washerwoman;Approach a camp follower;;;;;;;;;x
 bed_washerwoman_desc;Warm the bed with a washerwoman;;;;;;;;x
+brothel_born;Born In a Brothel;;;x
+brothel_born_desc;This character was born of a tavern woman.;;;x
 EVTDESCWHORING; I want to whore the night away.;;;;;;;;;x
 EVTWHORING;Pick a Noctian girl;;;;;;;;;x
 EVTWHORING2;Pick an Alban girl;;;;;;;;;x

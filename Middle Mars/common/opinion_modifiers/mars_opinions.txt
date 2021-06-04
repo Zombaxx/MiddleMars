@@ -28,6 +28,10 @@ opinion_executed_kinsman = {
 	opinion = -50
 	months = 2400
 }
+opinion_kidnap_me = {
+	opinion = -30
+	years = 10
+}
 opinion_kidnap_child = {
 	opinion = -30
 	months = 2400
@@ -107,4 +111,8 @@ opinion_feud_beef = {
 }
 opinion_raised_to_nobility = {
 	opinion = 15
+}
+opinion_failed_negotiate = {
+	opinion = -15
+	months = 6
 }

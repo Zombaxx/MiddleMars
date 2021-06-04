@@ -9,6 +9,8 @@ targetted_decisions = {
 		potential = {
 			NOT = { character = FROM }
 			is_ruler = yes
+			is_landed = yes
+			mercenary = no
 		}
 		allow = {
 			NOT = { has_non_aggression_pact_with = FROM }
