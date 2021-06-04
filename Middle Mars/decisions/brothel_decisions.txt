@@ -2,7 +2,12 @@ decisions = {
 	visit_brothel = {
 		potential = {
 			age = 14
-			is_female = no
+			#is_female = no
+			capital_scope = { 
+				OR = {
+				has_building = ct_f_brothel
+				has_building = ca_brothel }
+			}
 		}
 		allow = {
 			NOT = { trait = trait_slave }
@@ -58,8 +63,13 @@ decisions = {
 #do it with a camp follower (at war)		
 	bed_washerwoman = {
 		potential = {
+			OR = {
+				trait = lustful
+				trait = hedonistic
+			}
+			
 			age = 14
-            		is_female = no
+            #is_female = no
 		}
 		allow = {
 			in_command = yes
