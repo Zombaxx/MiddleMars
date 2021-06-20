@@ -15,7 +15,7 @@ namespace = buy_mech
 	character_event = {
 		id = buy_mech.2
 		desc = "EVTDESCbuy_mech.2"
-		picture = GFX_roy_mech
+		picture = GFX_mech_hangar
 	
 		is_triggered_only = yes
 	
@@ -28,7 +28,7 @@ namespace = buy_mech
 	character_event = {
 		id = buy_mech.3
 		desc = "EVTDESCbuy_mech.3"
-		picture = GFX_roy_mech
+		picture = GFX_mech_hangar
 	
 		is_triggered_only = yes
 	
@@ -41,7 +41,7 @@ namespace = buy_mech
 	character_event = {
 		id = buy_mech.4
 		desc = "EVTDESCbuy_mech.4"
-		picture = GFX_roy_mech
+		picture = GFX_mech_hangar
 	
 		is_triggered_only = yes
 	

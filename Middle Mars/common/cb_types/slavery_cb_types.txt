@@ -359,6 +359,16 @@ anti_slavery = {
 			}
 		}
 	}
+		FROM = { 
+			save_event_target_as = target_loser
+		}
+		ROOT = { 
+			character_event = {
+				id = Ac.7781
+				days = 5
+			}
+		}
+
 		FROM = {
 			crownlaw_title = {
 				IF = {

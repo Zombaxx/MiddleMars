@@ -20,3 +20,5 @@ roy_torture_events.001.2;Out with [From.GetHerHis] eye!;;;x
 torture_events_desc.2;Your men drag [From.GetFirstName] to the courtyard, kicking and screaming as they went along. Of course, [From.GetBestName] begged for mercy by the grace of [From.Religion.GetHighGodName] as you announced that you would be cutting on of [From.GetHerHis] hands off, but the decision is yours to make.;;;x
 roy_torture_events.002.1;Be glad it's not your head.;;;x
 
+has_voting_religion_trigger;[This.GetTitledFirstName]'s religion believes in leaders being chosen by election;;;x
+

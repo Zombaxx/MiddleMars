@@ -3,6 +3,8 @@ knight;Knight;Chevalier;Ritter;;Caballero;;;;;;;;;x
 knight_desc;This character is an annointed knight;Ce personnage est un chevalier oint;Dieser Charakter ist ein gesalbter Ritter;;Este personaje es un cabellero ungido;;;;;;;;;x
 squire;Squire;Écuyer;Knappe;;Escudero;;;;;;;;;x
 squire_desc;This character is a ward of a knight;Ce personnage est la pupille d'un chevalier;Dieser Charakter ist der Beschützer eines Ritters;;Este personaje es el pupilo de un caballero;;;;;;;;;x
+young_knight;Young Knight;;;x
+young_knight_desc;This character was knighted before reaching maturity, a testament to their skill.;;;x
 title_knight;Sir;Sir;Sir;;Sir;;;;;;;;;x
 opinion_knighted_me;Knighted me;M'a fait chevalier;Knighted mich;;Knighted me;;;;;;;;;x
 opinion_squired_me;Took me on as squire;M'a pris comme écuyer;Nahm mich als Knappe an;;Me tomó como escudero;;;;;;;;;x

@@ -1,4 +1,6 @@
 #CODE;ENGLISH;;;;;;;;;x
+defeated_robo;Defeated Machine;;;x
+defeated_robo_desc;This character has recently defeated a Mech Suit pilot in single combat, defeating the machine.;;;x
 suit;Mech Suit;;;x
 destroyed_land;Devastated Land;;;x
 destroyed_land_desc;Large swathes of this land has been burned and trampled by a rampaging Machine.;;;;x

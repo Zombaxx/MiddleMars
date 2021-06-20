@@ -6,6 +6,8 @@ slave_rebellion;Angry Slaves;;;x
 slave_rebellion_desc;The slaves in this province are upset. There is fear that some may organize a revolt.;;;x
 armedslaves;Armed Slaves;;;x
 armedslaves_desc;This character has enlisted slaves to fight in his army. This is seen as unsightly and desperate by nobility.;;;x
+mad_slavers;Unhappy Slavers;;;x
+mad_slavers_desc;Slavery being abrutly outlawed has uppended the economy. Many former slavers are dissatisfied and itching for rebellion.;;;x
 #CB
 slave_raid;Slave Raid;;;;;;;;;;;;;x
 slave_raid_desc;Begin a slave raid to fill your holdings.;;;;;;;;;;;;;x
@@ -227,3 +229,5 @@ EVTTOOLTIPSLAVERY0;[This.GetBestName] will be set free.;;;;;;;;;;;;x
 EVTDESCSLAVERY1;Your former slave, [From.GetBestName], has managed to leave your service and is now a free [From.GetManWoman].;;;x
 EVTOPTASLAVERY1;So be it.;;;;;;;;;;;;x
 
+EVTDESCAc.7781;Freeing the enslaved peoples of [target_loser.PrimaryTitle.GetName] has left many of the former slavers bitter and rebellious. They openly speak of forcing their former subjects back in chains...;;;x
+EVTOPTAAc.7781;They will meet the same fate!;;;x

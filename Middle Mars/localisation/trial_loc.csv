@@ -5,6 +5,7 @@ trial_character;Hold Trial for [Root.GetFirstName];;;x
 trial_character_desc;Have [Root.GetFirstName] be tried at the High Court of [From.Capital.GetName] where [Root.GetHerHis] fate will be in the hands of the Grand Judge.;;;x
 
 #modifiers
+made_ruling;Made Ruling;;;x
 opinion_punished_me;Punished Me!;;;x
 opinion_overruled_me;Overruled Me!;;;x
 opinion_spared_me;Spared My Life;;;x

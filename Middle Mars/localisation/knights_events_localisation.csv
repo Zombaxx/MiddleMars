@@ -38,9 +38,9 @@ EVTOPTAknightly.110;Now, let's go for a drink!;;;;x
 EVTDESCknightly.102;Your squire [FromFrom.GetTitledFirstName] did not perform well against you in your duel. He has clearly not been taking his training seriously. You rap him across the head with the practice sword and bark him out of your sight.;;;x
 EVTOPTAknightly.102;[Root.Religion.GetHighGodName] help that boy...;;;x
 
-EVTDESCknightly.104;Today's battle has been particularly fierce and your squire [From.GetTitledFirstName] has been at your side throughout, assisting you timely and fighting fiercely, felling his first man and few more. You decide this may be an appropriate time for him to be knighted.;;;x
-EVTOPTAknightly.104;Knight [From.GetFirstName];;;x
-EVTOPTBknightly.104;[From.GetFirstName] needs more training...;;;x
+EVTDESCknightly.104;Today's battle has been particularly fierce and your squire [squireknight.GetTitledFirstName] has been at your side throughout, assisting you timely and fighting fiercely, felling his first man and few more. You decide this may be an appropriate time for him to be knighted.;;;x
+EVTOPTAknightly.104;"Rise, Sir [squireknight.GetFirstName]";;;x
+EVTOPTBknightly.104;[squireknight.GetFirstName] needs more training...;;;x
 
 EVTDESCknightly.105;Thousands of young [Root.Culture.GetName] knights have flocked to your banner at [Root.Capital.GetName]. It is every [Root.Culture.GetName] [Root.Religion.GetName] man's duty take up arms when their King makes war with heathens.;;;x
 EVTOPTBknightly.105;Brave men, I don't need your help.;;;x

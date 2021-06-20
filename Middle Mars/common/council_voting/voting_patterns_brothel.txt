@@ -25,6 +25,14 @@ selfish_pattern_for = {
 				trait = honorable
 				trait = chaste
 			}
+			OR = {
+				trait = zealous	
+				trait = arbitrary
+			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 
@@ -47,6 +55,14 @@ selfish_pattern_against = {
 				trait = just
 				trait = lustful
 			}
+			NOR = {
+				trait = zealous	
+				trait = arbitrary
+			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 
@@ -69,6 +85,14 @@ pragmatist_pattern_for = {
 				trait = honorable
 				trait = chaste
 			}
+			OR = {
+				trait = zealous	
+				trait = arbitrary
+			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 
@@ -112,6 +136,14 @@ glory_hound_pattern_for = {
 				trait = honorable
 				trait = chaste
 			}
+			OR = {
+				trait = zealous	
+				trait = arbitrary
+			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 
@@ -134,6 +166,10 @@ glory_hound_pattern_against = {
 				trait = just
 				trait = lustful
 			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 zealot_pattern_for = {
@@ -155,6 +191,14 @@ zealot_pattern_for = {
 				trait = honorable
 				trait = chaste
 			}
+			OR = {
+				trait = zealous	
+				trait = arbitrary
+			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }
 
@@ -177,5 +221,9 @@ zealot_pattern_against = {
 				trait = just
 				trait = lustful
 			}
+		OR = {
+			has_antibrothel_culture_trigger = yes
+			has_antibrothel_religion_trigger = yes		
+		}
 	}
 }

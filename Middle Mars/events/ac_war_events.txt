@@ -303,13 +303,13 @@ character_event = {
 			factor = 0
 		}
 		trigger = {
-			ROOT = { piety = 300 }
+			ROOT = { piety = 800 }
 			ROOT = { any_courtier = { has_minor_title = title_commander } }
 			ROOT = { tier = KING }
 			event_target:target_loser = { tier = DUKE }
 		}
 		custom_tooltip = { text = conv5 }
-		ROOT = { piety = -300 }
+		ROOT = { piety = -800 }
 			event_target:target_loser = { 
 			abdicate_to = event_target:target_depose 
 			prestige = -500
@@ -335,5 +335,31 @@ character_event = {
 		name = EVTOPTAAc.7780
 		piety = 100
 		add_trait = liberator
+	}
+}
+# Slaves are free, but some won't be happy...
+character_event = {
+	id = Ac.7781
+	desc = "EVTDESCAc.7781"
+	picture = "GFX_evt_riots_byzantine"
+	border = GFX_event_normal_frame_war
+
+	min_age = 16
+	capable_only = yes
+	
+	is_triggered_only = yes
+	
+
+	option = {
+		name = EVTOPTAAc.7781
+		event_target:target_loser = { 
+			any_realm_province = {
+				add_province_modifier = {
+					name = mad_slavers
+					duration = 3650
+				}	
+			}
+		}
+		clear_event_target = target_loser
 	}
 }

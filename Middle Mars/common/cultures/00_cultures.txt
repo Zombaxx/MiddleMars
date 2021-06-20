@@ -2092,20 +2092,51 @@ altaic = {
 		color = { 0.85 0.55 0.15 }
 
 		male_names = {
-			Çagri Çaka Afsin Ahmet_Ahmad Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend
-			Davud_David Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan_Hasan Hizir Ibrahim_Abraham Ilgazi Inal Iskender_Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud_Mahmud Mehmed_Muhammad Meliksah Mengucek Mesud_Masud Murad_Morad Mustafa_Mustafa Orhan Osman Porsuk Rustem Ramazan_Ramadan Ridvan Söbuk Sökmen Sönmez Suleyman_Solomon Saim Saltuk Saruca Savtekin Savur Sehinsah_Shahanshah Selçuk Selim_Salim Sencer Sinan Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal Yunus_Jonah
+			Oppius Siusentia Cusiuso
+			Numus Mummila Vegallo
+			Gaiuso Sosidia Friusona
+			Liuso Niuseiusius Orilis
+			Gniuso Suliusert Meliuso
+			Oppius Viusenius Quintuso
+			Spublus Miusonus Paetiusa
+			Maneo Cundiusalv Marsuso
+			Doman Miusornius Cusurio
+			Aulius Ciusaeiusid Runterio
+			Mitus Venicil Villicia
+			Gaiuso Ceiusanius Minusea
+			Gnaeuso Mariusilv Piloria
+			Domerc Victriusenn Hilito
+			Gnumus Cianiusian Siususea
+			Decim Batiusalv Comalcha
+			Galius Viuseptia Paetiuso
+			Vuso Pellatia Pello
+			Viber Siusestia Vinuso
+			Tiuso Perpapun Sinuso
 		}
 		female_names = {
-			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu Bozçin Canan Ceylan Dunya Dilber Dilek Emine
-			Esin Fatma_Fatima Firuze Gulçiçek_Gulçiçek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge
-			Karacik Lale Leyla_Laila Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati Sehnaz Serap Serife Sevilay
-			Sevindik Sibel_Sibylla Sirin Sirma Songul Sumru Tekçe Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal
+			Sapia Omptillius
+			Vienea Miniusil
+			Alian Saniusall
+			Afroti Giususenn
+			Peria Fadiusal
+			Silva Muciusoc
+			Centia Ontiscius
+			Vita Miniusert
+			Rentia Alvittius
+			Malthea Cliusinius
+			Meta Niusepian
+			Gena Cumacruf
+			Macra Niusila
+			Vivia Viusinius
+			Anan Viusenius
+			Prescia Lusiusep
+			Justa Siusenius
+			Malthia Pelliusil
+			Plaria Purcalver
+			Censia Vediusylv
 		}
 		
 		from_dynasty_prefix = "ve "
-		
-		male_patronym = "oglu"
-		prefix = no
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
@@ -2122,12 +2153,48 @@ altaic = {
 		color = { 0.85 0.79 0.25 }
 
 		male_names = {
-            Çelgil Aba Baitzas Balgor Batan Batas Bator Bayça Biçkili Bizel Boru Bula Giazis Ildey Ipa Ipaos Kabuksin Karaca Kaydum Kegen Konel  
-			Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir_Timur Tyrach Yavdi Yazi Yeke
+			Oppius Siusentia Cusiuso
+			Numus Mummila Vegallo
+			Gaiuso Sosidia Friusona
+			Liuso Niuseiusius Orilis
+			Gniuso Suliusert Meliuso
+			Oppius Viusenius Quintuso
+			Spublus Miusonus Paetiusa
+			Maneo Cundiusalv Marsuso
+			Doman Miusornius Cusurio
+			Aulius Ciusaeiusid Runterio
+			Mitus Venicil Villicia
+			Gaiuso Ceiusanius Minusea
+			Gnaeuso Mariusilv Piloria
+			Domerc Victriusenn Hilito
+			Gnumus Cianiusian Siususea
+			Decim Batiusalv Comalcha
+			Galius Viuseptia Paetiuso
+			Vuso Pellatia Pello
+			Viber Siusestia Vinuso
+			Tiuso Perpapun Sinuso
 		}
 		female_names = {
-			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+			Sapia Omptillius
+			Vienea Miniusil
+			Alian Saniusall
+			Afroti Giususenn
+			Peria Fadiusal
+			Silva Muciusoc
+			Centia Ontiscius
+			Vita Miniusert
+			Rentia Alvittius
+			Malthea Cliusinius
+			Meta Niusepian
+			Gena Cumacruf
+			Macra Niusila
+			Vivia Viusinius
+			Anan Viusenius
+			Prescia Lusiusep
+			Justa Siusenius
+			Malthia Pelliusil
+			Plaria Purcalver
+			Censia Vediusylv
 		}
 		
 		from_dynasty_prefix = "of "
@@ -2145,12 +2212,19 @@ altaic = {
 		color = { 0.75 0.60 0.20 }
 
 		male_names = {
-			Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi Itlar Ituk Könçek Kobyak Kopti Kotyan Koza
-			Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan Sokal Sotan Sugr Törtogul Togli Tolun Tugor Uzluk Uzur
+			Alcalimar Alodentys Acemon Acemonar Almion Amion Atsiomar Acemar Anmon Ammon Anemon Alemar Bijimonar Bijon Bijion Bihar Bahari Balmonar Balicar Balcomar Banmar
+			Elcar Etsiar Etsion Elimar Emcar Emion Enmoro Enkomar Emnetsar Elicar Eclion Elmontar Emnon Elgenon Enmon Emionar Hijar Himnar Hijarion Hijimonar Ircar Imonar Ilar Ilmonar Icmonar Iconar Imno
+			Igemonar Ijimar Kommar Komenicar Komionar Kelicar Kalicar Kacemon Ketsar Kemion Kalamonetsar Kamonetar Kamon Kamoneton Manmar Meneor Mantor Milior Memnar Meomar Malicar
+			Malcaron Melontys Melinar Metsar Mecamor Ozar Otiminar Olmion Ocar Oclion Otsar Omion Omnion Omnotesh Omnitah Obion Obijion Obijon Obamar Obamanactar Otsyen Quadar Quadaro Quadon Qumar Qejimar
+			Qetsymar Qingor Salimar Salmar Samnon Sandrew Semion Sentemion Setson Scalim Satsim Satson Satsomar Satsomion Sasio Sasiomar Seso Selgor Selinon Selon Seton Setomar Suscar Tor Timion Timno
+			Timinar Timotsar Tsartim Tsartso Tsarto Tun Ulmar Ulcar Ulcom Uluji Ulutsu Umnar Unmar Usandar Usmar Ustar Usim Usmon Usuoah
+			Zagar Zuhar Zuharo Zutso Zuso Zumo Zumonotsar Zumotson Zumnaro 
 		}
 		female_names = {
-			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+			Alotyc Almonadentys Alemiana Alimi Acemimi Animi Acimi Atsi Atsimys Atemia Atiemna Amnimi Amini Asimeara Alimeara Almeara Acmeara Ameara Alcihar Ahiri Ahaia Bema Beamar Betsomi Beha Behini Becini Benica Benicia Bemai
+			Caesca Cici Ciciani Demnia Demmi Demi Demini Denini Denimacini Demontys Dimita Dimiana Didana Dilani Dimani Elini Enini Enin Enani Elani Enalia Enalina Elneara Enleara Elen Elizami Ezami Emni
+			Enni Kiji Kici Kitsi Kimneara Keara Keamera Kicimia Kimini Kinmiana Mimi 
+			Yasmi Yasi Yamini Yani Yanina Yamnina Yanima Yayi Yatsmi Yama Yamiya Yania Yatsia Yalemina Yaleara Yeara
 		}
 		
 		from_dynasty_prefix = "of "
@@ -2194,18 +2268,19 @@ altaic = {
 		color = { 0.7 0.65 0.15 }
 		
 		male_names = {
-			Almish Alzek Anzi Apskhih Araslan_Arslan Asparukh Balamber_Balambar Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh 
-			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor Kälaç Kano Karan Karaton
-			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi 
-			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar_Bakhtiar Paväl Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki 
-			Sondoke Tähtaman Tarasiy Taridin Tatra Telec Telerig Tervel Timër_Timur Timëreç Timërpälat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani 
-			Yavantey Yençepi Yerneslu Yeçtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
-
+			Alcalimar Alodentys Acemon Acemonar Almion Amion Atsiomar Acemar Anmon Ammon Anemon Alemar Bijimonar Bijon Bijion Bihar Bahari Balmonar Balicar Balcomar Banmar
+			Elcar Etsiar Etsion Elimar Emcar Emion Enmoro Enkomar Emnetsar Elicar Eclion Elmontar Emnon Elgenon Enmon Emionar Hijar Himnar Hijarion Hijimonar Ircar Imonar Ilar Ilmonar Icmonar Iconar Imno
+			Igemonar Ijimar Kommar Komenicar Komionar Kelicar Kalicar Kacemon Ketsar Kemion Kalamonetsar Kamonetar Kamon Kamoneton Manmar Meneor Mantor Milior Memnar Meomar Malicar
+			Malcaron Melontys Melinar Metsar Mecamor Ozar Otiminar Olmion Ocar Oclion Otsar Omion Omnion Omnotesh Omnitah Obion Obijion Obijon Obamar Obamanactar Otsyen Quadar Quadaro Quadon Qumar Qejimar
+			Qetsymar Qingor Salimar Salmar Samnon Sandrew Semion Sentemion Setson Scalim Satsim Satson Satsomar Satsomion Sasio Sasiomar Seso Selgor Selinon Selon Seton Setomar Suscar Tor Timion Timno
+			Timinar Timotsar Tsartim Tsartso Tsarto Tun Ulmar Ulcar Ulcom Uluji Ulutsu Umnar Unmar Usandar Usmar Ustar Usim Usmon Usuoah
+			Zagar Zuhar Zuharo Zutso Zuso Zumo Zumonotsar Zumotson Zumnaro 
 		}
 		female_names = {
-			Çeçek_Çiçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçeçek_Gulçiçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-			Karacik Kätyarikka Këlnissa Këlyamal Lärkka Lyukha Mala Maturkka Mutlu Naça Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarä Sarica Sarikel 
-			Sati Savaçka Savkëlti Savtilek Savilay_Sevilay Savintik_Sevindik Shurkka Sibel Sirin Sirma Songul Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
+			Alotyc Almonadentys Alemiana Alimi Acemimi Animi Acimi Atsi Atsimys Atemia Atiemna Amnimi Amini Asimeara Alimeara Almeara Acmeara Ameara Alcihar Ahiri Ahaia Bema Beamar Betsomi Beha Behini Becini Benica Benicia Bemai
+			Caesca Cici Ciciani Demnia Demmi Demi Demini Denini Denimacini Demontys Dimita Dimiana Didana Dilani Dimani Elini Enini Enin Enani Elani Enalia Enalina Elneara Enleara Elen Elizami Ezami Emni
+			Enni Kiji Kici Kitsi Kimneara Keara Keamera Kicimia Kimini Kinmiana Mimi 
+			Yasmi Yasi Yamini Yani Yanina Yamnina Yanima Yayi Yatsmi Yama Yamiya Yania Yatsia Yalemina Yaleara Yeara
 		}
 
 		founder_named_dynasties = yes
@@ -2258,22 +2333,19 @@ altaic = {
 		color = { 0.65 0.50 0.15 }
 
 		male_names = {
-			Adigh Adïgh Aghulïq Agut Alïp Alïpqutlugh Alïpshalçi Alïpshul Alïptegin Anar Apït Aqunçï Arslan Aruq Asuq Aydaq Ayçur Bagha Baghïr Barçuq Barïs 
-		 	Barïsbek Baytash Bayça Bayïrqu Bazir Bilge Bilgä Bilgätegin Boyla Bughra Bughraçuq Bumin Bumïn Buqa Buqaçuq Buquq Buyruq Bögü Bökiye Böri 
-            Böritegin Börtil Bülin Bülün Büri Ebiztir Elig Eltugun Elçi Eneligçur Enoz Erdem Eregje Erin Erkin Esdem Eshime Eshinke Etmish Eçshün Hïdïr 
-            Iletmish Ilmïsh Ilterish Iltughun Ilçur Inançu Inek Inel Isbar Istämi Jegen Jegin Jelme Jükün Jüküntirig Jürküñ Jürüküm Jüz Jüzyapïq Jüçi Jämï 
-            Kara Ketim Keçig Kutsha Kïlïç Kökmish Köksagun Köpek Körtile Kügir Kül Külbilgä Kültegin Kültudun Külçur Külüg Küni Kürebir Kürtel Küçarslan 
-            Küçlüg Küçurï Maqaraç Maqraç Mukan Mäñlik Oghlan Oghul Oghulbarïs Oghulcak Ontutuq Ozmush Pülüñ Qapaghan Qarabarïs Qazghaq Qumash Qunï Qutlugh 
-            Saghunaq Saghçïq Sagun Satuq Satuqbughra Sebük Sebüktegin Señram Shalçi Shughur Shöñüz Shümül Soge Suluk Süçüg Tabgaç Tadqïsh Tadqïshçor Tafaç 
-            Tamgaç Tamghan Tamghançur Tapa Tardu Tardush Tarqan Tatpar Tegin Tekesh Tersin Teñirikän Tinsi Tirig Toghan Toghrïl Togluq Tojgan Torghul Toñga 
-            Toñra Toñrategin Toñuz Tugan Tughrul Tugun Tunyuquq Tutuq Töles Tömür Tüzmish Udun Udur Umaç Uqugh Uruñ Ushlik Yaghïzçor Yaghïçi Yamtar 
-            Yaraq Yaruq Yaruqtegin Yarïsh Yigençur Yola Yollughtegin Yolluq Yorçïn Yïlqï Çaghrï Çaça Çañ Çeküñ Çeçem Çigshi Çigsü Çor Çuçi Çuçibüri Ïshbara 
-            Ïtaçïq Öge Ögüne Örge Özmish Öztoghdï Özyegen Özüge Özünçü Öçen Üge Ülüg Üçsi
+			Alcalimar Alodentys Acemon Acemonar Almion Amion Atsiomar Acemar Anmon Ammon Anemon Alemar Bijimonar Bijon Bijion Bihar Bahari Balmonar Balicar Balcomar Banmar
+			Elcar Etsiar Etsion Elimar Emcar Emion Enmoro Enkomar Emnetsar Elicar Eclion Elmontar Emnon Elgenon Enmon Emionar Hijar Himnar Hijarion Hijimonar Ircar Imonar Ilar Ilmonar Icmonar Iconar Imno
+			Igemonar Ijimar Kommar Komenicar Komionar Kelicar Kalicar Kacemon Ketsar Kemion Kalamonetsar Kamonetar Kamon Kamoneton Manmar Meneor Mantor Milior Memnar Meomar Malicar
+			Malcaron Melontys Melinar Metsar Mecamor Ozar Otiminar Olmion Ocar Oclion Otsar Omion Omnion Omnotesh Omnitah Obion Obijion Obijon Obamar Obamanactar Otsyen Quadar Quadaro Quadon Qumar Qejimar
+			Qetsymar Qingor Salimar Salmar Samnon Sandrew Semion Sentemion Setson Scalim Satsim Satson Satsomar Satsomion Sasio Sasiomar Seso Selgor Selinon Selon Seton Setomar Suscar Tor Timion Timno
+			Timinar Timotsar Tsartim Tsartso Tsarto Tun Ulmar Ulcar Ulcom Uluji Ulutsu Umnar Unmar Usandar Usmar Ustar Usim Usmon Usuoah
+			Zagar Zuhar Zuharo Zutso Zuso Zumo Zumonotsar Zumotson Zumnaro 
 		}
 		female_names = {
-		 	Artuç Azgan Beslik Bulït Burtam Elbeslik Ershen Ilbeslik Ilbilgä Kadïñ Katun Otqan Qaraqaz Sarïgha
-			Teken Teñriken Terek Teçush Tograk 
-            Umay Yiltïs Yïgash Yïlgun Yïlqï Çeçek Örüñ Ötüken Ükükün
+			Alotyc Almonadentys Alemiana Alimi Acemimi Animi Acimi Atsi Atsimys Atemia Atiemna Amnimi Amini Asimeara Alimeara Almeara Acmeara Ameara Alcihar Ahiri Ahaia Bema Beamar Betsomi Beha Behini Becini Benica Benicia Bemai
+			Caesca Cici Ciciani Demnia Demmi Demi Demini Denini Denimacini Demontys Dimita Dimiana Didana Dilani Dimani Elini Enini Enin Enani Elani Enalia Enalina Elneara Enleara Elen Elizami Ezami Emni
+			Enni Kiji Kici Kitsi Kimneara Keara Keamera Kicimia Kimini Kinmiana Mimi 
+			Yasmi Yasi Yamini Yani Yanina Yamnina Yanima Yayi Yatsmi Yama Yamiya Yania Yatsia Yalemina Yaleara Yeara
 		}
 		
 		from_dynasty_prefix = "of "
@@ -2293,32 +2365,23 @@ altaic = {
 		color = { 0.85 0.72 0.30 }
 
 		male_names = {
-			Aday Adigh Adïgh Aghulïq Agut Aka Alas Alcibay Alïp Alïpshalçi Alïpshul Amas Anar Anis Apït Aqunçï Arslan Aruk Aruq Astaançï Astam Asuq Aya 
-            Ayaltïn Ayan Ayas Aydaq Aydas Ayçur Bagha Baghïr Barsbeg Barçuq Barïs Barïsbek Bayça Bayïrqu Bilge Bilgä Boyla Bughra Bumin Bumïn Buqa Buqaçuq 
-            Buquq Buyruq Bögü Bökiye Böri Börtil Bülin Bülün Büri Ebiztir Elig Eltugun Elçi Eneligçur Enoz Erdem Eregje Erin Erkin Esdem Eshime Eshinke 
-            Etmish Eçshün Hozan Iletmish Ilterish Iltughun Ilçur Inançu Inek Inel Isbar Istämi Jaglaqar Jegen Jegin Jelme Jükün Jüküntirig Jürküñ Jürüküm 
-            Jüz Jüzyapïq Jüçi Jämï Kanza Kara Karol Ketim Keçig Kokan Kokotoy Kökmish Köpek Körtile Kügir Kül Kültegin Kültudun Külçur Külüg Küni Kürebir 
-            Kürtel Küske Küçlüg Küçurï Manas Maqaraç Maqraç Mukan Mukka Mustakkay Mäñlik Oghlan Oghul Oghulbarïs Ontutuq Oudun Ozmush Oçan Parush Pülüñ 
-            Qapaghan Qarabarïs Qazghaq Qumash Qunï Qutlugh Saghunaq Saghçïq Sanaan Sappash Seitek Semetei Señram Shadrash Shalçi Shapkay Sheltrek Shughur 
-            Shöñüz Shümül Sodan Süçüg Tadqïsh Tadqïshçor Talay Tamghan Tamghançur Tapa Tardu Tardush Tarqan Tatpar Tegin Tekesh Tersin Teñirikän Tinsi Tirig 
-            Toghan Toghrïl Togluq Tojgan Tolday Torday Tottolush Toñra Toñrategin Toñuz Tugan Tugun Tunyuquq Tutuq Töles Tömür Tülgü Tüzmish Udun Udur Ulug 
-            Ulugbash Umaç Uqugh Uruñ Yaghïzçor Yaghïçi Yamtar Yapïq Yaraq Yaruq Yaruqtegin Yarïsh Yigençur Yola Yollughtegin Yolluq Yorçïn Yïlqï Çabas Çalbah 
-            Çama Çarkop Çayah Çaça Çañ Çeküñ Çeçem Çigshi Çigsü Çiis Çola Çolbanah Çor Çortah Çudan Çuhul Çuçi Çuçibüri Çïnma Ïshbara Ïtaçïq Öge Ögüne Örge 
-            Özmish Öztoghdï Özyegen Özüge Özünçü Öçen Üge Ülüg Üçsi
-			Manas Semetei Seitek Barsbeg Kokotoy Jaglaqar Tardush
+			Alcalimar Alodentys Acemon Acemonar Almion Amion Atsiomar Acemar Anmon Ammon Anemon Alemar Bijimonar Bijon Bijion Bihar Bahari Balmonar Balicar Balcomar Banmar
+			Elcar Etsiar Etsion Elimar Emcar Emion Enmoro Enkomar Emnetsar Elicar Eclion Elmontar Emnon Elgenon Enmon Emionar Hijar Himnar Hijarion Hijimonar Ircar Imonar Ilar Ilmonar Icmonar Iconar Imno
+			Igemonar Ijimar Kommar Komenicar Komionar Kelicar Kalicar Kacemon Ketsar Kemion Kalamonetsar Kamonetar Kamon Kamoneton Manmar Meneor Mantor Milior Memnar Meomar Malicar
+			Malcaron Melontys Melinar Metsar Mecamor Ozar Otiminar Olmion Ocar Oclion Otsar Omion Omnion Omnotesh Omnitah Obion Obijion Obijon Obamar Obamanactar Otsyen Quadar Quadaro Quadon Qumar Qejimar
+			Qetsymar Qingor Salimar Salmar Samnon Sandrew Semion Sentemion Setson Scalim Satsim Satson Satsomar Satsomion Sasio Sasiomar Seso Selgor Selinon Selon Seton Setomar Suscar Tor Timion Timno
+			Timinar Timotsar Tsartim Tsartso Tsarto Tun Ulmar Ulcar Ulcom Uluji Ulutsu Umnar Unmar Usandar Usmar Ustar Usim Usmon Usuoah
+			Zagar Zuhar Zuharo Zutso Zuso Zumo Zumonotsar Zumotson Zumnaro 
 		}
 		female_names = {
-			Begayim Jibek
-			Ancak Artuç Atlas Azgan Begayim Beslik Bulït Burtam Elbeslik Ershen Ilbeslik Ilbilgä Jibek Kadïñ Karlïgash Katun Manu Otqan Pekash Qaraqaz Sarïgha Teken Terek
-            Teçush Teñriken Tograk Umay Yiltïs Yïgash Yïlgun Yïlqï Çeçek Çibäk Çoonhïs Çüstük Çabalka Çacah Çahayah Çohïray Ïzïgas Ïzïrga Ïzïrgacah Örüñ Ötüken Ükükün
+			Alotyc Almonadentys Alemiana Alimi Acemimi Animi Acimi Atsi Atsimys Atemia Atiemna Amnimi Amini Asimeara Alimeara Almeara Acmeara Ameara Alcihar Ahiri Ahaia Bema Beamar Betsomi Beha Behini Becini Benica Benicia Bemai
+			Caesca Cici Ciciani Demnia Demmi Demi Demini Denini Denimacini Demontys Dimita Dimiana Didana Dilani Dimani Elini Enini Enin Enani Elani Enalia Enalina Elneara Enleara Elen Elizami Ezami Emni
+			Enni Kiji Kici Kitsi Kimneara Keara Keamera Kicimia Kimini Kinmiana Mimi 
+			Yasmi Yasi Yamini Yani Yanina Yamnina Yanima Yayi Yatsmi Yama Yamiya Yania Yatsia Yalemina Yaleara Yeara
 		}
 		
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
-		
-		male_patronym = " uulu"
-		female_patronym = " kyzy"
-		prefix = no # The patronym is added as a suffix
 
 		allow_looting = yes
 
@@ -2399,38 +2462,47 @@ altaic = {
 		
 		color = { 0.8 0.8 0.3 }
 
+
 		male_names = {
-			Abaoji Abo Abugu Aguo Aguzhi Ala Dorjee Kalden Karma Lobsang Mingma Nawang Nima Chodak Changyuan 
-			Chucai Chun Chunyou Chuzhi Ci Cite Ciwang Dali Dao Daoyin Dashi Deguang Deming Dewang Deyuan 
-			Di Diela Dilie Dilu Dorlipun Du Duolubu Duoluo Duomi Fangde Fuguzhi Fuliu Fuyi Gan Gang Gaoligu
-			Gongmao Gongzao Guan Guang Guangbi Gui Guochang Guozhe Hao He Hechen Hongben Hongdao Hongfan 
-			Hongji Hongyong Hongzhen Hougu Huaijie Huaixiu Hudujin Hui Huiyuan Hunhe Jie Jin Jing Jingtang 
-			Jinzhong Jiqian Jiuli Jiushao Jiyuan Jue Jun Junshi Kaigu Kailuo Keda Keling Kenagan Ketuyu 
-			Keyong Kuan Kuge Kui Kuo Liangzuo Lihu Lin Linggong Lishan Liuge Loguo Longqing Longxian Longxu 
-			Longyou Louguo Lu Luju Luzhi Mada Mai Maozhen Min Ming Mingyi Mohui Naihe Nieli Nielieji Noulisi 
-			Nu Paolu Pedie Pusuwan Qi Qianshun Qinde Quchulu Quju Qulie Qulu Renxian Renxiao Ruan Sage Salade 
-			Saladi Sha Shao Sheng Shenmi Shi Shihuo Shilu Shinan Shizhong Shu Shulu Si Sicheng Sidao Side Song 
-			Songrui Suogu Tabuyan Tadun Tai Taishan Taishi Taiyi Temei Tianxiang Tingjian Tong Tuguci Tuyu Waihe 
-			Wangrong Wansi Wanxin Wei Wen Wenshunu Wenzao Wolila Wotela Wuge Wujun Wumo Wuyi Wuyu Wuzheng Xi Xian 
-			Xiangwen Xiaozheng Xiaozhong Xiazhen Xidi Xinie Xiu Xiuge Xunning Yali Yan Yangxi Yanxi Yanzhang 
-			Yaogu Yaoshinu Yi Yilie Yiliu Yixinning Yongning Yougui Youqing Youyu Yu Yuanhao Yunching Yundeshi Yuyu 
-			Zanhua Zao Zeduan Zengbo Zhangyuan Zhaosan Zhen Zhengchang Zhengyan Zhibuwu Zhigu Zhilugu Zhixian Zhiyuan 
-			Zhong Zhonggong Zhongji Zhongxuan Zhongyan Zhongyuan Zhulie Zongjiao Zongzhen Zuli Zunxu Zuqian Xjwa Khej 
-			Xwej Thjij-po Changyun Cheng Chengjun Chixin Chonggui Chongrong
-		}
+			Aimoto Akifumi Akihiro Akikazu  Akinari Akio Akira Akitake Amuro Arinori Ataru Atasuke Atsuki Atsumori Atsushi Atsuya Ayase
+			Baiko Bakin Basara Batou Bokkai Brock Bunzo
+			Chikafusa Chojiro Chomei
+			Daiju Daiki Daisetsu Daisuke
+			Eichi Eiichi Eiji Eisen Eisuke Eita Eitoku
+			Fujimaro Fumihiro Fumio Futoshi Fuyuki
+			Gen Gendo Genichi Genjo Genki Genma Genpaku Genta Gidayu Gintoki Goemon Gohan Goku Gonkuro
+			Hajime Hao Haruko Haruo Haseo Hayao Hayato Heihachiro Heiji Heikichi Hidemichi Hideo Hideri Hidetora Hideyoshi Hikaru Hikozaemon Himura Hiro Hirohisa Hiroki Hiromi Hiroshi Hirotada Hiroto Hirotsugu Hiryu Hisanobu Hisao Hitomaro Hitoshi Hosuke Hyobe Hyosuke Hyotaru
+			Ichibei Ichigo Ichiro Ichiyo Ichizo Iesada Ikemoto Ikki Inejiro Itachi Itaru Iwao Izumo
+			Jakuchu Jiraiya Jiro Joben Jugemu Jun Junichi Junji Jurobei
+			Kaemon Kagehisa Kai Kaii Kaiji Kaito Kakashi Kamui Kaneie Kantaro Katai Katsuhiro Katsuo Katsuyuki Kaworu Kazu Kazuki Kazuma Kazuteru Kazuya Kazuyoshi Kazuyuki Keiichi Keiji Keisuke Ken Kenichi Kenshiro Kensuke Kenta Kentaro Kento Kenzo Kiichi Kikaku Kikugoro Kimihiro Kiminobu Kintaro Kira Kiyo Kiyoshi Koetsu Koichi Koichiro Kokei Koki Kokushi Konosuke Korekiyo Korenaga Kosuke Kotaro Koyo Kozue Kumanosuke Kunihiko Kunimatsu Kunitaro Kuririn Kyohei Kyoichi Kyoji Kyosuke Kyoya Kyuichi Kyushichi
+			Magobei Mahiro Majin Makoto Mamoru Manzo Marihito Masaaki Masanobu Masao Masato Mashashi Masujiro Matabei Matsudaira Mikio Mitsuharu Mitsunari Mokichi Mokuba Montaro Morio Motoki Motonobu Mukuro Munemori Musashi Mushanokoji Mutsohito Myojin
+			Naizen Naoki Naomichi Naoto Nikki Nissho Nobuo Nobuyoshi Norihisa Norinaga Noritada
+			Ochanomizu Ogai Okakura Okitsugu Orochimaru Osamu Otojiro
+			Rai Ranma Reiji Reizo Ren Renji Rentaro Riki Rinji Robita Roronoa Rosanjin Ryobe Ryohei Ryoji Ryoma Ryota Ryotaro Ryuhei Ryuji Ryutaro
+			Sachio Sadao Sadatake Sagara Saito Sasuke Satoshi Sei Seibei Seiho Seika Seiryo Seishiro Seishisai Seiya Sena Sessue Seta Seto Setsuna Shigeaki Shigeki Shigemi Shigeru Shigeshi Shigetaka Shikamaru Shiki Shin Shingen Shinji Shinogu Shinomori Shintaro Shinya Shinzaburo Shirai Shirou Shiryu Shishio Shizuo Sho Shoda Shogo Shohei Shoin Shoji Shojiro Shoko Shoraku Shosei Shosuke Shota Shukishi Shuko Shunji Shunko Shunsuke Shusake Shusaku So Sora Sorai Sosuke Sukeyasu Sumiteru Suzaku Suzu
+			Tachi Tachiki Tadashi Tadayoshi Tadayuki Tai Taichi Taiki Taisuke Taiyo Takamasa Takanibu Takashi Takayoshi Takayuki Takehiro Takeo Takeru Takeshi Takuma Takumi Tamotsu Tanaka Tatsuya Tatsuzo Teika Tekkan Teriuihi Teruo Tetsuo Tetsuya Tobei Togai Togusa Toji Tokimasa Tokuma Tomiji Tomoaki Torazo Toshiaki Toshiro Toyokuni Toyoshige Tsubasa Tsugahara Tsuna Tsuneari Tsuneya Tsuneyo
+			Uryu
+			Wataru
+			Yachi Yakumo Yasuhiko Yasuhiro Yasuhito Yasunari Yasunori Yasutake Yasutoki Yasutora Yataro Yodo Yoh Yoichi Yoringa Yoritomo Yoshida Yoshifumi Yoshii Yoshikazu Yoshiki Yoshimochi Yoshinaka Yoshinori Yoshitaka Yugoro Yukishiro Yuri Yushiro Yusuke Yuta Yutaro Yuya
+		}	
 
 		female_names = {
-			Ai Ankang Bage Bai Bohai Boshi Cao Chadan Chang Changshou Changshounu Chen Chonghua Chu Chunqin Chuo
-			Cui Cuiba Cuiluan Cuiping Da Daopo Daosheng Deng Deyao Dezhen Dianni Dong Duan Emei Feishan Fengcheng
-			Fu Fujin Gao Ge Guang Guanyinnu Guo Han Hanyue He Hongdu Hongfu Honghong Hou Hu Hua Huang Huarui Huiming
-			Jianchang Jiang Jin Jinfeng Jinluan Jiuge Lanling Li Liang Liao Liu Luanluan Ma Meizhu Meizi Meng Miaoniang
-			Miaoyin Nalan Neiming Noujin Nuoujin Panpan Ping Pucha Puci Puning Pusage Pusuwan Puwei Qian Qiao Qin Qinai
-			Qingnu Qingzhao Qungu Ren Renyi Ruishun Ruizhi Saige She Shen Shengtang Shi Shige Shiguang Shishi Shizhen
-			Shuge Shuiqiu Shuogu Shuzen Shuzheng Siao Song Su Sun Tabuyan Tabuye Taige Taihe Tangqiao Tao Taoge Tian
-			Tong Tudan Wa Wang Wenji Wu Wulinda Wuniang Xia Xiao Xiaoming Xiaoxiao Xingge Xingguo Xinyue Xu Xuanji 
-			Xuanyi Xueying Xunyang Yan Yange Yaniang Yanmu Yanshounu Yanxiu Yaonian Yaoniang Yaoying Ye Yi Yingtian Yingying 
-			Yongqing Yongxing Yu Yuan Yuanzhen Yuniang Yunying Yushan Zhai Zhang Zhaoyun Zheng Zhenjian Zhong 
-			Zhou Zhu Zhuzhu Zihe Ziye
+			Ai Aika Aiko Aimi Aira Akane Akari Akina Akino Amane Amaya Anna Ano Anri Ao Aoba Aoi Asuka Asumi Atsuko Aya Ayaka Ayako Ayana Ayano Ayumi Ayuri Azusa
+			Chie Chieko Chiemi Chihiro Chiho Chihomi Chika Chikako Chikaze Chimaki Chinami Chisaki Chisato Chitoge Chitose Chiyako Chiyeko Chiyuki
+			Echiko Eho Eiko Eimi Eire Emao Emika Emiko Emiya Erena Erika Erina
+			Fuji Fujiko Fuka Fuki Fukuko Fumi Fumika Fumiya Futaba Fuuko Fuyume
+			Hana Hanae Hanako Hanami Hanayo Haniko Haruhi Haruka Harukichi Hatsu Hatsuyo Hazuki Hikari Himari Hina Hinata Hinako Hinano Hiroe Hisako Hisano Hotaru
+			Ichiho Ichiko Ikue Ikuko Ikumi Ikuyo Inaho Iori Irisa Isaki Isami Isamu Ishi Isoko Itsuko Itsumi Izumi
+			Junko
+			Kaeda Kagami Kaho Kaiyo Kameko Kamiya Kanade Kanna Kanon Kaoru Kasumi Kaya Kayami Kayu Kazashi Kazu Kazumi Kiho Kino Kinu Kinuye Kinuyo Kiriko Kita Kiyomi Kofuyu Koharu Kokoro Koma Konatsu Kotoko Koyori Kozue Kumin Kumiyo
+			Mafuyu Mai Maika Maiya Makimachi Mami Mamiko Mari Marina Masa Masami Maya Megumin Mei Michiko Mieko Miiko Mika Mikasa Miki Mikka Miko Miku Mine Mineko Mino Mio Misa Misaki Misato Mitsu Mitsuko Miu Miwa Miyako Miyoshi Miyuki Mizuki Moka Momoko Moto Motoko Murasaki Mutsuko
+			Nadeshiko Naga Nagisa Nami Namiko Nana Nanao Nano Naomi Naru Narumi Natsu Natsumi Nene Nishi Nodoka Nui
+			Orihime Orika Osen Otsu
+			Rei Reira Ren Rena Rikka Rin Rina Ririko Ririna Ritsu Ritsuko Rui Runa
+			Sada Saika Sakae Sakamae Saki Sakura Sakurako Sakuro Sanae Saori Satoko Satone Satsuki Sawa Saya Seka Shiho Shika Shiori Shoko Sumire Suzu Suzune
+			Takako Takara Tami Tane Tansho Tohru Toka Tokie Tokiwa Toku Tomi Tomo Tomoe Toshi Toshiko Toyoko Tsubasa Tsugi Tsukiko Tsukiyama Tsumugi
+			Uka Umeki Una Urako Urano Urara Uta
+			Yachi Yasu Yayoi Yomiko Yoriko Yoshe Yoshike Yoshiko Yotsuba Yufu Yui Yuina Yuki Yukika Yukishiro Yumako Yuna Yuno Yuria Yuro Yutsuko Yuuko
 		}
 
 		
@@ -2456,38 +2528,47 @@ altaic = {
 		
 		color = { 122 114 92 }
 
+
 		male_names = {
-			Abaoji Abo Abugu Aguo Aguzhi Ala Dorjee Kalden Karma Lobsang Mingma Nawang Nima Chodak Changyuan 
-			Chucai Chun Chunyou Chuzhi Ci Cite Ciwang Dali Dao Daoyin Dashi Deguang Deming Dewang Deyuan 
-			Di Diela Dilie Dilu Dorlipun Du Duolubu Duoluo Duomi Fangde Fuguzhi Fuliu Fuyi Gan Gang Gaoligu
-			Gongmao Gongzao Guan Guang Guangbi Gui Guochang Guozhe Hao He Hechen Hongben Hongdao Hongfan 
-			Hongji Hongyong Hongzhen Hougu Huaijie Huaixiu Hudujin Hui Huiyuan Hunhe Jie Jin Jing Jingtang 
-			Jinzhong Jiqian Jiuli Jiushao Jiyuan Jue Jun Junshi Kaigu Kailuo Keda Keling Kenagan Ketuyu 
-			Keyong Kuan Kuge Kui Kuo Liangzuo Lihu Lin Linggong Lishan Liuge Loguo Longqing Longxian Longxu 
-			Longyou Louguo Lu Luju Luzhi Mada Mai Maozhen Min Ming Mingyi Mohui Naihe Nieli Nielieji Noulisi 
-			Nu Paolu Pedie Pusuwan Qi Qianshun Qinde Quchulu Quju Qulie Qulu Renxian Renxiao Ruan Sage Salade 
-			Saladi Sha Shao Sheng Shenmi Shi Shihuo Shilu Shinan Shizhong Shu Shulu Si Sicheng Sidao Side Song 
-			Songrui Suogu Tabuyan Tadun Tai Taishan Taishi Taiyi Temei Tianxiang Tingjian Tong Tuguci Tuyu Waihe 
-			Wangrong Wansi Wanxin Wei Wen Wenshunu Wenzao Wolila Wotela Wuge Wujun Wumo Wuyi Wuyu Wuzheng Xi Xian 
-			Xiangwen Xiaozheng Xiaozhong Xiazhen Xidi Xinie Xiu Xiuge Xunning Yali Yan Yangxi Yanxi Yanzhang 
-			Yaogu Yaoshinu Yi Yilie Yiliu Yixinning Yongning Yougui Youqing Youyu Yu Yuanhao Yunching Yundeshi Yuyu 
-			Zanhua Zao Zeduan Zengbo Zhangyuan Zhaosan Zhen Zhengchang Zhengyan Zhibuwu Zhigu Zhilugu Zhixian Zhiyuan 
-			Zhong Zhonggong Zhongji Zhongxuan Zhongyan Zhongyuan Zhulie Zongjiao Zongzhen Zuli Zunxu Zuqian Xjwa Khej 
-			Xwej Thjij-po Changyun Cheng Chengjun Chixin Chonggui Chongrong
-		}
+			Aimoto Akifumi Akihiro Akikazu  Akinari Akio Akira Akitake Amuro Arinori Ataru Atasuke Atsuki Atsumori Atsushi Atsuya Ayase
+			Baiko Bakin Basara Batou Bokkai Brock Bunzo
+			Chikafusa Chojiro Chomei
+			Daiju Daiki Daisetsu Daisuke
+			Eichi Eiichi Eiji Eisen Eisuke Eita Eitoku
+			Fujimaro Fumihiro Fumio Futoshi Fuyuki
+			Gen Gendo Genichi Genjo Genki Genma Genpaku Genta Gidayu Gintoki Goemon Gohan Goku Gonkuro
+			Hajime Hao Haruko Haruo Haseo Hayao Hayato Heihachiro Heiji Heikichi Hidemichi Hideo Hideri Hidetora Hideyoshi Hikaru Hikozaemon Himura Hiro Hirohisa Hiroki Hiromi Hiroshi Hirotada Hiroto Hirotsugu Hiryu Hisanobu Hisao Hitomaro Hitoshi Hosuke Hyobe Hyosuke Hyotaru
+			Ichibei Ichigo Ichiro Ichiyo Ichizo Iesada Ikemoto Ikki Inejiro Itachi Itaru Iwao Izumo
+			Jakuchu Jiraiya Jiro Joben Jugemu Jun Junichi Junji Jurobei
+			Kaemon Kagehisa Kai Kaii Kaiji Kaito Kakashi Kamui Kaneie Kantaro Katai Katsuhiro Katsuo Katsuyuki Kaworu Kazu Kazuki Kazuma Kazuteru Kazuya Kazuyoshi Kazuyuki Keiichi Keiji Keisuke Ken Kenichi Kenshiro Kensuke Kenta Kentaro Kento Kenzo Kiichi Kikaku Kikugoro Kimihiro Kiminobu Kintaro Kira Kiyo Kiyoshi Koetsu Koichi Koichiro Kokei Koki Kokushi Konosuke Korekiyo Korenaga Kosuke Kotaro Koyo Kozue Kumanosuke Kunihiko Kunimatsu Kunitaro Kuririn Kyohei Kyoichi Kyoji Kyosuke Kyoya Kyuichi Kyushichi
+			Magobei Mahiro Majin Makoto Mamoru Manzo Marihito Masaaki Masanobu Masao Masato Mashashi Masujiro Matabei Matsudaira Mikio Mitsuharu Mitsunari Mokichi Mokuba Montaro Morio Motoki Motonobu Mukuro Munemori Musashi Mushanokoji Mutsohito Myojin
+			Naizen Naoki Naomichi Naoto Nikki Nissho Nobuo Nobuyoshi Norihisa Norinaga Noritada
+			Ochanomizu Ogai Okakura Okitsugu Orochimaru Osamu Otojiro
+			Rai Ranma Reiji Reizo Ren Renji Rentaro Riki Rinji Robita Roronoa Rosanjin Ryobe Ryohei Ryoji Ryoma Ryota Ryotaro Ryuhei Ryuji Ryutaro
+			Sachio Sadao Sadatake Sagara Saito Sasuke Satoshi Sei Seibei Seiho Seika Seiryo Seishiro Seishisai Seiya Sena Sessue Seta Seto Setsuna Shigeaki Shigeki Shigemi Shigeru Shigeshi Shigetaka Shikamaru Shiki Shin Shingen Shinji Shinogu Shinomori Shintaro Shinya Shinzaburo Shirai Shirou Shiryu Shishio Shizuo Sho Shoda Shogo Shohei Shoin Shoji Shojiro Shoko Shoraku Shosei Shosuke Shota Shukishi Shuko Shunji Shunko Shunsuke Shusake Shusaku So Sora Sorai Sosuke Sukeyasu Sumiteru Suzaku Suzu
+			Tachi Tachiki Tadashi Tadayoshi Tadayuki Tai Taichi Taiki Taisuke Taiyo Takamasa Takanibu Takashi Takayoshi Takayuki Takehiro Takeo Takeru Takeshi Takuma Takumi Tamotsu Tanaka Tatsuya Tatsuzo Teika Tekkan Teriuihi Teruo Tetsuo Tetsuya Tobei Togai Togusa Toji Tokimasa Tokuma Tomiji Tomoaki Torazo Toshiaki Toshiro Toyokuni Toyoshige Tsubasa Tsugahara Tsuna Tsuneari Tsuneya Tsuneyo
+			Uryu
+			Wataru
+			Yachi Yakumo Yasuhiko Yasuhiro Yasuhito Yasunari Yasunori Yasutake Yasutoki Yasutora Yataro Yodo Yoh Yoichi Yoringa Yoritomo Yoshida Yoshifumi Yoshii Yoshikazu Yoshiki Yoshimochi Yoshinaka Yoshinori Yoshitaka Yugoro Yukishiro Yuri Yushiro Yusuke Yuta Yutaro Yuya
+		}	
 
 		female_names = {
-			Ai Ankang Bage Bai Bohai Boshi Cao Chadan Chang Changshou Changshounu Chen Chonghua Chu Chunqin Chuo
-			Cui Cuiba Cuiluan Cuiping Da Daopo Daosheng Deng Deyao Dezhen Dianni Dong Duan Emei Feishan Fengcheng
-			Fu Fujin Gao Ge Guang Guanyinnu Guo Han Hanyue He Hongdu Hongfu Honghong Hou Hu Hua Huang Huarui Huiming
-			Jianchang Jiang Jin Jinfeng Jinluan Jiuge Lanling Li Liang Liao Liu Luanluan Ma Meizhu Meizi Meng Miaoniang
-			Miaoyin Nalan Neiming Noujin Nuoujin Panpan Ping Pucha Puci Puning Pusage Pusuwan Puwei Qian Qiao Qin Qinai
-			Qingnu Qingzhao Qungu Ren Renyi Ruishun Ruizhi Saige She Shen Shengtang Shi Shige Shiguang Shishi Shizhen
-			Shuge Shuiqiu Shuogu Shuzen Shuzheng Siao Song Su Sun Tabuyan Tabuye Taige Taihe Tangqiao Tao Taoge Tian
-			Tong Tudan Wa Wang Wenji Wu Wulinda Wuniang Xia Xiao Xiaoming Xiaoxiao Xingge Xingguo Xinyue Xu Xuanji 
-			Xuanyi Xueying Xunyang Yan Yange Yaniang Yanmu Yanshounu Yanxiu Yaonian Yaoniang Yaoying Ye Yi Yingtian Yingying 
-			Yongqing Yongxing Yu Yuan Yuanzhen Yuniang Yunying Yushan Zhai Zhang Zhaoyun Zheng Zhenjian Zhong 
-			Zhou Zhu Zhuzhu Zihe Ziye
+			Ai Aika Aiko Aimi Aira Akane Akari Akina Akino Amane Amaya Anna Ano Anri Ao Aoba Aoi Asuka Asumi Atsuko Aya Ayaka Ayako Ayana Ayano Ayumi Ayuri Azusa
+			Chie Chieko Chiemi Chihiro Chiho Chihomi Chika Chikako Chikaze Chimaki Chinami Chisaki Chisato Chitoge Chitose Chiyako Chiyeko Chiyuki
+			Echiko Eho Eiko Eimi Eire Emao Emika Emiko Emiya Erena Erika Erina
+			Fuji Fujiko Fuka Fuki Fukuko Fumi Fumika Fumiya Futaba Fuuko Fuyume
+			Hana Hanae Hanako Hanami Hanayo Haniko Haruhi Haruka Harukichi Hatsu Hatsuyo Hazuki Hikari Himari Hina Hinata Hinako Hinano Hiroe Hisako Hisano Hotaru
+			Ichiho Ichiko Ikue Ikuko Ikumi Ikuyo Inaho Iori Irisa Isaki Isami Isamu Ishi Isoko Itsuko Itsumi Izumi
+			Junko
+			Kaeda Kagami Kaho Kaiyo Kameko Kamiya Kanade Kanna Kanon Kaoru Kasumi Kaya Kayami Kayu Kazashi Kazu Kazumi Kiho Kino Kinu Kinuye Kinuyo Kiriko Kita Kiyomi Kofuyu Koharu Kokoro Koma Konatsu Kotoko Koyori Kozue Kumin Kumiyo
+			Mafuyu Mai Maika Maiya Makimachi Mami Mamiko Mari Marina Masa Masami Maya Megumin Mei Michiko Mieko Miiko Mika Mikasa Miki Mikka Miko Miku Mine Mineko Mino Mio Misa Misaki Misato Mitsu Mitsuko Miu Miwa Miyako Miyoshi Miyuki Mizuki Moka Momoko Moto Motoko Murasaki Mutsuko
+			Nadeshiko Naga Nagisa Nami Namiko Nana Nanao Nano Naomi Naru Narumi Natsu Natsumi Nene Nishi Nodoka Nui
+			Orihime Orika Osen Otsu
+			Rei Reira Ren Rena Rikka Rin Rina Ririko Ririna Ritsu Ritsuko Rui Runa
+			Sada Saika Sakae Sakamae Saki Sakura Sakurako Sakuro Sanae Saori Satoko Satone Satsuki Sawa Saya Seka Shiho Shika Shiori Shoko Sumire Suzu Suzune
+			Takako Takara Tami Tane Tansho Tohru Toka Tokie Tokiwa Toku Tomi Tomo Tomoe Toshi Toshiko Toyoko Tsubasa Tsugi Tsukiko Tsukiyama Tsumugi
+			Uka Umeki Una Urako Urano Urara Uta
+			Yachi Yasu Yayoi Yomiko Yoriko Yoshe Yoshike Yoshiko Yotsuba Yufu Yui Yuina Yuki Yukika Yukishiro Yumako Yuna Yuno Yuria Yuro Yutsuko Yuuko
 		}
 
 		
@@ -3235,23 +3316,24 @@ iranian = {
 		color = { 0.8 0.8 0.4 }
 
 		male_names = {
-			Aldimir Asen Berbat Blaz_Blaise Boleslav Borna Branimir Budimir Kosmin Danilo_Daniel Djordje_George Dmitar_Demetrius Dobroslav Dragija Dragos Dragutin Gavrilo_Gabriel Godimir Goran
-			Grgur_Gregory Ilija_Elijah Ivan_John Josif_Joseph Josip_Joseph Jovan_John Kasjan Konstantin_Constantine Krsto_Christopher Lazar_Lazarus Ljudevit Luka_Luke Marko_Marcus Martin_Martin Matija_Matthew Mihailo_Michael Mihovil Milorad Milutin Mircea Miroslav_Miroslav Mislav Nenad Nikodim_Nicodemus Nikola_Nicholas
-			Ninoslav Petar_Peter Porin Prvoslav Radoslav Rastko Ratomir_Ratimir Roman_Roman Serapion_Seraphin Simeon_Simon Sinisa Slavko Slobodan Stefan_Stephen Teodosije_Theodosius Trajan_Trajan Uros Visarion Vladimir_Vladimir Vladislav_Vladislav Vlastimir
-			Vuk_Lupo Vukan Vukasin Vukoman Zoran Zvonimir
+			Pusippae Monesos Metasos Pherusos Enemos Asareis Ables Naxine 
+			Anemos Pusages Thilinax Pusilio Amax Anios Ilimos Arestes Eremos
+			Nosippae Thosiro Talesipp Zeniusaul
+			Tisthele Arichon Posiasin Haulantho
+			Polleisto Adas Komacho Biadoro Menaxandr
+			Lamusil Etmes Amus Euaenes Kaunesid Menesipp
+			Eulus Hyrcolo Damenes Agocles Istos Cynosil
+			Kerosost Archonos Piasusandr Pusiosen Kyonesius Kannesep
 		}
 		female_names = {
-			Agata_Agatha Barbara_Barbara Branimira Desislava Dubravka Elena_Helen Hicela Jelena Karolina_Caroline Keratza Lovorka Marija_Maria Milka Neda Radica Zdenka Andjela Antonija
-			Bastina Biljana Bistrina Bojana Casna Chasna Dejana Dragana Dragoslava Duga Dusica Gordana Grana Grubana Jagoda Jovana Jovanka Karika
-			Ljubica Luka_Lucia Majka Malina Medeni Meki Milinka Miljana Miriti Mirjana Mudary Mudra Nada Nadanje Namena
+			Calla Dame Piasia Pina Anas Thyle Aras Rhene Aglaus Damia Dora Eusas Amias Glisia Nimia
+			Anes Cyra Dessa Rhessa Cyllea Enis Aris Nessa Nike Anaes Liphea Klora Thoebe Drisa Tiane
+			Athos xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes Phyla Monia Spera Kata Lissia Aneis
+			Edras Pheana Idos Dena Innas Chera
 		}
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
-
-		male_patronym = "zade"
-		female_patronym = "dokht"
-		prefix = no
 		
 		modifier = default_culture_modifier
 	}
@@ -3334,38 +3416,24 @@ iranian = {
 		color = { 0.3 0.35 0.1 }
 
 		male_names = {
-			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
-			Cehanšah_Jahanshah Cemšîd_Jamshid Cevid_Javeed Danûš_Danush Darab Daryûš_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Efšer_Afshar Ehmed_Ahmad Ehsan
-			Ekber_Akbar Elî_Ali Enûširwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erdešîr_Ardeshir Esfendiyar_Esfandiar
-			Eskander_Alexander Ešot_Ashot Eyyub_Job Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Ferîd_Farid
-			Ferîdun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Goštasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
-			Hesen_Hasan Hisên_Hussein Hormoz Hosen_Hussein Humayun Hurmiz_Hormazd Îsmaîl_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kâvus_Kavoos
-			Kûrušê_Cyrus Mamlan_Muhammad Mashad Mehmûd_Mahmud Mehrab Mehrzad Mensûr_Mansur Menûçihr_Manuchihr Menûšihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mesûd_Masud
-			Mihemed_Muhammad Mîrza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
-			Nesr_Nasr Nezam Nošîrwan_Nawshirwan Nêçîrvan_Nechirwan Parviz Pujman Pêšeng_Pashang Pîroz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
-			Vahhab Vahid Vahusdan_Wahustan Vali Varšasp_Varshasb Vîštap_Vishtasb Xarmandar_Kharmandar Xašayar_Khashayar 
-			Xuršîd_Khurshid Xusrew_Khosrau Xušyar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yezîd_Yazid Yousef Zahak Zakaria_Zachary Zand Zerdešt_Zartosht Zia
-			Šadî_Shadhi Šahab_Shahab Šahbaz_Shahbaz Šahenšah_Shahanshah Šahin_Shahin Šahram_Shahram Šahryar_Shahryar Šahrux_Shahrokh Šahruz_Shahruz Šapur_Shapur Šarvin_Sharwin Šawur_Shavur Šayan_Shayan Šîrkûh_Shirkuh
+			Pusippae Monesos Metasos Pherusos Enemos Asareis Ables Naxine 
+			Anemos Pusages Thilinax Pusilio Amax Anios Ilimos Arestes Eremos
+			Nosippae Thosiro Talesipp Zeniusaul
+			Tisthele Arichon Posiasin Haulantho
+			Polleisto Adas Komacho Biadoro Menaxandr
+			Lamusil Etmes Amus Euaenes Kaunesid Menesipp
+			Eulus Hyrcolo Damenes Agocles Istos Cynosil
+			Kerosost Archonos Piasusandr Pusiosen Kyonesius Kannesep
 		}
-
 		female_names = {
-			Adan Adar Ara Ardil Arezo Arezu Ariyan Arêz Arîman Arîn Asan Asteng Asê Avan Azadî Azrîn Aštî Badil Bahar Balnexšîn Banê Barîn Bawan Baziyan Bazê Befraw Befrîn Begîxan Belalûk Belqis
-			Belîcan Benav Benaz Berbijîn Berdar Berdil Bersîn Berîcan Bexšîn Beyan Beybîn Beybûn Bezîn Bihar Bijîn Bilêse Binar Binav Binefš Binevš Biyan Biškoj Biškurîn Bohar Bênaz Bêrîcan Bêrîvan Burandoxt_Pourandokht
-			Dengîn Derav Derzîn Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkanî Dilnaz Dilvîn Dilxoš Dilxweš Diyarî Doman Dêrsim Dîlan Dîristan Esmercan Esmerxan 
-			Estêre Evîn Ewrîn Eyšan Ezcan Felek Fener Ferašîn Firmêsk Fîdan Gazî Gelavêj Gerdengaz Gozel Gozê Grîvan Guhtem Gulbehar_Golbahar Gulšen Gulnar Gulnaz_Golnaz Gêlas Helez Heliz Helvîn Hemayîl 
-			Kejê Keser Kevok Kevî Kewser Kezîzer Koçer Leylê Leymîn Lezîn Lolav Lorkê Lorî Lorîcan Lorîn Lêlav Lêvken Lîlyan Lîza Maša Mebest Mehrîban Mehrîcan Mehrîvan
-			Mejbîr Mendal Mercam Merîvan Mirarîxan Miryem_Maria Mizgîn Muhabad Mêmê Mêrdîn Mêxek Mîdya Mîran Narîman Narîncan Navbihar Nawxoš Naz Nazdar Nazenîn Nazgul_Nazgol Nazik Naznaz Nazê Nermê Nermîn Nesrîn Newbohar Nexšîn
-			Nešmîl Nešmîn Norcan Nêrgiz Nêrîn Nêzîk Nîdar Nîgar Nîroj Nîšan Nîštîman Perjîn Pervîn Perwane_Parvaneh Perwîn Perçem Perî Perîgul Perînaz Perîxan Perîšan Pexšan Peyman Pirjîn Piršeng Piršing Pore Poršeng Pêlîn Pîroz Pîšeng 
-			Rana Rengîn Rewša Rewšen Rihan Rindê Rojhelat Rojê Ronahî Ronak Rondik Rêjîn Rêzan Rîhan Rîken Rûciwan Rûgeš Rûken Rûzerîn Sarê Serbar Sercan Serferaz Serfiraz Sergul Serçinar Seyran Xatûn 
-			Xêlîcan Xonçe_Ghoncheh Zernîšan Zerya Zerê Zerî Zerîxan Zeytîn Zeytûn Zilfê Zoya Zozan Zêrîn Zîlan Zînet Zînê Šana Šanaz Šayan Šehrîban Šelal Šemam Šengê Šepal Šepirze Šermîn Ševba Ševîn Šêlaz Šîlan Šînî Šîwen
+			Calla Dame Piasia Pina Anas Thyle Aras Rhene Aglaus Damia Dora Eusas Amias Glisia Nimia
+			Anes Cyra Dessa Rhessa Cyllea Enis Aris Nessa Nike Anaes Liphea Klora Thoebe Drisa Tiane
+			Athos xene Glmne Callaia Althaeas Leda Iomen Mara Mene Aecmes PHyla Monia Spera Kata Lissia Aneis
+			Edras Pheana Idos Dena Innas Chera
 		}
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
-
-		male_patronym = "kurê "
-		female_patronym = "kiçê "
-		prefix = yes
 
 		modifier = default_culture_modifier
 	}
@@ -3476,42 +3544,42 @@ east_african = {
 
 		male_names = {
 			Aaron_Aaron Abaddon Abel Abraham_Abraham Ahab Asher
-			Barak Barnabas Benaiah Benjamin_Benjamin Boaz
+			Barak Barnabas Brewis Benaiah Benjamin_Benjamin Boaz
 			Chilion
-			Dan David_David
-			Ebenezer Eilon Enoch Eliezer Elijah Ephraim
-			Gabriel_Gabriel Gad Gershon Gideon Gilead
+			Dan David_David Drewill
+			Ebenezer Eilon Enoch Eliezer Elijah Ephraim Erwell
+			Gabriel_Gabriel Gershon Gideon Gilead Gerey Gylan Giliam Gilionas
 			Hezekiah Hiram
 			Ichabod Immanuel Isaac_Issac Ishmael Israel Issachar
 			Jacob_Jacob Jericho Jesse Jethro John_John Joseph_Joseph Joshua_Joshua Josiah Judah
 			Kaleb
 			Levi Linus
-			Mahlon Manasseh Matthew_Matthew Menelik Micah Mordecai Moses_Moses
-			Naphtali Nehemiah Noah
+			Mahlon Mason Manasseh Midita Matthew_Matthew Menelik Micah Mordecai Moses_Moses
+			Naphtali Nehemiah Noah Ningana Namzaru
 			Obadiah
 			Phineas
-			Reuben
-			Samson Samuel Saul Seth Shem Simeon Sinan Solomon
-			Uriel
+			Reuben Richye
+			Samson Samuel Saul Seth Shem Simeon Sinan Solomon Tomas 
+			Uriel Warder Warren Ewin
 			Zacharias Zebediah Zebulun
 		}
 		
 		female_names = {
-			Abra Adina Apphia Ariel Asenath Atarah
+			Abra Adina Apphia Ariel Adelaide Asenath Atarah Amanarenah Ahnera Ayamettu
 			Bathsheba Beulah Bilhah
 			Deborah Delilah Dinah
-			Elisheba_Elizabeth Esther Eve
-			Galilee
-			Hadassah Hagar Hephzibah Hosanna Huldah
-			Jedidah Jezebel Judith
+			Elisheba_Elizabeth Esther Eve Evelyn
+			Galilee Gaile Geenie
+			Hadassah Hagar Herete Hephzibah Hosanna Huldah Isal Ilith
+			Jedidah Jezebel Judith Joane Lila
 			Keturah
 			Leah
-			Makeda Milcah Miriam
-			Naomi
-			Orpah
-			Rachel Rahab Rebecca Ruth
-			Sarai_Sarah Shalom
-			Tabitha Tamar
+			Makeda Milcah Miriam Myla
+			Naomi Nefere Nanna Nisab
+			Orpah Queen
+			Rachel Rahab Rebecca Ruth Ruby
+			Sarai_Sarah Shaloma Senefa Shanike
+			Tabitha Tamar Tatena Tashim
 			Vashti
 			Zilpah
 		}
@@ -3572,7 +3640,7 @@ east_african = {
 			Silas Sam_Samuel
 			Takyi Tony_Anthony
 			Ursell
-			Wiley_William Washington
+			Wiley_William Washo
 		}
 		female_names = { 
 			Adelaide Althea Anita
@@ -3671,7 +3739,7 @@ central_african = {
 		}
 		female_names = { 
 			Adelaide Althea Anita
-			Bentoo
+			Bea Bethabelle
 			Chaalut Cotto Cornelia Caroline Crissy
 			Eden Ethel Eloise Eliza_Elizabeth Eula
 			Fatima
@@ -3685,12 +3753,12 @@ central_african = {
 			Natalga Nancy
 			Onawumi Ophelia
 			Peggy Phoebe Pearlie
-			Queen Quiana
+			Quima Quiana
 			Ramona Rosa_Rose Ronnie
 			Sabra Sula Sue_Susan
 			Tamie Tempy Tildy Trula
 			Vertamae Veronica Viola
-			Yaruba
+			Yaruba Yama
 			Wannah
 		}
 	}
@@ -4653,45 +4721,37 @@ tibetan_group = {
 		dynasty_name_first = yes
 		
 		male_names = {
-			Aimoto Akifumi Akihiro Akikazu  Akinari Akio Akira Akitake Amuro Arinori Ataru Atasuke Atsuki Atsumori Atsushi Atsuya Ayase
-			Baiko Bakin Basara Batou Bokkai Brock Bunzo
-			Chikafusa Chojiro Chomei
-			Daiju Daiki Daisetsu Daisuke
-			Eichi Eiichi Eiji Eisen Eisuke Eita Eitoku
-			Fujimaro Fumihiro Fumio Futoshi Fuyuki
-			Gen Gendo Genichi Genjo Genki Genma Genpaku Genta Gidayu Gintoki Goemon Gohan Goku Gonkuro
-			Hajime Hao Haruko Haruo Haseo Hayao Hayato Heihachiro Heiji Heikichi Hidemichi Hideo Hideri Hidetora Hideyoshi Hikaru Hikozaemon Himura Hiro Hirohisa Hiroki Hiromi Hiroshi Hirotada Hiroto Hirotsugu Hiryu Hisanobu Hisao Hitomaro Hitoshi Hosuke Hyobe Hyosuke Hyotaru
-			Ichibei Ichigo Ichiro Ichiyo Ichizo Iesada Ikemoto Ikki Inejiro Itachi Itaru Iwao Izumo
-			Jakuchu Jiraiya Jiro Joben Jugemu Jun Junichi Junji Jurobei
-			Kaemon Kagehisa Kai Kaii Kaiji Kaito Kakashi Kamui Kaneie Kantaro Katai Katsuhiro Katsuo Katsuyuki Kaworu Kazu Kazuki Kazuma Kazuteru Kazuya Kazuyoshi Kazuyuki Keiichi Keiji Keisuke Ken Kenichi Kenshiro Kensuke Kenta Kentaro Kento Kenzo Kiichi Kikaku Kikugoro Kimihiro Kiminobu Kintaro Kira Kiyo Kiyoshi Koetsu Koichi Koichiro Kokei Koki Kokushi Konosuke Korekiyo Korenaga Kosuke Kotaro Koyo Kozue Kumanosuke Kunihiko Kunimatsu Kunitaro Kuririn Kyohei Kyoichi Kyoji Kyosuke Kyoya Kyuichi Kyushichi
-			Magobei Mahiro Majin Makoto Mamoru Manzo Marihito Masaaki Masanobu Masao Masato Mashashi Masujiro Matabei Matsudaira Mikio Mitsuharu Mitsunari Mokichi Mokuba Montaro Morio Motoki Motonobu Mukuro Munemori Musashi Mushanokoji Mutsohito Myojin
-			Naizen Naoki Naomichi Naoto Nikki Nissho Nobuo Nobuyoshi Norihisa Norinaga Noritada
-			Ochanomizu Ogai Okakura Okitsugu Orochimaru Osamu Otojiro
-			Rai Ranma Reiji Reizo Ren Renji Rentaro Riki Rinji Robita Roronoa Rosanjin Ryobe Ryohei Ryoji Ryoma Ryota Ryotaro Ryuhei Ryuji Ryutaro
-			Sachio Sadao Sadatake Sagara Saito Sasuke Satoshi Sei Seibei Seiho Seika Seiryo Seishiro Seishisai Seiya Sena Sessue Seta Seto Setsuna Shigeaki Shigeki Shigemi Shigeru Shigeshi Shigetaka Shikamaru Shiki Shin Shingen Shinji Shinogu Shinomori Shintaro Shinya Shinzaburo Shirai Shirou Shiryu Shishio Shizuo Sho Shoda Shogo Shohei Shoin Shoji Shojiro Shoko Shoraku Shosei Shosuke Shota Shukishi Shuko Shunji Shunko Shunsuke Shusake Shusaku So Sora Sorai Sosuke Sukeyasu Sumiteru Suzaku Suzu
-			Tachi Tachiki Tadashi Tadayoshi Tadayuki Tai Taichi Taiki Taisuke Taiyo Takamasa Takanibu Takashi Takayoshi Takayuki Takehiro Takeo Takeru Takeshi Takuma Takumi Tamotsu Tanaka Tatsuya Tatsuzo Teika Tekkan Teriuihi Teruo Tetsuo Tetsuya Tobei Togai Togusa Toji Tokimasa Tokuma Tomiji Tomoaki Torazo Toshiaki Toshiro Toyokuni Toyoshige Tsubasa Tsugahara Tsuna Tsuneari Tsuneya Tsuneyo
-			Uryu
-			Wataru
-			Yachi Yakumo Yasuhiko Yasuhiro Yasuhito Yasunari Yasunori Yasutake Yasutoki Yasutora Yataro Yodo Yoh Yoichi Yoringa Yoritomo Yoshida Yoshifumi Yoshii Yoshikazu Yoshiki Yoshimochi Yoshinaka Yoshinori Yoshitaka Yugoro Yukishiro Yuri Yushiro Yusuke Yuta Yutaro Yuya
-		}	
+			Abaoji Abo Abugu Aguo Aguzhi Ala Dorjee Kalden Karma Lobsang Mingma Nawang Nima Chodak Changyuan 
+			Chucai Chun Chunyou Chuzhi Ci Cite Ciwang Dali Dao Daoyin Dashi Deguang Deming Dewang Deyuan 
+			Di Diela Dilie Dilu Dorlipun Du Duolubu Duoluo Duomi Fangde Fuguzhi Fuliu Fuyi Gan Gang Gaoligu
+			Gongmao Gongzao Guan Guang Guangbi Gui Guochang Guozhe Hao He Hechen Hongben Hongdao Hongfan 
+			Hongji Hongyong Hongzhen Hougu Huaijie Huaixiu Hudujin Hui Huiyuan Hunhe Jie Jin Jing Jingtang 
+			Jinzhong Jiqian Jiuli Jiushao Jiyuan Jue Jun Junshi Kaigu Kailuo Keda Keling Kenagan Ketuyu 
+			Keyong Kuan Kuge Kui Kuo Liangzuo Lihu Lin Linggong Lishan Liuge Loguo Longqing Longxian Longxu 
+			Longyou Louguo Lu Luju Luzhi Mada Mai Maozhen Min Ming Mingyi Mohui Naihe Nieli Nielieji Noulisi 
+			Nu Paolu Pedie Pusuwan Qi Qianshun Qinde Quchulu Quju Qulie Qulu Renxian Renxiao Ruan Sage Salade 
+			Saladi Sha Shao Sheng Shenmi Shi Shihuo Shilu Shinan Shizhong Shu Shulu Si Sicheng Sidao Side Song 
+			Songrui Suogu Tabuyan Tadun Tai Taishan Taishi Taiyi Temei Tianxiang Tingjian Tong Tuguci Tuyu Waihe 
+			Wangrong Wansi Wanxin Wei Wen Wenshunu Wenzao Wolila Wotela Wuge Wujun Wumo Wuyi Wuyu Wuzheng Xi Xian 
+			Xiangwen Xiaozheng Xiaozhong Xiazhen Xidi Xinie Xiu Xiuge Xunning Yali Yan Yangxi Yanxi Yanzhang 
+			Yaogu Yaoshinu Yi Yilie Yiliu Yixinning Yongning Yougui Youqing Youyu Yu Yuanhao Yunching Yundeshi Yuyu 
+			Zanhua Zao Zeduan Zengbo Zhangyuan Zhaosan Zhen Zhengchang Zhengyan Zhibuwu Zhigu Zhilugu Zhixian Zhiyuan 
+			Zhong Zhonggong Zhongji Zhongxuan Zhongyan Zhongyuan Zhulie Zongjiao Zongzhen Zuli Zunxu Zuqian Xjwa Khej 
+			Xwej Thjij-po Changyun Cheng Chengjun Chixin Chonggui Chongrong
+		}
 
 		female_names = {
-			Ai Aika Aiko Aimi Aira Akane Akari Akina Akino Amane Amaya Anna Ano Anri Ao Aoba Aoi Asuka Asumi Atsuko Aya Ayaka Ayako Ayana Ayano Ayumi Ayuri Azusa
-			Chie Chieko Chiemi Chihiro Chiho Chihomi Chika Chikako Chikaze Chimaki Chinami Chisaki Chisato Chitoge Chitose Chiyako Chiyeko Chiyuki
-			Echiko Eho Eiko Eimi Eire Emao Emika Emiko Emiya Erena Erika Erina
-			Fuji Fujiko Fuka Fuki Fukuko Fumi Fumika Fumiya Futaba Fuuko Fuyume
-			Hana Hanae Hanako Hanami Hanayo Haniko Haruhi Haruka Harukichi Hatsu Hatsuyo Hazuki Hikari Himari Hina Hinata Hinako Hinano Hiroe Hisako Hisano Hotaru
-			Ichiho Ichiko Ikue Ikuko Ikumi Ikuyo Inaho Iori Irisa Isaki Isami Isamu Ishi Isoko Itsuko Itsumi Izumi
-			Junko
-			Kaeda Kagami Kaho Kaiyo Kameko Kamiya Kanade Kanna Kanon Kaoru Kasumi Kaya Kayami Kayu Kazashi Kazu Kazumi Kiho Kino Kinu Kinuye Kinuyo Kiriko Kita Kiyomi Kofuyu Koharu Kokoro Koma Konatsu Kotoko Koyori Kozue Kumin Kumiyo
-			Mafuyu Mai Maika Maiya Makimachi Mami Mamiko Mari Marina Masa Masami Maya Megumin Mei Michiko Mieko Miiko Mika Mikasa Miki Mikka Miko Miku Mine Mineko Mino Mio Misa Misaki Misato Mitsu Mitsuko Miu Miwa Miyako Miyoshi Miyuki Mizuki Moka Momoko Moto Motoko Murasaki Mutsuko
-			Nadeshiko Naga Nagisa Nami Namiko Nana Nanao Nano Naomi Naru Narumi Natsu Natsumi Nene Nishi Nodoka Nui
-			Orihime Orika Osen Otsu
-			Rei Reira Ren Rena Rikka Rin Rina Ririko Ririna Ritsu Ritsuko Rui Runa
-			Sada Saika Sakae Sakamae Saki Sakura Sakurako Sakuro Sanae Saori Satoko Satone Satsuki Sawa Saya Seka Shiho Shika Shiori Shoko Sumire Suzu Suzune
-			Takako Takara Tami Tane Tansho Tohru Toka Tokie Tokiwa Toku Tomi Tomo Tomoe Toshi Toshiko Toyoko Tsubasa Tsugi Tsukiko Tsukiyama Tsumugi
-			Uka Umeki Una Urako Urano Urara Uta
-			Yachi Yasu Yayoi Yomiko Yoriko Yoshe Yoshike Yoshiko Yotsuba Yufu Yui Yuina Yuki Yukika Yukishiro Yumako Yuna Yuno Yuria Yuro Yutsuko Yuuko
+			Ai Ankang Bage Bai Bohai Boshi Cao Chadan Chang Changshou Changshounu Chen Chonghua Chu Chunqin Chuo
+			Cui Cuiba Cuiluan Cuiping Da Daopo Daosheng Deng Deyao Dezhen Dianni Dong Duan Emei Feishan Fengcheng
+			Fu Fujin Gao Ge Guang Guanyinnu Guo Han Hanyue He Hongdu Hongfu Honghong Hou Hu Hua Huang Huarui Huiming
+			Jianchang Jiang Jin Jinfeng Jinluan Jiuge Lanling Li Liang Liao Liu Luanluan Ma Meizhu Meizi Meng Miaoniang
+			Miaoyin Nalan Neiming Noujin Nuoujin Panpan Ping Pucha Puci Puning Pusage Pusuwan Puwei Qian Qiao Qin Qinai
+			Qingnu Qingzhao Qungu Ren Renyi Ruishun Ruizhi Saige She Shen Shengtang Shi Shige Shiguang Shishi Shizhen
+			Shuge Shuiqiu Shuogu Shuzen Shuzheng Siao Song Su Sun Tabuyan Tabuye Taige Taihe Tangqiao Tao Taoge Tian
+			Tong Tudan Wa Wang Wenji Wu Wulinda Wuniang Xia Xiao Xiaoming Xiaoxiao Xingge Xingguo Xinyue Xu Xuanji 
+			Xuanyi Xueying Xunyang Yan Yange Yaniang Yanmu Yanshounu Yanxiu Yaonian Yaoniang Yaoying Ye Yi Yingtian Yingying 
+			Yongqing Yongxing Yu Yuan Yuanzhen Yuniang Yunying Yushan Zhai Zhang Zhaoyun Zheng Zhenjian Zhong 
+			Zhou Zhu Zhuzhu Zihe Ziye
 		}
 		
 		pat_grf_name_chance = 25

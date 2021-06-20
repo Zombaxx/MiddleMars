@@ -2,7 +2,7 @@ namespace = gift_troops_ai
 character_event = {
 	id = gift_troops_ai.0
 	desc = EVTDESCgift_troops_ai.0
-	picture = GFX_roy_marching
+	picture = GFX_roy_annex
 	is_triggered_only = yes
 
 	option = {

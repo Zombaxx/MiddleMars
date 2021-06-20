@@ -61,3 +61,45 @@ super_mech_suit = {
         }
     }
 }
+mech_sword_1 = {
+    max_amount = 25
+    spawn_date = 1000.1.1
+	
+	spawn_chance = {
+		value = 10
+	}
+    
+    weight = {
+		value = 0.5
+		additive_modifier = {
+			value = 2
+			religion = sunni	
+		}
+	}
+    artifacts = {
+        mech_sword_1 = {
+            value = 3
+        }
+    }
+}
+mech_sword_2 = {
+    max_amount = 25
+    spawn_date = 1000.1.1
+	
+	spawn_chance = {
+		value = 10
+	}
+    
+    weight = {
+		value = 0.5
+		additive_modifier = {
+			value = 2
+			religion = sunni	
+		}
+	}
+    artifacts = {
+        mech_sword_2 = {
+            value = 5
+        }
+    }
+}

@@ -11,6 +11,7 @@ character_event = {
 			capital_scope = { has_building = ca_high_court }
 			war = no
 			in_command = no
+			any_courtier = { has_minor_title = title_grand_judge }
 		}
 	}
 
@@ -350,7 +351,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = EVTOPTAtrial_events.4
+		name = EVTOPTAtrial_events.5
 		ROOT = {
 		prestige = -75
 		}
@@ -363,7 +364,7 @@ character_event = {
 	}
 
 	option = {
-		name = EVTOPTBtrial_events.4
+		name = EVTOPTBtrial_events.5
 		custom_tooltip = { text = trial_jail }
 		event_target:grand_judge = {
 			prestige = -25

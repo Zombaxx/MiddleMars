@@ -89,3 +89,54 @@ super_mech_suit = {
 	picture = "GFX_super_mech_suit"
 	slot = suit
 }
+mech_sword_1 = { 
+	cached = yes
+	monthly_character_prestige = 1
+	vassal_opinion = 5
+	combat_rating = 45
+	monthly_character_wealth = -0.2
+	martial = 4
+	command_modifier = {
+		morale_offence = 0.05
+		morale_defence = 0.15
+		damage = 0.03
+		siege = 0.02
+	}
+	quality = 3
+	active = {
+		martial = 10
+		age = 16
+	}
+	flags = { combat_weapon combat_tier_4 }
+	stacking = no
+	picture = "GFX_mech_sword_1"
+	slot = weapon
+}
+mech_sword_2 = { 
+	cached = yes
+	monthly_character_prestige = 1.25
+	vassal_opinion = 8
+	combat_rating = 65
+	monthly_character_wealth = -0.25
+	martial = 6
+	command_modifier = {
+		morale_offence = 0.05
+		morale_defence = 0.15
+		damage = 0.05
+		siege = 0.02
+	}
+	quality = 5
+	active = {
+		OR = {
+		trait = brawny
+		martial = 10
+		trait = strong
+		trait = tall
+		}
+		age = 16
+	}
+	flags = { combat_weapon combat_tier_4 }
+	stacking = no
+	picture = "GFX_mech_sword_2"
+	slot = weapon
+}

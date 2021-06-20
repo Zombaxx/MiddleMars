@@ -148,45 +148,85 @@ city_duke_central_african;Lord Protector;;;;;;;;;x
 
 #Cimmerian
 
-tribal_duke_bodpa;Protector;;;x
-tribal_duke_female_bodpa;Protector;;;x
-tribal_count_bodpa;Baron;;;x
-tribal_count_female_bodpa;Shinshi;;;x
-tribal_emperor_bodpa;Madara;;;x
-tribal_emperor_female_bodpa;Kaguya;;;x
-emperor_bodpa;Madara;;;x
-emperor_female_bodpa;Kaguya;;;x
-king_bodpa;Ten'no;;;x
-king_female_bodpa;Kohi;;;x
-title_prince_bodpa;Oji;;;;;;;;;;;;;x
-title_prince_female_bodpa;Ojo;;;;;;;;;;;;;x
-duke_bodpa;Shogun;;;x
-duke_female_bodpa;Washi;;;;;;;;;x
-count_bodpa;Omo;;;;;;;;;;;;;x
-count_female_bodpa;Shinshi;;;x
+tribal_duke_jurchen;Protector;;;x
+tribal_duke_female_jurchen;Protector;;;x
+tribal_count_jurchen;Baron;;;x
+tribal_count_female_jurchen;Shinshi;;;x
+tribal_emperor_jurchen;Madara;;;x
+tribal_emperor_female_jurchen;Kaguya;;;x
+emperor_jurchen;Madara;;;x
+emperor_female_jurchen;Kaguya;;;x
+king_jurchen;Ten'no;;;x
+king_female_jurchen;Kohi;;;x
+title_prince_jurchen;Oji;;;;;;;;;;;;;x
+title_prince_female_jurchen;Ojo;;;;;;;;;;;;;x
+duke_jurchen;Shogun;;;x
+duke_female_jurchen;Washi;;;;;;;;;x
+count_jurchen;Omo;;;;;;;;;;;;;x
+count_female_jurchen;Shinshi;;;x
 
-city_count_bodpa;Omo;;;;;;;;;x
-city_count_female_bodpa;Shinshi;;;;
-city_king_bodpa;Kunshu;;;;;;;;;x
-city_king_female_bodpa;Jouou;;;;;;;;;x
-city_duke_female_bodpa;Washi;;;;;;;;;x
-city_duke_bodpa;Dansei;;;;;;;;;x
-count_bodpa;Omo;;;;;;;;;;;;;x
-count_female_bodpa;Shinshi;;;x
+city_count_jurchen;Omo;;;;;;;;;x
+city_count_female_jurchen;Shinshi;;;;
+city_king_jurchen;Kunshu;;;;;;;;;x
+city_king_female_jurchen;Jouou;;;;;;;;;x
+city_duke_female_jurchen;Washi;;;;;;;;;x
+city_duke_jurchen;Dansei;;;;;;;;;x
+count_jurchen;Omo;;;;;;;;;;;;;x
+count_female_jurchen;Shinshi;;;x
 
-temple_count_bodpa;Saishi;;;;;;;;;x
-temple_count_female_bodpa;Shinshi;;;;
-temple_king_bodpa;Seinaru Chichi;;;;;;;;;x
-temple_king_female_bodpa;Jouou;;;;;;;;;x
-temple_duke_female_bodpa;Miko;;;;;;;;;x
-temple_duke_bodpa;Seijin;;;;;;;;;x
+temple_count_jurchen;Saishi;;;;;;;;;x
+temple_count_female_jurchen;Shinshi;;;;
+temple_king_jurchen;Seinaru Chichi;;;;;;;;;x
+temple_king_female_jurchen;Jouou;;;;;;;;;x
+temple_duke_female_jurchen;Miko;;;;;;;;;x
+temple_duke_jurchen;Seijin;;;;;;;;;x
 
 
-county_of_bodpa;Prefect of;;;;;;;;;x
-barony_of_bodpa;House of;;;x
-duchy_of_bodpa;Province of;;;;;;;;;x
-kingdom_of_bodpa;Okoku;;;;;;;;;x
-duchy_of_bodpa;Kokoku;;;;;;;;;x
+county_of_jurchen;Prefect of;;;;;;;;;x
+barony_of_jurchen;House of;;;x
+duchy_of_jurchen;Province of;;;;;;;;;x
+kingdom_of_jurchen;Okoku;;;;;;;;;x
+duchy_of_jurchen;Kokoku;;;;;;;;;x
+
+tribal_duke_khitan;Protector;;;x
+tribal_duke_female_khitan;Protector;;;x
+tribal_count_khitan;Baron;;;x
+tribal_count_female_khitan;Shinshi;;;x
+tribal_emperor_khitan;Madara;;;x
+tribal_emperor_female_khitan;Kaguya;;;x
+emperor_khitan;Madara;;;x
+emperor_female_khitan;Kaguya;;;x
+king_khitan;Ten'no;;;x
+king_female_khitan;Kohi;;;x
+title_prince_khitan;Oji;;;;;;;;;;;;;x
+title_prince_female_khitan;Ojo;;;;;;;;;;;;;x
+duke_khitan;Shogun;;;x
+duke_female_khitan;Washi;;;;;;;;;x
+count_khitan;Omo;;;;;;;;;;;;;x
+count_female_khitan;Shinshi;;;x
+
+city_count_khitan;Omo;;;;;;;;;x
+city_count_female_khitan;Shinshi;;;;
+city_king_khitan;Kunshu;;;;;;;;;x
+city_king_female_khitan;Jouou;;;;;;;;;x
+city_duke_female_khitan;Washi;;;;;;;;;x
+city_duke_khitan;Dansei;;;;;;;;;x
+count_khitan;Omo;;;;;;;;;;;;;x
+count_female_khitan;Shinshi;;;x
+
+temple_count_khitan;Saishi;;;;;;;;;x
+temple_count_female_khitan;Shinshi;;;;
+temple_king_khitan;Seinaru Chichi;;;;;;;;;x
+temple_king_female_khitan;Jouou;;;;;;;;;x
+temple_duke_female_khitan;Miko;;;;;;;;;x
+temple_duke_khitan;Seijin;;;;;;;;;x
+
+
+county_of_khitan;Prefect of;;;;;;;;;x
+barony_of_khitan;House of;;;x
+duchy_of_khitan;Province of;;;;;;;;;x
+kingdom_of_khitan;Okoku;;;;;;;;;x
+duchy_of_khitan;Kokoku;;;;;;;;;x
 
 
 

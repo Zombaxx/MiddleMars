@@ -1,5 +1,21 @@
 spriteTypes = {
 	spriteType = {
+		name = "GFX_mech_sword_1"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\mech_sword_1.dds"
+	}
+	spriteType = {
+		name = "GFX_mech_sword_1_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\mech_sword_1_small.dds"
+	}
+	spriteType = {
+		name = "GFX_mech_sword_2"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\mech_sword_2.dds"
+	}
+	spriteType = {
+		name = "GFX_mech_sword_2_small"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\mech_sword_2_small.dds"
+	}
+	spriteType = {
 		name = "GFX_mech_suit"
 		texturefile = "gfx\\interface\\inventory\\artifacts\\mech_suit.dds"
 	}

@@ -74,7 +74,7 @@ has_antislavery_culture_trigger = {
 }
 has_antibrothel_religion_trigger = {
 	custom_tooltip = {
-		text = has_antislavery_religion_trigger
+		text = has_antibrothel_religion_trigger
 		hidden_tooltip = {
 			OR = {
 				#religion_group = zoroastrian_group
@@ -90,7 +90,7 @@ has_antibrothel_religion_trigger = {
 }
 has_antibrothel_culture_trigger = {
 	custom_tooltip = {
-		text = has_antislavery_culture_trigger
+		text = has_antibrothel_culture_trigger
 		hidden_tooltip = {
 			OR = {
 				culture_group = dravidian_group
