@@ -60,7 +60,6 @@ character_event = {
 		opinion = { modifier = opinion_upset who = ROOT years = 2 }
 			}
 		clear_event_target = giverobo1
-		}	
 	}
 }
 #Piloting Mech Suit harms body
@@ -381,7 +380,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.5" 
-		add_character_modifier = { recentmechbattle days = 40 }
+		add_character_modifier = { id = recentmechbattle days = 40 }
 			add_trait = severely_injured
 			add_trait = wounded
 			random = {
@@ -406,7 +405,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.6" 
-		add_character_modifier = { recentmechbattle days = 40 }
+		add_character_modifier = { id = recentmechbattle days = 40 }
 		event_target:roboduel = { 
 			any_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
