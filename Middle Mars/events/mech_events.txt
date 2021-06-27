@@ -60,7 +60,6 @@ character_event = {
 		opinion = { modifier = opinion_upset who = ROOT years = 2 }
 			}
 		clear_event_target = giverobo1
-		}	
 	}
 }
 #Piloting Mech Suit harms body

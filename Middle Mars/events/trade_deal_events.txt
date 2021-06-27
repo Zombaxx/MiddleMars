@@ -58,7 +58,7 @@ character_event = {
 			}	
 			modifier = {
 				factor = 1.25
-				FROM = { is_ friend = ROOT }
+				FROM = { is_friend = ROOT }
 			}
 			modifier = {
 				factor = 5
@@ -102,7 +102,7 @@ character_event = {
 			}	
 			modifier = {
 				factor = 1.25
-				FROM = { is_ friend = ROOT }
+				FROM = { is_friend = ROOT }
 			}
 			modifier = {
 				factor = 2
@@ -178,7 +178,7 @@ character_event = {
 			}	
 			modifier = {
 				factor = 1.25
-				FROM = { is_ friend = ROOT }
+				FROM = { is_friend = ROOT }
 			}
 			modifier = {
 				factor = 2
