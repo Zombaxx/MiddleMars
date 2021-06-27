@@ -125,3 +125,10 @@ EVTbuild_mech.4;Curses!;;;x
 EVTDESCsuit_events13;In the Midst of battle in your Mech Suit, a feeling you cannot describe overcomes you. All you see is red and it is as if the machine you are piloting is not a tool, but an extension of yourself...;;;x
 EVTOPTAsuit_events.13;DEATH DEATH DEATH!!!;;;X
 suitevt13;You go on a rampage with your Mech Suit, terrorizing all men in your sight and making no distinction between friend and foe.;;;x
+
+EVTDESCsuit_events.16;As you move on the battlefield in your Mech Suit, a feeling you cannot explain overwhelms you. Without warning, the machine opens up and ejects you from its seat, violently tossing you into midst of the battlefield. When you look back, the machine seems to be in flames...;;;x
+EVTOPTAsuit_events.16;Aaargh...! Damn it!;;;x
+suitevt16;Your Mech Suit has rejected you and destroyed itself.;;;x
+
+EVTDESCmechfl_siege.99;Your Mech Suit took quite the tumble on the battlefield. The defenders were more prepared than you initially thought, injuring you and your Mech Suit before you fled back to your camp.;;;x
+EVTOPTAmechfl_siege.99;Tis' but a flesh wound!;;;x

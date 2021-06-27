@@ -10,6 +10,7 @@ decisions = {
 						}
 			}
 			prisoner = no
+			NOT = { religion_group = pagan_group }
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
@@ -51,6 +52,7 @@ decisions = {
 						}
 			}
 			prisoner = no
+			NOT = { religion_group = pagan_group }
 			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
@@ -94,6 +96,7 @@ decisions = {
 			NOT = { trait = incapable }
 			NOT = { trait = infirm }
 			NOT = { trait = severely_injured }
+			NOT = { religion_group = pagan_group }
 
 		}
 		allow = {

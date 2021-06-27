@@ -92,7 +92,7 @@ character_event = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {
 				chance = 5
-				add_trait = wounded
+				character_event = { id = mechfl_siege.99 }
 			}
 				
 		}
@@ -208,7 +208,7 @@ character_event = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {
 				chance = 5
-				add_trait = wounded
+				character_event = { id = mechfl_siege.99 }
 			}
 				
 		}

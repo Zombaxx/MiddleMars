@@ -22,7 +22,7 @@ character_event = {
 	id = mechfl_siege.5
 	desc = "EVTDESCmechfl_siege.2"
 	border = GFX_event_normal_frame_war
-	picture = GFX_mech_fight
+	picture = GFX_mech_battle
 	is_triggered_only = yes
 
 	option = {
@@ -56,7 +56,7 @@ character_event = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {
 				chance = 10
-				add_trait = wounded
+				character_event = { id = mechfl_siege.99 }
 			}	
 		}
 	}

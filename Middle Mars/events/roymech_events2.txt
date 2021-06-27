@@ -18,11 +18,15 @@ namespace = build_mech
 		random_list = {
 			4 = { 
 			modifier = {
-				factor = 1.75
+				factor = 2.25
 				religion = taoist
 				}
 			modifier = {
-				factor = 2
+				factor = 1.75
+				religion_group = muslim
+				}
+			modifier = {
+				factor = 3
 				martial = 15
 				}
 			modifier = {
@@ -30,7 +34,7 @@ namespace = build_mech
 				learning = 10 
 				}
 			modifier = {
-				factor = 1
+				factor = 2
 				culture_group = chinese_group
 				}
 			modifier = {
@@ -38,7 +42,7 @@ namespace = build_mech
 				trait = heavy_worlder
 				}
 			modifier = {
-				factor = 1
+				factor = 1.5
 				trait = strong
 				}
 			modifier = {
@@ -54,18 +58,18 @@ namespace = build_mech
 			2 = { 
 			modifier = {
 				factor = 2
-				religion = catholic
+				religion_group = christian
 				}
 			modifier = {
 				factor = 1.75
 				NOT = { religion = taoist }
 				}
 			modifier = {
-				factor = 0.5
+				factor = 1.5
 				NOT = { culture_group = chinese_group }
 				}
 			modifier = {
-				factor = 1
+				factor = 1.2
 				NOT = { trait = spacer_physiology }
 				}
 			modifier = {
@@ -77,12 +81,24 @@ namespace = build_mech
 				NOT = { learning = 5 }
 				}
 			modifier = {
-				factor = 3
+				factor = 8
 				trait = inbred
 				}
 			modifier = {
-				factor = 1
+				factor = 2
 				trait = weak
+				}
+			modifier = {
+				factor = 4
+				religion_group = pagan_group
+				}
+			modifier = {
+				factor = 2
+				trait = wounded
+				}
+			modifier = {
+				factor = 2
+				trait = depressed
 				}
 			character_event = { id = build_mech.3 }
 			}
@@ -92,11 +108,11 @@ namespace = build_mech
 				NOT = { religion = taoist }
 				}
 			modifier = {
-				factor = 1
+				factor = 1.25
 				NOT = { trait = spacer_physiology }
 				}
 			modifier = {
-				factor = 1
+				factor = 1.25
 				NOT = { trait = heavy_worlder }
 				}
 			modifier = {
@@ -108,15 +124,15 @@ namespace = build_mech
 				NOT = { learning = 8 }
 				}
 			modifier = {
-				factor = 3
-				trait = inbred
+				factor = 2
+				trait = stressed
 				}
 			modifier = {
-				factor = 1
-				trait = weak
+				factor = 2
+				trait = depressed
 				}
 			modifier = {
-				factor = 1
+				factor = 1.25
 				NOT = { trait = quick }
 				}
 			character_event = { id = build_mech.4 } 

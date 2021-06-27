@@ -204,6 +204,7 @@ long_character_event = {
 			has_artifact = common_mech_suit
 			}
 		any_current_enemy = {
+			ai = yes
 			in_command = yes 
 		OR = {
 			has_artifact = mech_suit
@@ -227,6 +228,7 @@ long_character_event = {
 	immediate = {
 		any_current_enemy = {
 		limit = {
+			ai = yes
 			in_command = yes 
 		OR = {
 			has_artifact = mech_suit
@@ -771,3 +773,41 @@ character_event = {
 		wealth = 200
 		}
 	}
+#FILTHY PAGANS DON'T BELONG IN MECH SUITS
+character_event = {
+	id = suit_events.16
+	desc = "EVTDESCsuit_events.16"
+	picture = GFX_mech_fight
+	border = GFX_event_normal_frame_war
+	only_playable = yes
+		
+
+	is_triggered_only = yes
+		
+	trigger = {
+		in_command = yes
+		in_battle = yes
+		NOT = { has_character_modifier = good_pilot }
+		trait = mech_pilot
+		religion_group = pagan_group
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+			has_artifact = super_mech_suit
+		}
+	}
+	option = { 
+	name = "EVTOPTAsuit_events.16" 
+		custom_tooltip = { text = suitevt16 }
+		remove_trait = mech_pilot
+		add_trait = wounded
+			random = {
+				chance = 25
+				add_trait = maimed
+				}
+		any_artifact = { 
+				limit = { has_artifact_flag = mecha_suit
+					is_artifact_equipped = yes }
+				unsafe_destroy_artifact = yes }
+		}
+}
