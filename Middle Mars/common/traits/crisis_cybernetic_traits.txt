@@ -353,6 +353,11 @@ full_cybernetic_conversion = {
 	fertility = -100
 	ruler_designer_cost = 20
 	combat_rating = 40
+	ai_rationality = -5
+	ai_ambition = 20
+	ai_zeal = 5
+	ai_greed = 10
+	ai_honor = -5
 }
 damaged_cybernetics = {
 	is_health = yes

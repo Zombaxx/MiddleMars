@@ -5,9 +5,18 @@ decisions = {
 			age = 14
 			OR = {
 				religion = taoist
-				any_neighbor_independent_ruler = {
-					religion = taoist
-						}
+				capital_scope = {
+					region = world_planum_australe
+					}
+				capital_scope = {
+					region = world_noachis_terra 
+					}
+				location = {
+					region = world_planum_australe
+					}
+				location = {
+					region = world_noachis_terra 
+					}
 			}
 			prisoner = no
 			NOT = { religion_group = pagan_group }
@@ -20,10 +29,9 @@ decisions = {
 
 		}
 		allow = {
-			in_command = no
 			age = 14
-			wealth = 200
-
+			wealth = 750
+			
 		}
 		effect = { 
 				character_event = { id = buy_mech.2 } 
@@ -47,9 +55,18 @@ decisions = {
 			age = 14
 			OR = {
 				religion = taoist
-				any_neighbor_independent_ruler = {
-					religion = taoist
-						}
+				capital_scope = {
+					region = world_planum_australe
+					}
+				capital_scope = {
+					region = world_noachis_terra 
+					}
+				location = {
+					region = world_planum_australe
+					}
+				location = {
+					region = world_noachis_terra 
+					}
 			}
 			prisoner = no
 			NOT = { religion_group = pagan_group }
@@ -62,9 +79,8 @@ decisions = {
 
 		}
 		allow = {
-			in_command = no
 			age = 14
-			wealth = 150
+			wealth = 500
 		}
 		effect = { 
 				character_event = { id = buy_mech.3 } 
@@ -91,6 +107,14 @@ decisions = {
 		potential = {
 			age = 14
 			religion = taoist
+			OR = {
+				capital_scope = {
+					region = world_planum_australe
+					}
+				capital_scope = {
+					region = world_noachis_terra 
+					}
+				}
 			prisoner = no
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
@@ -100,9 +124,8 @@ decisions = {
 
 		}
 		allow = {
-			in_command = no
 			age = 14
-			wealth = 600
+			wealth = 1600
 		}
 		effect = { 
 				character_event = { id = buy_mech.4 } 

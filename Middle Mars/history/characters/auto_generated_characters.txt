@@ -54093,6 +54093,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 30
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = clone
 	trait = gmo
 	trait = iaei_mk_ii
@@ -54124,6 +54126,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 30
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = cat_splice
 	trait = clone
 	trait = gmo
@@ -54181,6 +54185,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 28
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = iaei_mk_ii
 	trait = thoth_mk_iii
 	trait = pluto_mk_ii
@@ -54211,6 +54217,8 @@
 	trait = vat_born
 	trait = gmo
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = iaei_mk_ii
 	trait = thoth_mk_ii
 	trait = pluto_mk_ii
@@ -54244,6 +54252,8 @@
 	trait = vat_born
 	trait = gmo
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = iaei_mk_ii
 	trait = thoth_mk_ii
 	trait = pluto_mk_ii
@@ -54253,6 +54263,7 @@
 	trait = heavy_worlder
 	trait = genius
 	trait = scarred
+	trait = scarred_type_2	
 	
 	4.4.1={
 		birth="4.4.1"
@@ -54275,6 +54286,8 @@
 	trait = clone
 	trait = cloning_defects
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = iaei_mk_ii
 	trait = thoth_mk_ii
 	trait = pluto_mk_ii
@@ -54283,6 +54296,7 @@
 	trait = physician
 	trait = quick
 	trait = scarred
+	trait = scarred_type_1	
 	trait = damaged_cybernetics
 	trait = possessed
 	trait = lunatic
@@ -54308,6 +54322,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 28
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = clone
 	trait = gmo
 	trait = iaei_mk_iii
@@ -54321,6 +54337,7 @@
 	trait = damaged_cybernetics
 	trait = possessed
 	trait = scarred
+	trait = scarred_type_3	
 	3.11.1={
 		birth="3.11.1"
 	}
@@ -54334,6 +54351,214 @@
 		death="1087.1.1"
 	}
 }
+
+1111900 = {
+	name = "Rick"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "messalian"
+	trait = adventurer
+	trait = genius
+	trait = odin_mk_ii
+	trait = iaei_mk_i
+	health = 7
+fertility = 0.8
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111901 = {
+	name = "Anthony"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = quick
+	trait = adventurer
+	trait = thoth_mk_i
+	trait = odin_mk_i
+	health = 6
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111902 = {
+	name = "Andrea"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = agile
+	trait = adventurer
+	trait = pci_mk_i
+	trait = iaei_mk_i
+	health = 6
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111903 = {
+	name = "Samuel"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "messalian"
+	trait = adventurer
+	trait = pci_mk_i
+	trait = odin_mk_i
+	health = 6
+	fertility = 0.8
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111904 = {
+	name = "Raymond"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = strong
+	trait = brave
+	trait = adventurer
+	trait = thoth_mk_i
+	trait = iaei_mk_i
+	health = 6
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111905 = {
+	name = "Frank"
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = zealous
+	trait = adventurer
+	trait = thoth_mk_i
+	trait = pluto_mk_ii
+	health = 6
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1111906 = {
+	name = "Morty"
+	trait = heavy_worlder
+	trait = one_eyed
+	trait = quick
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = adventurer
+	trait = ambitious
+	trait = thoth_mk_i
+	trait = iaei_mk_i
+	health = 6
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+
+1111907 = {
+	name = "Jeremy"
+
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "messalian"
+	trait = odin_mk_i
+	trait = iaei_mk_i
+	health = 6
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+1111908 = {
+	name = "Alex"
+
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "taoist"
+	secret_religion = "messalian"
+	trait = odin_mk_i
+	trait = iaei_mk_i
+	health = 6
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+1037159 = {
+	name = "Njord"
+	dynasty = 117630
+	culture = "tau_cetinese"
+	religion = "norse_pagan"
+	secret_religion = "khurmazta"
+	immortal_age = 31
+	health = 7
+	historical = yes
+	trait = clone
+	trait = gmo
+	trait = one_eyed
+	trait = iaei_mk_iii
+	trait = thoth_mk_ii
+	trait = pluto_mk_i
+	trait = odin_mk_iii
+	trait = pci_mk_i
+	trait = physician
+	trait = strong
+	trait = sturdy
+	trait = damaged_cybernetics
+	trait = possessed
+	trait = scarred
+	trait = scarred_type_5
+	2.28.1={
+		birth="2.28.1"
+	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
+
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
 1037160 = {
 	name = "Chan"
 	dynasty = 117630
@@ -54342,6 +54567,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 102
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = vat_born
 	trait = gmo
 	trait = iaei_mk_i
@@ -54374,6 +54601,8 @@
 	secret_religion = "khurmazta"
 	immortal_age = 41
 	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
 	trait = damaged_cybernetics
 	trait = vat_born
 	trait = gmo
@@ -54398,6 +54627,76 @@
 	}
 	1381.1.1={
 		death="1381.1.1"
+	}
+}
+10371501 = {
+	name = "Kami"
+	employer = 103715
+	dynasty = 117620
+	culture = "zun_pagan"
+	religion = "messalian"
+	secret_religion = "khurmazta"
+	immortal_age = 61
+	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
+	trait = damaged_cybernetics
+	trait = heavy_worlder
+	trait = iaei_mk_ii
+	trait = thoth_mk_ii
+	trait = pluto_mk_iii
+	trait = odin_mk_iii
+	trait = pci_mk_i
+	trait = possessed
+	trait = physician
+	trait = quick
+	1.11.1={
+		birth="1.8.1"
+	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
+	1066.16.1 = {
+		add_trait = lunatic
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+10371501 = {
+	name = "Celesta"
+	employer = 103715
+	dynasty = 117620
+	culture = "zun_pagan"
+	religion = "messalian"
+	secret_religion = "khurmazta"
+	father = 10371501
+	immortal_age = 17
+	trait = full_cybernetic_conversion
+	health = 7
+	historical = yes
+	trait = clone
+	trait = heavy_worlder
+	trait = pluto_mk_ii
+	trait = odin_mk_ii
+	trait = pci_mk_i
+	trait = physician
+	trait = quick
+	20.11.1={
+		birth="20.11.1"
+	}
+	1065.1.1 = {
+		effect = {
+			e_planum_australe = { add_claim = ROOT }
+		}
+	}
+	1066.16.1 = {
+		add_trait = scarred
+	}
+	1068.1.1={
+		death="1068.1.1"
 	}
 }
 10371514 = {
@@ -54557,14 +54856,22 @@
 	dynasty = 117620
 	culture = "coptic"
 	religion = "messalian"
+	health = 6
+	fertility = 0.8
 	trait = heavy_worlder
 	trait = quick
 	trait = ambitious
-	martial = 10
+	trait = proud
+	martial=14
+	diplomacy=9
+	intrigue=7
+	stewardship=12
+	trait = diligent
+	historical = yes
 	father = 1037151
 	mother = 1037152
-	1051.1.1={
-		birth="1051.1.1"
+	1051.6.4={
+		birth="1051.6.4"
 	}	
 	1065.1.1 = {
 		effect = {

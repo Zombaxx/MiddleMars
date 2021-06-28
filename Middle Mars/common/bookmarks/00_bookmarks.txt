@@ -24,20 +24,20 @@ bm_middle_mars = {
 		}
 	}
 	selectable_character = {
-		id = 102265 # Maximilianos of Olympus Mons
-		age = 27
-		name = ERA_CHAR_NAME_102265
-		title = d_olympus_mons
-		title_name = d_olympus_mons
-		dlc = "The Old Gods"
+		id = 120705 # Captian Mogui Zhi 'the Demon' of Tharsis Montes
+		age = 32
+		name = ERA_CHAR_NAME_120705
+		title = k_tharsis_montes
+		title_name = k_tharsis_montes
+		dlc = "Jade Dragon"
 		
 		character = {
-			dna = zpabrsaohdv
-			properties = am000c00
-			religion="hellenic_pagan"
-			culture="greek"
+			dna = wgcugyozaff
+			properties = hb00ja000000a0bc
+			religion="zun_pagan"
+			culture="han"
 			government = feudal_government
-			dynasty=102260
+			dynasty=120700
 		}
 	}
 	selectable_character = {
@@ -89,6 +89,23 @@ bm_middle_mars = {
 			culture="coptic"
 			government = feudal_government
 			dynasty=117620
+		}
+	}
+	selectable_character = {
+		id = 102265 # Maximilianos of Olympus Mons
+		age = 27
+		name = ERA_CHAR_NAME_102265
+		title = d_olympus_mons
+		title_name = d_olympus_mons
+		dlc = "The Old Gods"
+		
+		character = {
+			dna = zpabrsaohdv
+			properties = am000c00
+			religion="hellenic_pagan"
+			culture="greek"
+			government = feudal_government
+			dynasty=102260
 		}
 	}
 }
