@@ -6,7 +6,7 @@ namespace = roycoup
 		is_triggered_only = yes
 
 	trigger = {
-		has_minor_title = grand_judge
+		has_minor_title = title_grand_judge
 		employer = {
 			crownlaw_title = {
 				OR = {

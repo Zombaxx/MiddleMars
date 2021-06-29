@@ -21,7 +21,6 @@ settlement_sacked = {
 	levy_size = -0.75
 	local_tax_modifier = -0.75
 	garrison_size = -0.75
-	local_tax_modifier = -0.75
 	icon = 106
 }
 
@@ -29,7 +28,6 @@ settlement_razed = {
 	levy_size = -2
 	local_tax_modifier = -2
 	garrison_size = -2
-	local_tax_modifier = -2
 	icon = 106
 }
 
