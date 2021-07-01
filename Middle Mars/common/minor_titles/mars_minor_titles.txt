@@ -75,6 +75,7 @@ title_grand_judge = {
 	
 	allowed_to_hold = {
 		is_landed = no
+		is_adult = yes
 		learning = 12
 		NOT = { trait = trait_slave }
 	}

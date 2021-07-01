@@ -1,24 +1,5 @@
 
 castle = {	
-	ca_conference_center = {		
-		desc = ca_conference_center_desc	
-		potential = {	
-			FROM = {	
-				religion = taoist	
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 0 }	
-		gold_cost = 302
-		build_time = 730	
-		ai_creation_factor = 110	
-		extra_tech_building_start = 0.5
-		add_number_to_name = no	
-		culture_techpoints = 0.05
-		court_size_modifier = 2
-	}
 	ca_assembly_chamber = {
 		desc = ca_assembly_chamber_desc
 		potential = {	
@@ -60,23 +41,6 @@ castle = {
 		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		culture_techpoints = 0.10
-	}
-	ca_peace_monument = {
-		desc = ca_peace_monument_desc
-		potential = {	
-			FROM = {		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 2 }
-		gold_cost = 45
-		build_time = 130
-		ai_creation_factor = 110
-		extra_tech_building_start = 10
-		add_number_to_name = no
-		liege_piety = 0.2
 	}
 	ca_cultural_exchange = {
 		desc = ca_cultural_exchange_desc
@@ -210,23 +174,6 @@ castle = {
 		extra_tech_building_start = 0.6
 		add_number_to_name = no
 		military_techpoints = 0.5
-	}
-	ca_victory_monument = {
-		desc = ca_victory_monument_desc
-		potential = {	
-			FROM = {		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 0 }
-		gold_cost = 100
-		build_time = 730
-		ai_creation_factor = 110
-		extra_tech_building_start = 10
-		add_number_to_name = no
-		liege_prestige = 0.75
 	}
 	ca_economic_bureau = {
 		desc = ca_economic_bureau_desc
@@ -553,16 +500,17 @@ castle = {
 			FROM = {
 			OR = {
 				religion = taoist
-				culture = basque
-				TECH_CITY_CONSTRUCTION = 8
-				}		
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 5 }
-		gold_cost = 900
+		trigger = { TECH_CONSTRUCTION = 5 }
+		gold_cost = 2500
 		build_time = 930
 		disease_defence = 0.25
 		ai_creation_factor = 110

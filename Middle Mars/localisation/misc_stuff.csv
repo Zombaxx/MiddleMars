@@ -25,3 +25,12 @@ succ_gavelkind_desc;Succession is determined by vote from all adults 21 and olde
 succ_elective_gavelkind;Terran Democratic Gavelkind;;;x
 succ_elective_gavelkind_desc;Succession is determined by vote from all adults 21 and over in the realm, including unlanded lowborns and bastards but excluding slaves. The ruler is decided by the will of the people.;;;x
 martian_elective;Terran Elective;;;x
+
+EVTNAMEUnderdog.103;Unrest in [From.PrimaryTitle.GetName]!;;;;;;;;;x
+EVTDESCUnderdog.103;A wave of unrest has stirred up the peasants in [From.PrimaryTitle.GetName]! They claim that the realm is too big, and that their interests have been neglected for too long! The peasants are angry like never before. Could this be the revolution that tears [From.PrimaryTitle.GetName] apart?;;;;;;;;;x
+EVTOPTAUnderdog.103;At least it isn't happening here!;;;;;;;;;x
+EVTOPTBUnderdog.103;Not on my watch...;;;;;;;;;x
+realm_too_big_minor;Minor Peasant Unrest;;;;;;;;;x
+realm_too_big_large;Significant Peasant Unrest;;;;;;;;;x
+realm_too_big_major;Major Peasant Unrest;;;;;;;;;x
+

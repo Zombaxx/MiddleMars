@@ -147,6 +147,18 @@ succession_laws = {
 					culture_group = chinese_group
 				}
 			}
+			modifier = {
+				factor = 5
+				holder_scope = {
+					capital_scope = {
+					OR = { 
+						region = world_aonia_terra 
+						region = world_west_argyre
+						region = world_planum_australe 
+						}
+					}
+				}
+			}
 			modifier = { #If AI has enacted seniority dont go back unless they will have an heir
 				factor = 0	
 				holder_scope = {
