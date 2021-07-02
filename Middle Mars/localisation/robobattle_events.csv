@@ -17,3 +17,7 @@ EVTNAMErobobattle_events.11;Decisive Victory;;;;;;;;;;;;;x
 EVTDESCrobobattle_events.11;You and your opponent dance around one another for what seems like forever in your Mech Suits, trying desperately to maneuver out of the way of the deadly shots and swings being thrown. Alas, you find a blind spot and ram your machine's claw right through your enemy, disabling it for good. Unfortunately, the pilot managed to retreat with their life before you could finish them off.;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.11;Flee, coward!;;;;;;;;;;;;;x
 
+EVTDESCrobobattle_events.1122;You and your opponent dance around one another for what seems like forever in your Mech Suits, trying desperately to maneuver out of the way of the deadly shots and swings being thrown. Alas, you find a blind spot and ram your machine's claw right through your enemy, disabling it for good and killing its occupant.;;;;;;;;;;;;;x
+EVTOPTArobobattle_events.11;Victory is mine!;;;;;;;;;;;;;x
+
+

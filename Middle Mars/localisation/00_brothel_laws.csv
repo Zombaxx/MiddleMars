@@ -22,7 +22,7 @@ judge2;Though whoring is against the law, a small fine should suffice for such a
 EVTOPTCroyjudge.1;Intervene and have him released.;;;x
 judge3;[From.GetFirstName] be damned, this isn't worth throwing a man in prison!;;;x
 
-EVTDESCROYJUDGE2;Your Grand Judge has summoned the court today to make an announcement. [From.GetTitledName] has decreed that the moral effects of prostitution outweigh the money it brings to the realm. He speaks of a growing number of unaccounted for bastard children in the capital and rising crime due to moral decay as his reason for this decision.;;;x
+EVTDESCROYJUDGE2;Your Grand Judge has summoned the court today to make an announcement. [From.GetTitledName] has decreed that the moral effects of prostitution outweigh the money it brings to the realm. [From.GetSheHeCap] speaks of a growing number of unaccounted for bastard children in the capital and rising crime due to moral decay as [From.GetHerHis] reason for this decision.;;;x
 EVTOPTAroyjudge.3;I defer to you, Judge.;;;x
 judge4;Allow [From.GetTitledName]'s decree to stand.;;;x
 EVTOPTBroyjudge.3;I think not.;;;x
