@@ -41,7 +41,7 @@ targetted_decisions = {
 		}
 		
 		effect = {		
-			FROM = { character_event = { id = lettersoc.0 } 
+			FROM = { character_event = { id = lettersoc.0 } }
 			FROM = { add_character_modifier = { name = sent_letter duration = 30 } }
 			}		
 		ai_will_do = {
