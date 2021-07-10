@@ -48,10 +48,6 @@ north_germanic = {
 		
 		from_dynasty_prefix = ""
 		
-		male_patronym = "son of "
-		female_patronym = "daughter of "
-		prefix = yes
-		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -3623,48 +3619,52 @@ east_african = {
 		color = { 0.6 0.6 0.5 }
 
 		male_names = { 
-			Allen_Alan Adyáko Amir Adanko Abraham_Abraham Ambrose
-			Bigyai Belali Bryan_Brian Benjermun_Benjamin
-			Choolay Clarence Cesar_Caesar Cater Cleveland Charlton Clay
-			Dosar Dembo Dred Denmark
-			Eli_Elijah Emory Eulis Eldzier
-			Gaspar_Jasper
-			Harbert_Herbert
-			Jedus Jupiter Jihmi_James Jamal Jack_John Julien_Julian Joseph
-			Lorenzo_Lawrence Lee Lenard_Leonard
-			Myers Mohomet Mose_Moses
-			Osman Omar
-			Pinckney Philip 
-			Quentin 
-			Remus Riley Robert Ross Ron_Ronald 
-			Silas Sam_Samuel
-			Takyi Tony_Anthony
-			Ursell
-			Wiley_William Washo
+			Anthony Allen Akademiks Alan Ace Amir Adanko Abraham Ambrose
+			Biggie Belali Burna Boosie Bryan Brian Benjamin Berg
+			Clarence Cesar Carti Caesar Cain Cleveland Charlamagne Clay
+			Donald Dembo Dred Denmark Durk Dirk
+			Eli Elijah Emory Eulis Eldzier
+			Future Frenchh Gohan 
+			Jasper Jersey
+			Herbert Herbo
+			Jedus Jupiter James Jihad Jamal Jon Julien Joseph
+			Lorenzo Lebron Lee Lenard
+			Kahry Kyrie Kwame Keion
+			Myers Moses Mavado Meek
+			Osman Omar Osiris Orlando
+			Piccolo Philip Purp
+			Quentin Quavo Quran Quando Offset
+			Remus Riley Robert Ross Ron Ronald Rocky
+			Silas Soulja Sam Samuel Snoop Shaq
+			Tony Takeoff Tyler
+			Uzi Ursell Von
+			Wiley Wayne William 
+			Youngboy
 		}
 		female_names = { 
-			Adelaide Althea Anita
-			Bentoo
-			Chaalut Cotto Cornelia Caroline Crissy
-			Eden Ethel Eloise Eliza_Elizabeth Eula
-			Fatima
-			Glenda Gia
-			Haagar Hestuh Helena_Helen
-			Inez_Agnes Iona
-			Jean_Joana Julia
-			Katie_Catherine Kuta
-			Leola Lucy_Lucy Lennis Lana
-			Magret_Margaret Medina Martha Mae_May Marquetta Michelle Mary Mable
-			Natalga Nancy
-			Onawumi Ophelia
-			Peggy Phoebe Pearlie
+			Adelaide Australia America Althea Anita Asia
+			Beyonce Blue 
+			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Doll Doja Dej 
+			Eden Ethel Europa Eloise Eliza Elizabeth Eula
+			Fatima Francia
+			Glenda Gia Gina
+			Hellen Helena Helen Hailey
+			Inez Agnes Ivory Ivy Inaya
+			Jean Joana Julia
+			Katie Catherine Kansas Kylie
+			Leola Lucy Lennis Lana London
+			Margaret Miami Medina Martha Megan Mae May Marquetta Michelle Mary Mable
+			Natasha Nancy Nicki 
+			Ophelia Onika
+			Peggy Phoebe Paris Pearlie Pearl
 			Queen Quiana
-			Ramona Rosa_Rose Ronnie
-			Sabra Sula Sue_Susan
-			Tamie Tempy Tildy Trula
+			Ramona Rosa Rose Ruby Ronnie Rihanna
+			Sabra Sula Sue Susan Summer Saweetie
+			Tamie Tammy Tina Trina
 			Vertamae Veronica Viola
-			Yaruba
-			Wannah
+			Yaya
+			Wanda
 		}
 		
 		founder_named_dynasties = yes
@@ -3718,48 +3718,52 @@ central_african = {
 		color = { 0.9 0.55 0.8 }
 		
 		male_names = { 
-			Allen_Alan Adyáko Amir Adanko Abraham_Abraham Ambrose
-			Bigyai Belali Bryan_Brian Benjermun_Benjamin
-			Choolay Clarence Cesar_Caesar Cater Cleveland Charlton Clay
-			Dosar Dembo Dred Denmark
-			Eli_Elijah Emory Eulis Eldzier
-			Gowon Gaspar_Jasper
-			Harbert_Herbert
-			Jedus Jupiter Jihmi_James Jamal Jack_John Julien_Julian Joseph
-			Lorenzo_Lawrence Lee Lenard_Leonard
-			Myers Mohomet Mose_Moses
-			Osman Omar
-			Pinckney Philip 
-			Quentin 
-			Remus Riley Robert Ross Ron_Ronald 
-			Silas Sam_Samuel
-			Takyi Tony_Anthony
-			Ursell
-			Wiley_William Washington
+			Anthony Allen Akademiks Alan Ace Amir Adanko Abraham Ambrose
+			Biggie Belali Burna Boosie Bryan Brian Benjamin Berg
+			Clarence Cesar Carti Caesar Cain Cleveland Charlamagne Clay
+			Donald Dembo Dred Denmark Durk Dirk
+			Eli Elijah Emory Eulis Eldzier
+			Future Frenchh Gohan 
+			Jasper Jersey
+			Herbert Herbo
+			Jedus Jupiter James Jihad Jamal Jon Julien Joseph
+			Lorenzo Lebron Lee Lenard
+			Kahry Kyrie Kwame Keion
+			Myers Moses Mavado Meek
+			Osman Omar Osiris Orlando
+			Piccolo Philip Purp
+			Quentin Quavo Quran Quando Offset
+			Remus Riley Robert Ross Ron Ronald Rocky
+			Silas Soulja Sam Samuel Snoop Shaq
+			Tony Takeoff Tyler
+			Uzi Ursell Von
+			Wiley Wayne William 
+			Youngboy
 		}
 		female_names = { 
-			Adelaide Althea Anita
-			Bea Bethabelle
-			Chaalut Cotto Cornelia Caroline Crissy
-			Eden Ethel Eloise Eliza_Elizabeth Eula
-			Fatima
-			Glenda Gia
-			Haagar Hestuh Helena_Helen
-			Inez_Agnes Iona
-			Jean_Joana Julia
-			Katie_Catherine Kuta
-			Leola Lucy_Lucy Lennis Lana
-			Magret_Margaret Medina Martha Mae_May Marquetta Michelle Mary Mable
-			Natalga Nancy
-			Onawumi Ophelia
-			Peggy Phoebe Pearlie
-			Quima Quiana
-			Ramona Rosa_Rose Ronnie
-			Sabra Sula Sue_Susan
-			Tamie Tempy Tildy Trula
+			Adelaide Australia America Althea Anita Asia
+			Beyonce Blue 
+			Cotto China Celina Cornelia Cardi Caroline Crissy Cleopatra
+			Doll Doja Dej 
+			Eden Ethel Europa Eloise Eliza Elizabeth Eula
+			Fatima Francia
+			Glenda Gia Gina
+			Hellen Helena Helen Hailey
+			Inez Agnes Ivory Ivy Inaya
+			Jean Joana Julia
+			Katie Catherine Kansas Kylie
+			Leola Lucy Lennis Lana London
+			Margaret Miami Medina Martha Megan Mae May Marquetta Michelle Mary Mable
+			Natasha Nancy Nicki 
+			Ophelia Onika
+			Peggy Phoebe Paris Pearlie Pearl
+			Queen Quiana
+			Ramona Rosa Rose Ruby Ronnie Rihanna
+			Sabra Sula Sue Susan Summer Saweetie
+			Tamie Tammy Tina Trina
 			Vertamae Veronica Viola
-			Yaruba Yama
-			Wannah
+			Yaya
+			Wanda
 		}
 	}
 	
