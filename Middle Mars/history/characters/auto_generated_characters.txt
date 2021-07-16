@@ -20676,7 +20676,7 @@
 	name = "Liawizo"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "catholic"
+	religion = "norse_pagan"
 	trait = elusive_shadow
 	intrigue = 10
 	trait = one_eyed
@@ -20695,7 +20695,7 @@
 	name = "Unwan"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "catholic"
+	religion = "norse_pagan"
 	father = 101420
 	963.1.1={
 		birth="963.1.1"
@@ -20724,7 +20724,7 @@
 	name = "Hermann"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "catholic"
+	religion = "norse_pagan"
 	father = 101421
 	1007.1.1={
 		birth="1007.1.1"
@@ -20809,7 +20809,7 @@
 	name = "Asig"
 	dynasty = 101420
 	culture = "old_saxon"
-	religion = "catholic"
+	religion = "norse_pagan"
 	father = 101423
 	1037.1.1={
 		birth="1037.1.1"
