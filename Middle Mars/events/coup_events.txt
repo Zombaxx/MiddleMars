@@ -61,15 +61,16 @@ namespace = roycoup
 			ROOT = { 
 				random = {
 					chance = 25
-					add_trait cruel
+					add_trait = cruel
 				}
 			ROOT = { 
 				random = {
 					chance = 25
-					add_trait arbitrary
+					add_trait = arbitrary
 				}
 			piety = -100
 			add_character_modifier = { modifier = vassals_outraged duration = 120}
 			}
 		}
+	}
 }
