@@ -1,4 +1,4 @@
-celestial_road_trade_post_display_trigger = {
+celestial_road_trade_post_trigger = {
 	OR = {
 		province_id = 24
 		province_id = 53
