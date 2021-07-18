@@ -130,7 +130,7 @@ bm_argyre = {
 			properties = nlu0d00
 			religion="sunni"
 			culture="andalusian_arabic"
-			government111580= feudal_government
+			government = feudal_government
 			dynasty=102260
 		}
 	}
