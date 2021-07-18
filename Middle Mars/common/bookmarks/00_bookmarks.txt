@@ -1,7 +1,7 @@
 bm_middle_mars = {
 	name = "BM_MIDDLE_MARS_ERA"
 	desc = "BM_MIDDLE_MARS_ERA_INFO"
-	date = 1066.9.15
+	date = 1184.9.15
 	
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1
@@ -130,7 +130,7 @@ bm_argyre = {
 			properties = nlu0d00
 			religion="sunni"
 			culture="andalusian_arabic"
-			government111580= feudal_government
+			government = feudal_government
 			dynasty=102260
 		}
 	}
