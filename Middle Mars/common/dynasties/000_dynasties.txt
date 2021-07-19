@@ -1,0 +1,16 @@
+613=
+{
+	name="Bezos"
+	culture="coptic"
+	religion="messalian"
+	coat_of_arms=
+	{
+		data=
+		{
+0 0 0 11 0 2 2 			}
+		religion="messalian"
+	}
+	can_appear=no
+	used_for_random=no
+	forced_coa_religiongroup="muslim"
+}

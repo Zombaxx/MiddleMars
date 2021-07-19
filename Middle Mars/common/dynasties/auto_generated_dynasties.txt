@@ -409,7 +409,7 @@
 	religion="catholic"
 }
 100800={
-	name="Ameludan"
+	name="Musk"
 	culture="old_frankish"
 	religion="catholic"
 }
