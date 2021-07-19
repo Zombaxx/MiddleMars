@@ -620,7 +620,7 @@ d_abduan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_icaria_planum_band = {
 	color={ 204 104 52 }
@@ -644,7 +644,7 @@ d_icaria_planum_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = russian_band_composition
+	mercenary_type = rus_band_composition
 }
 d_claritas_rupes_band = {
 	color={ 245 210 17 }
@@ -716,7 +716,7 @@ d_rumyuan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_aguoja_band = {
 	color={ 94 106 63 }
@@ -740,7 +740,7 @@ d_aguoja_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_south_marineris_band = {
 	color={ 122 45 122 }
@@ -860,7 +860,7 @@ d_datisam_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = russian_band_composition
+	mercenary_type = rus_band_composition
 }
 d_xanthe_terra_band = {
 	color={ 121 98 41 }
@@ -908,7 +908,7 @@ d_torah_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = russian_band_composition
+	mercenary_type = rus_band_composition
 }
 d_sabozin_band = {
 	color={ 79 206 125 }
@@ -956,7 +956,7 @@ d_bakh_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_rahala_band = {
 	color={ 71 229 45 }
@@ -1004,7 +1004,7 @@ d_argentea_planum_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = khitan_band_composition
+	mercenary_type = cuman_band_composition
 }
 d_aurorae_planum_band = {
 	color={ 77 148 86 }
@@ -1100,7 +1100,7 @@ d_ropilda_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = mongol_band_composition
+	mercenary_type = jurchen_band_composition
 }
 d_eos_band = {
 	color={ 65 10 85 }
@@ -1556,7 +1556,7 @@ d_ranida_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = turkish_band_composition
+	mercenary_type = turkic_band_composition
 }
 d_ebieguke_band = {
 	color={ 90 233 77 }
@@ -1652,7 +1652,7 @@ d_tirita_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = turkish_band_composition
+	mercenary_type = turkic_band_composition
 }
 d_wanona_band = {
 	color={ 243 180 48 }
@@ -1676,7 +1676,7 @@ d_wanona_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = bedouin_arabic_band_composition
+	mercenary_type = bedouin_company_composition
 }
 d_qeoan_band = {
 	color={ 139 104 44 }
@@ -1844,7 +1844,7 @@ d_tahaa_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_wadiga_band = {
 	color={ 129 113 2 }
@@ -1916,7 +1916,7 @@ d_rihan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_mid_composition_1
+	mercenary_type = generic_mid_composition
 }
 d_linipa_band = {
 	color={ 91 159 6 }
