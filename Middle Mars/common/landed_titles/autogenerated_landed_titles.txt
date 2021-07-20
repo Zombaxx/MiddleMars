@@ -8015,6 +8015,8 @@ e_daedalia_planum = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				
 				b_dalemir = {
 				dynasty_title_names = no
@@ -11916,6 +11918,8 @@ e_aonia_terra = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				
 				b_byusyt = {
 				dynasty_title_names = no
@@ -13231,6 +13235,8 @@ e_terra_sirenum = {
 				holy_site = bon_reformed
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = zoroastrian
 				holy_site = taoist
 				
@@ -18288,6 +18294,8 @@ e_planum_australe = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = taoist
 				
 				b_kobathi = {
@@ -21823,6 +21831,8 @@ e_hellas = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = shiite
 				holy_site = sunni
 				
