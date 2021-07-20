@@ -32,30 +32,7 @@ e_outremer = {
 
 	capital = 774
 
-	allow = {
-		conditional_tooltip = {
-			trigger = {
-				NOR = {
-					religion = catholic
-					religion = fraticelli
-				}
-			}
-			OR = {
-				religion = catholic
-				religion = fraticelli
-			}
-		}
-		conditional_tooltip = {
-			trigger = {
-				e_outremer = {
-					is_titular = yes
-				}
-			}
-			e_outremer = {
-				is_titular = no
-			}
-		}
-	}
+	allow = { always = no }
 }
 
 e_nicaea = {
@@ -70,18 +47,7 @@ e_nicaea = {
 
 	has_top_de_jure_capital = yes
 
-	allow = {
-		conditional_tooltip = {
-			trigger = {
-				e_nicaea = {
-					is_titular = yes
-				}
-			}
-			e_nicaea = {
-				is_titular = no
-			}
-		}
-	}
+	allow = { always = no }
 }
 
 e_lechczechrus = {
@@ -91,18 +57,7 @@ e_lechczechrus = {
 
 	capital = 547	#Kiev
 
-	allow = {
-		conditional_tooltip = {
-			trigger = {
-				e_lechczechrus = {
-					is_titular = yes
-				}
-			}
-			e_lechczechrus = {
-				is_titular = no
-			}
-		}
-	}
+	allow = { always = no }
 }
 
 e_bulgaria = {
@@ -113,18 +68,7 @@ e_bulgaria = {
 	
 	capital = 499 # Tyrnovo
 
-	allow = {
-		conditional_tooltip = {
-			trigger = {
-				e_bulgaria = {
-					is_titular = yes
-				}
-			}
-			e_bulgaria = {
-				is_titular = no
-			}
-		}
-	}
+	allow = { always = no }
 }
 
 k_papal_state = {
@@ -269,6 +213,7 @@ k_antioch = {
 	title_prefix = "principality_prefix"
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				k_antioch = {
@@ -297,6 +242,7 @@ k_switzerland = {
 	short_name = yes
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				k_switzerland = {
@@ -369,6 +315,7 @@ d_sunni = {
 	controls_religion = sunni
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = sunni
@@ -469,6 +416,7 @@ d_shiite = {
 	controls_religion = shiite
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = shiite
@@ -1574,6 +1522,7 @@ d_sunni_cuman_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1618,6 +1567,7 @@ d_sunni_berber_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1662,6 +1612,7 @@ d_sunni_bedouin_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1736,6 +1687,7 @@ d_shiite_cuman_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1780,6 +1732,7 @@ d_shiite_berber_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1824,6 +1777,7 @@ d_shiite_bedouin_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1868,6 +1822,7 @@ d_white_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1909,6 +1864,7 @@ d_great_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1949,6 +1905,7 @@ d_company_of_st_george = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1989,6 +1946,7 @@ d_star_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2029,6 +1987,7 @@ d_little_hat_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2069,6 +2028,7 @@ d_rose_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2111,6 +2071,7 @@ d_catalan_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2156,6 +2117,7 @@ d_navarrese_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2192,6 +2154,7 @@ d_swiss_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2232,6 +2195,7 @@ d_breton_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2273,6 +2237,7 @@ d_sardinian_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2314,6 +2279,7 @@ d_sardinian_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2356,6 +2322,7 @@ d_victual_brothers = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2462,6 +2429,7 @@ d_rus_company = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2598,6 +2566,7 @@ d_lombard_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2638,6 +2607,7 @@ d_swiss_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2678,6 +2648,7 @@ d_breton_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2722,6 +2693,7 @@ d_catalan_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2765,6 +2737,7 @@ d_saxon_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2841,6 +2814,7 @@ d_rus_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2887,6 +2861,7 @@ d_finnish_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2932,6 +2907,7 @@ d_lappish_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2977,6 +2953,7 @@ d_lithuanian_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3022,6 +2999,7 @@ d_abyssinian_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3067,6 +3045,7 @@ d_nubian_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3112,6 +3091,7 @@ d_scottish_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3316,6 +3296,7 @@ d_mamluks = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3355,6 +3336,7 @@ d_venetian_navy = { # Now "Adriatic Galleys"
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3396,6 +3378,7 @@ d_genoese_navy = { # Now "Ligurian Galleys"
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3437,6 +3420,7 @@ d_hanseatic_navy = { # Now "Baltic Cogs"
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3478,6 +3462,7 @@ d_frisian_navy = { # Now "North Sea Cogs"
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3519,6 +3504,7 @@ d_maghreb_corsairs = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3562,6 +3548,7 @@ d_ghilman = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3599,6 +3586,7 @@ d_ghanan_band = {
 	
 	# Hire Trigger
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3657,12 +3645,7 @@ e_hre = {                      # Created by special decision only
 		title = "GRAND_DUCHY_RULER"
 		title_female = "GRAND_DUCHY_RULER_FEMALE"
 
-		allow = {
-			conditional_tooltip = {
-				k_saxon = {
-					is_titular = yes
-				}
-			}
+		allow = { always = no }
 			k_saxon = {
 				is_titular = no
 			}
@@ -3674,28 +3657,19 @@ e_hre = {                      # Created by special decision only
 	k_franconia = {
 		color={ 100 108 100 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 254 # Würzburg
 
 		title_prefix = "GRAND_DUCHY_PREFIX"
 		title = "GRAND_DUCHY_RULER"
 		title_female = "GRAND_DUCHY_RULER_FEMALE"
 
-		allow = {
-			conditional_tooltip = {
-				k_franconia = {
-					is_titular = yes
-				}
-			}
-			k_franconia = {
-				is_titular = no
-			}
-		}
+		allow = { always = no }
 	}
 	k_swabia = {
 		color={ 206 203 203 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 249 #Schwaben
 
 		title_prefix = "GRAND_DUCHY_PREFIX"
@@ -3724,15 +3698,7 @@ e_germany = {
 	
 	culture = german
 	
-	allow = {
-		hidden_tooltip = {
-			OR = {
-				ai = no
-				culture_group = central_germanic
-				culture = old_saxon
-			}
-		}
-	}
+	allow = { always = no }
 	
 	k_austria = {
 		color={ 240 240 240 }
@@ -3767,18 +3733,7 @@ e_germany = {
 		allow = { always = no }
 		capital = 449
 
-		allow = {
-			conditional_tooltip = {
-				trigger = {
-					k_eastern_marches = {
-						is_titular = yes
-					}
-				}
-				k_eastern_marches = {
-					is_titular = no
-				}
-			}
-		}
+		allow = { always = no }
 	}
 
 	k_hansa = {
@@ -3810,15 +3765,7 @@ e_germany = {
 
 		capital = 257 # Brunswick
 
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture = old_saxon
-					culture = saxon
-				}
-			}
-		}
+		allow = { always = no }
 		
 		catholic = 3000 # Crusade target weight
 		norse_pagan_reformed = 500 # Crusade target weight
@@ -6204,6 +6151,7 @@ e_byzantium = {
 	purple_born_heirs = yes
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				e_roman_empire = {
@@ -6860,7 +6808,7 @@ primary = no
 	k_byzantium = {
 		color={ 135 30 125 }
 		color2={ 255 255 23 }
-		
+		allow = { always = no }
 		capital = 490 # Thessalonike
 		
 		culture = greek
@@ -7519,7 +7467,7 @@ primary = no
 	k_anatolia = {
 		color={ 177 60 100 }
 		color2={ 255 255 23 }
-		
+		allow = { always = no }
 		capital = 759 # Ikonion
 		
 		culture = greek
@@ -8251,7 +8199,7 @@ primary = no
 	k_armenia = {
 		color={ 172 82 55 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 681 #	Ani
 		
 		culture = armenian
@@ -9508,7 +9456,7 @@ primary = no
 	k_sicily = {
 		color = { 180 160 80 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 340 #	Palermo
 		
 		culture = italian
@@ -10118,7 +10066,7 @@ primary = no
 	k_georgia = {
 		color={ 205 145 145 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 679 # Kartli
 		
 		culture = georgian
@@ -10367,6 +10315,7 @@ e_italy = {
 	culture = italian
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -10557,7 +10506,7 @@ e_italy = {
 	k_pisa = {
 		color={ 196 192 140 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 327 # Pisa
 		culture = italian
 		
@@ -11610,7 +11559,7 @@ e_italy = {
 	k_sardinia = {
 		color={ 210 165 255 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 326 # Cagliari
 		
 		culture = italian
@@ -11845,6 +11794,7 @@ e_scandinavia = {
 	
 	# Creation/usurpation trigger
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -13959,7 +13909,7 @@ primary = no
 	k_finland = {
 		color = { 130 73 20 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 382 # Finland
 		
 		culture = finnish
@@ -14648,7 +14598,7 @@ primary = no
 	k_sapmi = {
 		color = { 255 125 69 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 279 # Sápmi
 		
 		culture = lappish
@@ -15211,6 +15161,7 @@ e_wendish_empire = {
 	culture = polish
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -15252,7 +15203,7 @@ e_wendish_empire = {
 	k_poland = {
 		color={ 150 23 23 }
 		color2={ 200 0 0 }
-		
+		allow = { always = no }
 		capital = 527 # Krakowskie
 		
 		culture = polish
@@ -16441,7 +16392,7 @@ primary = no
 	k_lithuania = {
 		color={ 90 10 0 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 420 # Aukshayts
 		
 		culture = lithuanian
@@ -17532,7 +17483,7 @@ e_russia = {
 	k_galicia-volhynia = {
 		color={ 50 150 130 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 535 # Vladimir Volynsky
 		
 		culture = russian
@@ -17848,7 +17799,7 @@ e_russia = {
 	k_ruthenia = {		#Kiev
 		color={ 70 150 90 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 547 # Kiev
 		
 		culture = russian
@@ -18459,7 +18410,7 @@ e_russia = {
 	k_chernigov = {
 		color={ 147 164 104 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 554 # Chernigov
 		
 		culture = russian
@@ -18909,7 +18860,7 @@ e_russia = {
 	k_rus = {		#Novgorod
 		color={ 137 194 100 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 414 # Novgorod
 		
 		slavic_pagan_reformed = 500 # Crusade target weight
@@ -19310,7 +19261,7 @@ e_russia = {
 	k_vladimir = {
 		color={ 87 144 50 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 582 # Vladimir
 		
 		slavic_pagan_reformed = 100 # Crusade target weight
@@ -19860,6 +19811,7 @@ e_pontic_steppe = {
 	
 	# Creation/Usurp Trigger
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -19881,7 +19833,7 @@ e_pontic_steppe = {
 	k_khazaria = {
 		color={ 250 184 31 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 620 #	Itil
 		
 		culture = khazar
@@ -20344,7 +20296,7 @@ primary = no
 	k_crimea = {
 		color={ 125 80 18 }
 		color2={ 255 255 20 }
-		
+		allow = { always = no }
 		capital = 559 # Crimea
 		
 		allow = {
@@ -20675,7 +20627,7 @@ primary = no
 	k_alania = {
 		color={ 185 140 78 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 603 # Alania
 		
 		allow = {
@@ -21019,6 +20971,7 @@ e_tartaria = {
 	
 	# Creation/Usurp Trigger
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -21029,7 +20982,7 @@ e_tartaria = {
 	
 	k_mongolia = {
 		color = { 100 100 250 }
-		
+		allow = { always = no }
 		capital = 1457 # Kara-khorum
 		
 		culture = mongol
@@ -22998,7 +22951,7 @@ e_idel_ural = {
 	k_perm = {
 		color={ 204 188 127 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 886 # Perm
 		
 		finnish_pagan_reformed = 500 # Crusade target weight
@@ -23836,7 +23789,7 @@ e_turkestan = {
 	k_turkestan = {
 		color={ 204 150 21 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1794 # Syr Darya
 		
 		culture = turkish
@@ -24242,7 +24195,7 @@ primary = no
 	}
 	k_khotan = {
 		color={ 255 228 109 }
-		
+		allow = { always = no }
 		capital = 1440 # Khotan
 		
 		turkish = "Uyghurstan"
@@ -25120,6 +25073,7 @@ e_persia = {
 	zun_pagan_reformed = 500 # Crusade target weight
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -25133,7 +25087,7 @@ e_persia = {
 	k_persia = {
 		color={ 151 224 24 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 646 #	Esfahan
 		
 		culture = persian
@@ -25690,7 +25644,7 @@ e_persia = {
 	k_baluchistan = { # Kingdom of Sistan
 		color={ 155 169 114 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1183 # Bost
 		
 		zoroastrian_group = 1500 # Crusade target weight
@@ -25910,7 +25864,7 @@ e_persia = {
 	k_afghanistan = { # Kingdom of Kabulistan
 		color={ 163 121 57 }
 		color2={ 220 220 0 }
-		
+		allow = { always = no }
 		capital = 1185 # Kabul
 		
 		culture = afghan
@@ -26618,7 +26572,7 @@ e_persia = {
 	k_daylam = {
 		color={ 70 125 147 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 666 # Gilan
 		
 		culture = persian
@@ -28842,6 +28796,7 @@ e_france = {
 	roman = "Gallia"
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -28862,7 +28817,7 @@ e_france = {
 	k_france = {
 		color={ 15 27 187 }
 		color2={ 255 255 20 }
-		
+		allow = { always = no }
 		capital = 112 # Ile de France
 		dignity = 30 # Counted as having this many more counties than it does
 		
@@ -30351,7 +30306,7 @@ e_france = {
 	k_brittany = {
 		color={ 165 49 16 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 105 # Vannes
 		
 		culture = breton
@@ -31215,6 +31170,7 @@ e_spain = {
 	culture = castillan
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				e_spain = {
@@ -31903,7 +31859,7 @@ primary = no
 	k_aragon = {
 		color = { 166 98 22 }
 		color2={ 230 0 0 }
-		
+		allow = { always = no }
 		capital = 202 # Zaragoza
 		
 		culture = castillan
@@ -32632,7 +32588,7 @@ primary = no
 	k_portugal = {
 		color={ 182 88 5 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 160 # Lisboa
 		
 		culture = portuguese
@@ -32763,7 +32719,7 @@ primary = no
 	k_andalusia = {
 		color = { 31 138 40 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 181 # Cordoba
 		
 		culture = andalusian_arabic
@@ -33186,6 +33142,7 @@ e_arabia = {
 	culture = bedouin_arabic
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -33198,7 +33155,7 @@ e_arabia = {
 
 	k_israel = {
 		color = { 20 138 255 }
-		
+		allow = { always = no }
 		capital = 774 # Jerusalem
 
 		roman = "Judea"
@@ -33216,7 +33173,7 @@ e_arabia = {
 	k_arabia = {
 		color={ 124 199 50 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 719 # Mecca
 		
 		culture = bedouin_arabic
@@ -33842,7 +33799,7 @@ e_arabia = {
 	k_yemen = {
 		color={ 218 234 33 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 859 # Taizz
 		
 		culture = bedouin_arabic
@@ -35010,7 +34967,7 @@ primary = no
 	k_jerusalem = {
 		color={ 180 180 180 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 774 # Jerusalem
 		
 		ashkenazi = "Yerusholaim"
@@ -36050,6 +36007,7 @@ e_maghreb = {
 	culture = maghreb_arabic
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -36063,7 +36021,7 @@ e_maghreb = {
 	k_mauretania = {
 		color={ 58 188 41 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 843 # Marrakech
 		
 		culture = maghreb_arabic
@@ -36699,7 +36657,7 @@ e_maghreb = {
 	k_africa = {
 		color={ 21 255 3 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 817 # Tunis
 		
 		culture = maghreb_arabic
@@ -37322,7 +37280,7 @@ e_abyssinia = {
 	k_abyssinia = {
 		color={ 120 62 20 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 883 # Gondar
 		
 		culture = ethiopian
@@ -38197,6 +38155,7 @@ primary = no
 	}
 	
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -38222,6 +38181,7 @@ e_britannia = {
 	
 	# Creation/usurpation trigger
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -39173,7 +39133,7 @@ e_britannia = {
 	k_wales = {
 		color={ 135 25 3 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 64 # Gwynedd
 		
 		culture = welsh
@@ -39578,7 +39538,7 @@ e_britannia = {
 	k_scotland = {
 		color={ 20 80 162 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 43 #Gowrie
 		
 		culture = scottish
@@ -40590,7 +40550,7 @@ primary = no
 	k_ireland = {
 		color={ 6 127 2 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 11 # Dublin
 		
 		culture = irish
@@ -41245,6 +41205,7 @@ e_mali = {
 	
 	# Creation/usurpation trigger
 	allow = {
+		allow = { always = no }
 		hidden_tooltip = {
 			OR = {
 				ai = no
@@ -41256,7 +41217,7 @@ e_mali = {
 	k_mali = {
 		color={ 158 188 61 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 925 # Mali/Niani
 		
 		culture = manden
@@ -41413,7 +41374,7 @@ e_mali = {
 	k_ghana = {
 		color={ 78 144 237 } #0 160 163   247 187 22
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 913 # Ghana
 		
 		culture = manden
@@ -41563,7 +41524,7 @@ e_mali = {
 	k_songhay = {
 		color={ 178 76 81 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 914 # Gao
 		
 		culture = manden
@@ -41672,7 +41633,7 @@ e_kanem = {
 	k_kanem = {
 		color={ 10 215 225 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1739 # Djimi
 		
 		d_bornu = {
@@ -41895,7 +41856,7 @@ e_kanem = {
 	k_hausaland = {
 		color={ 133 40 191 } #245 120 20   75 190 165
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1746 # Kano
 		
 		d_hausaland = {
@@ -42468,6 +42429,7 @@ d_swiss = {
 	capital = 246 # Schwyz
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_swiss = {
@@ -42771,6 +42733,7 @@ d_thessalia = {
 	color2={ 255 255 20 }
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_thessalia = {
@@ -42789,6 +42752,7 @@ d_peloponnese = {
 	color2={ 255 255 20 }
 
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_peloponnese = {
@@ -42920,7 +42884,7 @@ d_amalfi = {
 	dignity = 10
 	
 	allow = {
-		is_republic = yes
+		always = no
 	}
 }
 d_pechina = {
@@ -42930,7 +42894,7 @@ d_pechina = {
 	capital = 168 # Almeria
 
 	allow = {
-		is_republic = yes
+		always = no
 	}
 }
 d_ragusa = {
@@ -42945,7 +42909,7 @@ d_ragusa = {
 	dignity = 10
 
 	allow = {
-		is_republic = yes
+		always = no
 	}
 }
 
@@ -43288,6 +43252,7 @@ d_ibadi = {
 	controls_religion = ibadi
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = ibadi
@@ -43368,6 +43333,7 @@ d_kharijite = {
 	controls_religion = kharijite
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = kharijite
@@ -43448,6 +43414,7 @@ d_hurufi = {
 	controls_religion = hurufi
 	
 	allow = {
+		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = hurufi
@@ -44180,7 +44147,7 @@ e_rajastan = {
 	k_sindh = {
 		color={ 225 135 20 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1297 # Debul
 		
 		zun_pagan_reformed = 100 # Crusade target weight
@@ -44416,7 +44383,7 @@ e_rajastan = {
 	k_punjab = {
 		color={ 255 90 20 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1362 # Lahur
 		
 		zun_pagan_reformed = 150 # Crusade target weight
@@ -44787,7 +44754,7 @@ e_rajastan = {
 	k_delhi = {
 		color={ 220 150 75 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1365 # Delhi
 	
 		d_kuru = {
@@ -45054,7 +45021,7 @@ e_rajastan = {
 	k_gujarat = {
 		color={ 155 80 28 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1292 # Sarasvata Mandala
 	
 		d_gurjara_mandala = {
@@ -45356,7 +45323,7 @@ e_rajastan = {
 		
 		color={ 200 70 0 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1346 # Ajayameru
 	
 		d_maru = {
@@ -45708,7 +45675,7 @@ e_rajastan = {
 	k_malwa = {
 		color={ 255 200 25 }
 		color2={ 200 0 0 }
-		
+		allow = { always = no }
 		capital = 1288 # Ujjayini
 	
 		d_dadhipadra = { # Avanti
@@ -45968,7 +45935,7 @@ e_rajastan = {
 	k_kosala = {
 		color={ 205 60 10 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1356 # Kanyakubja
 	
 		d_kanyakubja = {
@@ -46378,7 +46345,7 @@ e_bengal = {
 	k_bengal = {
 		color = { 40 160 40 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1151 # Laksmanavati
 		
 		d_vanga = {
@@ -46982,7 +46949,7 @@ e_bengal = {
 	k_orissa = {
 		color={ 110 145 40 }
 		color2={ 255 255 23 }
-		
+		allow = { always = no }
 		capital = 1129 # Kataka
 		
 		d_daksina_kosala = {
@@ -47680,7 +47647,7 @@ e_deccan = {
 	k_maharastra = {
 		color={ 150 0 20 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1145 # Devagiri
 		
 		d_vidharba = {
@@ -48110,7 +48077,7 @@ e_deccan = {
 	k_karnata = {
 		color={ 150 20 0 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1143 # Kalyani
 		
 		d_kalyani = {
@@ -51026,7 +50993,7 @@ e_tibet = {
 	k_xixia = {
 		color={ 8 119 114 }
 		color2={ 255 255 255 }
-		
+		allow = { always = no }
 		capital = 1513 # Jiuquan (in lieu of Xingqing/Yinchuan)
 		
 		culture = tangut
