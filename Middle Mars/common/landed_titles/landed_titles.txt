@@ -3646,9 +3646,6 @@ e_hre = {                      # Created by special decision only
 		title_female = "GRAND_DUCHY_RULER_FEMALE"
 
 		allow = { always = no }
-			k_saxon = {
-				is_titular = no
-			}
 
 		catholic = 3000 # Crusade target weight
 		norse_pagan_reformed = 500 # Crusade target weight
