@@ -3649,7 +3649,6 @@ e_hre = {                      # Created by special decision only
 			k_saxon = {
 				is_titular = no
 			}
-		}
 
 		catholic = 3000 # Crusade target weight
 		norse_pagan_reformed = 500 # Crusade target weight
