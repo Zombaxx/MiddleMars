@@ -3650,7 +3650,7 @@ e_hre = {                      # Created by special decision only
 	k_saxon = {
 		color={ 70 70 70 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 257
 
 		title_prefix = "GRAND_DUCHY_PREFIX"
@@ -3737,7 +3737,7 @@ e_germany = {
 	k_austria = {
 		color={ 240 240 240 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 449
 
 		roman = "Noricum"
@@ -3764,7 +3764,7 @@ e_germany = {
 	k_eastern_marches = {
 		color={ 240 240 240 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 449
 
 		allow = {
@@ -3784,7 +3784,7 @@ e_germany = {
 	k_hansa = {
 		color={ 210 210 210 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 262 # Lübeck
 	
 		dignity = 200 # Never want the Hanseatic League to change primary title
@@ -5290,7 +5290,7 @@ primary = no
 	k_carinthia = {
 		color={ 140 240 200 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 457 # Krain/Carniola/Krainburg
 
 		carantanian = "Carantania"
@@ -6134,7 +6134,7 @@ primary = no
 		d_mainz = {
 			color={ 129 129 129 }
 			color2={ 255 255 255 }
-primary = no
+			primary = no
 			allow = { always = no }
 			capital = 123 # Mainz
 
@@ -6147,21 +6147,21 @@ primary = no
 	k_franconia_otto = {
 		color={ 105 135 105 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 254 # Würzburg
 	}
 
 	k_thuringia_otto = {
 		color={ 212 211 231 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 255 # Thuringen
 	}
 
 	k_swabia_otto = {
 		color={ 173 186 255 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 249 # Schwaben
 	}
 }
@@ -6531,7 +6531,7 @@ e_byzantium = {
 	k_thrace = {
 		color={ 120 50 120 }
 		color2={ 255 255 23 }
-
+		allow = { always = no }
 		capital = 496 # Constantinople
 
 		culture = greek
@@ -7267,7 +7267,7 @@ primary = no
 	k_epirus = {
 		color={ 150 40 60 }
 		color2={ 255 255 20 }
-
+		allow = { always = no }
 		capital = 472 # Epieros
 		
 		#serbian = "Draugabitia"
@@ -10600,7 +10600,7 @@ e_italy = {
 	k_romagna = {
 		color={ 215 141 152 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 351 # Rome
 
 		greek = "Ravenna"
@@ -10645,7 +10645,7 @@ e_italy = {
 	k_papacy = {
 		color={ 215 141 152 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 333 # Rome
 
 		short_name = yes
@@ -15225,7 +15225,7 @@ e_wendish_empire = {
 	k_moravia = {
 		color={ 158 102 36 }
 		color2={ 200 0 0 }
-
+		allow = { always = no }
 		capital = 441 # Brno
 
 		culture = bohemian
@@ -17141,8 +17141,7 @@ primary = no
 	
 	k_bohemia = {
         color={ 176 110 32 }
-        color2={ 255 255 255 }
-        
+        color2={ 255 255 255 }       
         culture = bohemian
         
         capital = 437 # Praha
@@ -17151,14 +17150,12 @@ primary = no
         slavic_pagan_reformed = 100 # Crusade target weight
         baltic_pagan_reformed = 50 # Crusade target weight
         
-		allow = {
-			k_moravia = { has_holder = no }
-		}
+		allow = { always = no }
 
         d_bohemia = {
            		color={ 195 110 11 }
            		color2={ 255 255 255 }
-           
+				allow = { always = no }			
            		capital = 437 # Praha
            
            		c_domazlice = {
@@ -17398,7 +17395,7 @@ primary = no
         d_moravia = {
             color={ 157 101 35 }
             color2={ 255 255 255 }
-            
+            allow = { always = no }
             capital = 440 # Olomouc
             
 			c_znojmo = {
@@ -17522,16 +17519,7 @@ e_russia = {
 	culture = russian
 	short_name = yes
 	
-	allow = {
-		hidden_tooltip = {
-			OR = {
-				ai = no
-				culture_group = north_germanic
-				culture_group = east_slavic
-				culture_group = finno_ugric
-			}
-		}
-	}
+	allow = { always = no }
 	
 	finnish = Suomi
 	lappish = Suomi
@@ -17554,15 +17542,7 @@ e_russia = {
 		tengri_pagan_reformed = 50
 		finnish_pagan_reformed = 50
 		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = north_germanic
-					culture_group = east_slavic 
-				}
-			}
-		}
+		allow = { always = no }
 		
 		d_volhynia = {
 			color={ 204 155 121 }
@@ -17878,15 +17858,7 @@ e_russia = {
 		tengri_pagan_reformed = 100
 		finnish_pagan_reformed = 100
 		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = north_germanic
-					culture_group = east_slavic 
-				}
-			}
-		}
+		allow = { always = no }
 		
 		norse = Könugarðr
 		swedish = Könugård
@@ -18497,15 +18469,7 @@ e_russia = {
 		tengri_pagan_reformed = 50
 		finnish_pagan_reformed = 50
 		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = north_germanic
-					culture_group = east_slavic 
-				}
-			}
-		}
+		allow = { always = no }
 		
 		d_chernigov = {
 			color={ 150 235 91 }
@@ -18957,16 +18921,7 @@ e_russia = {
 		
 		culture = russian
 		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = north_germanic
-					culture_group = east_slavic
-					culture_group = finno_ugric
-				}
-			}
-		}
+		allow = { always = no }
 		
 		d_beloozero = {		#Veps
 			color={ 120 155 80 }
@@ -19377,16 +19332,7 @@ e_russia = {
 			religion = "slavic_pagan"
 		}
 		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = north_germanic
-					culture_group = east_slavic
-					culture_group = finno_ugric
-				}
-			}
-		}
+		allow = { always = no }
 	
 		d_vladimir = {
 			color={ 180 200 90 }
@@ -22266,7 +22212,7 @@ primary = no
 	k_sibir = {
 		color={ 181 170 145 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 893 # Sibir
 
 		d_sibir = {
@@ -23501,7 +23447,7 @@ primary = no
 	k_nenets = {
 		color={ 180 110 80 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 1828 # Zavarot
 
 		allow = {
@@ -24152,7 +24098,7 @@ primary = no
 	k_zhetysu = {
 		color={ 200 130 70 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 1797 # Almaty
 
 		d_chuy = {
@@ -31359,7 +31305,7 @@ e_spain = {
 	k_badajoz = {
 		color={ 138 243 51 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 184 # Badajoz
 
 		visigothic = "Lusitania"
@@ -31654,7 +31600,7 @@ primary = no
 	k_valencia = {
 		color={ 48 167 45 }
 		color2={ 255 255 255 }
-
+		allow = { always = no }
 		capital = 171 # Valencia
 
 		visigothic = "Carthaginensis"
@@ -49285,7 +49231,7 @@ e_tibet = {
 	k_yarlung = {
 		color={ 209 52 80 }
 		color2= { 255 255 255 }
-
+		allow = { always = no }
 		capital = 1496 # Taktse
 
 		culture = bodpa
@@ -49295,7 +49241,7 @@ e_tibet = {
 		d_lhasa = { # A.k.a "Ü-Tsang"
 			color={ 225 75 0 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1498 # Lhasa
 			
 			dignity = 5
@@ -49397,7 +49343,7 @@ e_tibet = {
 		d_yarlung = {
 			color={ 209 52 40 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1496 # Taktse
 			
 			han = "Yalu"
@@ -49491,7 +49437,7 @@ e_tibet = {
 		d_shigatse = {
 			color={ 215 25 70 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1499 # Shigatse
 			
 			bodpa = "Xigazê"
@@ -49692,7 +49638,7 @@ e_tibet = {
 		d_nagchu = {
 			color={ 206 107 125 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1351 # Nagchu
 			
 			han = "Naqu"
@@ -49787,7 +49733,7 @@ e_tibet = {
 		d_sumparu = {
 			color={ 230 40 0 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1558 # Amdo
 			
 			culture = sumpa
@@ -49922,7 +49868,7 @@ e_tibet = {
 		d_bhutan = {
 			color={ 200 60 10 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1482 # Bumthang
 			
 			han = "Budan"
@@ -49973,7 +49919,7 @@ e_tibet = {
 	k_guge = {
 		color={ 137 168 188 }
 		color2= { 255 255 255 }
-
+		allow = { always = no }
 		capital = 1486 # Tsaparang
 		
 		zhangzhung = "Zhangzhung"
@@ -49984,7 +49930,7 @@ e_tibet = {
 		d_purang = {
 			color={ 67 130 219 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1491 # Purang
 			
 			zhangzhung = "Zhangzhung"
@@ -50148,7 +50094,7 @@ e_tibet = {
 		d_ngari = {
 			color={ 144 152 206 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1487 # Gar
 			
 			han = "Ali"
@@ -50332,7 +50278,7 @@ e_tibet = {
 		d_ladakh = {
 			color= { 63 113 158 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1468 # Leh
 			
 			bodpa = "Maryul"
@@ -50410,7 +50356,7 @@ e_tibet = {
 	k_kham = {
 		color={ 150 10 0 }
 		color2= { 255 255 255 }
-
+		allow = { always = no }
 		capital = 1508 # Qamdo
 		
 		han = "Kang"
@@ -50418,7 +50364,7 @@ e_tibet = {
 		d_dege = {
 			color={ 150 20 11 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1506 # Dege
 			
 			bodpa = "Dêgê"
@@ -50501,7 +50447,7 @@ e_tibet = {
 		d_qamdo = {
 			color={ 160 30 0 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1508 # Qamdo
 			
 			han = "Changdu"
@@ -50593,7 +50539,7 @@ e_tibet = {
 		d_nyingchi = {
 			color={ 170 10 30 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1500 # Nyingchi
 			
 			han = "Linzhi"
@@ -50696,7 +50642,7 @@ e_tibet = {
 		d_kathmandu = {
 			color= { 175 60 30 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1478 # Kathmandu
 			
 			han = "Jiademandu"
@@ -50768,7 +50714,7 @@ e_tibet = {
 		d_gorkha = {
 			color={ 195 100 20 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1475 # Pokhara
 			
 			bodpa = "Yartse"
@@ -50887,14 +50833,14 @@ e_tibet = {
 
 		color={ 204 180 30 }
 		color2= { 255 255 255 }
-
+		allow = { always = no }
 		capital = 1161 # Kasmira
 
 		d_kashmir = {
 
 			color={ 204 180 30 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1161 # Kasmira
 
 			c_kasmira = {
@@ -50963,7 +50909,7 @@ e_tibet = {
 		d_pamir = {
 			color={ 174 120 0 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1511 # Pamir
 			
 			c_pamir = {
@@ -51012,7 +50958,7 @@ e_tibet = {
 		d_uttaranchal = {
 			color= { 200 180 50 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1470 # Garhwal
 
 			c_kangra = {
@@ -51197,7 +51143,7 @@ e_tibet = {
 		d_qinghai = {
 			color={ 38 109 104 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1502 # Fuqi
 			
 			culture = tangut
@@ -51275,7 +51221,7 @@ e_tibet = {
 		d_nagormo = {
 			color={ 18 139 134 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1501 # Nagormo
 			
 			mongol = "Golmud"
@@ -51388,7 +51334,7 @@ e_tibet = {
 		d_nangqen = {
 			color={ 44 152 132 }
 			color2= { 255 255 255 }
-
+			allow = { always = no }
 			capital = 1503 # Nangqen
 			
 			bodpa = "Nangqên"
