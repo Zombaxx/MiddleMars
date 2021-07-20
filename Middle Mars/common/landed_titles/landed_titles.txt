@@ -4126,6 +4126,8 @@ primary = no
 		color={ 245 100 20 }
 		color2={ 220 220 20 }
 		
+
+		allow = { always = no }
 		culture = dutch
 		
 		capital = 80 #Holland
@@ -4328,6 +4330,8 @@ primary = no
 		color={ 110 110 160 }
 		color2={ 220 220 20 }
 		
+
+		allow = { always = no }
 		culture = frankish
 		
 		capital = 115 #Luxemburg
@@ -4768,6 +4772,8 @@ primary = no
 		color={ 91 100 100 }
 		color2={ 220 220 20 }
 		
+
+		allow = { always = no }
 		culture = german
 		
 		roman = "Raetia"
@@ -8511,6 +8517,8 @@ primary = no
 		color={ 113 88 101 }
 		color2={ 255 255 255 }
 		
+
+		allow = { always = no }
 		culture = bulgarian
 		
 		capital = 499 # Tyrnovo
@@ -8810,6 +8818,8 @@ primary = no
 		color={ 113 98 61 }
 		color2={ 255 255 255 }
 		
+
+		allow = { always = no }
 		culture = serbian
 		
 		capital = 502 # Rashka
@@ -9029,6 +9039,8 @@ primary = no
 		color={ 122 46 58 }
 		color2={ 200 0 0 }
 		
+
+		allow = { always = no }
 		culture = croatian
 		
 		capital = 465 # Zadar
@@ -10543,6 +10555,8 @@ e_italy = {
 			}
 		}
 		
+
+		allow = { always = no }
 		culture = italian
 	}
 
@@ -13073,6 +13087,8 @@ e_scandinavia = {
 		color={ 170 170 210 }
 		color2={ 220 220 220 }
 		
+
+		allow = { always = no }
 		culture = norwegian
 		
 		capital = 274 # Bergenshus
@@ -15780,6 +15796,8 @@ e_wendish_empire = {
 		color={ 145 130 40 }
 		color2={ 220 220 20 }
 		
+
+		allow = { always = no }
 		culture = pommeranian
 		
 		capital = 366 #Stettin
@@ -20639,6 +20657,8 @@ primary = no
 			}
 		}
 		
+
+		allow = { always = no }
 		culture = alan
 		
 		tengri_pagan_reformed = 200
@@ -21729,6 +21749,8 @@ primary = no
 		color = { 231 192 88 }
 		color2={ 255 255 255 }
 		
+
+		allow = { always = no }
 		culture = cuman
 		
 		capital = 895 #	Yaik
@@ -27341,6 +27363,8 @@ e_carpathia = {
 		color={ 220 132 40 }
 		color2={ 255 255 255 }
 		
+
+		allow = { always = no }
 		culture = romanian
 		
 		capital = 515 # Tirgoviste
@@ -27712,6 +27736,8 @@ e_carpathia = {
 			}
 		}
 		
+
+		allow = { always = no }
 		culture = hungarian
 		
 		catholic = 500 # Crusade target weight
@@ -35488,6 +35514,8 @@ primary = no
 		color={ 145 130 88 }
 		color2={ 255 255 255 }
 		
+
+		allow = { always = no }
 		culture = levantine_arabic
 		
 		capital = 728 # Damascus
@@ -44156,7 +44184,8 @@ e_rajastan = {
 		d_sauvira = {
 			color={ 230 135 20 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1297 # Debul
 			
 			c_debul = {
@@ -44260,7 +44289,8 @@ e_rajastan = {
 		d_bhakkar = {
 			color={ 200 105 18 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1138 # Bhakkar
 			
 			c_bhakkar = {
@@ -44392,7 +44422,8 @@ e_rajastan = {
 		d_multan = {
 			color={ 234 100 21 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1338 # Multan
 			
 			c_multan = {
@@ -44516,7 +44547,8 @@ e_rajastan = {
 		d_lahore = {
 			color={ 180 110 41 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1362 # Lahur
 			
 			c_lahur = {
@@ -44600,7 +44632,8 @@ e_rajastan = {
 		d_trigarta = {
 			color={ 155 80 15 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1193 # Trigarta
 			
 			c_trigarta = {
@@ -44667,7 +44700,8 @@ e_rajastan = {
 		d_gandhara = {
 			color={ 255 150 31 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1180 # Udabhanda
 			
 			c_udabhanda = {
@@ -44760,7 +44794,8 @@ e_rajastan = {
 		d_kuru = {
 			color={ 210 65 13 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1365 # Delhi
 			
 			c_delhi = {
@@ -44824,7 +44859,8 @@ e_rajastan = {
 		d_haritanaka = {
 			color={ 100 25 3 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1364 # Tribandapura
 			
 			c_hisar = {
@@ -44888,7 +44924,8 @@ e_rajastan = {
 		d_mathura = {
 			color={ 150 45 10 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1359 # Mathura
 			
 			c_mathura = {
@@ -44956,7 +44993,8 @@ e_rajastan = {
 		d_vodamayutja = {
 			color={ 195 90 0 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1358 # Vodamayuta
 			
 			c_vodamayutja = {
@@ -45027,7 +45065,8 @@ e_rajastan = {
 		d_gurjara_mandala = {
 			color={ 175 80 20 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1292 # Sarasvata Mandala
 			
 			c_sarasvata_mandala = {
@@ -45093,7 +45132,8 @@ e_rajastan = {
 		d_anartta = {
 			color={ 195 50 10 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1136 # Dvaraka
 			
 			c_dhamalpur = {
@@ -45159,7 +45199,8 @@ e_rajastan = {
 		d_saurashtra = {
 			color={ 220 100 50 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1134 # Bhumilka
 			
 			c_bhumilka = {
@@ -45244,7 +45285,8 @@ e_rajastan = {
 		d_lata = {
 			color={ 200 150 90 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1133 # Vadodara
 			
 			c_navasarika = {
@@ -45329,7 +45371,8 @@ e_rajastan = {
 		d_maru = {
 			color={ 194 67 10 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1130 # Mandavyapura
 			
 			c_mandavyapura = {
@@ -45397,7 +45440,8 @@ e_rajastan = {
 		d_jangladesh = {
 			color={ 144 47 0 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1354 # Nagauda
 			
 			c_vikramapura = {
@@ -45461,7 +45505,8 @@ e_rajastan = {
 		d_stravani = {
 			color={ 150 60 30 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1304 # Ludrava
 			
 			c_ludrava = {
@@ -45525,7 +45570,8 @@ e_rajastan = {
 		d_medapata = {
 			color={ 136 66 32 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1345 # Medapata
 			
 			c_medapata = {
@@ -45589,7 +45635,8 @@ e_rajastan = {
 		d_ajmer = {
 			color={ 230 190 51 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1346 # Ajayameru
 			
 			c_ajayameru = {
@@ -45681,7 +45728,8 @@ e_rajastan = {
 		d_dadhipadra = { # Avanti
 			color={ 245 200 20 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1288 # Ujjayini
 			
 			c_dadhipadra = {
@@ -45766,7 +45814,8 @@ e_rajastan = {
 		d_akara_dasarna = {
 			color={ 210 150 15 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1170 # Vidisa
 			
 			c_sarangpur = {
@@ -45851,7 +45900,8 @@ e_rajastan = {
 		d_anupa = {
 			color={ 150 110 5 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1147 # Mandapika
 			
 			c_mandapika = {
@@ -45941,7 +45991,8 @@ e_rajastan = {
 		d_kanyakubja = {
 			color={ 225 155 77 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1356 # Kanyakubja
 			
 			c_kanyakubja = {
@@ -46062,7 +46113,8 @@ e_rajastan = {
 		d_saryupara = {
 			color={ 180 110 40 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1250 # Ayodhya
 			
 			c_naimisa = {
@@ -46126,7 +46178,8 @@ e_rajastan = {
 		d_jejakabhukti = {
 			color={ 120 50 10 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1301 # Mahoba
 			
 			c_mahoba = {
@@ -46226,7 +46279,8 @@ e_bengal = {
 		d_dahala = {
 			color = { 30 125 55 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1271 # Tripuri
 			
 			c_tripuri = {
@@ -46280,7 +46334,8 @@ e_bengal = {
 		d_ratanpur = {
 			color = { 36 175 65 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1272 # Ratanpur
 			
 			c_tummana = {
@@ -46351,7 +46406,8 @@ e_bengal = {
 		d_vanga = {
 			color = { 35 190 35 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1319 # Bikrampur
 			
 			c_bikrampur = {
@@ -46453,7 +46509,8 @@ e_bengal = {
 		d_varendra = {
 			color = { 20 125 20 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1381 # Pundravardhana
 			
 			c_madhupur = {
@@ -46517,7 +46574,8 @@ e_bengal = {
 		d_gauda = {
 			color = { 60 200 60 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1151 # Laksmanavati
 			
 			c_gauda = {
@@ -46600,7 +46658,8 @@ e_bengal = {
 		d_nadia = {
 			color = { 100 255 100 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1323 # Nabadwipa
 			
 			c_nabadwipa = {
@@ -46664,7 +46723,8 @@ e_bengal = {
 		d_suhma = {
 			color = { 10 100 10 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1238 # Mallabhum
 			
 			c_tamralipti = {
@@ -46735,7 +46795,8 @@ e_bengal = {
 		d_kamarupanagara = {
 			color={ 15 140 50 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1321 # Kamarupanagara
 			
 			c_kamarupanagara = {
@@ -46801,7 +46862,8 @@ e_bengal = {
 		d_para_lauhitya = {
 			color={ 15 220 80 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1246 # Goalpara
 			
 			c_goalpara = {
@@ -46865,7 +46927,8 @@ e_bengal = {
 		d_sutiya = {
 			color={ 150 200 40 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1418 # Haruppeswara
 			
 			c_haruppeswara = {
@@ -46955,7 +47018,8 @@ e_bengal = {
 		d_daksina_kosala = {
 			color={ 105 150 41 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1160 # Rayapura
 			
 			c_sripuri = {
@@ -47057,7 +47121,8 @@ e_bengal = {
 		d_tosali = {
 			color={ 115 190 30 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1129 # Kataka
 			
 			c_kataka = {
@@ -47161,7 +47226,8 @@ e_bengal = {
 		d_kalinga = {
 			color={ 70 220 115 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1224 # Kalinganagar
 			
 			c_puri = {
@@ -47244,7 +47310,8 @@ e_bengal = {
 		d_dandakaranya = {
 			color={ 38 150 70 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1227 # Cakrakuta
 			
 			c_cakrakuta = {
@@ -47315,7 +47382,8 @@ e_bengal = {
 		d_tirabhukti = {
 			color={ 58 178 41 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1419 # Mithila
 			
 			c_mithila = {
@@ -47379,7 +47447,8 @@ e_bengal = {
 		d_kasi = {
 			color={ 150 235 91 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1166 # Jaunpur
 			
 			c_varanasi = {
@@ -47446,7 +47515,8 @@ e_bengal = {
 		d_jharkand = {
 			color={ 48 138 31 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1248 # Munda
 			
 			c_jharkand = {
@@ -47550,7 +47620,8 @@ e_bengal = {
 		d_magadha = {
 			color={ 15 122 25 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1154 # Magadha
 			
 			c_magadha = {
@@ -47653,7 +47724,8 @@ e_deccan = {
 		d_vidharba = {
 			color={ 155 5 30 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1285 # Acalapura
 			
 			c_acalapura = {
@@ -47755,7 +47827,8 @@ e_deccan = {
 		d_konkana = {
 			color={ 115 20 40 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1125 # Thana
 			
 			c_goa = {
@@ -47819,7 +47892,8 @@ e_deccan = {
 		d_nasikya = {
 			color={ 120 50 90 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1213 # Kondana
 			
 			c_nasikya = {
@@ -47889,7 +47963,8 @@ e_deccan = {
 		d_devagiri = {
 			color={ 220 99 85 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1145 # Devagiri
 			
 			c_devagiri = {
@@ -47993,7 +48068,8 @@ e_deccan = {
 		d_rattapadi = {
 			color={ 255 70 160 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1206 # Taradavadi
 			
 			c_lattalura = {
@@ -48083,7 +48159,8 @@ e_deccan = {
 		d_kalyani = {
 			color={ 110 25 2 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1143 # Kalyani
 			
 			c_kalyani = {
@@ -48166,7 +48243,8 @@ e_deccan = {
 		d_gangavadi = {
 			color={ 108 23 29 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1196 # Srirangapatna
 			
 			c_srirangapatna = {
@@ -48253,7 +48331,8 @@ e_deccan = {
 		d_nulambavadi = {
 			color={ 178 93 29 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1197 # Dwarasamudra
 			
 			c_uchangidurga = {
@@ -48317,7 +48396,8 @@ e_deccan = {
 		d_raichur_doab = {
 			color={ 188 133 35 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1203 # Idatarainadu
 			
 			c_idatarainadu = {
@@ -48411,7 +48491,8 @@ e_deccan = {
 		d_chola_nadu = {
 			color={ 140 65 65 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1115 # Cholamandalam
 			
 			c_cholamandalam = {
@@ -48458,7 +48539,8 @@ e_deccan = {
 		d_pandya_nadu = {
 			color={ 180 80 130 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1112 # Madurai
 			
 			c_madurai = {
@@ -48545,7 +48627,8 @@ e_deccan = {
 		d_chera_nadu = {
 			color={ 140 75 75 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1114 # Mahoyadapuram
 			
 			c_mahoyadapuram = {
@@ -48652,7 +48735,8 @@ e_deccan = {
 		d_tondai_nadu = {
 			color={ 200 120 120 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1119 # Kanchipuram
 			
 			c_kanchipuram = {
@@ -48704,7 +48788,8 @@ e_deccan = {
 		d_vengi = {
 			color={ 190 40 60 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1221 # Vijayawada
 			
 			c_vengipura = {
@@ -48787,7 +48872,8 @@ e_deccan = {
 		d_udayagiri = {
 			color={ 197 20 90 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1122 # Udayagiri
 			
 			c_udayagiri = {
@@ -48881,7 +48967,8 @@ e_deccan = {
 		d_warangal = {
 			color={ 185 39 45 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1256 # Orangallu
 			
 			c_orangallu = {
@@ -48964,7 +49051,8 @@ e_deccan = {
 		d_racakonda = {
 			color={ 130 0 20 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1209 # Racakonda
 			
 			c_racakonda = {
@@ -49073,7 +49161,8 @@ e_deccan = {
 		d_lanka = {
 			color = { 231 195 85 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1215 # Dakhina Desa
 			
 			c_dakhina_desa = {
@@ -49122,7 +49211,8 @@ e_deccan = {
 		d_sinhala = {
 			color = { 181 155 55 }
 			color2={ 255 255 255 }
-			
+		
+			allow = { always = no }
 			capital = 1195 # Pihiti
 			
 			c_phiti = { # Pihiti
@@ -51006,7 +51096,8 @@ e_tibet = {
 		
 		d_jiuquan = {
 			color={ 31 186 165 }
-			
+		
+			allow = { always = no }
 			capital = 1513 # Jiuquan
 			
 			uyghur = "Yugur"
