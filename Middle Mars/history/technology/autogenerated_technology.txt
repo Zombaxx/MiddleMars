@@ -208,7 +208,6 @@ technology = {
 		d_teramus
 		d_poynting
 		d_ascraeus_mons
-		d_ceraunia
 		d_damur
 		d_pavonis_mons
 		d_wena
@@ -582,18 +581,6 @@ technology = {
 	}
 	1066 = {
 		military = 1.0
-		economy = 0.5
-		culture = 0.5
-	}
-}
-
-# Wopali
-technology = {
-	titles = {
-		d_sopael
-	}
-	1066 = {
-		military = 1.5
 		economy = 0.5
 		culture = 0.5
 	}
@@ -1063,18 +1050,6 @@ technology = {
 technology = {
 	titles = {
 		d_bulana
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Banoda
-technology = {
-	titles = {
-		d_kyaytok
 	}
 	1066 = {
 		military = 1.5

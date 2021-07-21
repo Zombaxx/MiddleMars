@@ -2756,7 +2756,7 @@ d_katong_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = hindustani_band_composition
+	mercenary_type = rajput_band_composition
 }
 d_ludan_band = {
 	color={ 84 111 38 }

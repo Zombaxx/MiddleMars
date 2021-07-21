@@ -70,7 +70,7 @@ bm_middle_mars = {
 			properties = elo0ac00
 			religion="norse_pagan"
 			culture="norse"
-			government = tribal
+			government = tribal_government
 			dynasty=102220
 		}
 	}
@@ -162,7 +162,7 @@ bm_argyre = {
 			properties = ed0emk0000000
 			religion="catholic"
 			culture="alan"
-			government = merchant_republic
+			government = merchant_republic_government
 			dynasty=109312
 		}
 	}
