@@ -2132,7 +2132,7 @@ d_lyasozar_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = karluk_band_composition
+	mercenary_type = jurchen_band_composition
 }
 d_dala_band = {
 	color={ 74 65 114 }
@@ -2252,7 +2252,7 @@ d_lasajan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_low_composition_1
+	mercenary_type = generic_low_1_composition
 }
 d_najisa_band = {
 	color={ 192 244 28 }
@@ -2636,7 +2636,7 @@ d_kajille_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = bengali_band_composition
+	mercenary_type = bengal_band_composition
 }
 d_qay-ius_band = {
 	color={ 213 96 112 }
@@ -2708,7 +2708,7 @@ d_daador_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = bengali_band_composition
+	mercenary_type = bengal_band_composition
 }
 d_sucuko_band = {
 	color={ 215 9 6 }
@@ -2732,7 +2732,7 @@ d_sucuko_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = telugu_band_composition
+	mercenary_type = tangut_low_composition
 }
 d_katong_band = {
 	color={ 137 52 82 }
@@ -2780,5 +2780,5 @@ d_ludan_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = generic_tiny_composition 
+	mercenary_type = generic_tiny_composition_1 
 }
