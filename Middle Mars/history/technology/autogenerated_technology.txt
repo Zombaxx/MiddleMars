@@ -105,54 +105,6 @@ technology = {
 	}
 }
 
-# Datta
-technology = {
-	titles = {
-		d_kinnunes
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Neomna
-technology = {
-	titles = {
-		d_karuti
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Dijasia
-technology = {
-	titles = {
-		d_tamafa
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Kijus
-technology = {
-	titles = {
-		d_raripac
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # Noctis Fossae
 technology = {
 	titles = {
@@ -290,18 +242,6 @@ technology = {
 	}
 }
 
-# Wamucha
-technology = {
-	titles = {
-		d_rohurna
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # Lamurna
 technology = {
 	titles = {
@@ -345,18 +285,6 @@ technology = {
 		military = 2.0
 		economy = 1.7
 		culture = 2.0
-	}
-}
-
-# Avalena
-technology = {
-	titles = {
-		d_luke
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
 	}
 }
 
@@ -481,18 +409,6 @@ technology = {
 	}
 }
 
-# Tyaqani
-technology = {
-	titles = {
-		d_renes
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # West Argyre
 technology = {
 	titles = {
@@ -561,7 +477,6 @@ technology = {
 		d_atodonne
 		d_eketul
 		d_sunasa
-		d_edavana
 		d_tukeir
 		d_evaleek
 		d_wailm
@@ -571,18 +486,6 @@ technology = {
 		military = 2.0
 		economy = 2.0
 		culture = 1.5
-	}
-}
-
-# Tavaus
-technology = {
-	titles = {
-		d_qoza
-	}
-	1066 = {
-		military = 1.0
-		economy = 0.5
-		culture = 0.5
 	}
 }
 
@@ -628,18 +531,6 @@ technology = {
 		military = 3.9
 		economy = 3.9
 		culture = 3.9
-	}
-}
-
-# Kaday
-technology = {
-	titles = {
-		d_aradilii
-	}
-	1066 = {
-		military = 0.5
-		economy = 2.5
-		culture = 1.5
 	}
 }
 
@@ -714,18 +605,6 @@ technology = {
 	}
 }
 
-# Raod
-technology = {
-	titles = {
-		d_lyaud
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # Elysian Island
 technology = {
 	titles = {
@@ -751,42 +630,6 @@ technology = {
 	}
 }
 
-# Kinipa
-technology = {
-	titles = {
-		d_nadecca
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Ariami
-technology = {
-	titles = {
-		d_sakayada
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Araa
-technology = {
-	titles = {
-		d_wonik
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # Tagazi
 technology = {
 	titles = {
@@ -803,18 +646,6 @@ technology = {
 technology = {
 	titles = {
 		d_ekayada
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Nie
-technology = {
-	titles = {
-		d_takaret
 	}
 	1066 = {
 		military = 1.5
@@ -906,46 +737,10 @@ technology = {
 	}
 }
 
-# Tawina
-technology = {
-	titles = {
-		d_qadobos
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
 # Kareba
 technology = {
 	titles = {
 		d_kelura
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Dakourou
-technology = {
-	titles = {
-		d_tabduida
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
-	}
-}
-
-# Ekarandi
-technology = {
-	titles = {
-		d_ekumasia
 	}
 	1066 = {
 		military = 1.5
@@ -1043,18 +838,6 @@ technology = {
 		military = 1.5
 		economy = 2.5
 		culture = 2.0
-	}
-}
-
-# Sanana
-technology = {
-	titles = {
-		d_bulana
-	}
-	1066 = {
-		military = 1.5
-		economy = 1.5
-		culture = 1.5
 	}
 }
 

@@ -8450,10 +8450,10 @@ warrior_lodge_slavic = {
 	indestructible = yes
 	
 	can_join_society = {
-		#NAND = { #using this for the Cywizard Society since the Slavic religion is unused
-		#	ai = yes
-		#	trait = full_cybernetic_conversion
-		#}
+		NAND = { 
+			ai = yes
+			trait = full_cybernetic_conversion
+		}
 		hidden_trigger = {
 			NAND = {
 				ai = yes
@@ -8478,7 +8478,6 @@ warrior_lodge_slavic = {
 		}
 		OR = {
 			religion_openly_slavic_or_reformed_trigger = yes
-			trait = full_cybernetic_conversion
 			AND = {
 				custom_tooltip = {
 					text = society_has_at_least_10_members_tt
@@ -8498,8 +8497,7 @@ warrior_lodge_slavic = {
 	show_society = {
 		OR = {
 			#You are this religion: will show only this lodge (the other "show_society"'s will make sure)
-			religion_openly_slavic_or_reformed_trigger = yes
-			trait = full_cybernetic_conversion
+			religion_openly_slavic_or_reformed_trigger = yes	
 			AND = {
 				#You are of a religion that doesn't match *any* warrior lodge
 				has_religion_matching_available_warrior_lodge_trigger = no
@@ -8509,9 +8507,6 @@ warrior_lodge_slavic = {
 					any_vassal = { religion_openly_slavic_or_reformed_trigger = yes }
 					any_liege = { religion_openly_slavic_or_reformed_trigger = yes }
 					any_neighbor_independent_ruler = { religion_openly_slavic_or_reformed_trigger = yes }
-					any_vassal = { trait = full_cybernetic_conversion }
-					any_liege = { trait = full_cybernetic_conversion  }
-					any_neighbor_independent_ruler = { trait = full_cybernetic_conversion }
 				}
 			}
 			NOT = { #Hide if: you don't have a religion that corresponds to this lodge, but there is another society available to you already
@@ -8526,7 +8521,6 @@ warrior_lodge_slavic = {
 	potential = { #if you change religion or become zealous while NOT pagan, you are kicked out
 		OR = {
 			religion_openly_slavic_or_reformed_trigger = yes
-			trait = full_cybernetic_conversion
 			AND = {
 				religion_openly_slavic_or_reformed_trigger = no
 				NOT = { trait = zealous }

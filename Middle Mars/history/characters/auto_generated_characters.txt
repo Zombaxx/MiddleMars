@@ -54622,7 +54622,7 @@ fertility = 0.8
 			e_planum_australe = { add_claim = ROOT }
 		}
 	}
-	1066.16.1 = {
+	1066.1.1 = {
 		add_trait = lunatic
 	}
 	1381.1.1={
@@ -54658,7 +54658,7 @@ fertility = 0.8
 			e_planum_australe = { add_claim = ROOT }
 		}
 	}
-	1066.16.1 = {
+	1066.1.1 = {
 		add_trait = lunatic
 	}
 	1381.1.1={
@@ -54692,7 +54692,7 @@ fertility = 0.8
 			e_planum_australe = { add_claim = ROOT }
 		}
 	}
-	1066.16.1 = {
+	1066.1.1 = {
 		add_trait = scarred
 	}
 	1068.1.1={
@@ -175296,7 +175296,6 @@ fertility = 0.8
 	trait = heavy_worlder
 	culture = "coptic"
 	religion = "messalian"
-	trait = spacer_physiology
 	father = 111901
 	trait = odin_mk_i
 	trait = iaei_mk_i

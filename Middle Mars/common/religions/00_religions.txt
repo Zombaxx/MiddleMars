@@ -127,7 +127,6 @@ christian = {
 		}	
 
 		can_retire_to_monastery = yes
-		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
 		has_heir_designation = yes
@@ -2544,8 +2543,6 @@ zoroastrian_group = {
 		secondary_event_pictures = sunni
 		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 		
-		secondary_event_pictures = sunni
-		
 		icon = 10
 		heresy_icon = 12
 		
@@ -2680,7 +2677,6 @@ jewish_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
-		ignores_defensive_attrition = yes
 		uses_jizya_tax = yes
 		has_heir_designation = yes
 		ignores_defensive_attrition = yes

@@ -355,28 +355,10 @@ world_hesperia_planum = {
 		d_norarde d_kucho d_bayasia 
 	}
 }
-world_tawina = {
-	duchies = {
-		# k_lasajan
-		d_qadobos 
-	}
-}
 world_kareba = {
 	duchies = {
 		# k_ekiraja
 		d_kelura 
-	}
-}
-world_dakourou = {
-	duchies = {
-		# k_rodandi
-		d_tabduida 
-	}
-}
-world_ekarandi = {
-	duchies = {
-		# k_sumuone
-		d_ekumasia 
 	}
 }
 world_liris_valles = {
@@ -403,18 +385,6 @@ world_tyrrhena_terra = {
 		d_robabib d_nebierr d_digund d_ducaht d_tusita d_ebing d_baraht d_erogoljo d_ejawasia d_qarar d_akojandi 
 		# k_rahelii
 		d_kasyeju d_lodobos d_belina d_sakobos d_wiraja d_qelar d_kanarie d_kuberim 
-	}
-}
-world_sanana = {
-	duchies = {
-		# k_kurema
-		d_bulana 
-	}
-}
-world_banoda = {
-	duchies = {
-		# k_sulapo
-		d_kyaytok 
 	}
 }
 world_kyyana = {
