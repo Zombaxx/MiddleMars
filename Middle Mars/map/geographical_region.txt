@@ -35,30 +35,6 @@ world_olyumpus_mons = {
 		d_caldeira d_olympus_rupes d_akropolis d_pythio d_agios d_lycus d_cratere_pangboche d_olympus_mons 
 	}
 }
-world_datta = {
-	duchies = {
-		# k_levuti
-		d_kinnunes 
-	}
-}
-world_neomna = {
-	duchies = {
-		# k_kayduna
-		d_karuti 
-	}
-}
-world_dijasia = {
-	duchies = {
-		# k_wukath
-		d_tamafa 
-	}
-}
-world_kijus = {
-	duchies = {
-		# k_ripac
-		d_raripac 
-	}
-}
 world_noctis_fossae = {
 	duchies = {
 		# k_tharsis_tholus
@@ -101,12 +77,6 @@ world_valles_marineris = {
 		d_sosala d_ranasad d_qamavak d_wohasad d_bahala d_rosucha d_bemala 
 	}
 }
-world_wamucha = {
-	duchies = {
-		# k_abduan
-		d_rohurna 
-	}
-}
 world_lamurna = {
 	duchies = {
 		# k_rumyuan
@@ -121,12 +91,6 @@ world_solis_planum = {
 		d_solas d_qefaya d_eguolas d_titint d_tasathi d_tuit d_deremha d_solis_planum 
 		# k_south_marineris
 		d_abasava d_qavava d_navunda d_byaqana d_edosz d_dadew d_tyaquke d_kingdom0589 d_nuoja d_south_marineris 
-	}
-}
-world_avalena = {
-	duchies = {
-		# k_diegawa
-		d_luke 
 	}
 }
 world_aonia_terra = {
@@ -175,12 +139,6 @@ world_qarimha = {
 		d_rani 
 	}
 }
-world_tyaqani = {
-	duchies = {
-		# k_ryaquke
-		d_renes 
-	}
-}
 world_west_argyre = {
 	duchies = {
 		# k_nereidum_montes
@@ -202,21 +160,9 @@ world_terra_cimmeria = {
 		# k_ebieguke
 		d_qoruin d_atodonne d_eketul d_sunasa d_seir 
 		# k_wadiga
-		d_waraja d_qeitek d_teripaz d_tint d_kani d_edavana d_tukeir d_evaleek d_lenarma d_wailm 
+		d_waraja d_qeitek d_teripaz d_tint d_kani d_tukeir d_evaleek d_lenarma d_wailm 
 		# k_todan
 		d_agawani d_bodari d_rilolas d_seodor d_sicach d_deodat d_leupeir d_rayya 
-	}
-}
-world_tavaus = {
-	duchies = {
-		# k_qeodor
-		d_qoza 
-	}
-}
-world_wopali = {
-	duchies = {
-		# k_tael
-		d_sopael 
 	}
 }
 world_planum_australe = {
@@ -233,12 +179,6 @@ world_planum_australe = {
 		d_atena d_kaba d_sedoja d_nalew d_qint d_dodew d_kibew d_naxiska d_ruzoja 
 		# k_planum_australe
 		d_waratan d_binnam d_sararma d_liboska d_alibine d_tasyana d_raceda d_karasia d_ultimum_chasma 
-	}
-}
-world_kaday = {
-	duchies = {
-		# k_wahed
-		d_aradilii 
 	}
 }
 world_ravamm = {
@@ -275,12 +215,6 @@ world_noachis_terra = {
 		d_kazyula d_lohille d_lahipa d_segudan d_narandi d_belobos 
 	}
 }
-world_raod = {
-	duchies = {
-		# k_wahina
-		d_lyaud 
-	}
-}
 world_elysian_island = {
 	duchies = {
 		# k_nohuone
@@ -289,24 +223,6 @@ world_elysian_island = {
 		d_qunahad d_qekozar d_toheka d_qahovit 
 		# k_rihan
 		d_kalius d_kunanka d_ralipa d_rinork d_naidipa 
-	}
-}
-world_kinipa = {
-	duchies = {
-		# k_linipa
-		d_nadecca 
-	}
-}
-world_ariami = {
-	duchies = {
-		# k_akorgil
-		d_sakayada 
-	}
-}
-world_araa = {
-	duchies = {
-		# k_rigsi
-		d_wonik 
 	}
 }
 world_tagazi = {
@@ -319,12 +235,6 @@ world_qadaret = {
 	duchies = {
 		# k_edudrd
 		d_ekayada 
-	}
-}
-world_nie = {
-	duchies = {
-		# k_kakaret
-		d_takaret 
 	}
 }
 world_hellas = {
