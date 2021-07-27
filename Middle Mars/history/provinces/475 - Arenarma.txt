@@ -8,7 +8,7 @@ max_settlements = 3
 b_arenarma = tribal
 
 # Misc
-culture = jurchen
-religion = tengri_pagan
+culture = croatian
+religion = slavic_pagan
 
 # History

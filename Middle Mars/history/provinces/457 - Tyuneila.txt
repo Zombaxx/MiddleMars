@@ -8,7 +8,7 @@ max_settlements = 4
 b_tyuneila = tribal
 
 # Misc
-culture = jurchen
-religion = tengri_pagan
+culture = croatian
+religion = slavic_pagan
 
 # History
