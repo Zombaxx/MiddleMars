@@ -1,4 +1,5 @@
 #########################109695 # Irge of Planum Australe - Liaison of Star People
 1066.1.1 = {
 	holder = 109365
+	government =  	bureaucracy
 }
