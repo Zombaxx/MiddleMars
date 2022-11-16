@@ -11608,12 +11608,13 @@
 	religion = "waldensian"
 	trait = brilliant_strategist
 	martial = 10
+	trait = full_cybernetic_conversion
 	trait = hunter
 	trait = scarred
 	trait = brave
-	trait = strong
+	trait = genius
 	946.1.1={
-		birth="946.1.1"
+		birth="1.6.28"
 	}
 	977.1.1 = {
 		create_bloodline = {
@@ -11631,6 +11632,8 @@
 	culture = "old_frankish"
 	religion = "catholic"
 	father = 100800
+	trait = clone
+	trait = cloning_defects
 	978.1.1={
 		birth="978.1.1"
 	}
@@ -54111,6 +54114,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 
@@ -54147,6 +54151,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 
@@ -54202,6 +54207,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	1492.1.1={
@@ -54237,6 +54243,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	1492.1.1={
@@ -54271,6 +54278,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	2492.1.1={
@@ -54307,6 +54315,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 
@@ -54344,6 +54353,7 @@
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 
@@ -54585,6 +54595,7 @@ fertility = 0.8
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 
@@ -54620,6 +54631,7 @@ fertility = 0.8
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	1066.1.1 = {
@@ -54656,6 +54668,7 @@ fertility = 0.8
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	1066.1.1 = {
@@ -54690,6 +54703,7 @@ fertility = 0.8
 	1065.1.1 = {
 		effect = {
 			e_planum_australe = { add_claim = ROOT }
+			k_tharsis_montes = { add_claim = ROOT }
 		}
 	}
 	1066.1.1 = {
@@ -175259,9 +175273,9 @@ fertility = 0.8
 111900 = {
 	name = "Fu"
 	dynasty = 111900
-	trait = heavy_worlder
-	culture = "coptic"
-	religion = "messalian"
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
 	trait = mastermind_theologian
 	learning = 10
 	trait = genius
@@ -175279,9 +175293,9 @@ fertility = 0.8
 111901 = {
 	name = "Zhaodu"
 	dynasty = 111900
-	trait = heavy_worlder
-	culture = "coptic"
-	religion = "messalian"
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
 	father = 111900
 	989.1.1={
 		birth="989.1.1"
@@ -175293,9 +175307,9 @@ fertility = 0.8
 111902 = {
 	name = "Zhaodu"
 	dynasty = 111900
-	trait = heavy_worlder
-	culture = "coptic"
-	religion = "messalian"
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
 	father = 111901
 	trait = odin_mk_i
 	trait = iaei_mk_i
@@ -175312,9 +175326,9 @@ fertility = 0.8
 111903 = {
 	name = "Liben"
 	dynasty = 111900
-	trait = heavy_worlder
-	culture = "coptic"
-	religion = "messalian"
+	culture = "han"
+	religion = "taoist"
+	trait = spacer_physiology
 	father = 111901
 	trait = odin_mk_i
 	trait = iaei_mk_i
@@ -175326,11 +175340,11 @@ fertility = 0.8
 	}
 }
 111904 = {
-	name = "Zhongyang"
+	name = "Eve"
 	female = yes
-	culture = "han"
-	religion = "taoist"
-	trait = spacer_physiology
+	trait = heavy_worlder
+	culture = "coptic"
+	religion = "messalian"
 	trait = odin_mk_i
 	trait = iaei_mk_i
 	1030.1.1={
@@ -175382,7 +175396,7 @@ fertility = 0.8
 	dynasty = 111900
 	culture = "han"
 	religion = "taoist"
-	trait = spacer_physiology
+	trait = heavy_worlder
 	father = 111902
 	mother = 111904
 	trait = odin_mk_i

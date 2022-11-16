@@ -9,7 +9,6 @@ character_event = {
 	trigger = {
 		higher_tier_than = COUNT
 		OR = {
-		has_law = succ_gavelkind
 		has_law = succ_elective_gavelkind
 		}
 		NOT = { 

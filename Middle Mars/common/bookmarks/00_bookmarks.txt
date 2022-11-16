@@ -156,6 +156,7 @@ bm_argyre = {
 		name = ERA_CHAR_NAME_218625
 		title = b_patrician_109312
 		title_name = d_roj
+		dlc = "The Republic"
 		
 		character = {
 			dna = xcneimxegvs 
