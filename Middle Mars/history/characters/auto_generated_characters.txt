@@ -11604,7 +11604,7 @@
 100800 = {
 	name = "Elon"
 	dynasty = 100800
-	culture = "old_frankish"
+	culture = "coptic"
 	religion = "waldensian"
 	trait = brilliant_strategist
 	martial = 10
@@ -11629,7 +11629,7 @@
 100801 = {
 	name = "Elon"
 	dynasty = 100800
-	culture = "old_frankish"
+	culture = "coptic"
 	religion = "catholic"
 	father = 100800
 	trait = clone

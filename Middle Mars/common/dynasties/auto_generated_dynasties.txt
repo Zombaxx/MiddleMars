@@ -8930,7 +8930,7 @@
 }
 613=
 {
-	name="Musk"
+	name="Bezos"
 	culture="coptic"
 	religion="messalian"
 	coat_of_arms=

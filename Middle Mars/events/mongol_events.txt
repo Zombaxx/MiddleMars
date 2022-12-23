@@ -4559,6 +4559,19 @@ character_event = {
 			trait = ambitious
 			trait = adventurer
 			trait = heavy_worlder
+			add_claim = e_planum_australe
+			add_claim = k_tharsis_montes
+			add_claim = k_rirek
+			add_claim = k_olympus
+			add_claim = k_gigas_sulci
+			add_claim = e_valles_marineris
+			add_claim = k_noctic_fossae
+			add_claim = e_alba_mons
+			add_claim = k_south_alba
+			add_claim = k_north_alba
+			add_claim = k_ceraunius_fossae
+			add_claim = k_tithonium			
+			add_claim = c_rivudo			
 		}
 		new_character = {
 			if = {
@@ -4609,6 +4622,7 @@ character_event = {
 				trait = proud
 				trait = zealous
 				trait = ambitious
+				trait = heavy_worlder
 			}
 		}
 	}

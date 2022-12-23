@@ -2903,7 +2903,7 @@ indian_group = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 226 241 182 }
+		color = { 0 0 0 }
 		
 		interface_skin = { taoist_interface indian_interface muslim_interface }
 		
