@@ -113,7 +113,7 @@ bm_middle_mars = {
 bm_argyre = {
 	name = "BM_ARGYRE_ERA"
 	desc = "BM_ARGYRE_ERA_INFO"
-	date = 1066.9.15
+	date = 1066.9.16
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_2
 

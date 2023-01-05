@@ -1,0 +1,19 @@
+name = "Earther Claim on Ceraunius Fossae"
+
+casus_belli = {
+	actor = 103715
+	recipient = 101475
+	casus_belli=claim
+	landed_title=k_ceraunius_fossae
+	date=1066.9.16
+}
+
+1066.9.16 = {
+	add_attacker = 103715
+	add_defender = 101475
+}
+
+1071.11.1 = {
+	rem_attacker = 103715
+	rem_defender = 101475
+}
