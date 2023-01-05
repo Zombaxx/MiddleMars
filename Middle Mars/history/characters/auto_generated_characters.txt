@@ -11613,6 +11613,7 @@
 	trait = scarred
 	trait = brave
 	trait = genius
+	trait = cynical
 	946.1.1={
 		birth="1.6.28"
 	}
@@ -11622,9 +11623,12 @@
 			has_dlc = "Holy Fury"
 		}
 	}
-	1014.1.1={
-		death="1014.1.1"
+	1013.12.12 = {
+		add_trait = incapable
 	}
+#	1014.1.1={
+#		death="1014.1.1"
+#	}
 }
 100801 = {
 	name = "Elon"
